@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz"
+#EXTINF:0 CUID="844691" tvg-name="Olympic Channel" tvg-id="dummy-844691" tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/07/thumbnail_OLY_COMP_HRZ_4C_ENG.png" group-title="🇨🇦 TV Guide (Canada)",Olympic Channel
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7a:3f:f2&stream=924564&extension=ts&play_token=wQT8a47Udw
+#EXTINF:0 CUID="1242869" tvg-name="Disney Channel (Canada)" tvg-id="disneychannelcanada.ca" tvg-logo="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.1015go.org%2Fuploads%2F5%2F2%2F9%2F6%2F52961329%2Fpublished%2Fdisney-canada-001.png%3F1615196664&f=1&nofb=1&ipt=d3ea1dc1550af7d69e38f4e152dcc27422981afab80cfcf5eeb78d8efe7467fd" group-title="🇺🇸 TV Guide (USA)",Disney Channel (Canada)
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7a:3f:f2&stream=414086&extension=ts&play_token=FE3qbsJp8z
