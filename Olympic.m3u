@@ -15,5 +15,5 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:7a:3f:f2&stream=1536273&exte
 http://103.176.90.24:80/play/live.php?mac=00:1A:79:CD:22:8C&stream=811667&extension=ts&play_token=DmKdyiEPP4
 #EXTINF:0 CUID="1915461" tvg-name="Sky Sports Tennis" tvg-id="skysportstennis.uk" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="103 TENNIS 🎾",Sky Sports Tennis DE
 http://103.176.90.24:80/play/live.php?mac=00:1A:79:CD:22:8C&stream=971739&extension=ts&play_token=44mSDRdNC1
-#EXTINF:0 CUID="1915461" tvg-name="Sky Sports Tennis" tvg-id="skysportstennis.uk" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="103 TENNIS 🎾",Star City 04
-https://dl.magnet.diy/api/tfile/bae2c4461b747ccbf332c5579683e9dfb8d53cbc/stream?index=0&token=dZIlwVOVinMz4TDOljx77eev_6nWLk7GsTd8fHd62z8
+#EXTINF:0 CUID="1915461" group-title="SERIES",Star City 05
+https://cdn.directlinkhub.com/dl/db08d25b37bd14c2bdb89233a9f8b2df1bb16c0a86704e2888de8ef89409b3a2/Star-City-1080P-HEVC-MKV
