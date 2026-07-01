@@ -1,10 +1,11 @@
 #EXTM3U url-tvg="http://zorrohunter.com:8080/xmltv.php?username=yRMm0b6bYV&password=3588349083"
-#EXTINF:0 CUID="74" tvg-name="US | ESPN HD" tvg-id="espn.us" tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-us.svg" group-title="US - Sports",ESPN 1
+#EXTINF:0 CUID="74" tvg-name="US | ESPN HD" tvg-id="espn.us" tvg-logo="https://github.com/fraudiay79/logos/blob/master/us/espn.png?raw=true" group-title="US - Sports",ESPN 1
 http://kstv.us:8080/live/yRMm0b6bYV/3588349083/15951.ts
 #EXTINF:0 CUID="12554" tvg-name="Bein Sport 01" tvg-id="beINSports1En.qa" tvg-logo="https://github.com/fraudiay79/logos/blob/master/bein/beinsports1.png?raw=true" group-title="Sport",Bein Sport 1
 http://kstv.us:8080/live/yRMm0b6bYV/3588349083/12554.ts
 #EXTINF:0 CUID="41" tvg-name="US | Cinemax Hits East" tvg-id="CinemaxHits.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cinemax-hits-us.png" group-title="Film",Cinemax Hits East
 http://kstv.us:8080/live/yRMm0b6bYV/3588349083/23342.ts
+
 
 
 
