@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-hu.xml"
 #EXTINF:-1 CUID="74" tvg-name="HU - AMC" tvg-id="AMC.hu" tvg-logo="https://iptv-epg.org/images/9mJ0vn1oB10tOEfPKIS0gHwe06lNVbPgY5SCQGnij-GmFVV70HZpNCruwuonRoGLw-_w_g8sB0pZAy03TYL3rvc8j5fKImZXmCHpSX4" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - AMC
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:75:BE:8F&stream=3239&extension=ts&play_token=6NhaDVyJot
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739920&extension=ts&play_token=hcQ9QDF96s
 #EXTINF:-1 CUID="74" tvg-name="HU - Animal Planet" tvg-id="AnimalPlanet.hu" tvg-logo="https://iptv-epg.org/images/KySO6aGAoGvwsjQWGbNFxVIHqZDFY3mfXPxJ1qiOsfYTYdkW5zPAH57C-U4pYR40Szq6dNok1hCk_ww8XDZ8eflMu6HcNXbjxyBKrUob9L-wPwZlriM" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Animal Planet
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:75:BE:8F&stream=3219&extension=ts&play_token=LeIeOfRG2x
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739952&extension=ts&play_token=2xwBfVz7ug
 #EXTINF:-1 tvg-id="ATV.hu" tvg-name="HU - ATV" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - ATV
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:75:BE:8F&stream=3241&extension=ts&play_token=UETsv6S6d2
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739897&extension=ts&play_token=ZrGZypYwnE
