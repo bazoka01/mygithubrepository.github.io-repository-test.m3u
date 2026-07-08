@@ -3,5 +3,29 @@
 http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739920&extension=ts&play_token=hcQ9QDF96s
 #EXTINF:-1 CUID="74" tvg-name="HU - Animal Planet" tvg-id="AnimalPlanet.hu" tvg-logo="https://iptv-epg.org/images/KySO6aGAoGvwsjQWGbNFxVIHqZDFY3mfXPxJ1qiOsfYTYdkW5zPAH57C-U4pYR40Szq6dNok1hCk_ww8XDZ8eflMu6HcNXbjxyBKrUob9L-wPwZlriM" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Animal Planet
 http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739952&extension=ts&play_token=2xwBfVz7ug
-#EXTINF:-1 tvg-id="ATV.hu" tvg-name="HU - ATV" tvg-logo="https://i.imgur.com/85sIvrX.png" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - ATV
+#EXTINF:-1 tvg-id="ATV.hu" tvg-name="HU - ATV" tvg-logo="https://iptv-epg.org/images/JczznVvU5wKr7spHdJBBUCZgvBEZX9Q5ZWiPOk9dF6lq-SsuBZqCbMjNivXFAfivi6O0LSmXM1j6OIT0-0JoPbI6Gu7IJPue1JXWrIM" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - ATV
 http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739897&extension=ts&play_token=ZrGZypYwnE
+#EXTINF:-1 tvg-id="BBCEarth.hu" tvg-name="HU - BBC Earth" tvg-logo="https://iptv-epg.org/images/-syVmZpOwEHucvpMNQxFdFkfp6EWISeBjUN88fvuh-5RcYekH4q_3eFcML87vkv8ZYx9hmE34aMzTumKZCYVJkQIyODhKTnXls5vqdBbtssq0Q" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - BBC Earth
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739953&extension=ts&play_token=J5GgGyjBiH
+#EXTINF:-1 tvg-id="Cinemax.hu" tvg-name="HU - Cinemax" tvg-logo="https://iptv-epg.org/images/lnpDT2YnGbkEeiea5_uCOsR0qdLC7C71JzG8xEoM7aKjoBdZWKByx6NHADUEdJG7QKByDSQqHI5yFlEoP49A7U5AKt4ydyRYGDY586mXdUiJ" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Cinemax
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739916&extension=ts&play_token=ZrbUQhE19B
+#EXTINF:-1 tvg-id="Cinemax2.hu" tvg-name="HU - Cinemax 2" tvg-logo="https://iptv-epg.org/images/oLevVCKVkaedItG--24qkp3Mx5EcNCXbhdsIpCkNLybmKzAK4x7TzjGta-E2JVMduEl_YcWdrBJkhXAZRzuilMl2UlXqQKJ4wpXjhjVCpm7LTg" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Cinemax 2
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739917&extension=ts&play_token=4ZsO6WZiIP
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="HU - Duna World" tvg-logo="https://iptv-epg.org/images/vJdixAFWyfphsmuHoGhUnr4hFxPBAbxLrnVaBZzX6lP1Qe-faYSAOgcXZ-C_LnAGv-behQKAk0la22aDoSYoPe_H9urnOoIKqEMjiCGib8dxrn0" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Duna World
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739890&extension=ts&play_token=gAeWmI2WUh
+#EXTINF:-1 tvg-id="Eurosport1.hu" tvg-name="HU - Eurosport 1" tvg-logo="https://iptv-epg.org/images/AC0cuf0NrQ7-33lEYJg9oP3RAMzBqxJY8tm7I8WkML5RQt74hCyDJCkgElmSQEnyOSICPfMfMW8tCrSwbjpXLmzVzJrGLcCJFdDUb_bsFt3FQNjk" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Eurosport 1
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739939&extension=ts&play_token=SC6tfhPL9N
+#EXTINF:-1 tvg-id="Eurosport2.hu" tvg-name="HU - Eurosport 2" tvg-logo="https://iptv-epg.org/images/UT3LVuAEhFyVw3vZJe1oBxcAIalbrSiE6FGfxVEFGVm3BBJBOODtdA0x0q_hw1rKmZPOiMbeckOkmXl0Qx-wZCgbuir59iFSaxFu41ebnrUS-sE-" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Eurosport 2
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739940&extension=ts&play_token=XC1s5rhPxP
+#EXTINF:-1 tvg-id="HBO.hu" tvg-name="HU - HBO" tvg-logo="https://iptv-epg.org/images/wq3rAxKQ4tr1EL7QXzGx4Q4kS9dLFe2N1_1PvQ3gOJrYXMhHza-6pM91rG7Kuz1bAnhNru5JvtCVBkQ5CgFq9-JTEaDT4QkoKZ4Hi6I" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - HBO
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739913&extension=ts&play_token=MFKGONkWdB
+#EXTINF:-1 tvg-id="HBO2.hu" tvg-name="HU - HBO 2" tvg-logo="https://iptv-epg.org/images/-1o2M77blXc4-JWrplIOZ8kGtNXYFGPrbb0pMMeFMsMNcnTyvzxm4cminq3N5vODiGj79PSYaObLtNKPqgbjlysZ8gD5iwOPSo7jGcGU" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - HBO 2
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739914&extension=ts&play_token=yyXwXXFWj1
+#EXTINF:-1 tvg-id="HBO3.hu" tvg-name="HU - HBO 3" tvg-logo="https://iptv-epg.org/images/ICahZsdkFXAQYitoydrcevO7PRRt6M8OyzW7J8wcPysMffxf8H4ZZQRrYH2u8CTw7FcFD-SbdwPNE3ap_-D1KmVom9O4ifT9h_rCgdgE" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - HBO 3
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739915&extension=ts&play_token=z5feXQQgVZ
+#EXTINF:-1 tvg-id="m1.hu" tvg-name="HU - m1" tvg-logo="https://iptv-epg.org/images/2oWl939N3F4dBUiqyGP6W9EzJrG1Z3yRmwBUGkdua9dmcKlHFZ8jEs7fM06BqLRro3jtgfWWmqJXrOWNaAk-KJlGnhxg9LlA0Pb17Q" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - m1
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739885&extension=ts&play_token=hcS8mhKYoR
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-name="HU - M4 Sport" tvg-logo="https://iptv-epg.org/images/Y5UnGoFX1Wp9i1NRPSkPkWrCRcHKEdNi4v44kCUyxQ05fg0Hejaz6ur0nrni-eowFEwG9M3wtqOv2LSRhdLC8e5gmc19nrBFMStSf8iKScb2" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - M4 Sport
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739948&extension=ts&play_token=UViN6ZhZgZ
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="HU - RTL Klub" tvg-logo="https://iptv-epg.org/images/q5RgqleQ1NVIE-TLOqrf02nRKCByCqxouhZEYQ7wTFcEky73Musa_D8RKdgDeyubzLeSzxcV_GjB9dEdX4qGhb7fVPQJkU5QpsV2NylNW_fN" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - RTL Klub
+http://lypremium.live:80/play/live.php?mac=00:1A:79:00:08:09&stream=739892&extension=ts&play_token=4N4N142WYi
