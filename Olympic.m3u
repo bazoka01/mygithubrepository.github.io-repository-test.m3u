@@ -11,8 +11,6 @@ http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=310974&exte
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=310980&extension=ts&play_token=K7DsYWLNdA
 #EXTINF:-1 tvg-id="Cinemax2.hu" tvg-name="HU - Cinemax 2" tvg-logo="https://iptv-epg.org/images/oLevVCKVkaedItG--24qkp3Mx5EcNCXbhdsIpCkNLybmKzAK4x7TzjGta-E2JVMduEl_YcWdrBJkhXAZRzuilMl2UlXqQKJ4wpXjhjVCpm7LTg" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Cinemax 2
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=310981&extension=ts&play_token=wbdIpLyXSs
-#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-name="HU - Duna World" tvg-logo="https://iptv-epg.org/images/vJdixAFWyfphsmuHoGhUnr4hFxPBAbxLrnVaBZzX6lP1Qe-faYSAOgcXZ-C_LnAGv-behQKAk0la22aDoSYoPe_H9urnOoIKqEMjiCGib8dxrn0" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Duna World
-http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=310995&extension=ts&play_token=1kZsx57nBW
 #EXTINF:-1 tvg-id="Eurosport1.hu" tvg-name="HU - Eurosport 1" tvg-logo="https://iptv-epg.org/images/AC0cuf0NrQ7-33lEYJg9oP3RAMzBqxJY8tm7I8WkML5RQt74hCyDJCkgElmSQEnyOSICPfMfMW8tCrSwbjpXLmzVzJrGLcCJFdDUb_bsFt3FQNjk" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Eurosport 1
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=311002&extension=ts&play_token=2wzr7XgLUE
 #EXTINF:-1 tvg-id="Eurosport2.hu" tvg-name="HU - Eurosport 2" tvg-logo="https://iptv-epg.org/images/UT3LVuAEhFyVw3vZJe1oBxcAIalbrSiE6FGfxVEFGVm3BBJBOODtdA0x0q_hw1rKmZPOiMbeckOkmXl0Qx-wZCgbuir59iFSaxFu41ebnrUS-sE-" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Eurosport 2
@@ -29,3 +27,9 @@ http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=311024&exte
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=311026&extension=ts&play_token=ywV0UZdCZS
 #EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="HU - RTL Klub" tvg-logo="https://iptv-epg.org/images/q5RgqleQ1NVIE-TLOqrf02nRKCByCqxouhZEYQ7wTFcEky73Musa_D8RKdgDeyubzLeSzxcV_GjB9dEdX4qGhb7fVPQJkU5QpsV2NylNW_fN" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - RTL Klub
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=311042&extension=ts&play_token=UWFF9hFpb7
+#EXTINF:-1 tvg-id="Spektrum.hu" tvg-name="HU - Spektrum" tvg-logo="https://iptv-epg.org/images/W8Husd5NEtcmI2g6YTZL0W6YqSCM-CAo43syjqxF-xEE_uQCVG4X39jqXe5c2q7vHBXL4QpSdzCTqJmbXvQph7H00io-GTCKXTFP7QMaTaE47A" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Spektrum
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=311048&extension=ts&play_token=7E6XicPJy9
+#EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-name="HU - Spektrum Home" tvg-logo="https://iptv-epg.org/images/7nEmlQsL2DP3yhVZv61IVocp_VeacnmP_6mLZdcXl9MVoGDqn99RPCyYe2c-7de-QadGCDxj-Tsdy70D90gUL8zOs0KdBmErr2A2qI76u0LH2FE3AEc" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Spektrum Home
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=311049&extension=ts&play_token=DTVgEtf20m
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-name="HU - Sport1" tvg-logo="https://iptv-epg.org/images/qDFVoIPRRK7Ph5o4lwFzF9bQJEzSPDcCsWng51z1ib_JzIt8hJ0OyKjYYDysnXvmPDBrN_W4CSbJBLPniz49_yoae94cOoNhfSD0bMvc3yQ" group-title="🇭🇺 🅢🅩🅐🅑🅘'🅢 🅛🅘🅢🅣",HU - Sport1
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=311052&extension=ts&play_token=kt5cnC8ppl
