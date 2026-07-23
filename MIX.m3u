@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz"
-#EXTINF:-1 CUID="42855330-bd23-3f50-a544-9ad9a6ec8b1c" tvg-chno="384" tvg-id="33395" tvg-name="TENNIS CHANNEL" tvg-logo="https://emby.tmsimg.com/assets/s33395_ld_h15_ac.png" group-title=" TENNIS 🎾",TENNIS CHANNEL
+#EXTINF:-1 CUID="42855330-bd23-3f50-a544-9ad9a6ec8b1c" tvg-chno="384" tvg-id="33395" tvg-name="TENNIS CHANNEL" tvg-logo="https://emby.tmsimg.com/assets/s33395_ld_h15_ac.png" group-title="TENNIS 🎾",TENNIS CHANNEL
 http://mag.nando2025.vip:80/play/live.php?mac=00:1A:79:37:A8:57&stream=858523&extension=ts&play_token=31urixlCGJ
 #EXTINF:-1 CUID="1915461" tvg-name="Sky Sports Tennis" tvg-id="skysportstennis.uk" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="TENNIS 🎾",Sky Sports Tennis 
 http://mag.nando2025.vip:80/play/live.php?mac=00:1A:79:37:A8:57&stream=394549&extension=ts&play_token=Lxgj8wPxqd
