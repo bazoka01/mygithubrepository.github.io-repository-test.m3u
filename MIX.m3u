@@ -1,0 +1,13 @@
+#EXTM3U url-tvg="https://github.com/ferteque/Curated-M3U-Repository/raw/refs/heads/main/epg6.xml.gz"
+#EXTINF:-1 CUID="42855330-bd23-3f50-a544-9ad9a6ec8b1c" tvg-chno="384" tvg-id="33395" tvg-name="TENNIS CHANNEL" tvg-logo="https://emby.tmsimg.com/assets/s33395_ld_h15_ac.png" group-title=" TENNIS 🎾",TENNIS CHANNEL
+http://mag.nando2025.vip:80/play/live.php?mac=00:1A:79:37:A8:57&stream=858523&extension=ts&play_token=31urixlCGJ
+#EXTINF:-1 CUID="1915461" tvg-name="Sky Sports Tennis" tvg-id="skysportstennis.uk" tvg-logo="https://logo.m3uassets.com/skysportstennis.png" group-title="TENNIS 🎾",Sky Sports Tennis 
+http://mag.nando2025.vip:80/play/live.php?mac=00:1A:79:37:A8:57&stream=394549&extension=ts&play_token=Lxgj8wPxqd
+#EXTINF:-1 CUID="932318" tvg-name="TSN 1" tvg-id="tsn1.ca" tvg-logo="https://logo.m3uassets.com/tsn1.png" group-title="SPORTS 🏆",TSN 1
+http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=867678&extension=ts&play_token=groaqzftf6
+#EXTINF:-1 CUID="844692" tvg-name="Bein Sports" tvg-id="beinsports.ca" tvg-logo="https://logo.m3uassets.com/beinsports.png" group-title="SPORTS 🏆",Bein Sports
+http://mag.nando2025.vip:80/play/live.php?mac=00:1A:79:37:A8:57&stream=858543&extension=ts&play_token=4YoTvfkymJ
+#EXTINF:-1 CUID="1133820" tvg-name="Xite Hits" tvg-id="xitehits.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmytransfer.be%2Fwp-content%2Fuploads%2F2019%2F03%2FXite-NEW-logo19-grey.png&f=1&nofb=1&ipt=825df01909ef8b44fe4132dd5987b0cc76186a83401900d5fa4be7e98505c8ab" group-title="MUSIC 🎵",Xite Hits
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 CUID="1133825" tvg-name="Xite Rock X Metal" tvg-id="xiterockxmetal.us" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmytransfer.be%2Fwp-content%2Fuploads%2F2019%2F03%2FXite-NEW-logo19-grey.png&f=1&nofb=1&ipt=825df01909ef8b44fe4132dd5987b0cc76186a83401900d5fa4be7e98505c8ab" group-title="MUSIC 🎵",Xite Rock X Metal
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
