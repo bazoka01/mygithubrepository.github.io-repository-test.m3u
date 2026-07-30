@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://sthuuuhj.itransat.net/xmltv.php,http://5anhjevb.gts1fer.xyz/xmltv.php?username=vf820855&password=7mVmNP3psb9C"
+#EXTM3U url-tvg="http://xkkibwcu.fqvpnw.com/xmltv.php,http://sthuuuhj.itransat.net/xmltv.php"
 #EXTINF:-1 CUID="4978009" tvg-name="Arena Sport 1" tvg-id="arenasport1.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 1
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559146&extension=ts&play_token=IdHwlJLS4K
 #EXTINF:-1 CUID="4978009" tvg-name="Arena Sport 1" tvg-id="arenasport1.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 1
@@ -13,7 +13,7 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559148&ex
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/31464
 #EXTINF:-1 CUID="4978012" tvg-name="Arena Sport 4" tvg-id="arenasport4.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 4
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559149&extension=ts&play_token=INynUdTiVs
-#EXTINF:-1 CUID="4978012" tvg-name="Arena Sport 4" tvg-id="arenasport4.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 4
+#EXTINF:-1 CUID="4978012" tvg-name="Arena Sport 4" tvg-id="arenasport4.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 4
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/31465
 #EXTINF:-1 CUID="4978013" tvg-name="Arena Sport 5" tvg-id="arenasport5.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 5
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559150&extension=ts&play_token=AGZeYM6ppk
@@ -21,15 +21,19 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559150&ex
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/31466
 #EXTINF:-1 CUID="4978014" tvg-name="Arena Sport 6" tvg-id="arenasport6.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 6
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/6915
-#EXTINF:-1 CUID="4978015" tvg-name="Arena Sport Premium 1" tvg-id="arenasportpremium1.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport Premium 1
+#EXTINF:-1 CUID="4978015" tvg-name="ARENA 1 PREMIUM FHD BIH" tvg-id="arenasportpremium1.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 1 PREMIUM FHD BIH
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/7965
-#EXTINF:-1 CUID="4978015" tvg-name="Arena Sport Premium 1" tvg-id="arenasportpremium1.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport Premium 1
+#EXTINF:-1 CUID="4978015" tvg-name="ARENA 1 PREMIUM FHD SR" tvg-id="arenapremium1.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 1 PREMIUM FHD SR
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559019&extension=ts&play_token=BRwvTi0tpk
-#EXTINF:-1 CUID="4978016" tvg-name="Arena Sport Premium 2" tvg-id="arenasportpremium2.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport Premium 2
+#EXTINF:-1 CUID="4978016" tvg-name="ARENA 2 PREMIUM FHD SR" tvg-id="arenapremium2.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 2 PREMIUM FHD SR
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/7966
-#EXTINF:-1 CUID="4978016" tvg-name="Arena Sport Premium 2" tvg-id="ArenaSportPremiuarenasportpremium2.bam2.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport Premium 2
+#EXTINF:-1 CUID="4978016" tvg-name="ARENA 2 PREMIUM FHD BIH" tvg-id="arenasportpremium2.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 2 PREMIUM FHD BIH
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559017&extension=ts&play_token=mXY0PqDREP
-#EXTINF:-1 CUID="4978017" tvg-name="Arena Sport Premium 3" tvg-id="arenasportpremium3.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport Premium 3
+#EXTINF:-1 CUID="4978017" tvg-name="ARENA 3 PREMIUM FHD BIH" tvg-id="arenasportpremium3.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 3 PREMIUM FHD BIH
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/7967
-#EXTINF:-1 CUID="4978017" tvg-name="Arena Sport Premium 3" tvg-id="arenasportpremium3.ba" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport Premium 3
-
+#EXTINF:-1 CUID="4978017" tvg-name="ARENA 3 PREMIUM FHD SR" tvg-id="arenapremium3.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 3 PREMIUM FHD SR
+http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/229154.ts
+#EXTINF:-1 tvg-name="ARENA 4 PREMIUM FHD SR" group-title="🏆 ARENA 🏆 ",ARENA 4 PREMIUM FHD SR
+http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/1211587.ts
+#EXTINF:-1 tvg-name="ARENA 5 PREMIUM FHD SR",ARENA 5 PREMIUM FHD SR
+http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/1211586.ts
