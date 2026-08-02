@@ -1,241 +1,119 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/PolandPlayNowLogo/amc.Playnow.png" group-title="HU ✨ HUNGARY",AMC
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_HU1.xml.gz"
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/PolandPlayNowLogo/amc.Playnow.png" group-title="HU ✨ HUNGARY" tvg-id="AMC.hu",AMC
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826463&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/PolandPlayNowLogo/animalplanet.Playnow.png" group-title="HU ✨ HUNGARY",ANIMAL PLANET
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/PolandPlayNowLogo/animalplanet.Playnow.png" group-title="HU ✨ HUNGARY" tvg-id="Animal.Planet.HD.hu",ANIMAL PLANET
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826462&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Hungary/arena4.png" group-title="HU ✨ HUNGARY",ARENA 4
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Hungary/arena4.png" group-title="HU ✨ HUNGARY" tvg-id="Aréna4.hu",ARENA 4
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826461&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Hungary/atv.png" group-title="HU ✨ HUNGARY",ATV
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Hungary/atv.png" group-title="HU ✨ HUNGARY" tvg-id="ATV.hu",ATV
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826460&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Hungary/atvspirit.png" group-title="HU ✨ HUNGARY",ATV SPIRIT
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826459&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/AXN.png" group-title="HU ✨ HUNGARY",AXN
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/AXN.png" group-title="HU ✨ HUNGARY" tvg-id="AXN.hu",AXN
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826458&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/AXN.png" group-title="HU ✨ HUNGARY",AXN BLACK
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826457&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/AXN.png" group-title="HU ✨ HUNGARY",AXN ROMANIA
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826456&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/logo/Sirbistan/AXN.png" group-title="HU ✨ HUNGARY",AXN WHİTE
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826455&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="HU ✨ HUNGARY",BBC EARTH
+#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/turkey/bbcearth.png" group-title="HU ✨ HUNGARY" tvg-id="BBC.Earth.hu",BBC EARTH
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826454&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvlogolar.xyz/europa/germany/Boomerang.png" group-title="HU ✨ HUNGARY",BOOMERANG
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826453&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/2m4JA6e2eI8a3GwU2Dtfg3RsTFBzykK3ghRxXHwjQrCD_G5u7YqVp4-0ZVKghjxnAwF9BIZKBMRVxMLCkH-VOg.png" group-title="HU ✨ HUNGARY",C8
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826452&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zPNXqvzkgOX_g-hbB0GvRbIpxcHHGVmpkQc4en90mo5A.png" group-title="HU ✨ HUNGARY",CGTN
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826451&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKrEEColSzuRvXRa5MWx2bbe8gaKLy646MDrvx4Yb9M45.png" group-title="HU ✨ HUNGARY",CLUB MTV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826450&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKoivdC_Fcs3EC9Ym2LtCEqqXM-9D_uLPZUt-RzDWVfeD.png" group-title="HU ✨ HUNGARY",CNBC EUROPE
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826449&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKsrUcvuU59pYuH6dBrSYbnTIAUuB7VuXKNM4Tz_Zr_lu.jpg" group-title="HU ✨ HUNGARY",CNN
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/cnn.gif" group-title="HU ✨ HUNGARY" tvg-id="CNN.hu",CNN
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826448&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xRU-4TVcqIa-vndXZGW3odm0AgrDCCAmoUzaqGv23fng.png" group-title="HU ✨ HUNGARY",COMEDY CENTRAL
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826447&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zOq0e6X2GMOCWg04Viz1Lue_jxeBAZrE_xQPuCQPiLLA.png" group-title="HU ✨ HUNGARY",COOL
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/cool.gif" group-title="HU ✨ HUNGARY" tvg-id="Cool.TV.hu",COOL
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826446&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3u3sPJCWjs123p2wzOjzzIEGLzmFyattLjhB3N8kAnOHv6iCUfmsbVAAFR2RB2G_9Z8FOXLVyntVLP81avDCZ1k.png" group-title="HU ✨ HUNGARY",CİNEMAX
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/cinemax.gif" group-title="HU ✨ HUNGARY" tvg-id="Cinemax.hu",CİNEMAX
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826445&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3sS-DEWExla_bJ07n2QdwVGxiHAtwQPej-FP0AqpOqIpQ.png" group-title="HU ✨ HUNGARY",CİNEMAX 1
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826444&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3vk-trd9WJYYJ2FfTvQfpAN0EiYy9zRdXWYfIkH-dmfAA.png" group-title="HU ✨ HUNGARY",CİNEMAX 2
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/cinemax2.gif" group-title="HU ✨ HUNGARY" tvg-id="Cinemax.2.hu",CİNEMAX 2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826443&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3vTfSf_f_Pqw_koJRMUu6YBvUfqdY-leAsOV2YwcEEIxA.png" group-title="HU ✨ HUNGARY",DA VINCI LEARNING
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/davincilearning.gif" group-title="HU ✨ HUNGARY" tvg-id="Da.Vinci.Tv.hu",DA VINCI LEARNING
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826442&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/2m4JA6e2eI8a3GwU2Dtfg3RsTFBzykK3ghRxXHwjQrCZ1XS4eEQzs04RHqfh5RyfLZPzRUerAgYedHuiG2rOJMVU769KtiNXf4TbURkjl68.png" group-title="HU ✨ HUNGARY",DIGI ANIMAL WORLD
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826441&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/2m4JA6e2eI8a3GwU2Dtfg3RsTFBzykK3ghRxXHwjQrCZ1XS4eEQzs04RHqfh5RyfBX17bdkxdMDJdmIjV9cEturlPkwyt9bhEZhYlIMI_pM.png" group-title="HU ✨ HUNGARY",DIGI FILM
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826440&extension=ts
-#EXTINF:-1 tvg-logo="https://logo.diamondtv.one/images/logos/ROMANIA/DIGI%20LIFE.png" group-title="HU ✨ HUNGARY",DIGI LIFE
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826439&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKlR17fKYpUE_fCrbsmCDFiw1Yg-Whe6wU4tRgxhWU1Yb.png" group-title="HU ✨ HUNGARY",DIGI SPORT 1
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/match4.gif" group-title="HU ✨ HUNGARY" tvg-id="Match.4.hu",MATCH 4
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826438&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zznVQJqacDCjGM7iaqN1rlHCPd31MBZjDl4JguQHnoCA.png" group-title="HU ✨ HUNGARY",DIKH TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826437&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKmOQ4VsoWYoK0Ds9sBsEkp5mEfe1jxOYGiScssPxl2Wb.jpg" group-title="HU ✨ HUNGARY",DIRECT ONE
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826436&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3torMbc-qciDt5Abon0VA_PyM3EUv-EbXn2AyC71VuRRQ.png" group-title="HU ✨ HUNGARY",DISCOVERY CHANNEL
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/discoverychannel.gif" group-title="HU ✨ HUNGARY" tvg-id="Discovery.Channel.hu",DISCOVERY CHANNEL
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826435&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xVXj4Zu4n76f1_9nOcSKHKCkconpwtV8MIXpdYWzp4MHTQ4X07xxb5g0hvXtVb46Q.png" group-title="HU ✨ HUNGARY",DISCOVERY ID
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826434&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xVXj4Zu4n76f1_9nOcSKHKCkconpwtV8MIXpdYWzp4MHTQ4X07xxb5g0hvXtVb46Q.png" group-title="HU ✨ HUNGARY",DISCOVERY SHOWCASE
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826433&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3uXLso-a6QHh3pybpaGWCVuPmcaz-m4AruVrn_07Fjknw.png" group-title="HU ✨ HUNGARY",DISCOVERY WORLD
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826432&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9whezdIE8N4GbkF8sO4ouzFBU_I34WL-EZJr8KwxGNcuw.png" group-title="HU ✨ HUNGARY",DISNEY CHANNEL
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826431&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/2m4JA6e2eI8a3GwU2Dtfg3RsTFBzykK3ghRxXHwjQrCZ1XS4eEQzs04RHqfh5RyffA-KpU3KPwIH6sLF99mI4vc5aiCCDTiEP11dQXvxgxI.png" group-title="HU ✨ HUNGARY",DISNEY JUNIOR
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826430&extension=ts
-#EXTINF:-1 tvg-logo="https://r.resimlink.com/xrqao.png" group-title="HU ✨ HUNGARY",DUCK TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826429&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9ww0hBTKcFYz1O9j8PCkGL9R0fVaD4esVrUMrN-XYOy4Q.png" group-title="HU ✨ HUNGARY",DUNA HD
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826428&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wou-457MhZUMhd-rem9-0iB2Mg8RxxCWHrM7bAENi8Tw.png" group-title="HU ✨ HUNGARY",DUNA WORLD / M4 SPORT+
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826427&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xWse_dE1aXWu2G5CSSuk158Ss1kkO296yVmXdjfwTzyRVyg93AQiOM7c1sXVWci6s.png" group-title="HU ✨ HUNGARY",EUROSPORT 1
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/eurosporthd.gif" group-title="HU ✨ HUNGARY" tvg-id="Eurosport.HD.hu",EUROSPORT 1
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826426&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xWse_dE1aXWu2G5CSSuk15ykA3R0lg1La2maEjjT0nQtflI0PNgWURUm2gJuSU2N8.png" group-title="HU ✨ HUNGARY",EUROSPORT 2
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/eurosport2.gif" group-title="HU ✨ HUNGARY" tvg-id="Eurosport.2.HD.hu",EUROSPORT 2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826425&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWmgaN6xH26FJil47b3_bq-oVNZSYH1Gw2pGMux8ihlKHVD1VY2YcohuwkMmDzvR50g.png" group-title="HU ✨ HUNGARY",EWTN
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826424&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKqE9644ZVHUso1copfMOqiym7v97b5EERYcSR_R1Si-7.png" group-title="HU ✨ HUNGARY",FASHION TV
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/fashionbox.gif" group-title="HU ✨ HUNGARY" tvg-id="Fashionbox.hu",FASHIONBOX
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826423&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yK6P47rPaXYRrmeZMtR4mtgjK4XQt-yo_e651K1v2nMg.png" group-title="HU ✨ HUNGARY",FEM 3
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826422&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3spocQv84i2YZ4zue3hMO1lESoc5vtcl06e13HfGnDDKg.png" group-title="HU ✨ HUNGARY",FILM 1
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826421&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3ut0GFHDaQ6Q8tW9pldUF7ABgMaIti-BoArxsp3tstmcw.png" group-title="HU ✨ HUNGARY",FILM 4
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/film4.gif" group-title="HU ✨ HUNGARY" tvg-id="Film4.hu",FILM 4
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826420&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9znMExOuELSi_722SicMJj__v0mwMxc-_ELcXKG-YB15Q.png" group-title="HU ✨ HUNGARY",FILM CAFE
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/filmcafe.gif" group-title="HU ✨ HUNGARY" tvg-id="Film.Café.hu",FILM CAFE
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826419&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKjkgiXKtq25sypu4QG00fiSY6OMCBL2hpilvcyGVuadG.png" group-title="HU ✨ HUNGARY",FILM MANIA
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/filmmania.gif" group-title="HU ✨ HUNGARY" tvg-id="Film.Mánia.hu",FILM MANIA
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826418&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9ymeNmjHbbO5lISkZw8nNEeyRQs1VI7xP7BTtOUWlTl9Q.png" group-title="HU ✨ HUNGARY",FILM PLUS
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/filmplussz.gif" group-title="HU ✨ HUNGARY" tvg-id="Film+.hu",FILM +
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826417&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wXIOQKsdWfNRFJiGWS0hMPEUb1SchUWt54ItP50zHsWw.png" group-title="HU ✨ HUNGARY",FILMBOX
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826416&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wXIOQKsdWfNRFJiGWS0hMPiVx33bDorkd9Qm-r9YOAWA.png" group-title="HU ✨ HUNGARY",FILMBOX EXTRA
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826415&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wXIOQKsdWfNRFJiGWS0hMPpLcirahF1ZdNjmZgHSpjSw.png" group-title="HU ✨ HUNGARY",FILMBOX FAMILY
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826414&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/2m4JA6e2eI8a3GwU2Dtfg3RsTFBzykK3ghRxXHwjQrCD_G5u7YqVp4-0ZVKghjxnAwF9BIZKBMRVxMLCkH-VOg.png" group-title="HU ✨ HUNGARY",FILMBOX PLUS INT
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826413&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wXIOQKsdWfNRFJiGWS0hMPPu4ev3Jbuy2snho-dpFnpg.png" group-title="HU ✨ HUNGARY",FILMBOX PREMIUM
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826412&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wXIOQKsdWfNRFJiGWS0hMPJsj2KKRRfMGqt1pdrKSpOg.png" group-title="HU ✨ HUNGARY",FILMBOX STARS
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/viasat2.gif" group-title="HU ✨ HUNGARY" tvg-id="Viasat.2.hu",VIASAT 2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826411&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wfG_-uldDtG2xU_OBIpLn2ovV7bw9qXD8MTs_o6Ujs6NS9H3tGhE5ME-nxG_Tx1gQ.png" group-title="HU ✨ HUNGARY",FISHING AND HUNTING
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826410&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWmgaN6xH26FJil47b3_bq-oXd6dKRsYkZThs8Ckf1vi6qnLLnD-gXlhewPLSnv0Xzw.png" group-title="HU ✨ HUNGARY",GALAXY 4
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/galaxy4.gif" group-title="HU ✨ HUNGARY" tvg-id="Galaxy4.hu",GALAXY 4
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826409&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wz3YKGRmMtqQ3x-FAdI2RYeNVWDHfVNwAXw-6C7CkMWg.png" group-title="HU ✨ HUNGARY",HBO 1
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826408&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wz3YKGRmMtqQ3x-FAdI2RYeNVWDHfVNwAXw-6C7CkMWg.png" group-title="HU ✨ HUNGARY",HBO 2
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/hbo2.gif" group-title="HU ✨ HUNGARY" tvg-id="HBO.2.hu",HBO 2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826407&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wz3YKGRmMtqQ3x-FAdI2RYeNVWDHfVNwAXw-6C7CkMWg.png" group-title="HU ✨ HUNGARY",HBO 3
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/sorozatplussz.gif" group-title="HU ✨ HUNGARY" tvg-id="Sorozat+.hu",SOROZAT +
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826406&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wmdnegnJG9rqQGdQko74R6phzsc07YSACS0daEtQleLw.png" group-title="HU ✨ HUNGARY",HIR TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826405&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wL2fphmvGNGD-KM1GaiRw9fNySfVR-HlASmXlCWmVnZw.png" group-title="HU ✨ HUNGARY",HISTORY
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/thehistorychannel.gif" group-title="HU ✨ HUNGARY" tvg-id="History.Channel.hu",HISTORY
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826404&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3szjYXy1PQ8Bm7w7lmIZxxl-EAUKCOMRNGXHUoJbZJ3VA.png" group-title="HU ✨ HUNGARY",INVESTIGATION DISCOVERY
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/discoveryid.gif" group-title="HU ✨ HUNGARY" tvg-id="ID:.Investigation.Discovery.hu",INVESTIGATION DISCOVERY
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826403&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zCKN9gehg4yypp_d46L3xSBG8SRTirSfen-fx7rZy_hA.png" group-title="HU ✨ HUNGARY",IZAURA TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826402&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zk8pyzoukNKxOxnf6UZw4bExJ4Wp5NZAQ3iej9vVLXPA.png" group-title="HU ✨ HUNGARY",JIM JAM
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826401&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9z9_vIAqalJzMkJDJqwRKz8Vf0MCXsknc6XyYgKgJTE1w.png" group-title="HU ✨ HUNGARY",JOCKY TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826400&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3uxMKjJ47AcwlZSZAoJ07nnZjW3PxCxIpVFf8bWRxWg1Q.png" group-title="HU ✨ HUNGARY",LIFE TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826399&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/2m4JA6e2eI8a3GwU2Dtfg3RsTFBzykK3ghRxXHwjQrCD_G5u7YqVp4-0ZVKghjxnAwF9BIZKBMRVxMLCkH-VOg.png" group-title="HU ✨ HUNGARY",LIGHT CHANNEL
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826398&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9ze_7D4ihD0uWkrCZ8XAsxbt_zwVpeGKjNo2Zxct-RIHw.png" group-title="HU ✨ HUNGARY",LOVE NATURE
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/love_nature.gif" group-title="HU ✨ HUNGARY" tvg-id="Love.Nature.hu",LOVE NATURE
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826397&extension=ts
-#EXTINF:-1 tvg-logo="" group-title="HU ✨ HUNGARY",M1 HD
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/m1hd.gif" group-title="HU ✨ HUNGARY" tvg-id="m1.HD.hu",M1 HD
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826396&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x5BzkbNPKkmBvkKlfZB0tIBlYmTnHYbRTNkpQYIvDdGg.png" group-title="HU ✨ HUNGARY",M2
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826395&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x5BzkbNPKkmBvkKlfZB0tIBlYmTnHYbRTNkpQYIvDdGg.png" group-title="HU ✨ HUNGARY",M2 HD
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/m2hd.gif" group-title="HU ✨ HUNGARY" tvg-id="m2.HD.hu",M2 HD
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826394&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x_Qe6KP6blk-ZZEpc3aCN5VysaEtaPvD8IKhj94SoHBA.png" group-title="HU ✨ HUNGARY",M4 HD
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/m4.gif" group-title="HU ✨ HUNGARY" tvg-id="m4.hu",M4 SPORT
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826393&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x8Fnm9TWuHc_9vSYjiWxJRw222lWWHZ9ldu3DlZEAo7A.png" group-title="HU ✨ HUNGARY",M5 HD
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/m5.gif" group-title="HU ✨ HUNGARY" tvg-id="m5.hu",M5 HD
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826392&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yw6LOrdTlNfmJup83FQaLMHO0EvtsmOrQsE7zzZHO5PQ.png" group-title="HU ✨ HUNGARY",MAGYAR SLAGER TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826391&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xIwbad6Un-xYLLvLiNN5Vuk9k8BuJM_OqWxZUDBYF-MQ.png" group-title="HU ✨ HUNGARY",MINIMAX
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826390&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yCvtT8Zt4rg0hzguJyvHn4wbE_ShBFUabNw3hsXpDAWQ.png" group-title="HU ✨ HUNGARY",MOZI PLUS
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826389&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yCvtT8Zt4rg0hzguJyvHn4wbE_ShBFUabNw3hsXpDAWQ.png" group-title="HU ✨ HUNGARY",MOZI PLUS
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/moziplusz.gif" group-title="HU ✨ HUNGARY" tvg-id="Mozi+.hu",MOZI +
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826388&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wzVfOBXkpIICdc0rb27WEw7du4JrKoP-4_5aaBjYq-7A.png" group-title="HU ✨ HUNGARY",MOZIVERZUM
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/moziverzum.gif" group-title="HU ✨ HUNGARY" tvg-id="Moziverzum.hu",MOZIVERZUM
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826387&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yelvPs2e2pQkQMVwdN2w_TpehkNHEiyzXdBH4ctyBADQ.png" group-title="HU ✨ HUNGARY",MTV
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/360tunebox.gif" group-title="HU ✨ HUNGARY" tvg-id="360TuneBox.hu",360TuneBox
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826386&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/NBKI65A9mTbn2KaeE7cGle9IW4Hj1qK14UaHFdAtMr86A8a-5JVyKzLBxPusZeQFJ6dL_U6Q6Lv6HOyMX08d5g.jpg" group-title="HU ✨ HUNGARY",MUSIC CHANNEL
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826385&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xvxKsUmHdSSWH2Sp00QpyDH2FFJoZJKJjgaAcCuseXmw.png" group-title="HU ✨ HUNGARY",MUZSIKA TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826384&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xvxKsUmHdSSWH2Sp00QpyDH2FFJoZJKJjgaAcCuseXmw.png" group-title="HU ✨ HUNGARY",MUZSIKA TV
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826383&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yE62J1p6MCSf65Wy8Mi_LtIJwGCNEf_xSmhgeBXa0UJg.png" group-title="HU ✨ HUNGARY",NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/ngcwild.gif" group-title="HU ✨ HUNGARY" tvg-id="National.Geographic.Wild.hu",NAT GEO WILD
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826382&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yL9Xwp8WJoOZaKr_pp0DtOCIizIIVpdmsrutr5ATcM2g.png" group-title="HU ✨ HUNGARY",NATIONAL GEO
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826381&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yL9Xwp8WJoOZaKr_pp0DtOCIizIIVpdmsrutr5ATcM2g.png" group-title="HU ✨ HUNGARY",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/ng.gif" group-title="HU ✨ HUNGARY" tvg-id="National.Geographic.hu",NATIONAL GEOGRAPHIC
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826380&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yD7kd1SaSbTr7bOs-Z1TKpdTWuTDRvLalMibLckjtC2w.png" group-title="HU ✨ HUNGARY",NICK JR.
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826379&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9ze_TnFVYBkxE4i-ox2qdJDP3GSCZ8UWT4OHcC99LkpgA.png" group-title="HU ✨ HUNGARY",NICKELODEON
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826378&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zenIx6i4YXgYJ63CJVdlaL1aA0UQ3HwhSI8zep1vVOUQ.png" group-title="HU ✨ HUNGARY",NICKTOONS
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826377&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3so3tbnsphCUiPu9GNdneLw1aQ63tv60JDMnwL339JxCQ.png" group-title="HU ✨ HUNGARY",NOVA SPORT 1
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826376&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yoq9fMXoVadqbd7ck6FaXDXkzIuXQOyOyX4maAMLgryg.png" group-title="HU ✨ HUNGARY",OZONE
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/ozonetv.gif" group-title="HU ✨ HUNGARY" tvg-id="OzoneTv.hu",OZONE
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826375&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3vI0gWBXf2Evnpqkbdgh7g_J-dX7--mmlJ49HhggL412Q.png" group-title="HU ✨ HUNGARY",PARAMOUNT CHANNEL
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826374&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3uUw0UBzsw0sW0MWCZS5822-4iJyiWJmFjoqw3CNJ8h0A.png" group-title="HU ✨ HUNGARY",PARAMOUNT NETWORK
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826373&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9x6oOfu3GoFvwAN32bb0_WfXtg0G6lyUBkeZF8kWdnPkQ.png" group-title="HU ✨ HUNGARY",PRIME
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/prime.gif" group-title="HU ✨ HUNGARY" tvg-id="Prime.hu",PRIME
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826372&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9w18LiayP3RSvGukcM7BOAozz1Vvqj2mUP2yH9WbY9SPQ.png" group-title="HU ✨ HUNGARY",RTL 2
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/rtl_ketto.gif" group-title="HU ✨ HUNGARY" tvg-id="RTL.KETTŐ.hu",RTL KETTÖ
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826371&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xLyyu6tImFynMNM9GYHsUyO4HK8s6ru-SwEl0ZmpoFuA.png" group-title="HU ✨ HUNGARY",RTL GOLD
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/rtlgold.gif" group-title="HU ✨ HUNGARY" tvg-id="RTL.GOLD.hu",RTL GOLD
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826370&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKuTno3OnZfsdnf6vw8nEPX5Efwz-0WXtmYCRhNV8jLXo.png" group-title="HU ✨ HUNGARY",RTL KLUB
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/rtl.gif" group-title="HU ✨ HUNGARY" tvg-id="RTL.hu",RTL KLUB
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826369&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yalAjOw81UFLn4e_n6mWc1ThIuuYEH3VS27J_H19UYDQ.png" group-title="HU ✨ HUNGARY",RTL PLUS
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826368&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3tdzFrMlt883ny76v75LdTiBIgQwQBI5vBeDS0WJAYiANvxUFol8vO_0nUn7_S3ws1j4HDb0EGLBmy8YXTZ5gkf.png" group-title="HU ✨ HUNGARY",SONY MAX HD
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826367&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wrj3Z2RTvrL5L80B-7pblBpwk1rkrznOxpxUOpw1kQkA.png" group-title="HU ✨ HUNGARY",SORAZAT PLUS
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826366&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yrmpjB-qoepKl0zIZapZz8vm2tNJsd15j8e-5M0w8rPQ.png" group-title="HU ✨ HUNGARY",SPEKTRUM
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/spektrumhd.gif" group-title="HU ✨ HUNGARY" tvg-id="Spektrum.HD.hu",SPEKTRUM
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826365&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yrmpjB-qoepKl0zIZapZz8GRi21z-PvdaWkzNs67bqdQ.png" group-title="HU ✨ HUNGARY",SPEKTRUM HOME
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826364&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zLxWq0VySiPkQ48OaAom3Se6ZCah-ofVpQkPHhbpPKxg.png" group-title="HU ✨ HUNGARY",SPILER 2
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/spiler2tv.gif" group-title="HU ✨ HUNGARY" tvg-id="Spíler2.TV.hu",SPILER 2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826363&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zLxWq0VySiPkQ48OaAom3SFu-V_vA7_yKZuVTsQjNUWw.png" group-title="HU ✨ HUNGARY",SPILER TV
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/spiler1tv.gif" group-title="HU ✨ HUNGARY" tvg-id="Spíler1.TV.hu",SPILER TV
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826362&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xn0xY0XL9etPFx9bs377GLJ6fXPlGn47pCOTTxzFZhgw.png" group-title="HU ✨ HUNGARY",SPORT 1
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport1.gif" group-title="HU ✨ HUNGARY" tvg-id="Sport1.hu",SPORT 1
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826361&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9zE9jKN7EEA_lrP0qrSATOrptSc96O_KqbuNqgF05G9TA.png" group-title="HU ✨ HUNGARY",SPORT 2
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/sport2.gif" group-title="HU ✨ HUNGARY" tvg-id="Sport2.hu",SPORT 2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826360&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yggPIJu47ITAiQ3gpEp-Q4yNtccAF1PMd76lM0HKMnEA.png" group-title="HU ✨ HUNGARY",STORY 4
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/story4.gif" group-title="HU ✨ HUNGARY" tvg-id="Story4.hu",STORY 4
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826359&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wrs-TnhX-Coa9DukxL-eLh7BmJnw5Xekf6FRssZkfYMw.png" group-title="HU ✨ HUNGARY",SUPER TV2
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/supertv2.gif" group-title="HU ✨ HUNGARY" tvg-id="Super.TV2.hu",SUPER TV2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826358&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wfw_uHfKmHWO_cWpxd7OXBSp267MCzbScSqMaBJQwosg.png" group-title="HU ✨ HUNGARY",TEEN NICK
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826357&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3ur-lqJTuu2Gca2u1znz4HkVXL3TGaM4msQbVfRcN5l1g.png" group-title="HU ✨ HUNGARY",TRAVEL CHANNEL
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/travel_channel_hd.gif" group-title="HU ✨ HUNGARY" tvg-id="Travel.Channel.HD.hu",TRAVEL CHANNEL
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826356&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wSoOPZTFGQiTnrbZTw7E4X6rL-bcU89ges9eOTQXZyHQ.png" group-title="HU ✨ HUNGARY",TV 2
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/tv2.gif" group-title="HU ✨ HUNGARY" tvg-id="TV2.hu",TV 2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826355&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9ximq46CUCGVRcumTSt0V3ApVL4KhlWi4lLAAVhf8A1IA.png" group-title="HU ✨ HUNGARY",TV 2 COMEDY
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826354&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/wIdaRoEEyada2MXv_mITKu6l3KErLbQi3YbpHk-Y9PC7-0Rv1IgPXuZ8D3B7bvuu.png" group-title="HU ✨ HUNGARY",TV RAPRIKA
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/tvpaprika.gif" group-title="HU ✨ HUNGARY" tvg-id="TV.Paprika.hu",TV RAPRIKA
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826353&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9wdNANhspyrT60Ml8teE_0XzuRwzcNa0LjjFWzsC8Lvvw.png" group-title="HU ✨ HUNGARY",TV2 KIDS
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/tv2kids.gif" group-title="HU ✨ HUNGARY" tvg-id="TV2.Kids.hu",TV2 KIDS
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826352&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yV4fJiw2hdGu2jhF7lgkv99aplfIMHA1lq16ojzv9jRA.png" group-title="HU ✨ HUNGARY",TV2 SEF
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/tv2-sef.gif" group-title="HU ✨ HUNGARY" tvg-id="TV2.Séf.hu",TV2 SEF
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826351&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9z3o2h1plnzeHmuba7A8GwavnBN4emDHzhkTkndBlzrog.png" group-title="HU ✨ HUNGARY",TV4
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/tv4.gif" group-title="HU ✨ HUNGARY" tvg-id="TV4.hu",TV4
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826350&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yHsuLZjO_CX-n_Le5JC7EIbxnKiznaa9j4F4hUsiTrpA.png" group-title="HU ✨ HUNGARY",VIASAT 3
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/viasat3.gif" group-title="HU ✨ HUNGARY" tvg-id="Viasat.3.hu",VIASAT 3
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826349&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9yAwWuE0QSPCys3i7gWZH-dM0wivb6CVKDiJH3R3nJpqw.png" group-title="HU ✨ HUNGARY",VIASAT 6
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/tv6.gif" group-title="HU ✨ HUNGARY" tvg-id="Viasat.6.hu",VIASAT 6
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826348&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3s0R3Rwcs3dcY10eXoRl7Zqy8fWk6tXt7ItDB9g4BqdDA.png" group-title="HU ✨ HUNGARY",VIASAT EXPLORE
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/viasatexplore.gif" group-title="HU ✨ HUNGARY" tvg-id="Viasat.Explore.hu",VIASAT EXPLORE
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826347&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3ukeRr_ipsAHDMl9NH0U6_QwQOnQ1zkMLBK1_C4aF-e3Q.png" group-title="HU ✨ HUNGARY",VIASAT HISTORY
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/viasathistory.gif" group-title="HU ✨ HUNGARY" tvg-id="Viasat.History.hu",VIASAT HISTORY
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826346&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/l2Q1Zrr88CXd2r7YPviTWqyhJjCr5hqkejzE3KC9H3vc05aeLjXT0f6sxfMqSl70W2osn-_NJErdTaMjBH6rRA.png" group-title="HU ✨ HUNGARY",VIASAT NATURE
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/viasatnature.gif" group-title="HU ✨ HUNGARY" tvg-id="Viasat.Nature.hu",VIASAT NATURE
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826345&extension=ts
-#EXTINF:-1 tvg-logo="http://xc.contact/images/1jKOinAjtGYAEAdEpenX-hOYol3hMrwYNHfgnCwtt9xsAn9aWRiLEBLxdR-cucCrMNVxedcEGqZFSrAewpxO_A.png" group-title="HU ✨ HUNGARY",ZENEBUTIK
-http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826344&extension=ts
