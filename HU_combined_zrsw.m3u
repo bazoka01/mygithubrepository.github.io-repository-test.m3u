@@ -45,7 +45,7 @@ http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826411&extension
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826409&extension=ts
 #EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/hbo2.gif" group-title="HU ✨ HUNGARY" tvg-id="HBO.2.hu",HBO 2
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826407&extension=ts
-#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/sorozatplussz.gif" group-title="HU ✨ HUNGARY" tvg-id="Sorozat+.hu",SOROZAT +
+#EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/hbo3.gif" group-title="HU ✨ HUNGARY" tvg-id="HBO.3.hu",HBO 3
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826406&extension=ts
 #EXTINF:-1 tvg-logo="https://www.tvmustra.hu/logok/csatikon/thehistorychannel.gif" group-title="HU ✨ HUNGARY" tvg-id="History.Channel.hu",HISTORY
 http://zrsw.xyz:8080/play/live.php?mac=00:1A:79:10:E3:91&stream=826404&extension=ts
