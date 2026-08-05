@@ -1,0 +1,597 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tv generator-info-name="mikhoul/XMLTV-EPG-Tools" generator-info-url="https://github.com/mikhoul/XMLTV-EPG-Tools" generated-ts="1785953458">
+  <channel id="tv-arena-sport-1.sport">
+    <display-name>Arena Sport 1 RS</display-name>
+    <url>https://www.tvarenasport.com</url>
+    <icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Arena_Sport_1_RS_logo_v2.png"/>
+  </channel>
+  <channel id="tv-arena-sport-1-hr.sport">
+    <display-name>Arena Sport 1 HR</display-name>
+    <url>https://www.tvarenasport.hr</url>
+    <icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Arena_Sport_1_HR_logo_v2.png"/>
+  </channel>
+  <channel id="arena-sport-1-ba.sport">
+    <display-name>Arena Sport 1 BiH</display-name>
+    <url>https://www.tvarenasport.com</url>
+    <icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Arena_Sport_1_BiH_BA_logo_v3.png"/>
+  </channel>
+  <channel id="tv-arena-sport-2.sport">
+    <display-name>Arena Sport 2 RS</display-name>
+    <url>https://www.tvarenasport.com</url>
+    <icon src="https://cdn-0.tvprofil.com/cdn/400x200/4/img/kanali-logo/Arena_Sport_2_RS_logo_v2.png"/>
+  </channel>
+  <programme channel="tv-arena-sport-1.sport" start="20260805000000 +0200" stop="20260805020000 +0200">
+    <title lang="hr">Sunderland - Wrexham, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Prijateljske nogometne utakmice smatraju se nekompetitivnima i uglavnom se koriste za "zagrijavanje" igrača za novu sezonu ili natjecateljsku utakmicu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805020000 +0200" stop="20260805040000 +0200">
+    <title lang="hr">CHAMPIONSHIP: Wrexham - Preston, fudbal</title>
+    <desc lang="hr">Football League of England Championship, ili samo Championship, je engleska nogometna liga, koja predstavlja drugu razinu u ligaškom sustavu zemlje i na kraju svake sezone daje tri kluba koji stječu pravo nastupa u najvišoj nogometnoj razini - Premier Ligi. Championship je također najviši rang Engleske nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805040000 +0200" stop="20260805060000 +0200">
+    <title lang="hr">ŠKOTSKA LIGA: St. Johnstone - Kilmarnock, fudbal</title>
+    <desc lang="hr">Škotski Premiership je najviša profesionalna nogometna liga u Škotskoj. Osnovana je 2013. godine nakon spajanja Škotske nogometne lige s Premier ligom i formiranja Škotske profesionalne nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805060000 +0200" stop="20260805080000 +0200">
+    <title lang="hr">Championship: Hull - Middlesbrough, fudbal</title>
+    <desc lang="hr">Football League of England Championship, ili samo Championship, je engleska nogometna liga, koja predstavlja drugu razinu u ligaškom sustavu zemlje i na kraju svake sezone daje tri kluba koji stječu pravo nastupa u najvišoj nogometnoj razini - Premier Ligi. Championship je također najviši rang Engleske nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805080000 +0200" stop="20260805100000 +0200">
+    <title lang="hr">ENGLESKA LIGA: Leeds - Crystal Palace, fudbal</title>
+    <desc lang="hr">FA Premier liga engleska je profesionalna nogometna liga, najviši rang u engleskom nogometnom sustavu liga. U ligi se natječe 20 klubova, a na kraju sezone tri posljednjeplasirana kluba ispadaju u niži rang, Championship.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805100000 +0200" stop="20260805120000 +0200">
+    <title lang="hr">ŠKOTSKA LIGA: St. Johnstone - Kilmarnock, fudbal</title>
+    <desc lang="hr">Škotski Premiership je najviša profesionalna nogometna liga u Škotskoj. Osnovana je 2013. godine nakon spajanja Škotske nogometne lige s Premier ligom i formiranja Škotske profesionalne nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805120000 +0200" stop="20260805123000 +0200">
+    <title lang="hr">Priče iz Premier lige: Norwich, gotovo uspješni 6, ep. 7.</title>
+    <desc lang="hr">Vraćamo se u prošlost kako bismo ponovno proživjeli nevjerojatnu priču o nezaboravnoj sezoni Norwich Cityja 1992./93.; sezoni u kojoj je momčad bez velikih očekivanja došla nadomak tome da postane prvi prvak Premier lige. Kroz intervjue s igračima i osobljem koji su to doživjeli, ponovno proživljavamo pritisak, dramu i ključne trenutke napete borbe za naslov s Manchester Unitedom, koja je mogla zauvijek promijeniti povijest engleskog nogometa.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805123000 +0200" stop="20260805130000 +0200">
+    <title lang="hr">CHAMPIONSHIP: Pregled 33. kola, fudbal</title>
+    <desc lang="hr">Football League of England Championship, ili samo Championship, je engleska nogometna liga, koja predstavlja drugu razinu u ligaškom sustavu zemlje i na kraju svake sezone daje tri kluba koji stječu pravo nastupa u najvišoj nogometnoj razini - Premier Ligi. Championship je također najviši rang Engleske nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805130000 +0200" stop="20260805150000 +0200">
+    <title lang="hr">ŠKOTSKA LIGA: Aberdeen - Hearts, fudbal</title>
+    <desc lang="hr">Škotski Premiership je najviša profesionalna nogometna liga u Škotskoj. Osnovana je 2013. godine nakon spajanja Škotske nogometne lige s Premier ligom i formiranja Škotske profesionalne nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805150000 +0200" stop="20260805170000 +0200">
+    <title lang="hr">ŠKOTSKA LIGA: Hibernian - Motherwell, fudbal</title>
+    <desc lang="hr">Škotski Premiership je najviša profesionalna nogometna liga u Škotskoj. Osnovana je 2013. godine nakon spajanja Škotske nogometne lige s Premier ligom i formiranja Škotske profesionalne nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805170000 +0200" stop="20260805190000 +0200">
+    <title lang="hr">ENGLESKA LIGA: Wolverhampton - Manchester United, fudbal</title>
+    <desc lang="hr">FA Premier liga engleska je profesionalna nogometna liga, najviši rang u engleskom nogometnom sustavu liga. U ligi se natječe 20 klubova, a na kraju sezone tri posljednjeplasirana kluba ispadaju u niži rang, Championship.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805190000 +0200" stop="20260805210000 +0200">
+    <title lang="hr">Ipswich - Le Havre, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Prijateljske nogometne utakmice smatraju se nekompetitivnima i uglavnom se koriste za "zagrijavanje" igrača za novu sezonu ili natjecateljsku utakmicu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805210000 +0200" stop="20260805230000 +0200">
+    <title lang="hr">ENGLESKI LIGA KUP: Chelsea - Arsenal, fudbal</title>
+    <desc lang="hr">Engleski Liga kup je englesko nogometno natjecanje. Natječu se 92 momčadi, 20 klubova iz Premier lige te 72 kluba iz Football lige koja organizira natjecanje. Pobjednik Liga kupa kvalificira se za Kup UEFA. Igra se po jedna utakmica u kupskom sistemu, osim u polufinalu, kada se igraju dvije.
+Liga kup je manje prestižan od FA kupa, te često najveći klubovi igraju s pričuvnim sastavima.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805230000 +0200" stop="20260805233000 +0200">
+    <title lang="hr">Emisija: Dobre Sportske Priče, ep. 45.</title>
+    <desc lang="hr">Intervju serijal Arena Sporta koji u svakoj epizodi fokus stavlja na jednog sportistu i njegovu životnu priču – početke, prepreke, prekretnice, povrede/povratke i ljude iz pozadine.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260805233000 +0200" stop="20260806000000 +0200">
+    <title lang="hr">ENGLESKA LIGA: The Big Interview - Ryan Gravenberch, fudbal</title>
+    <desc lang="hr">Prilika da čujete jedno od najvećih i najzanimljivijih imena u Premier ligi u promišljenijem formatu intervjua u sjedećem položaju.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806000000 +0200" stop="20260806020000 +0200">
+    <title lang="hr">Leeds - Liverpool, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Premier League Summer Series je prijateljski nogometni turnir koji se održava tijekom predsezonskog razdoblja u Sjedinjenim Američkim Državama.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806020000 +0200" stop="20260806040000 +0200">
+    <title lang="hr">Sunderland - Wrexham, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Premier League Summer Series je prijateljski nogometni turnir koji se održava tijekom predsezonskog razdoblja u Sjedinjenim Američkim Državama.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806040000 +0200" stop="20260806060000 +0200">
+    <title lang="hr">ŠKOTSKA LIGA: Hibernian - Motherwell, fudbal</title>
+    <desc lang="hr">Škotski Premiership je najviša profesionalna nogometna liga u Škotskoj. Osnovana je 2013. godine nakon spajanja Škotske nogometne lige s Premier ligom i formiranja Škotske profesionalne nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806060000 +0200" stop="20260806080000 +0200">
+    <title lang="hr">ŠKOTSKA LIGA: Falkrik - St. Mirren, fudbal</title>
+    <desc lang="hr">Škotski Premiership je najviša profesionalna nogometna liga u Škotskoj. Osnovana je 2013. godine nakon spajanja Škotske nogometne lige s Premier ligom i formiranja Škotske profesionalne nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806080000 +0200" stop="20260806100000 +0200">
+    <title lang="hr">ŠKOTSKA LIGA: Celtic - Dundee, fudbal</title>
+    <desc lang="hr">Škotski Premiership je najviša profesionalna nogometna liga u Škotskoj. Osnovana je 2013. godine nakon spajanja Škotske nogometne lige s Premier ligom i formiranja Škotske profesionalne nogometne lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806100000 +0200" stop="20260806120000 +0200">
+    <title lang="hr">HSV - Everton, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Prijateljske nogometne utakmice smatraju se nekompetitivnima i uglavnom se koriste za "zagrijavanje" igrača za novu sezonu ili natjecateljsku utakmicu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806120000 +0200" stop="20260806123000 +0200">
+    <title lang="hr">Priče iz Premier lige: Diogo Jota 6, ep. 5.</title>
+    <desc lang="hr">Godinu dana nakon tragične smrti Dioga Jote i njegovog brata Andréa u prometnoj nesreći, ova duboko emotivna emisija slavi život jednog od najomiljenijih nogometaša. Kroz intervjue s prijateljima, suigračima i trenerima od Portugala do Premier lige, prisjećamo se Jotinog puta, utjecaja koji je imao na one oko sebe te nasljeđa koje je ostavio i na terenu i izvan njega.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806123000 +0200" stop="20260806143000 +0200">
+    <title lang="hr">Cardiff - Roma, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Prijateljske nogometne utakmice smatraju se nekompetitivnima i uglavnom se koriste za "zagrijavanje" igrača za novu sezonu ili natjecateljsku utakmicu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806143000 +0200" stop="20260806163000 +0200">
+    <title lang="hr">Chelsea - Juventus, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Prijateljske nogometne utakmice smatraju se nekompetitivnima i uglavnom se koriste za "zagrijavanje" igrača za novu sezonu ili natjecateljsku utakmicu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806163000 +0200" stop="20260806183000 +0200">
+    <title lang="hr">Manchester City - Inter, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Prijateljske nogometne utakmice smatraju se nekompetitivnima i uglavnom se koriste za "zagrijavanje" igrača za novu sezonu ili natjecateljsku utakmicu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806183000 +0200" stop="20260806223000 +0200">
+    <title lang="hr">Centralni teren, dan 4, prepodnevna sesija, Tenis, WTA 1000 - Toronto</title>
+    <desc lang="hr">Canadian Open je profesionalni teniski turnir za žene i muškarce. Od 1982. svake parne godine ženski turnir se održava u Montrealu, a neparne u Torontu. Isto tako naizmjenično se održava muški turnir samo drugačijim redoslijedom: Montreal (neparna), a Toronto (parna). Turnir se održava tri tjedna prije US Opena.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806223000 +0200" stop="20260806230000 +0200">
+    <title lang="hr">Mi živimo za košarku - KK Torlak Beograd, ep. 85.</title>
+    <desc lang="hr">Arena Sport vam donosi emisiju u kojoj ćete upoznati košarkaške klubove diljem Hrvatske i saznati više o njima i njihovim pričama.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1.sport" start="20260806230000 +0200" stop="20260807010000 +0200">
+    <title lang="hr">Ipswich Town- Le Havre, PRIJATELJSKE UTAKMICE, fudbal</title>
+    <desc lang="hr">Prijateljske nogometne utakmice smatraju se nekompetitivnima i uglavnom se koriste za "zagrijavanje" igrača za novu sezonu ili natjecateljsku utakmicu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805010000 +0200" stop="20260805020000 +0200">
+    <title lang="hr">LIGA PRVAKA: SAŽETAK, nogomet</title>
+    <desc lang="hr">Nogometna Liga prvaka je godišnje nogometno klupsko natjecanje koje organizira UEFA od 1992. godine. Riječ je o jednom od najprestižnijih turnira na svijetu i najprestižnijem klupskom natjecanju u europskom nogometu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805020000 +0200" stop="20260805050000 +0200">
+    <title lang="hr">NFL: SUPER BOWL</title>
+    <desc lang="hr">Nacionalna liga američkog nogometa (NFL) najveća je i najpopularnija profesionalna liga tog sporta na svijetu. Liga je kao takva osnovana 1920. godine, a 1922. godine preuzela je ime NFL (National Football League). Najveću popularnost liga je stekla 60-ih kada se NFL spojio s dotadašnjom konkurentskom ligom AFL (American Football League).</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805050000 +0200" stop="20260805070000 +0200">
+    <title lang="hr">LIGA PRVAKA: LIVERPOOL - PSG, nogomet</title>
+    <desc lang="hr">Nogometna Liga prvaka je godišnje nogometno klupsko natjecanje koje organizira UEFA od 1992. godine. Riječ je o jednom od najprestižnijih turnira na svijetu i najprestižnijem klupskom natjecanju u europskom nogometu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805070000 +0200" stop="20260805083000 +0200">
+    <title lang="hr">ABA LIGA: DUBAI - PARTIZAN G3, košarka</title>
+    <desc lang="hr">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805083000 +0200" stop="20260805100000 +0200">
+    <title lang="hr">LIGA PRVAKA Ž: FINALE, rukomet</title>
+    <desc lang="hr">Ženska EHF Liga prvaka je natjecanje za najbolje ženske rukometne klubove u Europi, koje svake godine organizira Europska rukometna federacija (EHF). To je najprestižniji turnir za klubove na kojem sudjeluju prvakinje najboljih europskih nacionalnih liga.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805100000 +0200" stop="20260805120000 +0200">
+    <title lang="hr">FRANCUSKA LIGA: RENNES - LILLE, nogomet</title>
+    <desc lang="hr">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805120000 +0200" stop="20260805140000 +0200">
+    <title lang="hr">PREMIER LEAGUE: CHELSEA - MANCHESTER UNITED, nogomet</title>
+    <desc lang="hr">FA Premier liga engleska je profesionalna nogometna liga, najviši rang u engleskom nogometnom sustavu liga. U ligi se natječe 20 klubova, a na kraju sezone tri posljednjeplasirana kluba ispadaju u niži rang, Championship.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805140000 +0200" stop="20260805160000 +0200">
+    <title lang="hr">TALIJANSKA LIGA: LAZIO - ROMA, nogomet</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805160000 +0200" stop="20260805180000 +0200">
+    <title lang="hr">ŠPANJOLSKA LIGA: REAL MADRID - BARCELONA, nogomet</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805180000 +0200" stop="20260805183000 +0200">
+    <title lang="hr">PREMIJERA: MI ŽIVIMO ZA KOŠARKU</title>
+    <desc lang="hr">Arena Sport vam donosi emisiju u kojoj ćete upoznati košarkaške klubove diljem Hrvatske i saznati više o njima i njihovim pričama.</desc>
+    <premiere/>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805183000 +0200" stop="20260805202000 +0200">
+    <title lang="hr">POLJSKA LIGA: WIECZYSTA KRAKOW - LECH, nogomet</title>
+    <desc lang="hr">Poljsko nogometno prvenstvo, također nazvano Ekstraklasa, najviše je profesionalno nogometno prvenstvo u hijerarhiji poljskog nogometa.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805202000 +0200" stop="20260805233000 +0200">
+    <title lang="hr">UŽIVO: MLB: CHICAGO CUBS - LA DODGERS, baseball</title>
+    <desc lang="hr">Major League Baseball je najveća sjevernoamerička profesionalna baseball liga u i općenito se smatra najprestižnijom bejzbolaškom ligom na svijetu.</desc>
+    <live/>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260805233000 +0200" stop="20260806000000 +0200">
+    <title lang="hr">SPORT BEZ GRANICA</title>
+    <desc lang="hr">Emisija Arena Sporta koja kroz kratke reportaže i razgovore donosi priče „s terena“ – od lokalnih i rekreativnih inicijativa do razgovora s poznatim sportašima i trenerima.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806000000 +0200" stop="20260806020000 +0200">
+    <title lang="hr">UŽIVO: ARGENTINSKA LIGA: BOCA JUNIORS - ESTUDIANTES, nogomet</title>
+    <desc lang="hr">Primera División Argentina ili jednostavno Primera División, je profesionalna nogometna liga u Argentini i trenutno najviša razina nogometa u toj zemlji.</desc>
+    <live/>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806020000 +0200" stop="20260806050000 +0200">
+    <title lang="hr">NFL: NEW ENGLAND - HOUSTON</title>
+    <desc lang="hr">Nacionalna liga američkog nogometa (NFL) najveća je i najpopularnija profesionalna liga tog sporta na svijetu. Liga je kao takva osnovana 1920. godine, a 1922. godine preuzela je ime NFL (National Football League). Najveću popularnost liga je stekla 60-ih kada se NFL spojio s dotadašnjom konkurentskom ligom AFL (American Football League).</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806050000 +0200" stop="20260806070000 +0200">
+    <title lang="hr">LIGA PRVAKA: BAYERN - REAL MADRID, nogomet</title>
+    <desc lang="hr">Nogometna Liga prvaka je godišnje nogometno klupsko natjecanje koje organizira UEFA od 1992. godine. Riječ je o jednom od najprestižnijih turnira na svijetu i najprestižnijem klupskom natjecanju u europskom nogometu.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806070000 +0200" stop="20260806083000 +0200">
+    <title lang="hr">ABA LIGA: DUBAI - PARTIZAN G4, košarka</title>
+    <desc lang="hr">ABA liga je regionalna košarkaška liga u kojoj se natječu klubovi iz zemalja srednje i jugoistočne Europe.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806083000 +0200" stop="20260806100000 +0200">
+    <title lang="hr">LIGA PRVAKA M: FINALE, rukomet</title>
+    <desc lang="hr">EHF Liga prvaka najvažnije je klupsko rukometno natjecanje za muške momčadi u Europi i uključuje vodeće momčadi iz najjačih europskih nacija.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806100000 +0200" stop="20260806120000 +0200">
+    <title lang="hr">FRANCUSKA LIGA: PSG - MARSEILLE, nogomet</title>
+    <desc lang="hr">Ligue 1 je profesionalna francuska liga. Na vrhu je francuskog nogometnog ligaškog sustava te je primarno nogometno natjecanje u zemlji.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806120000 +0200" stop="20260806140000 +0200">
+    <title lang="hr">PREMIER LEAGUE: MANCHESTER CITY - ARSENAL, nogomet</title>
+    <desc lang="hr">FA Premier liga engleska je profesionalna nogometna liga, najviši rang u engleskom nogometnom sustavu liga. U ligi se natječe 20 klubova, a na kraju sezone tri posljednjeplasirana kluba ispadaju u niži rang, Championship.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806140000 +0200" stop="20260806160000 +0200">
+    <title lang="hr">TALIJANSKA LIGA: MILAN - JUVENTUS, nogomet</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806160000 +0200" stop="20260806180000 +0200">
+    <title lang="hr">ŠPANJOLSKA LIGA: BETIS - REAL MADRID, nogomet</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806180000 +0200" stop="20260806183000 +0200">
+    <title lang="hr">PREMIJERA: SPORT BEZ GRANICA</title>
+    <desc lang="hr">Emisija Arena Sporta koja kroz kratke reportaže i razgovore donosi priče „s terena“ – od lokalnih i rekreativnih inicijativa do razgovora s poznatim sportašima i trenerima.</desc>
+    <premiere/>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806183000 +0200" stop="20260806213000 +0200">
+    <title lang="hr">UŽIVO: MLB: BALTIMORE - LA ANGELS, baseball</title>
+    <desc lang="hr">Major League Baseball je najveća sjevernoamerička profesionalna baseball liga u i općenito se smatra najprestižnijom bejzbolaškom ligom na svijetu.</desc>
+    <live/>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806213000 +0200" stop="20260806220000 +0200">
+    <title lang="hr">PREMIJERA: ONE ŽIVE ZA SPORT BEST OF, ep. 6.</title>
+    <desc lang="hr">TV emisija o ženama u sportu.</desc>
+    <premiere/>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806220000 +0200" stop="20260806230000 +0200">
+    <title lang="hr">NEUSPJEH PRVAKA - ANA IVANOVIĆ 2. DIO</title>
+    <desc lang="hr">Nakon Maria Stanića i Mirze Džombe, treća sezona sportskog serijala (Ne)uspjeh prvaka donosi ’Specijal sa Slavenom Bilićem’. Trener i bivši hrvatski nogometaš preuzima ulogu voditelja specijalnog izdanja, u kojem će ugostiti neka od najvećih sportskih imena s ex-Yu prostora.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-1-hr.sport" start="20260806230000 +0200" stop="20260807010000 +0200">
+    <title lang="hr">ARGENTINSKA LIGA: BOCA JUNIORS - ESTUDIANTES, nogomet</title>
+    <desc lang="hr">Primera División Argentina ili jednostavno Primera División, je profesionalna nogometna liga u Argentini i trenutno najviša razina nogometa u toj zemlji.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805000000 +0200" stop="20260805020000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Engleska, snimak 18.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805020000 +0200" stop="20260805043000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Španija - Argentina, snimak 19.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805043000 +0200" stop="20260805053000 +0200">
+    <title lang="hr">Neuspjeh prvaka, Ana Ivanovic</title>
+    <desc lang="hr">Nakon Maria Stanića i Mirze Džombe, treća sezona sportskog serijala (Ne)uspjeh prvaka donosi ’Specijal sa Slavenom Bilićem’. Trener i bivši hrvatski nogometaš preuzima ulogu voditelja specijalnog izdanja, u kojem će ugostiti neka od najvećih sportskih imena s ex-Yu prostora.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805053000 +0200" stop="20260805060000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal</title>
+    <desc lang="hr">Priče iz gradova putuju kroz 16 gradova domaćina Svjetskog prvenstva u nogometu 2026. Voditelj i lokalni stručnjaci otkrivaju kulturne, lokalne i zajedničke dimenzije nogometa diljem Sjeverne Amerike.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805060000 +0200" stop="20260805080000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Engleska, snimak 18.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805080000 +0200" stop="20260805103000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Španija - Argentina, snimak 19.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805103000 +0200" stop="20260805110000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal</title>
+    <desc lang="hr">Priče iz gradova putuju kroz 16 gradova domaćina Svjetskog prvenstva u nogometu 2026. Voditelj i lokalni stručnjaci otkrivaju kulturne, lokalne i zajedničke dimenzije nogometa diljem Sjeverne Amerike.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805110000 +0200" stop="20260805130000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Španija, snimak 14.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805130000 +0200" stop="20260805150000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Engleska - Argentina, snimak 15.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805150000 +0200" stop="20260805170000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Engleska, snimak 18.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805170000 +0200" stop="20260805193000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Španija - Argentina, snimak 19.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805193000 +0200" stop="20260805200000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal</title>
+    <desc lang="hr">Priče iz gradova putuju kroz 16 gradova domaćina Svjetskog prvenstva u nogometu 2026. Voditelj i lokalni stručnjaci otkrivaju kulturne, lokalne i zajedničke dimenzije nogometa diljem Sjeverne Amerike.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805200000 +0200" stop="20260805220000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Španija, snimak 14.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260805220000 +0200" stop="20260806000000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Engleska - Argentina, snimak 15.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806000000 +0200" stop="20260806020000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Engleska, snimak 18.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806020000 +0200" stop="20260806043000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Španija - Argentina, snimak 19.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806043000 +0200" stop="20260806053000 +0200">
+    <title lang="hr">Neuspjeh prvaka, Ana Ivanovic</title>
+    <desc lang="hr">Nakon Maria Stanića i Mirze Džombe, treća sezona sportskog serijala (Ne)uspjeh prvaka donosi ’Specijal sa Slavenom Bilićem’. Trener i bivši hrvatski nogometaš preuzima ulogu voditelja specijalnog izdanja, u kojem će ugostiti neka od najvećih sportskih imena s ex-Yu prostora.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806053000 +0200" stop="20260806060000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Priče iz gradova, fudbal</title>
+    <desc lang="hr">Priče iz gradova putuju kroz 16 gradova domaćina Svjetskog prvenstva u nogometu 2026. Voditelj i lokalni stručnjaci otkrivaju kulturne, lokalne i zajedničke dimenzije nogometa diljem Sjeverne Amerike.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806060000 +0200" stop="20260806080000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Engleska, snimak 18.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806080000 +0200" stop="20260806103000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Španija - Argentina, snimak 19.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806103000 +0200" stop="20260806113000 +0200">
+    <title lang="hr">Neuspjeh prvaka, Ana Ivanovic</title>
+    <desc lang="hr">Nakon Maria Stanića i Mirze Džombe, treća sezona sportskog serijala (Ne)uspjeh prvaka donosi ’Specijal sa Slavenom Bilićem’. Trener i bivši hrvatski nogometaš preuzima ulogu voditelja specijalnog izdanja, u kojem će ugostiti neka od najvećih sportskih imena s ex-Yu prostora.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806113000 +0200" stop="20260806133000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Španija, snimak 14.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806133000 +0200" stop="20260806153000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Engleska - Argentina, snimak 15.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806153000 +0200" stop="20260806173000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Engleska, snimak 18.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806173000 +0200" stop="20260806183000 +0200">
+    <title lang="hr">Neuspjeh prvaka, Ana Ivanovic</title>
+    <desc lang="hr">Nakon Maria Stanića i Mirze Džombe, treća sezona sportskog serijala (Ne)uspjeh prvaka donosi ’Specijal sa Slavenom Bilićem’. Trener i bivši hrvatski nogometaš preuzima ulogu voditelja specijalnog izdanja, u kojem će ugostiti neka od najvećih sportskih imena s ex-Yu prostora.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806183000 +0200" stop="20260806220000 +0200">
+    <title lang="hr">UŽIVO: MLB, Baltimore - LA Angels, bejzbol</title>
+    <desc lang="hr">Major League Baseball je najveća sjevernoamerička profesionalna baseball liga u i općenito se smatra najprestižnijom bejzbolaškom ligom na svijetu.</desc>
+    <live/>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806220000 +0200" stop="20260806230000 +0200">
+    <title lang="hr">Neuspjeh prvaka, Ana Ivanovic</title>
+    <desc lang="hr">Nakon Maria Stanića i Mirze Džombe, treća sezona sportskog serijala (Ne)uspjeh prvaka donosi ’Specijal sa Slavenom Bilićem’. Trener i bivši hrvatski nogometaš preuzima ulogu voditelja specijalnog izdanja, u kojem će ugostiti neka od najvećih sportskih imena s ex-Yu prostora.</desc>
+  </programme>
+  <programme channel="arena-sport-1-ba.sport" start="20260806230000 +0200" stop="20260807010000 +0200">
+    <title lang="hr">FIFA SVJETSKO PRVENSTVO: Francuska - Španija, snimak 14.7., fudbal</title>
+    <desc lang="hr">Svjetsko nogometno prvenstvo 2026. godine je 23. svjetsko nogometno prvenstvo, četverogodišnje međunarodno muško prvenstvo u nogometu u međusobnom natjecanju nacionalnih reprezentacija koji su članovi nogometnog saveza FIFA-e.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805000000 +0200" stop="20260805020000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Lecce - Inter, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805020000 +0200" stop="20260805040000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Girona - Barcelona, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805040000 +0200" stop="20260805060000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Como - Inter, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805060000 +0200" stop="20260805080000 +0200">
+    <title lang="hr">Italijanska liga: Atalanta - Lecce, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805080000 +0200" stop="20260805100000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Real Madrid - Villarreal, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805100000 +0200" stop="20260805103000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Pregled 28. kola, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805103000 +0200" stop="20260805123000 +0200">
+    <title lang="hr">Italijanska liga: Roma - Parma, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805123000 +0200" stop="20260805143000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Barcelona - Alaves, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805143000 +0200" stop="20260805150000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Full Impact fudbal, ep. 28.</title>
+    <desc lang="hr">Najnoviji golovi i zbivanja u talijanskoj Serie A.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805150000 +0200" stop="20260805170000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Napoli - Juventus, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805170000 +0200" stop="20260805190000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Espanyol - Sevilla, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805190000 +0200" stop="20260805200000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Pregled 27. kola, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805200000 +0200" stop="20260805203000 +0200">
+    <title lang="hr">Fudbal: Italijanska Liga: TOP 100 Saves: ITALIJANSKA LIGA, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805203000 +0200" stop="20260805233000 +0200">
+    <title lang="hr">UŽIVO: Major League Baseball: Los Angeles Dodgers - Chicago Cubs, bejzbol</title>
+    <desc lang="hr">Major League Baseball je najveća sjevernoamerička profesionalna baseball liga u i općenito se smatra najprestižnijom bejzbolaškom ligom na svijetu.</desc>
+    <live/>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805233000 +0200" stop="20260806000000 +0200">
+    <title lang="hr">Major League Baseball: MLB Plays of the Week, bejzbol</title>
+    <desc lang="hr">Tjedna emisija s istaknutim trenucima iz MLB-a prikazuje najuzbudljivije poteze s utakmica iz proteklog tjedna.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806000000 +0200" stop="20260806020000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Fiorentina - Milan, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806020000 +0200" stop="20260806040000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Mallorca - Betis, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806040000 +0200" stop="20260806060000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Inter - Cagliari, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806060000 +0200" stop="20260806080000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Milan - Bologna, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806080000 +0200" stop="20260806100000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Celta - Villarreal, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806100000 +0200" stop="20260806103000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Pregled 29. kola, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806103000 +0200" stop="20260806123000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Inter - Fiorentina, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806123000 +0200" stop="20260806143000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Milan - Sassuolo, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806143000 +0200" stop="20260806150000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Full Impact fudbal, ep. 29.</title>
+    <desc lang="hr">Najnoviji golovi i zbivanja u talijanskoj Serie A.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806150000 +0200" stop="20260806170000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Sevilla - Barcelona, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806170000 +0200" stop="20260806190000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Real Madrid - Mallorca, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806190000 +0200" stop="20260806200000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Pregled 28. kola, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806200000 +0200" stop="20260806220000 +0200">
+    <title lang="hr">UEFA LIGA KONFERENCIJA - Kvalifikacije: Twente - Dun. Streda, fudbal</title>
+    <desc lang="hr">UEFA Konferencijska liga je treće klupsko natjecanje u organizaciji UEFA-e po jačini, odmah iza Lige prvaka i Europske lige, a pobjednik ovog natjecanja stječe pravo sudjelovanja u Europskoj ligi.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806220000 +0200" stop="20260807000000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Villarreal - Alaves, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805000000 +0200" stop="20260805020000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Lecce - Inter, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805020000 +0200" stop="20260805040000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Girona - Barcelona, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805040000 +0200" stop="20260805060000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Como - Inter, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805060000 +0200" stop="20260805080000 +0200">
+    <title lang="hr">Italijanska liga: Atalanta - Lecce, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805080000 +0200" stop="20260805100000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Real Madrid - Villarreal, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805100000 +0200" stop="20260805103000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Pregled 28. kola, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805103000 +0200" stop="20260805123000 +0200">
+    <title lang="hr">Italijanska liga: Roma - Parma, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805123000 +0200" stop="20260805143000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Barcelona - Alaves, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805143000 +0200" stop="20260805150000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Full Impact fudbal, ep. 28.</title>
+    <desc lang="hr">Najnoviji golovi i zbivanja u talijanskoj Serie A.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805150000 +0200" stop="20260805170000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Napoli - Juventus, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805170000 +0200" stop="20260805190000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Espanyol - Sevilla, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805190000 +0200" stop="20260805200000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Pregled 27. kola, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805200000 +0200" stop="20260805203000 +0200">
+    <title lang="hr">Fudbal: Italijanska Liga: TOP 100 Saves: ITALIJANSKA LIGA, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805203000 +0200" stop="20260805233000 +0200">
+    <title lang="hr">UŽIVO: Major League Baseball: Los Angeles Dodgers - Chicago Cubs, bejzbol</title>
+    <desc lang="hr">Major League Baseball je najveća sjevernoamerička profesionalna baseball liga u i općenito se smatra najprestižnijom bejzbolaškom ligom na svijetu.</desc>
+    <live/>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260805233000 +0200" stop="20260806000000 +0200">
+    <title lang="hr">Major League Baseball: MLB Plays of the Week, bejzbol</title>
+    <desc lang="hr">Tjedna emisija s istaknutim trenucima iz MLB-a prikazuje najuzbudljivije poteze s utakmica iz proteklog tjedna.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806000000 +0200" stop="20260806020000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Fiorentina - Milan, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806020000 +0200" stop="20260806040000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Mallorca - Betis, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806040000 +0200" stop="20260806060000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Inter - Cagliari, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806060000 +0200" stop="20260806080000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Milan - Bologna, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806080000 +0200" stop="20260806100000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Celta - Villarreal, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806100000 +0200" stop="20260806103000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Pregled 29. kola, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806103000 +0200" stop="20260806123000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Inter - Fiorentina, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806123000 +0200" stop="20260806143000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Milan - Sassuolo, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806143000 +0200" stop="20260806150000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Full Impact fudbal, ep. 29.</title>
+    <desc lang="hr">Najnoviji golovi i zbivanja u talijanskoj Serie A.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806150000 +0200" stop="20260806170000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Sevilla - Barcelona, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806170000 +0200" stop="20260806190000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Real Madrid - Mallorca, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806190000 +0200" stop="20260806200000 +0200">
+    <title lang="hr">ITALIJANSKA LIGA: Pregled 28. kola, fudbal</title>
+    <desc lang="hr">Serie A profesionalno je ligaško nogometno prvenstvo u kojem se natječe dvadeset najboljih talijanskih nogometnih klubova. Liga Serie A smatra se jednom od najboljih nogometnih liga na svijetu. Prema trenutačnom UEFA-inom ligaškom koeficijentu, Serie A nalazi se nalazi na trećem mjestu najjačih europskih nogometnih liga, odmah iza španjolske i engleske lige.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806200000 +0200" stop="20260806220000 +0200">
+    <title lang="hr">UEFA LIGA KONFERENCIJA - Kvalifikacije: Twente - Dun. Streda, fudbal</title>
+    <desc lang="hr">UEFA Konferencijska liga je treće klupsko natjecanje u organizaciji UEFA-e po jačini, odmah iza Lige prvaka i Europske lige, a pobjednik ovog natjecanja stječe pravo sudjelovanja u Europskoj ligi.</desc>
+  </programme>
+  <programme channel="tv-arena-sport-2.sport" start="20260806220000 +0200" stop="20260807000000 +0200">
+    <title lang="hr">ŠPANSKA LIGA: Villarreal - Alaves, fudbal</title>
+    <desc lang="hr">La Liga najviši je rang nogometnog natjecanja u Španjolskoj i u njoj se natječe 20 momčadi. Na temelju UEFA-inog ligaškog koeficijenta, La Liga se trenutno smatra drugom najboljom nogometnog ligom Europe, odmah iza engleske Premier Lige.</desc>
+  </programme>
+</tv>
