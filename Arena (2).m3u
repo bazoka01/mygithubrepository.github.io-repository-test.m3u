@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://github.com/bazoka01/mygithubrepository.github.io-repository-test.m3u/raw/refs/heads/main/ARENA_EPG.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/bazoka01/mygithubrepository.github.io-repository-test.m3u/main/ARENA_EPG.xml"
 #EXTINF:-1 CUID="4978009" tvg-name="Arena Sport 1" tvg-id="ArenaSport1.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 1 BIH ✅
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559146&extension=ts&play_token=IdHwlJLS4K
 #EXTINF:-1 tvg-id="Arenasport1.hr" tvg-name="Arena Sport 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-1-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 1 HR ✅
