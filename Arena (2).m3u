@@ -15,12 +15,12 @@ http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/31463
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/22774.ts
 #EXTINF:-1 tvg-id="Arenasport2.hr" tvg-name="Arena Sport 2 SR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 2 HR ✅
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/95450.ts
-#EXTINF:-1 CUID="4978011" tvg-name="Arena Sport 3" tvg-id="Arenasport3.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 HR
-http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/31464
-#EXTINF:-1 CUID="4978011" tvg-name="Arena Sport 3" tvg-id="ArenaSport3.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 BIH
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559148&extension=ts&play_token=C8TG8rfCxm
+#EXTINF:-1 CUID="4978011" tvg-name="Arena Sport 3" tvg-id="Arenasport3.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 HR ✅
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551863&extension=ts&play_token=3DIq94tZWy
+#EXTINF:-1 CUID="4978011" tvg-name="Arena Sport 3" tvg-id="ArenaSport3.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 BIH ✅
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=809950&extension=ts&play_token=JS4elvL7qe
 #EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3 SR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 RS ✅
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/31464.ts
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551905&extension=ts&play_token=R1XQ79gEjo
 #EXTINF:-1 CUID="4978012" tvg-name="Arena Sport 4" tvg-id="Arenasport4.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 4 HR
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559149&extension=ts&play_token=INynUdTiVs
 #EXTINF:-1 CUID="4978012" tvg-name="Arena Sport 4" tvg-id="ArenaSport4.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-4-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 4 BIH
