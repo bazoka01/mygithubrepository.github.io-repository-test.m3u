@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz"
 #EXTINF:-1 tvg-id="SK.1.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/c9c00735-c0b5-4467-a78a-27e19286a993_s.png",SK 1
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/31530.ts
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551928&extension=ts&play_token=YJjNolq2Hs
 #EXTINF:-1 tvg-id="SK.2.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/12/02/586e4b69_e16f_422e_bd12_8ce62f194614.png",SK 2
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/96291.ts
 #EXTINF:-1 tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/12/02/c14bd326_b113_4838_be3e_cd62da3f6172.png",SK 3
