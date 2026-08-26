@@ -1,15 +1,13 @@
 #EXTM3U url-tvg="https://epg.lat/files/cz.xml.gz"
-#EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-ACTION.png" group-title="|CZ| ✪ CZECH",CZ| CANAL+ Action
+#EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canal_action.png" group-title="|CZ| ✪ CZECH",CZ| CANAL+ Action
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1149977&extension=ts
-#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/CT%201.png" group-title="|CZ| ✪ CZECH",CZ| CT 1 ᴴᴰ
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png" group-title="|CZ| ✪ CZECH",CZ| CT 1 ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88589&extension=ts
-#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%C4%8CT2_logo_2012.svg/1200px-%C4%8CT2_logo_2012.svg.png" group-title="|CZ| ✪ CZECH",CZ| CT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png" group-title="|CZ| ✪ CZECH",CZ| CT 2 ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88591&extension=ts
-#EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/CT%2024.png" group-title="|CZ| ✪ CZECH",CZ| CT 24 ᴴᴰ
+#EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct24.png" group-title="|CZ| ✪ CZECH",CZ| CT 24 ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88593&extension=ts
-#EXTINF:-1 tvg-id="ČT.art.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/CT%20D%20ART.png" group-title="|CZ| ✪ CZECH",CZ| CT :D/ART ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88599&extension=ts
-#EXTINF:-1 tvg-id="AXN.cz" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNHD.png" group-title="|CZ| ✪ CZECH",CZ| AXN
+#EXTINF:-1 tvg-id="AXN.HD.cz" tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNHD.png" group-title="|CZ| ✪ CZECH",CZ| AXN
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88605&extension=ts
 #EXTINF:-1 tvg-id="Dajto.cz" tvg-logo="http://4.bp.blogspot.com/-OujRadr7UqE/UDVZoXH8f1I/AAAAAAAAL2Q/n2UJxl90_7c/s320/Dajto+logo+2012.png" group-title="|CZ| ✪ CZECH",CZ| DAJTO ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88595&extension=ts
@@ -17,15 +15,15 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88595&extens
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88585&extension=ts
 #EXTINF:-1 tvg-id="Markíza.+1.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Mark%C3%ADza_HD.svg/revision/latest/top-crop/width/220/height/220?cb=20191223145902" group-title="|CZ| ✪ CZECH",CZ| MARKIZA PLUS 1 ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88587&extension=ts
-#EXTINF:-1 tvg-id="Nova.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/NOVA%20HD.png" group-title="|CZ| ✪ CZECH",CZ| NOVA ᴴᴰ
+#EXTINF:-1 tvg-id="Nova.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova.png" group-title="|CZ| ✪ CZECH",CZ| NOVA ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88656&extension=ts
-#EXTINF:-1 tvg-id="Spektrum.cz" tvg-logo="https://aux.iconspalace.com/uploads/11391318551174500629.png" group-title="|CZ| ✪ CZECH",CZ| SPEKTRUM ᴴᴰ
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/spektrum.png" group-title="|CZ| ✪ CZECH",CZ| SPEKTRUM ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88682&extension=ts
-#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/JOJ%20CINEMA.jpg" group-title="|CZ| ✪ CZECH",CZ| JOJ CINEMA ᴴᴰ
+#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png" group-title="|CZ| ✪ CZECH",CZ| JOJ CINEMA ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88630&extension=ts
 #EXTINF:-1 tvg-id="JOJ.Cinema.+1.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/JOJ%20CINEMA%20PLUS%201.jpg" group-title="|CZ| ✪ CZECH",CZ| JOJ CINEMA PLUS 1 ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88632&extension=ts
-#EXTINF:-1 tvg-id="JOJ.Family.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/JOJ%20FAMILY.jpg" group-title="|CZ| ✪ CZECH",CZ| JOJ FAMILY ᴴᴰ
+#EXTINF:-1 tvg-id="JOJ.Family.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/joj_family.png" group-title="|CZ| ✪ CZECH",CZ| JOJ FAMILY ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88634&extension=ts
 #EXTINF:-1 tvg-id="JOJ.Plus.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/JOJ_Plus_2020.svg/revision/latest/scale-to-width-down/340?cb=20201005165235" group-title="|CZ| ✪ CZECH",CZ| JOJ PLUS ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88636&extension=ts
@@ -35,19 +33,19 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88625&extens
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88627&extension=ts
 #EXTINF:-1 tvg-id="HBO3.cz" tvg-logo="http://138.199.27.237:8080/USA/HBO.png" group-title="|CZ| ✪ CZECH",CZ| HBO3
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88628&extension=ts
-#EXTINF:-1 tvg-id="Nova.Action.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/NOVA%20ACTION.png" group-title="|CZ| ✪ CZECH",CZ| NOVA ACTION ᴴᴰ
+#EXTINF:-1 tvg-id="Nova.Action.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_action.png" group-title="|CZ| ✪ CZECH",CZ| NOVA ACTION ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88651&extension=ts
-#EXTINF:-1 tvg-id="Nova.Cinema.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/NOVA%20CINEMA.png" group-title="|CZ| ✪ CZECH",CZ| NOVA CINEMA ᴴᴰ
+#EXTINF:-1 tvg-id="Nova.Cinema.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_cinema.png" group-title="|CZ| ✪ CZECH",CZ| NOVA CINEMA ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88653&extension=ts
-#EXTINF:-1 tvg-id="Prima.Cool.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/PRIMA%20COOL.jpg" group-title="|CZ| ✪ CZECH",CZ| PRIMA COOL ᴴᴰ
+#EXTINF:-1 tvg-id="Prima.Cool.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_cool.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA COOL ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88666&extension=ts
 #EXTINF:-1 tvg-id="Prima.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/PRIMA.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88668&extension=ts
-#EXTINF:-1 tvg-id="Prima.LOVE.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/PRIMA%20LOVE.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA LOVE
+#EXTINF:-1 tvg-id="Prima.LOVE.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/primalove.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA LOVE
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88670&extension=ts
-#EXTINF:-1 tvg-id="Prima.MAX.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/PRIMA%20MAX.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA MAX ᴴᴰ
+#EXTINF:-1 tvg-id="Prima.MAX.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_max.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA MAX ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88671&extension=ts
-#EXTINF:-1 tvg-id="Prima.ZOOM.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/PRIMA%20ZOOM.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA ZOOM ᴴᴰ
+#EXTINF:-1 tvg-id="Prima.ZOOM.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_zoom.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA ZOOM ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88677&extension=ts
 #EXTINF:-1 tvg-id="Disney.XD.cz" tvg-logo="http://138.199.27.237:8080/TURKIYE/DISNEYCHANNEL.png" group-title="|CZ| ✪ CZECH",CZ| DISNEY
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88612&extension=ts
@@ -57,39 +55,35 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88649&extens
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88648&extension=ts
 #EXTINF:-1 tvg-id="National.Geographic.Wild.cz" tvg-logo="http://138.199.27.237:8080/0tv_logo/5019.png" group-title="|CZ| ✪ CZECH",CZ| NATIONAL GEOGRAPHIC WILD ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88644&extension=ts
-#EXTINF:-1 tvg-id="National.Geographic.(hr).cz" tvg-logo="http://138.199.27.237:8080/SCANDINAVIAN/NATIONALGEOGRAPHICHD.png" group-title="|CZ| ✪ CZECH",CZ| NAT GEO ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88642&extension=ts
-#EXTINF:-1 tvg-id="Viasat.Explore.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/VIASAT%20EXPLORE.jpg" group-title="|CZ| ✪ CZECH",CZ| VIASAT EXPLORE
+#EXTINF:-1 tvg-id="Viasat.Explore.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/viasatexplore.png" group-title="|CZ| ✪ CZECH",CZ| VIASAT EXPLORE
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88705&extension=ts
-#EXTINF:-1 tvg-id="Viasat.History.cz" tvg-logo="VIASAT HISTORY" group-title="|CZ| ✪ CZECH",CZ| VIASAT HISTORY
+#EXTINF:-1 tvg-id="Viasat.History.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/viasathistory.png" group-title="|CZ| ✪ CZECH",CZ| VIASAT HISTORY
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88706&extension=ts
-#EXTINF:-1 tvg-id="FISHING.and.HUNTING.(UPC).cz" tvg-logo="http://www.predavatel.com/bg/tv/images/fishing-hunting.png" group-title="|CZ| ✪ CZECH",CZ| FISHING AND HUNTING
+#EXTINF:-1 tvg-id="FISHING.and.HUNTING.(UPC).cz" tvg-logo="http://www.programy-tv.cz/stanice/fnh.gif" group-title="|CZ| ✪ CZECH",CZ| FISHING AND HUNTING
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88623&extension=ts
 #EXTINF:-1 tvg-id="DocuBox.HD.cz" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png" group-title="|CZ| ✪ CZECH",CZ| DOCUBOX
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88613&extension=ts
-#EXTINF:-1 tvg-id="Rik.TV.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_RIK_1_2017.svg/1200px-Logo_RIK_1_2017.svg.png" group-title="|CZ| ✪ CZECH",CZ| RIK
+#EXTINF:-1 tvg-id="Rik.TV.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/rik.png" group-title="|CZ| ✪ CZECH",CZ| RIK
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88679&extension=ts
 #EXTINF:-1 tvg-id="SENZI.cz" tvg-logo="https://static.wikia.nocookie.net/cstv/images/8/85/Senzi.png/revision/latest/top-crop/width/360/height/450?cb=20160103091446" group-title="|CZ| ✪ CZECH",CZ| SENZI
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88680&extension=ts
-#EXTINF:-1 tvg-id="Doma.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/DOMA%20HEVC.jpg" group-title="|CZ| ✪ CZECH",CZ| DOMA ᴴᴰ
+#EXTINF:-1 tvg-id="Doma.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/doma.png" group-title="|CZ| ✪ CZECH",CZ| DOMA ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88597&extension=ts
-#EXTINF:-1 tvg-id="Doma.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/DOMA%20HEVC.jpg" group-title="|CZ| ✪ CZECH",CZ| DOMA ᵁᴴᴰ
+#EXTINF:-1 tvg-id="Doma.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/doma.png" group-title="|CZ| ✪ CZECH",CZ| DOMA ᵁᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88598&extension=ts
 #EXTINF:-1 tvg-id="ducktv.cz" tvg-logo="http://138.199.27.237:8080/AMERICA/USA/DUCKTV.png" group-title="|CZ| ✪ CZECH",CZ| DUCK TV
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88614&extension=ts
-#EXTINF:-1 tvg-id="Barrandov.Krimi.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/1200px-Logo-krimi-barrandov-color.svg.png" group-title="|CZ| ✪ CZECH",CZ| BARRANDOV KRIMI ᴴᴰ
+#EXTINF:-1 tvg-id="Barrandov.Krimi.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/barrandov_krimi.png" group-title="|CZ| ✪ CZECH",CZ| BARRANDOV KRIMI ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88606&extension=ts
-#EXTINF:-1 tvg-id="Paprika.cz" tvg-logo="https://img.favpng.com/24/22/13/logo-tv-paprika-spektrum-home-film-mania-television-png-favpng-ePdVVgzNr4r4y7cPE6eCxmemv.jpg" group-title="|CZ| ✪ CZECH",CZ| TV PAPRIKA
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88701&extension=ts
 #EXTINF:-1 tvg-id="Markíza.International.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Mark%C3%ADza_HD.svg/revision/latest/top-crop/width/220/height/220?cb=20191223145902" group-title="|CZ| ✪ CZECH",CZ| MARKIZA INTERNATIONAL
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88584&extension=ts
-#EXTINF:-1 tvg-id="Nova.International.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/NOVA%20INTERNATIONAL.png" group-title="|CZ| ✪ CZECH",CZ| NOVA INTERNATIONAL
+#EXTINF:-1 tvg-id="Nova.International.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_international.png" group-title="|CZ| ✪ CZECH",CZ| NOVA INTERNATIONAL
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88658&extension=ts
 #EXTINF:-1 tvg-id="TV.RAJ.cz" tvg-logo="https://seeklogo.com/images/T/tv-noe-logo-2C785FFA67-seeklogo.com.png" group-title="|CZ| ✪ CZECH",CZ| TV NOE ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88699&extension=ts
-#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/NOVA%20SPORT%201.png" group-title="|CZ| ✪ CZECH",CZ| NOVA SPORT 1 ᴴᴰ
+#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_1.png" group-title="|CZ| ✪ CZECH",CZ| NOVA SPORT 1 ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88661&extension=ts
-#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-logo="http://103.161.34.238/dreamtv/tv/NOVA%20SPORT%202.png" group-title="|CZ| ✪ CZECH",CZ| NOVA SPORT 2 ᴴᴰ
+#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" group-title="|CZ| ✪ CZECH",CZ| NOVA SPORT 2 ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88663&extension=ts
 #EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Nova_Sport_1_2016.svg/revision/latest/top-crop/width/450/height/450?cb=20200714094309" group-title="|CZ| ✪ CZECH",CZ| SPORT 1 ᴴᴰ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88684&extension=ts
@@ -113,35 +107,33 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195158&exte
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184942&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Action.cz" tvg-logo="https://s12.gifyu.com/images/SVXRc.png" group-title="|CZ| ✪ SPORT",CZ| CANAL+ ACTION HD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184943&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.cz" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-6.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 1
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178544&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.2.cz" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-2.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 2
+#EXTINF:-1 tvg-id="Canal+.Sport.2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport2.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 2
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178808&extension=ts
-#EXTINF:-1 tvg-id="Canal.plus.Sport.4.cz" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-4.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4
+#EXTINF:-1 tvg-id="Canal+.Sport.4.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport4.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178836&extension=ts
-#EXTINF:-1 tvg-id="Canal.plus.Sport.4.cz" tvg-logo="https://s13.gifyu.com/images/SCRfv.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4 FHD
+#EXTINF:-1 tvg-id="Canal+.Sport.4.cz" tvg-logo="https://s13.gifyu.com/images/SCRfv.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4 FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184932&extension=ts
-#EXTINF:-1 tvg-id="Canal.plus.Sport.4.cz" tvg-logo="https://s13.gifyu.com/images/SCRfv.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4 HD
+#EXTINF:-1 tvg-id="Canal+.Sport.4.cz" tvg-logo="https://s13.gifyu.com/images/SCRfv.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4 HD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184933&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.5.cz" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-5.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 5
+#EXTINF:-1 tvg-id="Canal+.Sport.5.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport5.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 5
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178862&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Sport.5.cz" tvg-logo="https://s13.gifyu.com/images/SCRfm.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 5 FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184934&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Sport.5.cz" tvg-logo="https://s13.gifyu.com/images/SCRfm.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 5 HD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184935&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.6.cz" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-6.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6
+#EXTINF:-1 tvg-id="Canal.plus.Sport.6.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178901&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.6.cz" tvg-logo="https://s13.gifyu.com/images/SCRfI.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6 FHD
+#EXTINF:-1 tvg-id="Canal.plus.Sport.6.cz" tvg-logo="https://s13.gifyu.com/images/SCRfI.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6 FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184936&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.6.cz" tvg-logo="https://s13.gifyu.com/images/SCRfI.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6 HD
+#EXTINF:-1 tvg-id="Canal.plus.Sport.6.cz" tvg-logo="https://s13.gifyu.com/images/SCRfI.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6 HD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184937&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.7.cz" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-7.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7
+#EXTINF:-1 tvg-id="Canal+.Sport.7.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport7.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178926&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Sport.7.cz" tvg-logo="https://i.imgur.com/vsEbul3.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7 FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184938&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Sport.7.cz" tvg-logo="https://i.imgur.com/vsEbul3.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7 HD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184939&extension=ts
-#EXTINF:-1 tvg-id="Canal+.Sport.8.cz" tvg-logo="http://logo.protv.cc/picons/logos/logos/CANAL-SPORT-8.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8
+#EXTINF:-1 tvg-id="Canal+.Sport.8.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport8.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178952&extension=ts
 #EXTINF:-1 tvg-id="Canal+.Sport.8.cz" tvg-logo="https://i.imgur.com/cmgYv8m.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8 FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184940&extension=ts
@@ -221,10 +213,6 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195160&exte
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184944&extension=ts
 #EXTINF:-1 tvg-id="ČT.sport.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="|CZ| ✪ SPORT",CZ| ČT SPORT HD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184945&extension=ts
-#EXTINF:-1 tvg-id="Šlágr.Originál.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c5%a0l%c3%a1ger%20Origin%c3%a1l.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Šláger Originál
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963558&extension=ts
-#EXTINF:-1 tvg-id="Šlágr.Muzika.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c5%a0l%c3%a1ger%20Muzika.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Šláger Muzika
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963557&extension=ts
 #EXTINF:-1 tvg-id="Óčko.Star.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko%20Star.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Óčko Star FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963555&extension=ts
 #EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Óčko FHD
@@ -361,7 +349,7 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963459&exte
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963458&extension=ts
 #EXTINF:-1 tvg-id="JOJ.Šport.2.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20%c5%a0port%202.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",JOJ Šport 2 FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963457&extension=ts
-#EXTINF:-1 tvg-id="JOJ.Šport.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20%c5%a0port.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",JOJ Šport FHD
+#EXTINF:-1 tvg-id="JOJ.ŠPORT.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20%c5%a0port.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",JOJ Šport FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963456&extension=ts
 #EXTINF:-1 tvg-id="JOJ_SVET.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20Svet.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",JOJ Svet FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963455&extension=ts
@@ -459,7 +447,7 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963403&exte
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963402&extension=ts
 #EXTINF:-1 tvg-id="AXN.White.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/AXN%20White.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",AXN White
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963401&extension=ts
-#EXTINF:-1 tvg-id="AXN.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/AXN.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",AXN FHD
+#EXTINF:-1 tvg-id="AXN.HD.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/AXN.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",AXN FHD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963400&extension=ts
 #EXTINF:-1 tvg-id="AXN.Black.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/AXN%20Black.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",AXN Black
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963399&extension=ts
@@ -475,45 +463,45 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963393&exte
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963392&extension=ts
 #EXTINF:-1 tvg-id="360TuneBox.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/360%20TuneBox.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",360 TuneBox HD
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963389&extension=ts
-#EXTINF:-1 tvg-id="Óčko.Star.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/%C3%93%C4%8Dko_Star_logo.png/512px-%C3%93%C4%8Dko_Star_logo.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Óčko Star HD CZ
+#EXTINF:-1 tvg-id="Óčko.Star.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ocko-gold.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Óčko Star HD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516995&extension=ts
-#EXTINF:-1 tvg-id="Viasat.Nature.cz" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Viasat Nature FHD CZ
+#EXTINF:-1 tvg-id="Viasat.Nature.(hr).cz" tvg-logo="https://i.imgur.com/ousRqqD.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Viasat Nature FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516992&extension=ts
-#EXTINF:-1 tvg-id="Viasat.History.cz" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Viasat History FHD CZ
+#EXTINF:-1 tvg-id="Viasat.History.(hr).cz" tvg-logo="https://i.imgur.com/wRP9XA7.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Viasat History FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516990&extension=ts
-#EXTINF:-1 tvg-id="Viasat.Explore.(hr).cz" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Viasat Explore FHD CZ
+#EXTINF:-1 tvg-id="Viasat.Explore.cz" tvg-logo="https://i.imgur.com/DyT5pKB.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Viasat Explore FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516989&extension=ts
-#EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Sport 1 FHD CZ
+#EXTINF:-1 tvg-id="Sport1.(hu).cz" tvg-logo="https://i.imgur.com/X5X3tKC.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Sport 1 FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516975&extension=ts
 #EXTINF:-1 tvg-id="Spektrum.(hu).cz" tvg-logo="https://i.imgur.com/F5Uosum.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Spektrum FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516974&extension=ts
 #EXTINF:-1 tvg-id="Prima.Show.cz" tvg-logo="https://i.imgur.com/XbwAwkp.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Prima Show FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516966&extension=ts
-#EXTINF:-1 tvg-id="Paramount.Network.(pl).cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Paramount Network FHD CZ
+#EXTINF:-1 tvg-id="Paramount.Network.(pl).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/paramount.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Paramount Network FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516958&extension=ts
 #EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-logo="https://i.imgur.com/Xdc5JTE.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nova Sport 2 FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516956&extension=ts
 #EXTINF:-1 tvg-id="Nova.International.cz" tvg-logo="https://i.imgur.com/uN6sgf5.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nova International CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516954&extension=ts
-#EXTINF:-1 tvg-id="Nova.TV.cz" tvg-logo="https://i.imgur.com/77ztmd9.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nova FHD CZ
+#EXTINF:-1 tvg-id="Nova.Fun.cz" tvg-logo="https://i.imgur.com/77ztmd9.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nova FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516952&extension=ts
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nicktoons CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516949&extension=ts
-#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nickelodeon CZ
+#EXTINF:-1 tvg-id="Nickelodeon.(pl).cz" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nickelodeon CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516948&extension=ts
-#EXTINF:-1 tvg-id="Nick.Jr..(pl).cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nick Jr CZ
+#EXTINF:-1 tvg-id="Nick.Jr..(pl).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nickjr.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Nick Jr CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516947&extension=ts
-#EXTINF:-1 tvg-id="National.Geographic.Wild.(hr).cz" tvg-logo="https://i.imgur.com/HoeaQJC.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",National Geographic Wild HD CZ
+#EXTINF:-1 tvg-id="National.Geographic.Wild.cz" tvg-logo="https://i.imgur.com/HoeaQJC.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",National Geographic Wild HD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516945&extension=ts
-#EXTINF:-1 tvg-id="MTV.UK.HD.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",MTV CZ
+#EXTINF:-1 tvg-id="MTV.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/mtv.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",MTV CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516943&extension=ts
 #EXTINF:-1 tvg-id="Minimax.(hu).cz" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Minimax CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516939&extension=ts
 #EXTINF:-1 tvg-id="Markíza.International.cz" tvg-logo="https://i.imgur.com/HHdDWOS.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Markiza International SK
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516938&extension=ts
-#EXTINF:-1 tvg-id="ID.(hr).cz" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",ID FHD CZ
+#EXTINF:-1 tvg-id="ID.cz" tvg-logo="https://i.imgur.com/5Auduch.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",ID FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516927&extension=ts
-#EXTINF:-1 tvg-id="HBO.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",HBO FHD CZ
+#EXTINF:-1 tvg-id="HBO.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/HBO.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",HBO FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516923&extension=ts
 #EXTINF:-1 tvg-id="FISHING.and.HUNTING.(UPC).cz" tvg-logo="https://i.imgur.com/KcTTnUA.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Fishing And Hunting CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516918&extension=ts
@@ -523,15 +511,15 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516913&exte
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516892&extension=ts
 #EXTINF:-1 tvg-id="CNN.Prima.News.cz" tvg-logo="https://i.imgur.com/elZyUjX.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",CNN Prima News FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516890&extension=ts
-#EXTINF:-1 tvg-id="Cartoon.Network.(en).cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Cartoon Network FHD CZ
+#EXTINF:-1 tvg-id="Cartoon.Network.(en).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/CNT.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Cartoon Network FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516886&extension=ts
-#EXTINF:-1 tvg-id="Barrandov.Krimi.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Logo-krimi-barrandov-color.svg/512px-Logo-krimi-barrandov-color.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Barrandov Krimi FHD CZ
+#EXTINF:-1 tvg-id="Barrandov.Krimi.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/barrandov_krimi.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Barrandov Krimi FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516884&extension=ts
-#EXTINF:-1 tvg-id="AXN.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",AXN CZ
+#EXTINF:-1 tvg-id="AXN.Sat.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",AXN CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516883&extension=ts
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://i.imgur.com/RJrJGbW.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",Arena Sport 1 FHD CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1516880&extension=ts
-#EXTINF:-1 tvg-id="AMC.(pl).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/amcpl.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|AMC CZ
+#EXTINF:-1 tvg-id="AMC.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/amc.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|AMC CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579262&extension=ts
 #EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|Arena Sport 1 SK
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579259&extension=ts
@@ -539,9 +527,9 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579259&exten
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579239&extension=ts
 #EXTINF:-1 tvg-id="Eurosport.1.(hr).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/eurosport1.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|Eurosport 1 ᴴᴰ CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579232&extension=ts
-#EXTINF:-1 tvg-id="Cartoonito.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/cartoonito.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|Cartoonito CZ
+#EXTINF:-1 tvg-id="Cartoonito.(hr).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/cartoonito.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|Cartoonito CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579230&extension=ts
-#EXTINF:-1 tvg-id="Food.Network.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/1019px-Food_Network.svg.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|Food network CZ
+#EXTINF:-1 tvg-id="Food.Network.cz" tvg-logo="http://imageserver.srv.czcloud.i.mtvreg.com/png?image=https%3A%2F%2Ffilecdn.srv.czcloud.i.mtvreg.com%2Fcache%2Flogos512%2Ffood_network.png&width=100" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|Food network CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579219&extension=ts
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nicktoons.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|Nicktoons CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579185&extension=ts
@@ -549,7 +537,7 @@ http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579185&exten
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579175&extension=ts
 #EXTINF:-1 tvg-id="Prima.Show.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_show.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|Prima Show ᵁᴴᴰ CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579169&extension=ts
-#EXTINF:-1 tvg-id="TA3.cz" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/TA3.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|TA3 ᴴᴰ CZ
+#EXTINF:-1 tvg-id="TA3.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ta3.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|CZ|TA3 ᴴᴰ CZ
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=579153&extension=ts
 #EXTINF:-1 tvg-id="Nicktoons.cz" tvg-logo="http://138.199.27.237:8080/EXYU/NICKELODEONSR.png" group-title="|SLO| ✪ SLOVAKIA & Czechia",|SK| NickToons SK
 http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=476492&extension=ts
