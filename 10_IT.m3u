@@ -1,1 +1,416 @@
+#EXTM3U url-tvg="https://epg.lat/files/it.xml.gz"
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai1.png" group-title="IT ✨ HEVC",↺RAI 1 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900527&extension=ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai2.png" group-title="IT ✨ HEVC",↺RAI 2 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900526&extension=ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai3.png" group-title="IT ✨ HEVC",↺RAI 3 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900525&extension=ts
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai4.png" group-title="IT ✨ HEVC",↺RAI 4 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900524&extension=ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai5.png" group-title="IT ✨ HEVC",↺RAI 5 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900523&extension=ts
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://www.logolarimiz.com/europa/italy/rai-gulp-it.png" group-title="IT ✨ HEVC",↺RAI GULP HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900522&extension=ts
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rainews24.png" group-title="IT ✨ HEVC",↺RAI NEWS 24 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900521&extension=ts
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://www.logolarimiz.com/europa/italy/rai-premium-it.png" group-title="IT ✨ HEVC",↺RAI PREMIUM HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900520&extension=ts
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://www.logolarimiz.com/europa/italy/rai-scuola-it.png" group-title="IT ✨ HEVC",↺RAI SCUOLA HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900519&extension=ts
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://www.logolarimiz.com/europa/italy/rai-storia-it.png" group-title="IT ✨ HEVC",↺RAI STORIA HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900518&extension=ts
+#EXTINF:-1 tvg-id="Rete.4.it" tvg-logo="https://www.logolarimiz.com/europa/italy/rete4-it.png" group-title="IT ✨ HEVC",↺RETE 4 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900517&extension=ts
+#EXTINF:-1 tvg-id="Canale.5.it" tvg-logo="https://www.logolarimiz.com/europa/italy/canale5-it.png" group-title="IT ✨ HEVC",↺CANALE 5 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900516&extension=ts
+#EXTINF:-1 tvg-id="Italia.1.it" tvg-logo="https://www.logolarimiz.com/europa/italy/italia1-it.png" group-title="IT ✨ HEVC",ITALIA 1 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900515&extension=ts
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-logo="https://www.logolarimiz.com/europa/italy/la7-it.png" group-title="IT ✨ HEVC",LA7 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900514&extension=ts
+#EXTINF:-1 tvg-id="LA7D.it" tvg-logo="https://r.resimlink.com/d1XbUxly4EPm.png" group-title="IT ✨ HEVC",LA7D HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900513&extension=ts
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cielo.png" group-title="IT ✨ HEVC",CIELO HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900510&extension=ts
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://www.logolarimiz.com/europa/germany/dmax-de.png" group-title="IT ✨ HEVC",DMAX HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900509&extension=ts
+#EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://www.logolarimiz.com/europa/germany/foodnetwork.png" group-title="IT ✨ HEVC",FOOD NETWORK HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900508&extension=ts
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/giallo_it.png" group-title="IT ✨ HEVC",GIALLO HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900507&extension=ts
+#EXTINF:-1 tvg-id="HGTV.it" tvg-logo="https://www.logolarimiz.com/europa/germany/hgtv.png" group-title="IT ✨ HEVC",HGTV HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900506&extension=ts
+#EXTINF:-1 tvg-id="Horse.TV.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/horsetv.png" group-title="IT ✨ HEVC",HORSE TV HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900505&extension=ts
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/realtime.png" group-title="IT ✨ HEVC",REAL TIME HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900504&extension=ts
+#EXTINF:-1 tvg-id="TV8.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/tv8.png" group-title="IT ✨ HEVC",TV8 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900502&extension=ts
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/skyuno.png" group-title="IT ✨ HEVC",SKY UNO HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900501&extension=ts
+#EXTINF:-1 tvg-id="Sky.Arte.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/skyarte.png" group-title="IT ✨ HEVC",SKY ARTE HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900500&extension=ts
+#EXTINF:-1 tvg-id="Sky.Documentaries.it" tvg-logo="https://www.logolarimiz.com/europa/germany/skydocumentaries.png" group-title="IT ✨ HEVC",SKY DOCUMENTARIES HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900499&extension=ts
+#EXTINF:-1 tvg-id="Sky.Nature.it" tvg-logo="https://www.logolarimiz.com/europa/germany/skynature.png" group-title="IT ✨ HEVC",SKY NATURE HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900498&extension=ts
+#EXTINF:-1 tvg-id="History.it" tvg-logo="https://www.logolarimiz.com/europa/germany/historychannel.png" group-title="IT ✨ HEVC",HISTORY HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900497&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://www.logolarimiz.com/europa/germany/discovery-channel-de.png" group-title="IT ✨ HEVC",DISCOVERY CHANNEL HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900496&extension=ts
+#EXTINF:-1 tvg-id="Sky.TG24.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/skytg24.png" group-title="IT ✨ HEVC",SKY TG24 HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900495&extension=ts
+#EXTINF:-1 tvg-id="Cartoon.Network.it" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/CARTOON_NETWORK.png" group-title="IT ✨ HEVC",CARTOON NETWORK HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900494&extension=ts
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/nove.png" group-title="IT ✨ HEVC",NOVE HEVC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=900493&extension=ts
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rainews24.png" group-title="IT ✨ ITALIA",RAI NEWS 24
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=824477&extension=ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai1.png" group-title="IT ✨ ITALIA",RAI 1 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438695&extension=ts
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai1.png" group-title="IT ✨ ITALIA",RAI 1 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438694&extension=ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai2.png" group-title="IT ✨ ITALIA",RAI 2 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438693&extension=ts
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai2.png" group-title="IT ✨ ITALIA",RAI 2 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438692&extension=ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai3.png" group-title="IT ✨ ITALIA",RAI 3 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438691&extension=ts
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai3.png" group-title="IT ✨ ITALIA",RAI 3 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438690&extension=ts
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai4.png" group-title="IT ✨ ITALIA",RAI 4 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438668&extension=ts
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai4.png" group-title="IT ✨ ITALIA",RAI 4 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438667&extension=ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai5.png" group-title="IT ✨ ITALIA",RAI 5 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438666&extension=ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai5.png" group-title="IT ✨ ITALIA",RAI 5 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438665&extension=ts
+#EXTINF:-1 tvg-id="Canale.5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/canale5.png" group-title="IT ✨ ITALIA",CANALE 5 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438687&extension=ts
+#EXTINF:-1 tvg-id="Canale.5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/canale5.png" group-title="IT ✨ ITALIA",CANALE 5 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438686&extension=ts
+#EXTINF:-1 tvg-id="Italia.1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/italia1.png" group-title="IT ✨ ITALIA",ITALIA 1 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438685&extension=ts
+#EXTINF:-1 tvg-id="Italia.1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/italia1.png" group-title="IT ✨ ITALIA",ITALIA 1 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438684&extension=ts
+#EXTINF:-1 tvg-id="Italia.2.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/italia2.png" group-title="IT ✨ ITALIA",ITALIA 2 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438637&extension=ts
+#EXTINF:-1 tvg-id="Italia.2.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/italia2.png" group-title="IT ✨ ITALIA",ITALIA 2 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438636&extension=ts
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/la7.png" group-title="IT ✨ ITALIA",LA 7 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438683&extension=ts
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/la7.png" group-title="IT ✨ ITALIA",LA7 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438682&extension=ts
+#EXTINF:-1 tvg-id="TV8.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/tv8.png" group-title="IT ✨ ITALIA",TV8 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438677&extension=ts
+#EXTINF:-1 tvg-id="TV8.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/tv8.png" group-title="IT ✨ ITALIA",TV8 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438676&extension=ts
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/raimovie.png" group-title="IT ✨ ITALIA",RAI MOVIE FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438658&extension=ts
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/raimovie.png" group-title="IT ✨ ITALIA",RAI MOVIE HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438657&extension=ts
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/raipremium.png" group-title="IT ✨ ITALIA",RAI PREMIUM FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438656&extension=ts
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/raipremium.png" group-title="IT ✨ ITALIA",RAI PREMIUM HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438655&extension=ts
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/raiscuola.png" group-title="IT ✨ ITALIA",RAI SCUOLA FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438664&extension=ts
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/raiscuola.png" group-title="IT ✨ ITALIA",RAI SCUOLA HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438663&extension=ts
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/raistoria.png" group-title="IT ✨ ITALIA",RAI STORIA FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438662&extension=ts
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/raistoria.png" group-title="IT ✨ ITALIA",RAI STORIA HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438661&extension=ts
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/realtime.png" group-title="IT ✨ ITALIA",REAL TIME FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438643&extension=ts
+#EXTINF:-1 tvg-id="Real.Time.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/realtime.png" group-title="IT ✨ ITALIA",REAL TIME HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438642&extension=ts
+#EXTINF:-1 tvg-id="Rete.4.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rete4.png" group-title="IT ✨ ITALIA",RETE 4 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438689&extension=ts
+#EXTINF:-1 tvg-id="Rete.4.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rete4.png" group-title="IT ✨ ITALIA",RETE 4 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438688&extension=ts
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cielo.png" group-title="IT ✨ ITALIA",CIELO FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438652&extension=ts
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cielo.png" group-title="IT ✨ ITALIA",CIELO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438651&extension=ts
+#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cine34.png" group-title="IT ✨ ITALIA",CINE34 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438650&extension=ts
+#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cine34.png" group-title="IT ✨ ITALIA",CINE34 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438649&extension=ts
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://www.logolarimiz.com/logo/germany/dmax.png" group-title="IT ✨ ITALIA",DMAX FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438654&extension=ts
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://www.logolarimiz.com/logo/germany/dmax.png" group-title="IT ✨ ITALIA",DMAX HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438653&extension=ts
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/focus.png" group-title="IT ✨ ITALIA",FOCUS
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438671&extension=ts
+#EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/foodnetwork.png" group-title="IT ✨ ITALIA",FOOD NETWORK FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438670&extension=ts
+#EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/foodnetwork.png" group-title="IT ✨ ITALIA",FOOD NETWORK HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438669&extension=ts
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/giallo.png" group-title="IT ✨ ITALIA",GIALLO FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438633&extension=ts
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/giallo.png" group-title="IT ✨ ITALIA",GIALLO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438632&extension=ts
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/iris.png" group-title="IT ✨ ITALIA",IRIS FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438660&extension=ts
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/iris.png" group-title="IT ✨ ITALIA",IRIS HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438659&extension=ts
+#EXTINF:-1 tvg-id="La.5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/la5.png" group-title="IT ✨ ITALIA",LA 5 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438648&extension=ts
+#EXTINF:-1 tvg-id="La.5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/la5.png" group-title="IT ✨ ITALIA",LA 5 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438647&extension=ts
+#EXTINF:-1 tvg-id="LA7D.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/la7d.png" group-title="IT ✨ ITALIA",LA 7D FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438681&extension=ts
+#EXTINF:-1 tvg-id="LA7D.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/la7d.png" group-title="IT ✨ ITALIA",LA 7D HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438680&extension=ts
+#EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/mediasetextra.png" group-title="IT ✨ ITALIA",MEDIASET EXTRA FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438641&extension=ts
+#EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/mediasetextra.png" group-title="IT ✨ ITALIA",MEDIASET EXTRA
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438638&extension=ts
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/nove_tv_it.png" group-title="IT ✨ ITALIA",NOVE FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438675&extension=ts
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/nove_tv_it.png" group-title="IT ✨ ITALIA",NOVE HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438674&extension=ts
+#EXTINF:-1 tvg-id="Sky.Documentaries.it" tvg-logo="https://www.logolarimiz.com/europa/germany/skydocumentaries.png" group-title="IT ✨ ITALIA",SKY DOCUMENTARIES
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438639&extension=ts
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/skyuno.png" group-title="IT ✨ ITALIA",SKY UNO
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438640&extension=ts
+#EXTINF:-1 tvg-id="Top.Crime.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/topcrime.png" group-title="IT ✨ ITALIA",TOP CRIME FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438635&extension=ts
+#EXTINF:-1 tvg-id="Top.Crime.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/topcrime.png" group-title="IT ✨ ITALIA",TOP CRIME HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=438634&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.24.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-24.png" group-title="IT ✨ SPORT",SKY SPORT 24 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925689&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.24.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-24.png" group-title="IT ✨ SPORT",SKY SPORT 24 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925688&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-uno.png" group-title="IT ✨ SPORT",SKY SPORT UNO 4K
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925687&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-uno.png" group-title="IT ✨ SPORT",SKY SPORT UNO FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925686&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-uno.png" group-title="IT ✨ SPORT",SKY SPORT UNO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925685&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-max.png" group-title="IT ✨ SPORT",SKY SPORT MAX FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925684&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-max.png" group-title="IT ✨ SPORT",SKY SPORT MAX HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925683&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-arena.png" group-title="IT ✨ SPORT",SKY SPORT ARENA FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925682&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-arena.png" group-title="IT ✨ SPORT",SKY SPORT ARENA HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925681&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-tennis.png" group-title="IT ✨ SPORT",SKY SPORT TENNIS FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925680&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-tennis.png" group-title="IT ✨ SPORT",SKY SPORT TENNIS HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925679&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-f1.png" group-title="IT ✨ SPORT",SKY SPORT F1 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925678&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-f1.png" group-title="IT ✨ SPORT",SKY SPORT F1 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925677&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-motogp.png" group-title="IT ✨ SPORT",SKY SPORT MOTOGP FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925676&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-motogp.png" group-title="IT ✨ SPORT",SKY SPORT MOTOGP HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925675&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-golf.png" group-title="IT ✨ SPORT",SKY SPORT GOLF FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925674&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-golf.png" group-title="IT ✨ SPORT",SKY SPORT GOLF HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925673&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-legend.png" group-title="IT ✨ SPORT",SKY SPORT MIX HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925670&extension=ts
+#EXTINF:-1 tvg-id="Sky.Sport.Legend.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-sport-legend.png" group-title="IT ✨ SPORT",SKY SPORT LEGEND HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925669&extension=ts
+#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/supertennis.png" group-title="IT ✨ SPORT",SUPERTENNIS FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925666&extension=ts
+#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/supertennis.png" group-title="IT ✨ SPORT",SUPERTENNIS HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925665&extension=ts
+#EXTINF:-1 tvg-id="Horse.TV.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/horse-tv.png" group-title="IT ✨ SPORT",HORSE TV HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925659&extension=ts
+#EXTINF:-1 tvg-id="Inter.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/inter-tv.png" group-title="IT ✨ SPORT",INTER TV FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925652&extension=ts
+#EXTINF:-1 tvg-id="Inter.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/inter-tv.png" group-title="IT ✨ SPORT",INTER TV HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925651&extension=ts
+#EXTINF:-1 tvg-id="Milan.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/milan-tv.png" group-title="IT ✨ SPORT",MILAN TV FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925650&extension=ts
+#EXTINF:-1 tvg-id="Milan.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/milan-tv.png" group-title="IT ✨ SPORT",MILAN TV HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925649&extension=ts
+#EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-logo="https://www.logolarimiz.com/logo/germany/daznevent.gif" group-title="IT ✨ DAZN",DAZN 1 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925626&extension=ts
+#EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-logo="https://www.logolarimiz.com/logo/germany/daznevent.gif" group-title="IT ✨ DAZN",DAZN 1 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925625&extension=ts
+#EXTINF:-1 tvg-id="DAZN.2.it.it" tvg-logo="https://www.logolarimiz.com/logo/germany/daznevent.gif" group-title="IT ✨ DAZN",DAZN 2 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925624&extension=ts
+#EXTINF:-1 tvg-id="DAZN.2.it.it" tvg-logo="https://www.logolarimiz.com/logo/germany/daznevent.gif" group-title="IT ✨ DAZN",DAZN 2 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925623&extension=ts
+#EXTINF:-1 tvg-id="DAZN4.it" tvg-logo="https://www.logolarimiz.com/logo/germany/daznevent.gif" group-title="IT ✨ DAZN",DAZN 4
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925621&extension=ts
+#EXTINF:-1 tvg-id="DAZN5.it" tvg-logo="https://www.logolarimiz.com/logo/germany/daznevent.gif" group-title="IT ✨ DAZN",DAZN 5
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925620&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-uno.png" group-title="IT ✨ CINEMA",SKY CINEMA UNO FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925549&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-uno.png" group-title="IT ✨ CINEMA",SKY CINEMA UNO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925548&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-action.png" group-title="IT ✨ CINEMA",SKY CINEMA ACTION FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925545&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-action.png" group-title="IT ✨ CINEMA",SKY CINEMA ACTION HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925544&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-collection.png" group-title="IT ✨ CINEMA",SKY CINEMA COLLECTION FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925542&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-collection.png" group-title="IT ✨ CINEMA",SKY CINEMA COLLECTION HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925541&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-comedy.png" group-title="IT ✨ CINEMA",SKY CINEMA COMEDY FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925539&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-comedy.png" group-title="IT ✨ CINEMA",SKY CINEMA COMEDY HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925538&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-drama.png" group-title="IT ✨ CINEMA",SKY CINEMA DRAMA FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925537&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-drama.png" group-title="IT ✨ CINEMA",SKY CINEMA DRAMA HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925536&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-family.png" group-title="IT ✨ CINEMA",SKY CINEMA FAMILY FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925535&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-family.png" group-title="IT ✨ CINEMA",SKY CINEMA FAMILY HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925534&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-romance.png" group-title="IT ✨ CINEMA",SKY CINEMA ROMANCE FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925532&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-romance.png" group-title="IT ✨ CINEMA",SKY CINEMA ROMANCE HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925531&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-suspense.png" group-title="IT ✨ CINEMA",SKY CINEMA SUSPENSE FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925530&extension=ts
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-cinema-suspense.png" group-title="IT ✨ CINEMA",SKY CINEMA SUSPENSE HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925529&extension=ts
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-yoyo.png" group-title="IT ✨ BAMBINI",RAI YOYO UHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925416&extension=ts
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-yoyo.png" group-title="IT ✨ BAMBINI",RAI YOYO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925415&extension=ts
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-gulp.png" group-title="IT ✨ BAMBINI",RAI GULP UHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925414&extension=ts
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-gulp.png" group-title="IT ✨ BAMBINI",RAI GULP FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925413&extension=ts
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-gulp.png" group-title="IT ✨ BAMBINI",RAI GULP HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925412&extension=ts
+#EXTINF:-1 tvg-id="Cartoon.Network.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cartoon-network.png" group-title="IT ✨ BAMBINI",CARTOON NETWORK FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925411&extension=ts
+#EXTINF:-1 tvg-id="Cartoon.Network.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cartoon-network.png" group-title="IT ✨ BAMBINI",CARTOON NETWORK HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925410&extension=ts
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/boing.png" group-title="IT ✨ BAMBINI",BOING FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925408&extension=ts
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/boing.png" group-title="IT ✨ BAMBINI",BOING HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925407&extension=ts
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/k2.png" group-title="IT ✨ BAMBINI",K2
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925406&extension=ts
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/frisbee.png" group-title="IT ✨ BAMBINI",FRISBEE
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925405&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/nickelodeon.png" group-title="IT ✨ BAMBINI",NICKELODEON FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925401&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/nickelodeon.png" group-title="IT ✨ BAMBINI",NICKELODEON HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925400&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon.+1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/nickelodeon.png" group-title="IT ✨ BAMBINI",NICKELODEON +1
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925399&extension=ts
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cartoonito.png" group-title="IT ✨ BAMBINI",CARTOONITO FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925398&extension=ts
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cartoonito.png" group-title="IT ✨ BAMBINI",CARTOONITO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925397&extension=ts
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/dea-kids.png" group-title="IT ✨ BAMBINI",DEA KIDS FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925396&extension=ts
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/dea-kids.png" group-title="IT ✨ BAMBINI",DEA KIDS HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925395&extension=ts
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/dea-kids.png" group-title="IT ✨ BAMBINI",DEA KIDS
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925394&extension=ts
+#EXTINF:-1 tvg-id="DeAJunior.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/dea-junior.png" group-title="IT ✨ BAMBINI",DEA JUNIOR FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925393&extension=ts
+#EXTINF:-1 tvg-id="DeAJunior.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/dea-junior.png" group-title="IT ✨ BAMBINI",DEA JUNIOR HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925392&extension=ts
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/boomerang.png" group-title="IT ✨ BAMBINI",BOOMERANG FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925391&extension=ts
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/boomerang.png" group-title="IT ✨ BAMBINI",BOOMERANG HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925390&extension=ts
+#EXTINF:-1 tvg-id="Boomerang.+1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/boomerang.png" group-title="IT ✨ BAMBINI",BOOMERANG +1
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925389&extension=ts
+#EXTINF:-1 tvg-id="Super!.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/super.png" group-title="IT ✨ BAMBINI",SUPER
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925388&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/discovery-channel.png" group-title="IT ✨ CULTURA",DISCOVERY CHANNEL FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925282&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/discovery-channel.png" group-title="IT ✨ CULTURA",DISCOVERY CHANNEL HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925281&extension=ts
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/focus.png" group-title="IT ✨ CULTURA",FOCUS FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925280&extension=ts
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/focus.png" group-title="IT ✨ CULTURA",FOCUS HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925279&extension=ts
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/nove.png" group-title="IT ✨ CULTURA",NOVE FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925278&extension=ts
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/nove.png" group-title="IT ✨ CULTURA",NOVE HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925277&extension=ts
+#EXTINF:-1 tvg-id="Sky.Documentaries.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-documentaries.png" group-title="IT ✨ CULTURA",SKY DOCUMENTARIES FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925276&extension=ts
+#EXTINF:-1 tvg-id="Sky.Documentaries.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-documentaries.png" group-title="IT ✨ CULTURA",SKY DOCUMENTARIES HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925275&extension=ts
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/giallo.png" group-title="IT ✨ CULTURA",GIALLO FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925274&extension=ts
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/giallo.png" group-title="IT ✨ CULTURA",GIALLO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925273&extension=ts
+#EXTINF:-1 tvg-id="History.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/history.png" group-title="IT ✨ CULTURA",HISTORY FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925271&extension=ts
+#EXTINF:-1 tvg-id="History.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/history.png" group-title="IT ✨ CULTURA",HISTORY HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925270&extension=ts
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cielo.png" group-title="IT ✨ CULTURA",CIELO FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925269&extension=ts
+#EXTINF:-1 tvg-id="cielo.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/cielo.png" group-title="IT ✨ CULTURA",CIELO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925268&extension=ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-5.png" group-title="IT ✨ CULTURA",RAI 5 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925267&extension=ts
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-5.png" group-title="IT ✨ CULTURA",RAI 5 HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925266&extension=ts
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-storia.png" group-title="IT ✨ CULTURA",RAI STORIA UHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925265&extension=ts
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-storia.png" group-title="IT ✨ CULTURA",RAI STORIA FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925264&extension=ts
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-storia.png" group-title="IT ✨ CULTURA",RAI STORIA HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925263&extension=ts
+#EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/food-network.png" group-title="IT ✨ CULTURA",FOOD NETWORK FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925262&extension=ts
+#EXTINF:-1 tvg-id="Food.Network.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/food-network.png" group-title="IT ✨ CULTURA",FOOD NETWORK HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925261&extension=ts
+#EXTINF:-1 tvg-id="Sky.Nature.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-nature.png" group-title="IT ✨ CULTURA",SKY NATURE FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925258&extension=ts
+#EXTINF:-1 tvg-id="Sky.Nature.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-nature.png" group-title="IT ✨ CULTURA",SKY NATURE HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925257&extension=ts
+#EXTINF:-1 tvg-id="Sky.Arte.+1.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-arte-piu-1.png" group-title="IT ✨ CULTURA",SKY ARTE +1 FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925256&extension=ts
+#EXTINF:-1 tvg-id="Sky.Arte.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-arte.png" group-title="IT ✨ CULTURA",SKY ARTE FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925255&extension=ts
+#EXTINF:-1 tvg-id="Sky.Arte.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-arte.png" group-title="IT ✨ CULTURA",SKY ARTE HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925254&extension=ts
+#EXTINF:-1 tvg-id="Sky.Crime.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-crime.png" group-title="IT ✨ CULTURA",SKY CRIME FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925253&extension=ts
+#EXTINF:-1 tvg-id="Sky.Crime.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-crime.png" group-title="IT ✨ CULTURA",SKY CRIME HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925252&extension=ts
+#EXTINF:-1 tvg-id="Sky.Adventure.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/sky-adventure.png" group-title="IT ✨ CULTURA",SKY ADVENTURE HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925248&extension=ts
+#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/gambero-rosso.png" group-title="IT ✨ CULTURA",GAMBERO ROSSO FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925247&extension=ts
+#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/gambero-rosso.png" group-title="IT ✨ CULTURA",GAMBERO ROSSO HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925246&extension=ts
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-scuola.png" group-title="IT ✨ CULTURA",RAI SCUOLA FHD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925243&extension=ts
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/rai-scuola.png" group-title="IT ✨ CULTURA",RAI SCUOLA HD
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925242&extension=ts
+#EXTINF:-1 tvg-id="Radio.105.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/radio-105.png" group-title="IT ✨ MUSIC",[66] RADIO 105 TV
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925227&extension=ts
+#EXTINF:-1 tvg-id="R101tv.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/r101-tv.png" group-title="IT ✨ MUSIC",[67] R101 TV
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925226&extension=ts
+#EXTINF:-1 tvg-id="Deejay.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/deejay-tv.png" group-title="IT ✨ MUSIC",[69] DEEJAY TV
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925224&extension=ts
+#EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/radio-italia-tv.png" group-title="IT ✨ MUSIC",RADIO ITALIA TV
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925223&extension=ts
+#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/virgin-radio.png" group-title="IT ✨ MUSIC",[257] VIRGIN RADIO
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925221&extension=ts
+#EXTINF:-1 tvg-id="RADIONORBA.TV.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/radio-norba-tv.png" group-title="IT ✨ MUSIC",RADIO NORBA TV
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925211&extension=ts
+#EXTINF:-1 tvg-id="Radio.Italia.Trend.Tv.HD.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/radio-italia-trend.png" group-title="IT ✨ MUSIC",RADIO ITALIA TREND
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925209&extension=ts
+#EXTINF:-1 tvg-id="R101tv.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/r101-tv.png" group-title="IT ✨ MUSIC",[MEDIASET] R101TV
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925194&extension=ts
+#EXTINF:-1 tvg-id="Radio.105.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/radio-105.png" group-title="IT ✨ MUSIC",[MEDIASET] RADIO 105
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925193&extension=ts
+#EXTINF:-1 tvg-id="RMC.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/radio-montecarlo-tv.png" group-title="IT ✨ MUSIC",[MEDIASET] RMC
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925192&extension=ts
+#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-logo="https://www.logolarimiz.com/logo/Italy/virgin-radio.png" group-title="IT ✨ MUSIC",[MEDIASET] VIRGIN RADIO
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=925191&extension=ts
 
