@@ -14,10 +14,10 @@ http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/31463
 #EXTINF:-1 tvg-name="Arena Sport 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 " tvg-id="ArenaSport2.si",Arena Sport 2 SLO ✅
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/22774.ts
 #EXTINF:-1 tvg-id="Arenasport2.hr" tvg-name="Arena Sport 2 SR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-2-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 2 HR ✅
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/95450.ts
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551866&extension=ts&play_token=yTRqgrVK0T
 #EXTINF:-1 CUID="4978011" tvg-name="Arena Sport 3" tvg-id="Arenasport3.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 HR ✅
 http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551863&extension=ts&play_token=3DIq94tZWy
-#EXTINF:-1 CUID="4978011" tvg-name="Arena Sport 3" tvg-id="ArenaSport3.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 BIH 
+#EXTINF:-1 CUID="4978011" tvg-name="Arena Sport 3" tvg-id="ArenaSport3.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 BIH ✅
 http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=809950&extension=ts&play_token=JS4elvL7qe
 #EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="Arena Sport 3 SR" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-3-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 3 RS ✅
 http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551905&extension=ts&play_token=R1XQ79gEjo
@@ -33,10 +33,30 @@ http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/31465
 http://ip365.cx:80/live/MAGWQAR2Y5W/ML657LUH/929633.ts
 #EXTINF:-1 CUID="4978013" tvg-name="Arena Sport 5" tvg-id="ArenaSport5.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 5 RS ✅
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559150&extension=ts&play_token=AGZeYM6ppk
-#EXTINF:-1 CUID="4978013" tvg-name="Arena Sport 5" tvg-id="Arenasport5.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 5 HR
-http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/31466
-#EXTINF:-1 CUID="4978014" tvg-name="Arena Sport 6" tvg-id="ArenaSport6.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 6 ✅
+#EXTINF:-1 tvg-id="ArenaSport5.bh" tvg-name="Arena Sport 5" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 5 BIH ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=809948&extension=ts&play_token=4f6xgLFmbZ
+#EXTINF:-1 CUID="4978013" tvg-name="Arena Sport 5" tvg-id="Arenasport5.hr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-5-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 5 HR ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551860&extension=ts&play_token=O7mv5ko4HZ
+#EXTINF:-1 CUID="4978014" tvg-name="Arena Sport 6" tvg-id="ArenaSport6.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 6 RS ✅
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/6915
+#EXTINF:-1 tvg-id="ArenaSport6.bh" tvg-name="Arena Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 6 BIH ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=809947&extension=ts&play_token=ETehm5YBcU
+#EXTINF:-1 tvg-id="Arenasport6.hr" tvg-name="Arena Sport 6" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-6-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport 6 HR ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551858&extension=ts&play_token=Mfmk1Q1FFY
+#EXTINF:-1 tvg-id="ArenaSport7.rs" tvg-name="Arena Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-7-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport  7 RS ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551898&extension=ts&play_token=iQ9yIfRxWQ
+#EXTINF:-1 tvg-id="Arenasport7.hr" tvg-name="Arena Sport 7" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-7-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport  7 HR ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551856&extension=ts&play_token=ZSqrFR3eEA
+#EXTINF:-1 tvg-id="ArenaSport8.rs" tvg-name="Arena Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-8-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport  8 RS ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551896&extension=ts&play_token=ZYVnbIcxTR
+#EXTINF:-1 tvg-id="Arenasport8.hr" tvg-name="Arena Sport 8" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-sport-8-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",Arena Sport  8 HR ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551895&extension=ts&play_token=t8OoE8GNn3
+#EXTINF:-1 tvg-id="Arenasport9.hr" tvg-name="Arena Sport 9" tvg-logo="https://iptv-epg.org/images/SJozn_HHB1KY4F974j8vOh3PiAOM5km1Q4IvJ1Z1yj7Wy1vk3l5RkS6nRl3i7FO2i6Cez_C89xNprEK3pvgA7ZaK1UU0BXVC3Qq3pGiN0rRtI6V9" group-title="🏆 ARENA 🏆 ",Arena Sport  9 HR ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551894&extension=ts&play_token=0VuKLJomjN
+#EXTINF:-1 tvg-id="Arenasport10.hr" tvg-name="Arena Sport 10" tvg-logo="https://iptv-epg.org/images/sN2uX-G1keOFDPP9qc5FjMk8IvxLUQ1Kpk5nRorm2bZX_h770PZgAZA6UINVQYMZySxTezgmKVJsC0cS53FXKFwy5ZShUXbTv3StmJpfv1R1GXXrzA" group-title="🏆 ARENA 🏆 ",Arena Sport  10 HR ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551892&extension=ts&play_token=xHlY7tlwLa
+#EXTINF:-1 tvg-id="ArenaSport1x2.rs" tvg-name="Arena Sport 1x2" tvg-logo="https://iptv-epg.org/images/nVLcGLPkEUycr6vMIMkd3katonjr1lTNBMf3phUikCNR53poJ32dp83_2zrnjpKMle3lqYY61lewS2rrC_WkVQeVIC94FNPXFmjK5wzvWGCkmRoJNc4" group-title="🏆 ARENA 🏆 ",Arena Sport  1x2 RS ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=552031&extension=ts&play_token=1MKXHeoDbh
 #EXTINF:-1 CUID="4978015" tvg-name="ARENA 1 PREMIUM FHD BIH" tvg-id="ArenaSportPremium1.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 1 PREMIUM FHD BIH 
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/7965
 #EXTINF:-1 CUID="4978015" tvg-name="ARENA 1 PREMIUM FHD SR" tvg-id="ArenaPremium1.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-1-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 1 PREMIUM FHD SR ✅
@@ -45,12 +65,12 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559019&ex
 http://ip365.cx:80/live/MAGWQAR2Y5W/ML657LUH/929627.ts
 #EXTINF:-1 CUID="4978016" tvg-name="ARENA 2 PREMIUM FHD SR" tvg-id="ArenaPremium2.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 2 PREMIUM FHD SR ✅
 http://ip365.cx:80/MAGWQAR2Y5W/ML657LUH/7966
-#EXTINF:-1 CUID="4978016" tvg-name="ARENA 2 PREMIUM FHD BIH" tvg-id="ArenaSportPremium2.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 2 PREMIUM FHD BIH 
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:94:6B:29&stream=559017&extension=ts&play_token=mXY0PqDREP
-#EXTINF:-1 CUID="4978017" tvg-name="ARENA 3 PREMIUM FHD BIH" tvg-id="ArenaSportPremium3.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 3 PREMIUM FHD BIH
-http://ip365.cx:80/live/MAGWQAR2Y5W/ML657LUH/229154.ts
+#EXTINF:-1 CUID="4978016" tvg-name="ARENA 2 PREMIUM FHD BIH" tvg-id="ArenaSportPremium2.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-2-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 2 PREMIUM FHD BIH  ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=809954&extension=ts&play_token=1inKlTcutt
+#EXTINF:-1 CUID="4978017" tvg-name="ARENA 3 PREMIUM FHD BIH" tvg-id="ArenaSportPremium3.bh" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 3 PREMIUM FHD BIH ✅
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=809953&extension=ts&play_token=1daTh2GvZG
 #EXTINF:-1 CUID="4978017" tvg-name="ARENA 3 PREMIUM FHD SR" tvg-id="ArenaPremium3.rs" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" group-title="🏆 ARENA 🏆 ",ARENA 3 PREMIUM FHD SR ✅
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/229154.ts
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:df:86:e4&stream=551886&extension=ts&play_token=05o6hKeJaM
 #EXTINF:-1 tvg-id="ArenaPremium4.rs" tvg-name="ARENA 4 PREMIUM FHD SR" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a4p.png" group-title="🏆 ARENA 🏆 ",ARENA 4 PREMIUM FHD SR ✅
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/1211587.ts
 #EXTINF:-1 tvg-id="ArenaPremium5.rs" tvg-name="ARENA 5 PREMIUM FHD SR" tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-aa5p.png" group-title="🏆 ARENA 🏆 ",ARENA 5 PREMIUM FHD SR ✅
