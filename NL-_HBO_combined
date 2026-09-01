@@ -1,203 +1,203 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",####### MAX PPV #######
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307816&extension=ts&play_token=2Lmb8prr3d
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | BSB | ROUND 8 | CADWELL PARK | Mon 31 Aug 13:59 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 1
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307815&extension=ts&play_token=8LtZHFZM0T
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | LILLI TAGGER - TAMARA KORPATSCH | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 2
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307814&extension=ts&play_token=SmR0VIW5JI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | SÁRA BEJLEK - CRISTINA BUCSA | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 3
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307813&extension=ts&play_token=QMTbZyvc1a
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | VALENTIN VACHEROT - ALEKSANDAR KOVACEVIC | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 4
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307812&extension=ts&play_token=tB2r9PvmjD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MATTEO ARNALDI - JAMES DUCKWORTH | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 5
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307811&extension=ts&play_token=5dgW0sQcKm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | FLORIAN NÜSSLE - KYREN WILSON | Mon 31 Aug 15:50 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 6
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307810&extension=ts&play_token=p5eJPfiJE2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | BARRY HAWKINS - HAOHUI DENG | Mon 31 Aug 16:13 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 7
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307809&extension=ts&play_token=37Ery2GqzB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE |  ANHELINA KALININA - HIMENO SAKATSUME | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 8
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307808&extension=ts&play_token=GOXE1DZboz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | WU YIZE - LIU HONGYU | Mon 31 Aug 15:46 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 9
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307807&extension=ts&play_token=s1j4EdwAgz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | MARTÍN LANDALUCE - JACOB FEARNLEY | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 10
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307806&extension=ts&play_token=SBmhuIXlDb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MANANCHAYA SAWANGKAEW - PANNA UDVARDY | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 11
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307805&extension=ts&play_token=jsAMWpUlVB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | ELSA JACQUEMOT - MARIE BOUZKOVÁ | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 12
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307804&extension=ts&play_token=lecmBZYBK0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | QINWEN ZHENG - KRISTINA LIUTOVA | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 13
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307803&extension=ts&play_token=Kc0TvLd27e
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | SINJA KRAUS - KAROLÍNA MUCHOVÁ | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 14
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307802&extension=ts&play_token=srrnWCQBsH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | OTTO VIRTANEN - ANDREY RUBLEV | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 15
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307801&extension=ts&play_token=SG59cgT74R
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | HARRIET DART - PEYTON STEARNS | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 16
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307800&extension=ts&play_token=Q2FoUo5Ydt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MULTIVIEW | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 17
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307799&extension=ts&play_token=GkAXLwZrMB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | MARK JOYCE - MATEUSZ BARANOWSKI | Mon 31 Aug 17:17 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 18
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307798&extension=ts&play_token=LILsjZgthU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | STEFANOS TSITSIPAS - ARTHUR FILS | Mon 31 Aug 17:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 19
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307797&extension=ts&play_token=E1dGA3GbzO
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",LIVE | ARYNA SABALENKA - CAMILA OSORIO | Mon 31 Aug 17:29 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 20
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307796&extension=ts&play_token=3L53sWx0E7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | TAMARA ZIDANSEK - MARIA TIMOFEEVA | Mon 31 Aug 19:00 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 21
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307795&extension=ts&play_token=XzApjHvBLp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | SEBASTIAN GORZNY - RAPHAËL COLLIGNON | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 22
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307794&extension=ts&play_token=DeiAXvxVlI
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | KIMBERLY BIRRELL - PETRA MARCINKO | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 23
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307793&extension=ts&play_token=HRrhBqO78I
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | EMMA NAVARRO - LOÏS BOISSON | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 24
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307792&extension=ts&play_token=4WtETp1h7Q
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ALEX MICHELSEN - FEDERICO CINÀ | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 25
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307791&extension=ts&play_token=4ru2s4IgE3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | ANNA BLINKOVA - ANNA KALINSKAYA | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 26
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307790&extension=ts&play_token=KWhu5i3Hv5
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | AOI ITO - OKSANA SELEKHMETEVA | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 27
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307789&extension=ts&play_token=r8rCr7nXE2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",NEXT | THIAGO TIRANTE - ADRIAN MANNARINO | Mon 31 Aug 19:30 CEST (SE) | 8K EXCLUSIVE | SE: MAX PPV 28
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307788&extension=ts&play_token=KevNXeUwdV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 29
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307787&extension=ts&play_token=awa2Dls8S8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 30
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307786&extension=ts&play_token=480prPx2Nl
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 31
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307785&extension=ts&play_token=6FDmTV6G3z
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 32
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307784&extension=ts&play_token=DPVXzkbfas
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 33
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307783&extension=ts&play_token=eMKVIm9lm0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 34
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307782&extension=ts&play_token=c5RzhoqMvE
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 35
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307781&extension=ts&play_token=v6I1YSgcwb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 36
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307780&extension=ts&play_token=2LVLV5NVQW
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 37
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307779&extension=ts&play_token=R7k4m0SSeP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 38
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307778&extension=ts&play_token=2TSxYJAXCo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 39
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307777&extension=ts&play_token=1JxxdkOQR2
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 40
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307776&extension=ts&play_token=CxIA1A41az
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 41
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307775&extension=ts&play_token=HhPk1enEeg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 42
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307774&extension=ts&play_token=sVzWYdF2kc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 43
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307773&extension=ts&play_token=EATMRYbyew
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 44
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307772&extension=ts&play_token=tAl3y4HnHg
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 45
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307771&extension=ts&play_token=cFLl7afogo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 46
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307770&extension=ts&play_token=qAFO0zzyuB
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 47
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307769&extension=ts&play_token=Jqji9jP1mr
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 48
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307768&extension=ts&play_token=E77AetfHg7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 49
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307767&extension=ts&play_token=nhIsblWCL0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 50
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307766&extension=ts&play_token=Ls55a5GCSZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 51
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307765&extension=ts&play_token=FPsZcVpkjx
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 52
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307764&extension=ts&play_token=K7TwKugICJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 53
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307763&extension=ts&play_token=3sK2YZ9tvj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 54
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307762&extension=ts&play_token=181VeEgqym
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 55
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307761&extension=ts&play_token=H8Jj6NKCjo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 56
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307760&extension=ts&play_token=mRYOYooAqM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 57
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307759&extension=ts&play_token=DXF7gHyj11
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 58
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307758&extension=ts&play_token=oXL483pJNZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 59
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307757&extension=ts&play_token=UCQO6nE0Uo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 60
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307756&extension=ts&play_token=WWHgH2EVs8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 61
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307755&extension=ts&play_token=DTpBdrhIta
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 62
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307754&extension=ts&play_token=jiqXEoerwH
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 63
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307753&extension=ts&play_token=aMW0nDowpG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 64
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307752&extension=ts&play_token=vSYINx7ZsJ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 65
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307751&extension=ts&play_token=kJXGVQWGcK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 66
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307750&extension=ts&play_token=HJiqDJCkMj
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 67
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307749&extension=ts&play_token=LIJe3egboq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 68
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307748&extension=ts&play_token=jip0OKyixU
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 69
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307747&extension=ts&play_token=NW878nctBv
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 70
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307746&extension=ts&play_token=2ZmekUzKVn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 71
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307745&extension=ts&play_token=15WZoJsDKn
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 72
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307744&extension=ts&play_token=Mqr43545kD
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 73
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307743&extension=ts&play_token=kVVAL9SCCe
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 74
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307742&extension=ts&play_token=JQz8iTmc1F
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 75
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307741&extension=ts&play_token=Gqv3y2kk3I
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 76
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307740&extension=ts&play_token=xwqJmlVBkc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 77
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307739&extension=ts&play_token=8OUO93CBaA
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 78
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307738&extension=ts&play_token=H3oqH0Im2J
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 79
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307737&extension=ts&play_token=UQsRTjJ6b1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 80
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307736&extension=ts&play_token=gxgtwo05sM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 81
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307735&extension=ts&play_token=QKxQfugEWZ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 82
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307734&extension=ts&play_token=2Rlb1sCFL0
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 83
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307733&extension=ts&play_token=shoxI3amfN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 84
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307732&extension=ts&play_token=l7xwG7tC48
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 85
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307731&extension=ts&play_token=ejomf9Lt9m
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 86
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307730&extension=ts&play_token=s4ROHFu0JF
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 87
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307729&extension=ts&play_token=4ylfXwxcZQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 88
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307728&extension=ts&play_token=t7PSs8uUOy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 89
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307727&extension=ts&play_token=splehJczF4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 90
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307726&extension=ts&play_token=6r6VGLewpp
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 91
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307725&extension=ts&play_token=FuuqDk7sD3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 92
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307724&extension=ts&play_token=zZK4gPFwxc
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 93
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307723&extension=ts&play_token=xXz6eo3nfb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 94
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307722&extension=ts&play_token=ppTCf3EwrM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 95
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307721&extension=ts&play_token=ThmpZIR8Ez
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 96
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307720&extension=ts&play_token=2oaoMVjqRd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 97
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307719&extension=ts&play_token=IP5fDSYNmG
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 98
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307718&extension=ts&play_token=NW8nnxdhiP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 99
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307717&extension=ts&play_token=cxfNZKosec
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/Max.png" group-title="|EU| SW MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | SE: MAX PPV 100
-http://a.nt2024.xyz:80/play/live.php?mac=00:1A:79:00:1C:B6&stream=1307716&extension=ts&play_token=I6Lhpt71kv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",####### MAX PPV #######
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628335&extension=ts&play_token=JV9rRM22iY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",LIVE | JOSHUA THOMOND - ARTEMIJS ZIZINS | Tue 01 Sep 15:59 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 1
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628334&extension=ts&play_token=z8NSneBcfN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",LIVE | ZHANG ANDA - CHRIS WAKELIN | Tue 01 Sep 15:57 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 2
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628333&extension=ts&play_token=Um0ZiqjQHx
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | YULIA PUTINTSEVA - BELINDA BENCIC | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 3
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628332&extension=ts&play_token=fs15Caaodi
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | MAHMOUD EL HAREEDY - LIAM HIGHFIELD | Tue 01 Sep 16:44 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 4
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628331&extension=ts&play_token=rO0TMVXwOn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",LIVE | YANG LIU - DUANE JONES | Tue 01 Sep 13:59 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 5
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628330&extension=ts&play_token=UxgQjevDMK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | FRANCISCO COMESAÑA - FLAVIO COBOLLI | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 6
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628329&extension=ts&play_token=qCJWi1k9pW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | NISHESH BASAVAREDDY - TRISTAN SCHOOLKATE | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 7
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628328&extension=ts&play_token=duONSSsFsk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | MATTIA BELLUCCI - ZSOMBOR PIROS | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 8
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628327&extension=ts&play_token=24qTTcU7D6
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",LIVE | LA VUELTA | Tue 01 Sep 14:45 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 9
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628326&extension=ts&play_token=IJbO9pykjX
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",LIVE | WU YIZE - KYREN WILSON | Tue 01 Sep 15:44 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 10
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628325&extension=ts&play_token=RAwUNLL5Po
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",LIVE | COURTSIDE | Tue 01 Sep 16:30 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 11
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628324&extension=ts&play_token=OF2aczLtyK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | YULIIA STARODUBTSEVA - ELLA SEIDEL | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 12
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628323&extension=ts&play_token=MlnxaLeWVQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | FILIP MISOLIC - FRANCISCO CERUNDOLO | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 13
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628322&extension=ts&play_token=gyfKJW2bjb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | GABRIELA KNUTSON - EVA LYS | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 14
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628321&extension=ts&play_token=gEHqXK9HdF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | DANE SWEENY - CORENTIN MOUTET | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 15
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628320&extension=ts&play_token=jvo30GVOgI
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NEXT | MULTIVIEW | Tue 01 Sep 17:00 CEST (NL) | 8K EXCLUSIVE | NL: MAX PPV 16
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628319&extension=ts&play_token=GEGyQIE0jB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 17
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628318&extension=ts&play_token=LxOadASJxW
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 18
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628317&extension=ts&play_token=FijRe9vKay
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 19
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628316&extension=ts&play_token=2qX80eRIa7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 20
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628315&extension=ts&play_token=C3Zsw72aVB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 21
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628314&extension=ts&play_token=7rRJMokhsB
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 22
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628313&extension=ts&play_token=uJjiwMhodY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 23
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628312&extension=ts&play_token=1422ii0vkC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 24
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628311&extension=ts&play_token=2PrkkPUiqa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 25
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628310&extension=ts&play_token=eYfKrBd0p9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 26
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628309&extension=ts&play_token=4UPdd0bHY4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 27
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628308&extension=ts&play_token=fMd7XUa7QR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 28
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628307&extension=ts&play_token=Lx5obpfCtt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 29
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628306&extension=ts&play_token=8eACbKwnOf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 30
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628305&extension=ts&play_token=exHJJZwING
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 31
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628304&extension=ts&play_token=JrzBaDhgo4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 32
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628303&extension=ts&play_token=BGO2Nb9G4f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 33
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628302&extension=ts&play_token=0Ax5m6dme7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 34
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628301&extension=ts&play_token=CWaG4CIDqk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 35
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628300&extension=ts&play_token=M1PjetUoOu
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 36
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628299&extension=ts&play_token=Rtkef21iRb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 37
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628298&extension=ts&play_token=xLUWgqb74C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 38
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628297&extension=ts&play_token=20wK88q5l3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 39
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628296&extension=ts&play_token=GTMVQxXSg4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 40
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628295&extension=ts&play_token=acEBxBzEEQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 41
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628294&extension=ts&play_token=LOdBaIPW2r
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 42
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628293&extension=ts&play_token=zZOPDIriCH
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 43
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628292&extension=ts&play_token=L5HTeemIEA
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 44
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628291&extension=ts&play_token=P6X0td189C
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 45
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628290&extension=ts&play_token=4nsp85appC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 46
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628289&extension=ts&play_token=KSTGt16aZh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 47
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628288&extension=ts&play_token=I12YKEY58o
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 48
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628287&extension=ts&play_token=eXF4kyZSdg
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 49
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628286&extension=ts&play_token=PqraHoGvXn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 50
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628285&extension=ts&play_token=QTyrWa6irD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 51
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628284&extension=ts&play_token=YVbqUzDZCK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 52
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628283&extension=ts&play_token=i4BgawbkZD
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 53
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628282&extension=ts&play_token=Fp38vbzIxN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 54
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628281&extension=ts&play_token=SOLVYYj8In
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 55
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628280&extension=ts&play_token=tPnKHZyuYC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 56
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628279&extension=ts&play_token=Loa2oeTj4V
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 57
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628278&extension=ts&play_token=VtkOqeqMR5
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 58
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628277&extension=ts&play_token=mqu2YAgC0p
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 59
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628276&extension=ts&play_token=WgVSLQ1gvU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 60
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628275&extension=ts&play_token=KUeF2gspXd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 61
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628274&extension=ts&play_token=YRVUmiwPys
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 62
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628273&extension=ts&play_token=bkNFauUNYU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 63
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628272&extension=ts&play_token=aRt6XRdbcY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 64
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628271&extension=ts&play_token=ucPLqybYbF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 65
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628270&extension=ts&play_token=AfhfFsAPDr
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 66
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628269&extension=ts&play_token=vpu0o3vPKe
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 67
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628268&extension=ts&play_token=cxgz5dX1Qf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 68
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628267&extension=ts&play_token=4FS6G7z1xv
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 69
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628266&extension=ts&play_token=qFW9cvroCJ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 70
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628265&extension=ts&play_token=ESRV6daarE
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 71
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628264&extension=ts&play_token=vvSuh07ohZ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 72
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628263&extension=ts&play_token=ccmQNxrDwQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 73
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628262&extension=ts&play_token=JJaCFvJZfh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 74
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628261&extension=ts&play_token=NP5PsMsMUc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 75
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628260&extension=ts&play_token=yhuMMqZCTa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",NL: MAX PPV 76 - NO EVENT STREAMING -
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628259&extension=ts&play_token=2nqE667rsC
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 77
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628258&extension=ts&play_token=C0BjntcAJM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 78
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628257&extension=ts&play_token=Ndv82euwSj
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 79
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628256&extension=ts&play_token=594beETHp3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 80
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628255&extension=ts&play_token=vwo4Q7d6mf
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 81
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628254&extension=ts&play_token=134GoX8hZc
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 82
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628253&extension=ts&play_token=YLicSvTvoo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 83
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628252&extension=ts&play_token=CH7Yra69RF
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 84
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628251&extension=ts&play_token=5aNQvE8wY1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 85
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628250&extension=ts&play_token=paRQmxgLAY
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 86
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628249&extension=ts&play_token=DLaIbUnR2g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 87
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628248&extension=ts&play_token=1YcBaRVkhN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 88
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628247&extension=ts&play_token=lM31IQywAQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 89
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628246&extension=ts&play_token=q5r1zRI7O7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 90
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628245&extension=ts&play_token=HHiPbPHLEU
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 91
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628244&extension=ts&play_token=1rCwY3WeBy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 92
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628243&extension=ts&play_token=MqDpK35l2m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 93
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628242&extension=ts&play_token=oea1v275Pm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 94
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628241&extension=ts&play_token=Iiy9hZZ7Or
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 95
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628240&extension=ts&play_token=dXJsD8MG0t
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 96
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628239&extension=ts&play_token=12XhtYS7ts
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 97
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628238&extension=ts&play_token=n0ZLsgzYpt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 98
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628237&extension=ts&play_token=1q2iBXCn6m
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 99
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628236&extension=ts&play_token=GLRDSGR078
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PPV/HBOMAX.png" group-title="NL| HBO MAX PPV",- NO EVENT STREAMING - | 8K EXCLUSIVE | NL: MAX PPV 100
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:5D:AB:34&stream=1628235&extension=ts&play_token=gMFOjPVwbq
