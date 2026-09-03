@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-plus-us.png?raw=true" group-title="ESPN plus",Red Zone
 http://tv-16ksnd013579.com:80/76R6757R8JZY1Z7/GvOYAGE79J/234280?play_token=MXmMxMVWwe
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-plus-us.png?raw=true" group-title="ESPN plus",Keys Bondár
-http://tv-16ksnd013579.com:80/76R6757R8JZY1Z7/GvOYAGE79J/234281?play_token=IVpHyWVtZA
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-plus-us.png?raw=true" group-title="ESPN plus",Blockx
+http://204.52.191.12:80/play/live.php?mac=00:1A:79:2A:5E:5D&stream=940818&extension=ts&play_token=gJHEyptlC4
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-plus-us.png?raw=true" group-title="ESPN plus",Cobolli
 http://204.52.191.12:80/play/live.php?mac=00:1A:79:2A:5E:5D&stream=940825&extension=ts&play_token=ZkA9hwtgK5
