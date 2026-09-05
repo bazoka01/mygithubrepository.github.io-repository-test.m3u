@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz"
 #EXTINF:-1 tvg-id="SK.1.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/c9c00735-c0b5-4467-a78a-27e19286a993_s.png",SK 1
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/22365.ts
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559029&extension=ts&play_token=41jwkL6oMw
 #EXTINF:-1 tvg-id="SK.2.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/12/02/586e4b69_e16f_422e_bd12_8ce62f194614.png",SK 2
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/96291.ts
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559030&extension=ts&play_token=qGD3TO9d5A
 #EXTINF:-1 tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/12/02/c14bd326_b113_4838_be3e_cd62da3f6172.png",SK 3
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/96292.ts
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559031&extension=ts&play_token=3co3mZGgTG
 #EXTINF:-1 tvg-id="SK.4.HD.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/a164c0f0-17d7-4601-a7aa-2625b0846d37_s.png",SK 4
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/96293.ts
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559032&extension=ts&play_token=vX4v1QEZXB
 #EXTINF:-1 tvg-id="SK.5.HD.HR.(Portal).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/27/774cebc1-0785-4328-94f8-34c4c34fd8ef_s.png",SK 5
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/96294.ts
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=1087&extension=ts&play_token=3NG8rujAFU
 #EXTINF:-1 tvg-id="SK.6.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2020/11/03/4ebb4fa0-e651-4766-a527-14797cdb19fb_s.png",SK 6
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/6917.ts
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=1086&extension=ts&play_token=amFJHWXTXS
 #EXTINF:-1 tvg-id="SK.7.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/775c96e2-ee4b-42d5-85a4-9132911c3b66_s.png",SK 7
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/929645.ts
 #EXTINF:-1 tvg-id="SK.8.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/fc46d08b-b67f-4d98-9b70-bb5e9e0a918e_s.png",SK 8
@@ -24,6 +24,6 @@ http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/1458133.ts
 #EXTINF:-1 tvg-id="SK.12.HD.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/26/a8757dc6-c989-4c56-8289-752a314f877e_s.png",SK 12
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/1458134.ts
 #EXTINF:-1 tvg-id="SK.Golf.(BIH/SI).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/26/69f7fcca-fb93-4499-9a41-1591654b0dd6_s.png",SK Golf
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/31529.ts
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559025&extension=ts&play_token=4IrHKkO8Pe
 #EXTINF:-1 tvg-id="SK.Fight.ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2022/01/26/7a808510-aef5-4cb2-89cb-9193931fa5d6_s.png",SK Fight
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/6920.ts
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559026&extension=ts&play_token=sB7BffxMOE
