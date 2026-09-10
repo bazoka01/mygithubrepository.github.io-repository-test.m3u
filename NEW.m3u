@@ -1,25 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/hd/deluxe-music-hd-de.png?raw=true",Deluxe Music DE
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/kronehit-de.png?raw=true",Kronehit DE
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rtl-1025-it.png?raw=true",RTL 102 TV
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikitide.net/indietvwiki/e/e1/Totalmusic_Main_Logo.png",Totalmusic
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-pop-vod.png?raw=true",Vevo POP
-https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzCDPE5Ar2IyBggjRAWlN9XrVw6jrJAZcuutjMFiqiXOYA9Say0uPjLva&s=10",Vevo Retro Rock
-https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/xite-nl.png?raw=true",Xite Hits
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/xite-nl.png?raw=true",Xite Just Chill
-https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/xite-nl.png?raw=true",Xite Rock x Metal
-https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/ocko-cz.png?raw=true",Ocko CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/ocko-expres-cz.png?raw=true",Ocko Express CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.wic-net.cz/wp-content/uploads/2016/01/ockogold.jpg",Ocko Gold CZ
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTM3U url-tvg="https://epg.lat/files/cz.xml.gz"
+#EXTINF:-1 tvg-id="English.Club.TV.cz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="MAC TS",English Club TV
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=900702&extension=ts&play_token=pXeowpMcSj
