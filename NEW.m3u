@@ -1,83 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NETHERLAND.png" group-title="NL| MUZIEK",##### NL MUZIEK #####
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283077&extension=ts&play_token=ja1RRxozDy
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/TVORANJE.png" group-title="NL| MUZIEK",NL| TV ORANJE
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283076&extension=ts&play_token=5UK6JVj8Nm
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/TV538.png" group-title="NL| MUZIEK",NL| TV 538
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283075&extension=ts&play_token=Qz6kbsXUGV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/100NL.png" group-title="NL| MUZIEK",NL| 100% NL TV
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283074&extension=ts&play_token=A5xuG9kVQk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/192TV.png" group-title="NL| MUZIEK",NL| 192 TV HD
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283073&extension=ts&play_token=vnr4yFrJEL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SLAM.png" group-title="NL| MUZIEK",NL| SLAM
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283072&extension=ts&play_token=u07UJw1sHo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/DANCETELEVISION.png" group-title="NL| MUZIEK",NL| DANCE TELEVISION HD
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283071&extension=ts&play_token=cFRg8fdy3g
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/XITE.png" group-title="NL| MUZIEK",NL| XITE HD
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283070&extension=ts&play_token=2a6oJ4moTd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/MTV.png" group-title="NL| MUZIEK",NL| MTV HD
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283069&extension=ts&play_token=QpHk7dblA1
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/MTV.png" group-title="NL| MUZIEK",NL| MTV LIVE HD
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283067&extension=ts&play_token=QnDhHHlbgK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/STINGRAYDJAZZ.png" group-title="NL| MUZIEK",NL| STINGRAY DJAZZ
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283063&extension=ts&play_token=USoct0jIng
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/STINGRAYLITE.png" group-title="NL| MUZIEK",NL| STINGRAY LITE TV
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283062&extension=ts&play_token=lhSBLfEZrz
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/192TV.png" group-title="NL| MUZIEK",NL| DUTCH SONGS 2023
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366198&extension=ts&play_token=IYBZAYwb8i
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/192TV.png" group-title="NL| MUZIEK",NL| DUTCH HITS
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366197&extension=ts&play_token=WAuWQbxWmk
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/KIDSSONGS.png" group-title="NL| MUZIEK",NL| KIDS SONGS
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366209&extension=ts&play_token=YqAQGAUjYd
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NAPSTER.png" group-title="NL| MUZIEK",NL| NAPSTER
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366210&extension=ts&play_token=G7b1neVOqP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NAPSTER.png" group-title="NL| MUZIEK",NL| NAPSTER DANCE MUSIC
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366211&extension=ts&play_token=RwqZl7d1GV
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - STUDYING MUSIC
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366218&extension=ts&play_token=xk4a79xIEt
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - ROMANTIC
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366217&extension=ts&play_token=JbFxbIiCVh
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - REGGAETON REWIND
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366216&extension=ts&play_token=JH0CW4nBK7
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - POP
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366215&extension=ts&play_token=53lMHtnLGa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - MOOD BOOSTER
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366214&extension=ts&play_token=N904bLmHkP
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - GOSPEL MUSIC
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366213&extension=ts&play_token=g6vOSeNof4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - BEST 2023
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366212&extension=ts&play_token=rv8m6nu5rQ
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/APPLEPLUS.png" group-title="NL| MUZIEK",NL| APPLE - MUSIC REGGAETON
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366196&extension=ts&play_token=277BRU6Mr3
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/APPLEPLUS.png" group-title="NL| MUZIEK",NL| APPLE - MUSIC REAGGAE
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366195&extension=ts&play_token=JPBJ6HChUL
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/APPLEPLUS.png" group-title="NL| MUZIEK",NL| APPLE - MUSIC POP
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366194&extension=ts&play_token=yWXtH9YkQR
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/APPLEPLUS.png" group-title="NL| MUZIEK",NL| APPLE - MUSIC DANCE
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366193&extension=ts&play_token=RsLeTIBxDK
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - VAN JANNES
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366208&extension=ts&play_token=cf4FdqCEgb
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - SLOW JAMS
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366207&extension=ts&play_token=QEzZTCiKi8
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - REGGAE MIX 2023
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366206&extension=ts&play_token=vRLIW4RFeN
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - REGGAE CONCERT
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366205&extension=ts&play_token=gBAXwIT5z4
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - MOOMBAHTON
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366204&extension=ts&play_token=eRaI7twgQa
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - JAN SMIT
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366203&extension=ts&play_token=BPVFeKZO4I
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - HOLLANDSE KROEGEN
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366202&extension=ts&play_token=0q2WeXlyHo
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - HIP HOP URBAN
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366201&extension=ts&play_token=ge164Je92f
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - DUTCH URBAN REGGAETON
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366200&extension=ts&play_token=rNxOaWA0lw
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - DUTCH RAP
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366199&extension=ts&play_token=rsIg7Ignma
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NETHERLAND.png" group-title="NL| MUZIEK",##### NL MUZIEK FHD #####
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283061&extension=ts&play_token=5a2bGE3hFq
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/XITE.png" group-title="NL| MUZIEK",NL| XITE FHD
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283059&extension=ts&play_token=aPBgG4npLM
-#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/MTV.png" group-title="NL| MUZIEK",NL| MTV FHD
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283058&extension=ts&play_token=L3MI8MBc5w
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/hd/deluxe-music-hd-de.png?raw=true",Deluxe Music DE
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/kronehit-de.png?raw=true",Kronehit DE
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/rtl-1025-it.png?raw=true",RTL 102 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikitide.net/indietvwiki/e/e1/Totalmusic_Main_Logo.png",Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/vevo-pop-vod.png?raw=true",Vevo POP
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmzCDPE5Ar2IyBggjRAWlN9XrVw6jrJAZcuutjMFiqiXOYA9Say0uPjLva&s=10",Vevo Retro Rock
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/xite-nl.png?raw=true",Xite Hits
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/xite-nl.png?raw=true",Xite Just Chill
+https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/netherlands/xite-nl.png?raw=true",Xite Rock x Metal
+https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/ocko-cz.png?raw=true",Ocko CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/ocko-expres-cz.png?raw=true",Ocko Express CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.wic-net.cz/wp-content/uploads/2016/01/ockogold.jpg",Ocko Gold CZ
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
