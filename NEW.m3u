@@ -1,197 +1,83 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-cz.xml"
-#EXTINF:-1 tvg-id="CANALPLUSACTIONCZ.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canal_action.png" group-title="|CZ| ✪ CZECH",CZ| CANAL+ Action
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1149977&extension=ts
-#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png" group-title="|CZ| ✪ CZECH",CZ| CT 1 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88589&extension=ts
-#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png" group-title="|CZ| ✪ CZECH",CZ| CT 2 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88591&extension=ts
-#EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct24.png" group-title="|CZ| ✪ CZECH",CZ| CT 24 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88593&extension=ts
-#EXTINF:-1 tvg-id="AXN.cz" tvg-logo="https://iptv-epg.org/images/cyUaue8MqhdOBBxKKpufj_MU8rwB4CAn0un6LG8wB4yDjUobDCO_weoyk7JXaRtsCsY1EwPp190O54i88jg1M9Zwc8eRBmXdL4m7mu5aUY57SuQq" group-title="|CZ| ✪ CZECH",CZ| AXN
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88605&extension=ts
-#EXTINF:-1 tvg-id="NOVA.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova.png" group-title="|CZ| ✪ CZECH",CZ| NOVA ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88656&extension=ts
-#EXTINF:-1 tvg-id="SPEKTRUM.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/spektrum.png" group-title="|CZ| ✪ CZECH",CZ| SPEKTRUM ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88682&extension=ts
-#EXTINF:-1 tvg-id="JOJCINEMA.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png" group-title="|CZ| ✪ CZECH",CZ| JOJ CINEMA ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88630&extension=ts
-#EXTINF:-1 tvg-id="JOJFAMILY.cz" tvg-logo="https://iptv-epg.org/images/OukyZzvJjgxtgM5aBpcBKYXUbIatosBzDrVTxJbD7RtlJCWiUSdwAZjg-BVy6S4NhekDiApB6j7-CXPj3Ag4Gb4pzlBhL7IlHvnBlMaF_dbNcRWzvm31ELuq" group-title="|CZ| ✪ CZECH",CZ| JOJ FAMILY ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88634&extension=ts
-#EXTINF:-1 tvg-id="JOJŠPORT.cz" tvg-logo="https://iptv-epg.org/images/a5bfc9e07964f8dddeb95fc584cd965d/iFSoX1Me8ngT3YXCJj3ZKhIFMeEBvsJtwCSlIBhNlgWfvRNegje58u3j3WuJjmZCgv35qMER_TvbHcvW4DKTFnoWqMiTY4qF-u4XUu_gYz0igwJX3MZ1mMpB_IhpvA" group-title="|CZ| ✪ CZECH",CZ| JOJ ŠPORT
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88636&extension=ts
-#EXTINF:-1 tvg-id="HBO.cz" tvg-logo="https://iptv-epg.org/images/NX85IPorZ90DfzK4_CDbONXhBRg7cmfoGUXwVSO8jfprzyZyX4Ka9CXBz4be4LVV-aEs91OwTdlIIRZe1J93pvQXO2RbwGI5XP2rjgBeUIZ99io3" group-title="|CZ| ✪ CZECH",CZ| HBO ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88625&extension=ts
-#EXTINF:-1 tvg-id="HBO2.cz" tvg-logo="https://iptv-epg.org/images/dKKvGATrkfJ4QDJjgY_8661dCt8p1FZS_v34Hagj10VimKJ3TOrxRMj03d3weL0KjbytW5SG0BQFqjRHq1glhJH11Mz6lqPeySmjIyonZPscjtWxzw" group-title="|CZ| ✪ CZECH",CZ| HBO2
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88627&extension=ts
-#EXTINF:-1 tvg-id="HBO3.cz" tvg-logo="https://iptv-epg.org/images/PB2PXet4sVK0AMzwU2UvsEBe63LmEV-vZayKQdgXv0fS4nZ91QHUo8u4NRJCQFiJKtOYMLpwIIldS5t-H4f-k3LzN8HJSvxM2WcQ2zSHQk064rwodA" group-title="|CZ| ✪ CZECH",CZ| HBO3
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88628&extension=ts
-#EXTINF:-1 tvg-id="NOVAACTION.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_action.png" group-title="|CZ| ✪ CZECH",CZ| NOVA ACTION ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88651&extension=ts
-#EXTINF:-1 tvg-id="NOVACINEMA.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_cinema.png" group-title="|CZ| ✪ CZECH",CZ| NOVA CINEMA ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88653&extension=ts
-#EXTINF:-1 tvg-id="PRIMACOOL.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_cool.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA COOL ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88666&extension=ts
-#EXTINF:-1 tvg-id="PRIMA.cz" tvg-logo="https://iptv-epg.org/images/srJ9VL8tP5nKDYoL0n64LC_PMIe9-9fA3qUn2BVHDNJTWuNyu1gBq37X9P8HEbgLviBNBR7Nj7Or2RPvSgpPm5Kvb6Eqr8aP0wZd4l949DkWT_sL_h8" group-title="|CZ| ✪ CZECH",CZ| PRIMA ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88668&extension=ts
-#EXTINF:-1 tvg-id="PRIMALOVE.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/primalove.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA LOVE
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88670&extension=ts
-#EXTINF:-1 tvg-id="PRIMAMAX.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_max.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA MAX ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88671&extension=ts
-#EXTINF:-1 tvg-id="PRIMAZOOM.cz" tvg-logo="https://iptv-epg.org/images/UulrPjgFiyOHI0Tna-qDGuvtMG8vBpbnQFqO-ePA_BJ5rDHEmYSTQPJ-j8z4AmIttNoarwE0Yjp76nafY13GigqxTSC-ble2s_PkidJQcg2EXFeBxBFxCm7h" group-title="|CZ| ✪ CZECH",CZ| PRIMA ZOOM ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88677&extension=ts
-#EXTINF:-1 tvg-id="DISNEYCHANNEL.cz" tvg-logo="https://iptv-epg.org/images/EAsuedI4a92irdTupwwcKmWf0CLrx65iJflHQ7RrkXV6ofKawuOTpEGluhSztLlHxbI32Ni-n6s5QcowltjMyOy54D2m8jK7jw2YtlN2XwnLIB4JDovalRiHzUWChg" group-title="|CZ| ✪ CZECH",CZ| DISNEY
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88612&extension=ts
-#EXTINF:-1 tvg-id="NICKELODEON.cz" tvg-logo="https://iptv-epg.org/images/ntK5Wj6A9hFmuu9jIhex9FpcGjlizuMaxVW9LkqNGd1KSt8s3zev0BmJxiSA7eDqHPZWhb9XOGdCBsj0tRC5o5YmDqPFBmXC2MXOblv102aFJUGUNRwYlQJLUjg" group-title="|CZ| ✪ CZECH",CZ| NICKELODEON
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88649&extension=ts
-#EXTINF:-1 tvg-id="NATGEOWILD.cz" tvg-logo="https://iptv-epg.org/images/IJ5DOUIz6B-4_Rfme7tW1cMNSL5Q2h29X_mHBggfWDEpr141sIodB4dfLHEhBeq-H1rHAygCMmSzSiMIUeK2dP-4XIRNzWjB7KPuo6CxxM7BCwrTGpg5HLXqYQ" group-title="|CZ| ✪ CZECH",CZ| NATIONAL GEOGRAPHIC WILD ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88644&extension=ts
-#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/viasatexplore.png" group-title="|CZ| ✪ CZECH",CZ| VIASAT EXPLORE
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88705&extension=ts
-#EXTINF:-1 tvg-id="VIASATHISTORY.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/viasathistory.png" group-title="|CZ| ✪ CZECH",CZ| VIASAT HISTORY
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88706&extension=ts
-#EXTINF:-1 tvg-id="FISHINGandHUNTINGUPC.cz" tvg-logo="http://www.programy-tv.cz/stanice/fnh.gif" group-title="|CZ| ✪ CZECH",CZ| FISHING AND HUNTING
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88623&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_1.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 1 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88661&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 2 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88663&extension=ts
-#EXTINF:-1 tvg-id="SPORT1.cz" tvg-logo="https://iptv-epg.org/images/MC2ip5fm1mQDbAy4nhTUupYK188-fLv5c13I1IDKwoxuhnYHd6U3JlETiaCbdW7oQVoVDChDigyIqo4qJ3jv7pm7GxlM5d0GikN8tAuSmm-QyysLn2vJ" group-title="|CZ| ✪ SPORT",CZ| SPORT 1 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88684&extension=ts
-#EXTINF:-1 tvg-id="SPORT2.cz" tvg-logo="https://iptv-epg.org/images/Q390DmyZ-gqMi9H9VWI2tITWpWhFqYEKO956ugQrcj6vXf9uLqdRN9h_ZWdZpU5Zh0wst27JjTNXc7IJ4MyQHWLgVTu0Ryu6h8qJKLGUzS8hWJdForVE" group-title="|CZ| ✪ SPORT",CZ| SPORT 2 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88686&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport4.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport4.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178836&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport4.cz" tvg-logo="https://s13.gifyu.com/images/SCRfv.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4 HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184933&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport5.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport5.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 5
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178862&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport6.cz" tvg-logo="https://iptv-epg.org/images/kvLbCOmIxy5cNxtOjELMmlSJajsiFELhAzrRwSJ0F7CfPEM_biUds77no_hmTVOraupInvNCxFAl8qqd18-43v0lY1AmbMCa_XndNPVZH9b6YaSUpZUTX1vPERs-t2sL" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178901&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport6.cz" tvg-logo="https://s13.gifyu.com/images/SCRfI.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184936&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport6.cz" tvg-logo="https://s13.gifyu.com/images/SCRfI.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6 HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184937&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport7.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport7.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178926&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport7.cz" tvg-logo="https://i.imgur.com/vsEbul3.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184938&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport7.cz" tvg-logo="https://i.imgur.com/vsEbul3.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7 HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184939&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport8.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport8.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178952&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport8.cz" tvg-logo="https://i.imgur.com/cmgYv8m.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184940&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport8.cz" tvg-logo="https://i.imgur.com/cmgYv8m.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8 HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184941&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSportCZ.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/canal-plus-sport-sk.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184931&extension=ts
-#EXTINF:-1 tvg-id="EUROSPORT.cz" tvg-logo="https://s9.gifyu.com/images/SUzCO.png" group-title="|CZ| ✪ SPORT",CZ| EUROSPORT 1 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195130&extension=ts
-#EXTINF:-1 tvg-id="EUROSPORT2.cz" tvg-logo="https://s9.gifyu.com/images/SUzCy.png" group-title="|CZ| ✪ SPORT",CZ| EUROSPORT 2 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195132&extension=ts
-#EXTINF:-1 tvg-id="EXTREMESPORTS.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/extreme-sports-channel-int.png" group-title="|CZ| ✪ SPORT",CZ| EXTREME SPORTS
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195156&extension=ts
-#EXTINF:-1 tvg-id="FIGHTBOX.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/fightbox-pl.png" group-title="|CZ| ✪ SPORT",CZ| FIGHTBOX HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195162&extension=ts
-#EXTINF:-1 tvg-id="GOLFCHANNEL.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-channel-us.png" group-title="|CZ| ✪ SPORT",CZ| GOLF CHANNEL FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195154&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT3.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-3-cz.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 3 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195142&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT4.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-4-cz.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 4 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195144&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT5.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-5-cz.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 5 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195146&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT6.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-6-cz.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 6 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195148&extension=ts
-#EXTINF:-1 tvg-id="PREMIERSPORT1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/premier-sport-1-cz.png" group-title="|CZ| ✪ SPORT",CZ| PREMIER SPORT 1 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195124&extension=ts
-#EXTINF:-1 tvg-id="PREMIERSPORT2CZ.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/premier-sport-2-cz.png" group-title="|CZ| ✪ SPORT",CZ| PREMIER SPORT 2 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195126&extension=ts
-#EXTINF:-1 tvg-id="PREMIERSPORT3CZ.cz" tvg-logo="https://i.imgur.com/UMhSgtt.png" group-title="|CZ| ✪ SPORT",CZ| PREMIER SPORT 3 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195128&extension=ts
-#EXTINF:-1 tvg-id="ČTsport.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="|CZ| ✪ SPORT",CZ| ČT SPORT FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184944&extension=ts
-#EXTINF:-1 tvg-id="ÓČKOSTAR.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko%20Star.png" group-title="|CZ| Czechia Music",Óčko Star FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963555&extension=ts
-#EXTINF:-1 tvg-id="ÓČKO.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko.png" group-title="|CZ| Czechia Music",Óčko FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963554&extension=ts
-#EXTINF:-1 tvg-id="ÓČKOEXPRES.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko%20Expres.png" group-title="|CZ| Czechia Music",Óčko Expres FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963553&extension=ts
-#EXTINF:-1 tvg-id="ÓČKOBlack.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko%20Black.png" group-title="|CZ| Czechia Music",Óčko Black FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963552&extension=ts
-#EXTINF:-1 tvg-id="VIASATNATURE.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Viasat%20Nature.png" group-title="|CZ| ✪ CZECH",Viasat Nature FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963551&extension=ts
-#EXTINF:-1 tvg-id="VIASATHISTORY.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Viasat%20History.png" group-title="|CZ| ✪ CZECH",Viasat History FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963550&extension=ts
-#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Viasat%20Explore.png" group-title="|CZ| ✪ CZECH",Viasat Explore FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963549&extension=ts
-#EXTINF:-1 tvg-id="TLC.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/TLC.png" group-title="|CZ| ✪ CZECH",TLC FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963519&extension=ts
-#EXTINF:-1 tvg-id="TA3.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/TA3.png" group-title="|CZ| ✪ CZECH",TA3 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963516&extension=ts
-#EXTINF:-1 tvg-id="Story4.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Story4.png" group-title="|CZ| ✪ CZECH",Story4
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963514&extension=ts
-#EXTINF:-1 tvg-id="SPEKTRUMHOMEHU.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Spektrum%20Home.png" group-title="|CZ| ✪ CZECH",Spektrum Home FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963510&extension=ts
-#EXTINF:-1 tvg-id="SPEKTRUM.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Spektrum.png" group-title="|CZ| ✪ CZECH",Spektrum FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963509&extension=ts
-#EXTINF:-1 tvg-id="SENZITV.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Senzi.png" group-title="|CZ| Czechia Music",Senzi FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963505&extension=ts
-#EXTINF:-1 tvg-id="PRIMALOVE.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Prima%20Love%20SK.png" group-title="|CZ| ✪ CZECH",Prima Love FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963496&extension=ts
-#EXTINF:-1 tvg-id="PRIMAKRIMI.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Prima%20Krimi%20SK.png" group-title="|CZ| ✪ CZECH",Prima Krimi FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963495&extension=ts
-#EXTINF:-1 tvg-id="pr" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/PREMIUM.png" group-title="|CZ| Czechia Music",PREMIUM FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963492&extension=ts
-#EXTINF:-1 tvg-id="POLAR.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Polar%20TV.png" group-title="|CZ| ✪ CZECH",Polar TV FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963491&extension=ts
-#EXTINF:-1 tvg-id="h" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Music%20Box%20Hits.png" group-title="|CZ| Czechia Music",Music Box Hits FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963480&extension=ts
-#EXTINF:-1 tvg-id="d" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Music%20Box%20Dance.png" group-title="|CZ| Czechia Music",Music Box Dance FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963479&extension=ts
-#EXTINF:-1 tvg-id="box" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Music%20Box%20Classic.png" group-title="|CZ| Czechia Music",Music Box Classic FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963478&extension=ts
-#EXTINF:-1 tvg-id="MARKÍZA.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Mark%c3%adza.png" group-title="|CZ| ✪ CZECH",Markíza FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963468&extension=ts
-#EXTINF:-1 tvg-id="LoveNature.cz" tvg-logo="https://iptv-epg.org/images/lfLDStlPf6BZnU8TUELtvSJw4775I45NrirstxykA8bYy1gAw5N_zV8EOK4pIAv0ZvlA7fb1nNuozRfypyAAAGSDquB_fvOHiipMp03RG7eOHD3hnbk1ZJV6NQ" group-title="|CZ| ✪ CZECH",Love Nature FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963467&extension=ts
-#EXTINF:-1 tvg-id="JOJŠPORT2.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20%c5%a0port%202.png" group-title="|CZ| ✪ SPORT",JOJ Šport 2 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963457&extension=ts
-#EXTINF:-1 tvg-id="JOJSVET.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20Svet.png" group-title="|CZ| ✪ CZECH",JOJ Svet FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963455&extension=ts
-#EXTINF:-1 tvg-id="JOJPLUS.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20Plus.png" group-title="|CZ| ✪ CZECH",JOJ Plus FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963454&extension=ts
-#EXTINF:-1 tvg-id="JOJ24.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%2024.png" group-title="|CZ| ✪ CZECH",JOJ 24 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963450&extension=ts
-#EXTINF:-1 tvg-id="JOJ.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ.png" group-title="|CZ| ✪ CZECH",JOJ FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963448&extension=ts
-#EXTINF:-1 tvg-id="JEDNOTKA.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Jednotka.png" group-title="|CZ| ✪ CZECH",Jednotka FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963446&extension=ts
-#EXTINF:-1 tvg-id="HGTV.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/HGTV.png" group-title="|CZ| ✪ CZECH",HGTV FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963441&extension=ts
-#EXTINF:-1 tvg-id="FILMBOX.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20One.png" group-title="|CZ| ✪ CZECH",FilmBox+ One FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963430&extension=ts
-#EXTINF:-1 tvg-id="lov" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20Love%20&%20Crime.png" group-title="|CZ| ✪ CZECH",FilmBox+ Love & Crime FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963429&extension=ts
-#EXTINF:-1 tvg-id="hit" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20hits.png" group-title="|CZ| ✪ CZECH",FilmBox+ hits FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963428&extension=ts
-#EXTINF:-1 tvg-id="emo" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20Emotion.png" group-title="|CZ| ✪ CZECH",FilmBox+ Emotion FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963427&extension=ts
-#EXTINF:-1 tvg-id="com" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20Comedy.png" group-title="|CZ| ✪ CZECH",FilmBox+ Comedy
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963426&extension=ts
-#EXTINF:-1 tvg-id="FILM+.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Film%20+.png" group-title="|CZ| ✪ CZECH",Film + FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963425&extension=ts
-#EXTINF:-1 tvg-id="FIGHTBOX.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FightBox.png" group-title="|CZ| ✪ SPORT",FightBox FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963424&extension=ts
-#EXTINF:-1 tvg-id="FASHIONBOX.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FashionBox.png" group-title="|CZ| ✪ CZECH",FashionBox HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963422&extension=ts
-#EXTINF:-1 tvg-id="EURONEWS.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Euronews.png" group-title="|CZ| ✪ CZECH",Euronews FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963419&extension=ts
-#EXTINF:-1 tvg-id="DVOJKA.cz" tvg-logo="https://iptv-epg.org/images/rq5XUWGcaaCiwN0Uht1Q1rAvOvOEj7g-7brUCKXMmH6NmdXtILDoouknZF6kYMpR4rVDDhr-8fSHrPaGal_Hr32651S1V2rIJJssTGkhf9HjHKSRHT9q" group-title="|CZ| ✪ CZECH",Dvojka FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963417&extension=ts
-#EXTINF:-1 tvg-id="DOMA.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Doma.png" group-title="|CZ| ✪ CZECH",Doma FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963414&extension=ts
-#EXTINF:-1 tvg-id="DAJTO.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/DajTo.png" group-title="|CZ| ✪ CZECH",DajTo FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963408&extension=ts
-#EXTINF:-1 tvg-id="360TUNEBOX.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/360%20TuneBox.png" group-title="|CZ| Czechia Music",360 TuneBox HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963389&extension=ts
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NETHERLAND.png" group-title="NL| MUZIEK",##### NL MUZIEK #####
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283077&extension=ts&play_token=ja1RRxozDy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/TVORANJE.png" group-title="NL| MUZIEK",NL| TV ORANJE
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283076&extension=ts&play_token=5UK6JVj8Nm
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/TV538.png" group-title="NL| MUZIEK",NL| TV 538
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283075&extension=ts&play_token=Qz6kbsXUGV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/100NL.png" group-title="NL| MUZIEK",NL| 100% NL TV
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283074&extension=ts&play_token=A5xuG9kVQk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/192TV.png" group-title="NL| MUZIEK",NL| 192 TV HD
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283073&extension=ts&play_token=vnr4yFrJEL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SLAM.png" group-title="NL| MUZIEK",NL| SLAM
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283072&extension=ts&play_token=u07UJw1sHo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/DANCETELEVISION.png" group-title="NL| MUZIEK",NL| DANCE TELEVISION HD
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283071&extension=ts&play_token=cFRg8fdy3g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/XITE.png" group-title="NL| MUZIEK",NL| XITE HD
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283070&extension=ts&play_token=2a6oJ4moTd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/MTV.png" group-title="NL| MUZIEK",NL| MTV HD
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283069&extension=ts&play_token=QpHk7dblA1
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/MTV.png" group-title="NL| MUZIEK",NL| MTV LIVE HD
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283067&extension=ts&play_token=QnDhHHlbgK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/STINGRAYDJAZZ.png" group-title="NL| MUZIEK",NL| STINGRAY DJAZZ
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283063&extension=ts&play_token=USoct0jIng
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/STINGRAYLITE.png" group-title="NL| MUZIEK",NL| STINGRAY LITE TV
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283062&extension=ts&play_token=lhSBLfEZrz
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/192TV.png" group-title="NL| MUZIEK",NL| DUTCH SONGS 2023
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366198&extension=ts&play_token=IYBZAYwb8i
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/192TV.png" group-title="NL| MUZIEK",NL| DUTCH HITS
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366197&extension=ts&play_token=WAuWQbxWmk
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/KIDSSONGS.png" group-title="NL| MUZIEK",NL| KIDS SONGS
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366209&extension=ts&play_token=YqAQGAUjYd
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NAPSTER.png" group-title="NL| MUZIEK",NL| NAPSTER
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366210&extension=ts&play_token=G7b1neVOqP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NAPSTER.png" group-title="NL| MUZIEK",NL| NAPSTER DANCE MUSIC
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366211&extension=ts&play_token=RwqZl7d1GV
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - STUDYING MUSIC
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366218&extension=ts&play_token=xk4a79xIEt
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - ROMANTIC
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366217&extension=ts&play_token=JbFxbIiCVh
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - REGGAETON REWIND
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366216&extension=ts&play_token=JH0CW4nBK7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - POP
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366215&extension=ts&play_token=53lMHtnLGa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - MOOD BOOSTER
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366214&extension=ts&play_token=N904bLmHkP
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - GOSPEL MUSIC
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366213&extension=ts&play_token=g6vOSeNof4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/SPOTIFY.png" group-title="NL| MUZIEK",NL| SPOTIFY - BEST 2023
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366212&extension=ts&play_token=rv8m6nu5rQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/APPLEPLUS.png" group-title="NL| MUZIEK",NL| APPLE - MUSIC REGGAETON
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366196&extension=ts&play_token=277BRU6Mr3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/APPLEPLUS.png" group-title="NL| MUZIEK",NL| APPLE - MUSIC REAGGAE
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366195&extension=ts&play_token=JPBJ6HChUL
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/APPLEPLUS.png" group-title="NL| MUZIEK",NL| APPLE - MUSIC POP
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366194&extension=ts&play_token=yWXtH9YkQR
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/APPLEPLUS.png" group-title="NL| MUZIEK",NL| APPLE - MUSIC DANCE
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366193&extension=ts&play_token=RsLeTIBxDK
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - VAN JANNES
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366208&extension=ts&play_token=cf4FdqCEgb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - SLOW JAMS
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366207&extension=ts&play_token=QEzZTCiKi8
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - REGGAE MIX 2023
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366206&extension=ts&play_token=vRLIW4RFeN
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - REGGAE CONCERT
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366205&extension=ts&play_token=gBAXwIT5z4
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - MOOMBAHTON
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366204&extension=ts&play_token=eRaI7twgQa
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - JAN SMIT
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366203&extension=ts&play_token=BPVFeKZO4I
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - HOLLANDSE KROEGEN
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366202&extension=ts&play_token=0q2WeXlyHo
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - HIP HOP URBAN
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366201&extension=ts&play_token=ge164Je92f
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - DUTCH URBAN REGGAETON
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366200&extension=ts&play_token=rNxOaWA0lw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/FIX.png" group-title="NL| MUZIEK",NL| FIX - DUTCH RAP
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1366199&extension=ts&play_token=rsIg7Ignma
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/NETHERLAND.png" group-title="NL| MUZIEK",##### NL MUZIEK FHD #####
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283061&extension=ts&play_token=5a2bGE3hFq
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/XITE.png" group-title="NL| MUZIEK",NL| XITE FHD
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283059&extension=ts&play_token=aPBgG4npLM
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/MTV.png" group-title="NL| MUZIEK",NL| MTV FHD
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:F7:6F:DE&stream=1283058&extension=ts&play_token=L3MI8MBc5w
