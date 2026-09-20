@@ -8,9 +8,9 @@ http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559031&extens
 #EXTINF:-1 tvg-id="SK.4.HD.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/a164c0f0-17d7-4601-a7aa-2625b0846d37_s.png",SK 4
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559032&extension=ts&play_token=vX4v1QEZXB
 #EXTINF:-1 tvg-id="SK.5.HD.HR.(Portal).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/27/774cebc1-0785-4328-94f8-34c4c34fd8ef_s.png",SK 5
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=1087&extension=ts&play_token=3NG8rujAFU
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551920&extension=ts&play_token=d3hGGU7yzU
 #EXTINF:-1 tvg-id="SK.6.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2020/11/03/4ebb4fa0-e651-4766-a527-14797cdb19fb_s.png",SK 6
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=1086&extension=ts&play_token=amFJHWXTXS
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551918&extension=ts&play_token=zmGYDq7Cvz
 #EXTINF:-1 tvg-id="SK.7.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/775c96e2-ee4b-42d5-85a4-9132911c3b66_s.png",SK 7
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/929645.ts
 #EXTINF:-1 tvg-id="SK.8.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/fc46d08b-b67f-4d98-9b70-bb5e9e0a918e_s.png",SK 8
