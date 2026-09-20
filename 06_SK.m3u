@@ -1,24 +1,24 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_SPORTKLUB1.xml.gz"
 #EXTINF:-1 tvg-id="SK.1.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/c9c00735-c0b5-4467-a78a-27e19286a993_s.png",SK 1
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559029&extension=ts&play_token=41jwkL6oMw
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551928&extension=ts&play_token=GROWddp5N9
 #EXTINF:-1 tvg-id="SK.2.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/12/02/586e4b69_e16f_422e_bd12_8ce62f194614.png",SK 2
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559030&extension=ts&play_token=qGD3TO9d5A
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551926&extension=ts&play_token=FB10gRzIyH
 #EXTINF:-1 tvg-id="SK.3.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/12/02/c14bd326_b113_4838_be3e_cd62da3f6172.png",SK 3
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559031&extension=ts&play_token=3co3mZGgTG
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551924&extension=ts&play_token=bah3Kz53qg
 #EXTINF:-1 tvg-id="SK.4.HD.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/a164c0f0-17d7-4601-a7aa-2625b0846d37_s.png",SK 4
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=559032&extension=ts&play_token=vX4v1QEZXB
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551922&extension=ts&play_token=vrU7USwDEe
 #EXTINF:-1 tvg-id="SK.5.HD.HR.(Portal).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/27/774cebc1-0785-4328-94f8-34c4c34fd8ef_s.png",SK 5
 http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551920&extension=ts&play_token=d3hGGU7yzU
 #EXTINF:-1 tvg-id="SK.6.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2020/11/03/4ebb4fa0-e651-4766-a527-14797cdb19fb_s.png",SK 6
 http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551918&extension=ts&play_token=zmGYDq7Cvz
 #EXTINF:-1 tvg-id="SK.7.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/775c96e2-ee4b-42d5-85a4-9132911c3b66_s.png",SK 7
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/929645.ts
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551916&extension=ts&play_token=Qtje9c2naP
 #EXTINF:-1 tvg-id="SK.8.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/fc46d08b-b67f-4d98-9b70-bb5e9e0a918e_s.png",SK 8
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/929644.ts
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=551914&extension=ts&play_token=aIwfAtQBjn
 #EXTINF:-1 tvg-id="SK.9.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/24c9feb3-950e-4c25-a6e9-832f71258d50_s.png",SK 9
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/22777.ts
 #EXTINF:-1 tvg-id="SK.10.HD.(HR).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/25/5f138084-3069-4b40-814c-bfe46927bc6d_s.png",SK 10
-http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/22776.ts
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=552159&extension=ts&play_token=Nc8Lx7qRx1
 #EXTINF:-1 tvg-id="SK.11.HD.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/26/99e87174-b804-4f75-8c81-3ab27b2053d8_s.png",SK 11
 http://xkkibwcu.fqvpnw.com:80/live/7DEBKEJ9/MFZAQDLJ/1458133.ts
 #EXTINF:-1 tvg-id="SK.12.HD.HR.(Portals).ba" tvg-logo="https://images-web.ug-be.cdn.united.cloud/d9138754/2025/11/26/a8757dc6-c989-4c56-8289-752a314f877e_s.png",SK 12
