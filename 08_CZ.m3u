@@ -1,197 +1,287 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-cz.xml"
-#EXTINF:-1 tvg-id="CANALPLUSACTIONCZ.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canal_action.png" group-title="|CZ| ✪ CZECH",CZ| CANAL+ Action
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1149977&extension=ts
-#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png" group-title="|CZ| ✪ CZECH",CZ| CT 1 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88589&extension=ts
-#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png" group-title="|CZ| ✪ CZECH",CZ| CT 2 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88591&extension=ts
-#EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct24.png" group-title="|CZ| ✪ CZECH",CZ| CT 24 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88593&extension=ts
-#EXTINF:-1 tvg-id="AXN.cz" tvg-logo="https://iptv-epg.org/images/cyUaue8MqhdOBBxKKpufj_MU8rwB4CAn0un6LG8wB4yDjUobDCO_weoyk7JXaRtsCsY1EwPp190O54i88jg1M9Zwc8eRBmXdL4m7mu5aUY57SuQq" group-title="|CZ| ✪ CZECH",CZ| AXN
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88605&extension=ts
-#EXTINF:-1 tvg-id="NOVA.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova.png" group-title="|CZ| ✪ CZECH",CZ| NOVA ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88656&extension=ts
-#EXTINF:-1 tvg-id="SPEKTRUM.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/spektrum.png" group-title="|CZ| ✪ CZECH",CZ| SPEKTRUM ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88682&extension=ts
-#EXTINF:-1 tvg-id="JOJCINEMA.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png" group-title="|CZ| ✪ CZECH",CZ| JOJ CINEMA ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88630&extension=ts
-#EXTINF:-1 tvg-id="JOJFAMILY.cz" tvg-logo="https://iptv-epg.org/images/OukyZzvJjgxtgM5aBpcBKYXUbIatosBzDrVTxJbD7RtlJCWiUSdwAZjg-BVy6S4NhekDiApB6j7-CXPj3Ag4Gb4pzlBhL7IlHvnBlMaF_dbNcRWzvm31ELuq" group-title="|CZ| ✪ CZECH",CZ| JOJ FAMILY ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88634&extension=ts
-#EXTINF:-1 tvg-id="JOJŠPORT.cz" tvg-logo="https://iptv-epg.org/images/a5bfc9e07964f8dddeb95fc584cd965d/iFSoX1Me8ngT3YXCJj3ZKhIFMeEBvsJtwCSlIBhNlgWfvRNegje58u3j3WuJjmZCgv35qMER_TvbHcvW4DKTFnoWqMiTY4qF-u4XUu_gYz0igwJX3MZ1mMpB_IhpvA" group-title="|CZ| ✪ CZECH",CZ| JOJ ŠPORT
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88636&extension=ts
-#EXTINF:-1 tvg-id="HBO.cz" tvg-logo="https://iptv-epg.org/images/NX85IPorZ90DfzK4_CDbONXhBRg7cmfoGUXwVSO8jfprzyZyX4Ka9CXBz4be4LVV-aEs91OwTdlIIRZe1J93pvQXO2RbwGI5XP2rjgBeUIZ99io3" group-title="|CZ| ✪ CZECH",CZ| HBO ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88625&extension=ts
-#EXTINF:-1 tvg-id="HBO2.cz" tvg-logo="https://iptv-epg.org/images/dKKvGATrkfJ4QDJjgY_8661dCt8p1FZS_v34Hagj10VimKJ3TOrxRMj03d3weL0KjbytW5SG0BQFqjRHq1glhJH11Mz6lqPeySmjIyonZPscjtWxzw" group-title="|CZ| ✪ CZECH",CZ| HBO2
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88627&extension=ts
-#EXTINF:-1 tvg-id="HBO3.cz" tvg-logo="https://iptv-epg.org/images/PB2PXet4sVK0AMzwU2UvsEBe63LmEV-vZayKQdgXv0fS4nZ91QHUo8u4NRJCQFiJKtOYMLpwIIldS5t-H4f-k3LzN8HJSvxM2WcQ2zSHQk064rwodA" group-title="|CZ| ✪ CZECH",CZ| HBO3
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88628&extension=ts
-#EXTINF:-1 tvg-id="NOVAACTION.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_action.png" group-title="|CZ| ✪ CZECH",CZ| NOVA ACTION ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88651&extension=ts
-#EXTINF:-1 tvg-id="NOVACINEMA.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_cinema.png" group-title="|CZ| ✪ CZECH",CZ| NOVA CINEMA ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88653&extension=ts
-#EXTINF:-1 tvg-id="PRIMACOOL.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_cool.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA COOL ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88666&extension=ts
-#EXTINF:-1 tvg-id="PRIMA.cz" tvg-logo="https://iptv-epg.org/images/srJ9VL8tP5nKDYoL0n64LC_PMIe9-9fA3qUn2BVHDNJTWuNyu1gBq37X9P8HEbgLviBNBR7Nj7Or2RPvSgpPm5Kvb6Eqr8aP0wZd4l949DkWT_sL_h8" group-title="|CZ| ✪ CZECH",CZ| PRIMA ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88668&extension=ts
-#EXTINF:-1 tvg-id="PRIMALOVE.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/primalove.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA LOVE
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88670&extension=ts
-#EXTINF:-1 tvg-id="PRIMAMAX.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_max.png" group-title="|CZ| ✪ CZECH",CZ| PRIMA MAX ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88671&extension=ts
-#EXTINF:-1 tvg-id="PRIMAZOOM.cz" tvg-logo="https://iptv-epg.org/images/UulrPjgFiyOHI0Tna-qDGuvtMG8vBpbnQFqO-ePA_BJ5rDHEmYSTQPJ-j8z4AmIttNoarwE0Yjp76nafY13GigqxTSC-ble2s_PkidJQcg2EXFeBxBFxCm7h" group-title="|CZ| ✪ CZECH",CZ| PRIMA ZOOM ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88677&extension=ts
-#EXTINF:-1 tvg-id="DISNEYCHANNEL.cz" tvg-logo="https://iptv-epg.org/images/EAsuedI4a92irdTupwwcKmWf0CLrx65iJflHQ7RrkXV6ofKawuOTpEGluhSztLlHxbI32Ni-n6s5QcowltjMyOy54D2m8jK7jw2YtlN2XwnLIB4JDovalRiHzUWChg" group-title="|CZ| ✪ CZECH",CZ| DISNEY
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88612&extension=ts
-#EXTINF:-1 tvg-id="NICKELODEON.cz" tvg-logo="https://iptv-epg.org/images/ntK5Wj6A9hFmuu9jIhex9FpcGjlizuMaxVW9LkqNGd1KSt8s3zev0BmJxiSA7eDqHPZWhb9XOGdCBsj0tRC5o5YmDqPFBmXC2MXOblv102aFJUGUNRwYlQJLUjg" group-title="|CZ| ✪ CZECH",CZ| NICKELODEON
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88649&extension=ts
-#EXTINF:-1 tvg-id="NATGEOWILD.cz" tvg-logo="https://iptv-epg.org/images/IJ5DOUIz6B-4_Rfme7tW1cMNSL5Q2h29X_mHBggfWDEpr141sIodB4dfLHEhBeq-H1rHAygCMmSzSiMIUeK2dP-4XIRNzWjB7KPuo6CxxM7BCwrTGpg5HLXqYQ" group-title="|CZ| ✪ CZECH",CZ| NATIONAL GEOGRAPHIC WILD ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88644&extension=ts
-#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/viasatexplore.png" group-title="|CZ| ✪ CZECH",CZ| VIASAT EXPLORE
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88705&extension=ts
-#EXTINF:-1 tvg-id="VIASATHISTORY.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/viasathistory.png" group-title="|CZ| ✪ CZECH",CZ| VIASAT HISTORY
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88706&extension=ts
-#EXTINF:-1 tvg-id="FISHINGandHUNTINGUPC.cz" tvg-logo="http://www.programy-tv.cz/stanice/fnh.gif" group-title="|CZ| ✪ CZECH",CZ| FISHING AND HUNTING
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88623&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_1.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 1 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88661&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 2 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88663&extension=ts
-#EXTINF:-1 tvg-id="SPORT1.cz" tvg-logo="https://iptv-epg.org/images/MC2ip5fm1mQDbAy4nhTUupYK188-fLv5c13I1IDKwoxuhnYHd6U3JlETiaCbdW7oQVoVDChDigyIqo4qJ3jv7pm7GxlM5d0GikN8tAuSmm-QyysLn2vJ" group-title="|CZ| ✪ SPORT",CZ| SPORT 1 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88684&extension=ts
-#EXTINF:-1 tvg-id="SPORT2.cz" tvg-logo="https://iptv-epg.org/images/Q390DmyZ-gqMi9H9VWI2tITWpWhFqYEKO956ugQrcj6vXf9uLqdRN9h_ZWdZpU5Zh0wst27JjTNXc7IJ4MyQHWLgVTu0Ryu6h8qJKLGUzS8hWJdForVE" group-title="|CZ| ✪ SPORT",CZ| SPORT 2 ᴴᴰ
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=88686&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport4.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport4.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178836&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport4.cz" tvg-logo="https://s13.gifyu.com/images/SCRfv.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 4 HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184933&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport5.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport5.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 5
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178862&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport6.cz" tvg-logo="https://iptv-epg.org/images/kvLbCOmIxy5cNxtOjELMmlSJajsiFELhAzrRwSJ0F7CfPEM_biUds77no_hmTVOraupInvNCxFAl8qqd18-43v0lY1AmbMCa_XndNPVZH9b6YaSUpZUTX1vPERs-t2sL" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178901&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport6.cz" tvg-logo="https://s13.gifyu.com/images/SCRfI.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184936&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport6.cz" tvg-logo="https://s13.gifyu.com/images/SCRfI.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 6 HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184937&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport7.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport7.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178926&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport7.cz" tvg-logo="https://i.imgur.com/vsEbul3.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184938&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport7.cz" tvg-logo="https://i.imgur.com/vsEbul3.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 7 HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184939&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport8.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport8.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1178952&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport8.cz" tvg-logo="https://i.imgur.com/cmgYv8m.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184940&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSport8.cz" tvg-logo="https://i.imgur.com/cmgYv8m.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT 8 HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184941&extension=ts
-#EXTINF:-1 tvg-id="CanalplusSportCZ.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/canal-plus-sport-sk.png" group-title="|CZ| ✪  CANAL+ SPORT",CZ| CANAL+ SPORT HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184931&extension=ts
-#EXTINF:-1 tvg-id="EUROSPORT.cz" tvg-logo="https://s9.gifyu.com/images/SUzCO.png" group-title="|CZ| ✪ SPORT",CZ| EUROSPORT 1 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195130&extension=ts
-#EXTINF:-1 tvg-id="EUROSPORT2.cz" tvg-logo="https://s9.gifyu.com/images/SUzCy.png" group-title="|CZ| ✪ SPORT",CZ| EUROSPORT 2 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195132&extension=ts
-#EXTINF:-1 tvg-id="EXTREMESPORTS.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/extreme-sports-channel-int.png" group-title="|CZ| ✪ SPORT",CZ| EXTREME SPORTS
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195156&extension=ts
-#EXTINF:-1 tvg-id="FIGHTBOX.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/fightbox-pl.png" group-title="|CZ| ✪ SPORT",CZ| FIGHTBOX HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195162&extension=ts
-#EXTINF:-1 tvg-id="GOLFCHANNEL.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nbc-golf-channel-us.png" group-title="|CZ| ✪ SPORT",CZ| GOLF CHANNEL FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195154&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT3.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-3-cz.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 3 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195142&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT4.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-4-cz.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 4 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195144&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT5.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-5-cz.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 5 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195146&extension=ts
-#EXTINF:-1 tvg-id="NOVASPORT6.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-sport-6-cz.png" group-title="|CZ| ✪ SPORT",CZ| NOVA SPORT 6 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195148&extension=ts
-#EXTINF:-1 tvg-id="PREMIERSPORT1.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/premier-sport-1-cz.png" group-title="|CZ| ✪ SPORT",CZ| PREMIER SPORT 1 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195124&extension=ts
-#EXTINF:-1 tvg-id="PREMIERSPORT2CZ.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/premier-sport-2-cz.png" group-title="|CZ| ✪ SPORT",CZ| PREMIER SPORT 2 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195126&extension=ts
-#EXTINF:-1 tvg-id="PREMIERSPORT3CZ.cz" tvg-logo="https://i.imgur.com/UMhSgtt.png" group-title="|CZ| ✪ SPORT",CZ| PREMIER SPORT 3 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1195128&extension=ts
-#EXTINF:-1 tvg-id="ČTsport.cz" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" group-title="|CZ| ✪ SPORT",CZ| ČT SPORT FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1184944&extension=ts
-#EXTINF:-1 tvg-id="ÓČKOSTAR.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko%20Star.png" group-title="|CZ| Czechia Music",Óčko Star FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963555&extension=ts
-#EXTINF:-1 tvg-id="ÓČKO.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko.png" group-title="|CZ| Czechia Music",Óčko FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963554&extension=ts
-#EXTINF:-1 tvg-id="ÓČKOEXPRES.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko%20Expres.png" group-title="|CZ| Czechia Music",Óčko Expres FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963553&extension=ts
-#EXTINF:-1 tvg-id="ÓČKOBlack.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/%c3%93%c4%8dko%20Black.png" group-title="|CZ| Czechia Music",Óčko Black FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963552&extension=ts
-#EXTINF:-1 tvg-id="VIASATNATURE.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Viasat%20Nature.png" group-title="|CZ| ✪ CZECH",Viasat Nature FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963551&extension=ts
-#EXTINF:-1 tvg-id="VIASATHISTORY.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Viasat%20History.png" group-title="|CZ| ✪ CZECH",Viasat History FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963550&extension=ts
-#EXTINF:-1 tvg-id="ViasatExplore.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Viasat%20Explore.png" group-title="|CZ| ✪ CZECH",Viasat Explore FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963549&extension=ts
-#EXTINF:-1 tvg-id="TLC.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/TLC.png" group-title="|CZ| ✪ CZECH",TLC FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963519&extension=ts
-#EXTINF:-1 tvg-id="TA3.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/TA3.png" group-title="|CZ| ✪ CZECH",TA3 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963516&extension=ts
-#EXTINF:-1 tvg-id="Story4.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Story4.png" group-title="|CZ| ✪ CZECH",Story4
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963514&extension=ts
-#EXTINF:-1 tvg-id="SPEKTRUMHOMEHU.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Spektrum%20Home.png" group-title="|CZ| ✪ CZECH",Spektrum Home FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963510&extension=ts
-#EXTINF:-1 tvg-id="SPEKTRUM.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Spektrum.png" group-title="|CZ| ✪ CZECH",Spektrum FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963509&extension=ts
-#EXTINF:-1 tvg-id="SENZITV.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Senzi.png" group-title="|CZ| Czechia Music",Senzi FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963505&extension=ts
-#EXTINF:-1 tvg-id="PRIMALOVE.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Prima%20Love%20SK.png" group-title="|CZ| ✪ CZECH",Prima Love FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963496&extension=ts
-#EXTINF:-1 tvg-id="PRIMAKRIMI.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Prima%20Krimi%20SK.png" group-title="|CZ| ✪ CZECH",Prima Krimi FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963495&extension=ts
-#EXTINF:-1 tvg-id="pr" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/PREMIUM.png" group-title="|CZ| Czechia Music",PREMIUM FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963492&extension=ts
-#EXTINF:-1 tvg-id="POLAR.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Polar%20TV.png" group-title="|CZ| ✪ CZECH",Polar TV FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963491&extension=ts
-#EXTINF:-1 tvg-id="h" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Music%20Box%20Hits.png" group-title="|CZ| Czechia Music",Music Box Hits FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963480&extension=ts
-#EXTINF:-1 tvg-id="d" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Music%20Box%20Dance.png" group-title="|CZ| Czechia Music",Music Box Dance FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963479&extension=ts
-#EXTINF:-1 tvg-id="box" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Music%20Box%20Classic.png" group-title="|CZ| Czechia Music",Music Box Classic FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963478&extension=ts
-#EXTINF:-1 tvg-id="MARKÍZA.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Mark%c3%adza.png" group-title="|CZ| ✪ CZECH",Markíza FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963468&extension=ts
-#EXTINF:-1 tvg-id="LoveNature.cz" tvg-logo="https://iptv-epg.org/images/lfLDStlPf6BZnU8TUELtvSJw4775I45NrirstxykA8bYy1gAw5N_zV8EOK4pIAv0ZvlA7fb1nNuozRfypyAAAGSDquB_fvOHiipMp03RG7eOHD3hnbk1ZJV6NQ" group-title="|CZ| ✪ CZECH",Love Nature FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963467&extension=ts
-#EXTINF:-1 tvg-id="JOJŠPORT2.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20%c5%a0port%202.png" group-title="|CZ| ✪ SPORT",JOJ Šport 2 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963457&extension=ts
-#EXTINF:-1 tvg-id="JOJSVET.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20Svet.png" group-title="|CZ| ✪ CZECH",JOJ Svet FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963455&extension=ts
-#EXTINF:-1 tvg-id="JOJPLUS.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%20Plus.png" group-title="|CZ| ✪ CZECH",JOJ Plus FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963454&extension=ts
-#EXTINF:-1 tvg-id="JOJ24.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ%2024.png" group-title="|CZ| ✪ CZECH",JOJ 24 FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963450&extension=ts
-#EXTINF:-1 tvg-id="JOJ.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/JOJ.png" group-title="|CZ| ✪ CZECH",JOJ FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963448&extension=ts
-#EXTINF:-1 tvg-id="JEDNOTKA.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Jednotka.png" group-title="|CZ| ✪ CZECH",Jednotka FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963446&extension=ts
-#EXTINF:-1 tvg-id="HGTV.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/HGTV.png" group-title="|CZ| ✪ CZECH",HGTV FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963441&extension=ts
-#EXTINF:-1 tvg-id="FILMBOX.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20One.png" group-title="|CZ| ✪ CZECH",FilmBox+ One FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963430&extension=ts
-#EXTINF:-1 tvg-id="lov" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20Love%20&%20Crime.png" group-title="|CZ| ✪ CZECH",FilmBox+ Love & Crime FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963429&extension=ts
-#EXTINF:-1 tvg-id="hit" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20hits.png" group-title="|CZ| ✪ CZECH",FilmBox+ hits FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963428&extension=ts
-#EXTINF:-1 tvg-id="emo" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20Emotion.png" group-title="|CZ| ✪ CZECH",FilmBox+ Emotion FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963427&extension=ts
-#EXTINF:-1 tvg-id="com" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FilmBox+%20Comedy.png" group-title="|CZ| ✪ CZECH",FilmBox+ Comedy
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963426&extension=ts
-#EXTINF:-1 tvg-id="FILM+.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Film%20+.png" group-title="|CZ| ✪ CZECH",Film + FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963425&extension=ts
-#EXTINF:-1 tvg-id="FIGHTBOX.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FightBox.png" group-title="|CZ| ✪ SPORT",FightBox FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963424&extension=ts
-#EXTINF:-1 tvg-id="FASHIONBOX.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/FashionBox.png" group-title="|CZ| ✪ CZECH",FashionBox HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963422&extension=ts
-#EXTINF:-1 tvg-id="EURONEWS.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Euronews.png" group-title="|CZ| ✪ CZECH",Euronews FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963419&extension=ts
-#EXTINF:-1 tvg-id="DVOJKA.cz" tvg-logo="https://iptv-epg.org/images/rq5XUWGcaaCiwN0Uht1Q1rAvOvOEj7g-7brUCKXMmH6NmdXtILDoouknZF6kYMpR4rVDDhr-8fSHrPaGal_Hr32651S1V2rIJJssTGkhf9HjHKSRHT9q" group-title="|CZ| ✪ CZECH",Dvojka FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963417&extension=ts
-#EXTINF:-1 tvg-id="DOMA.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/Doma.png" group-title="|CZ| ✪ CZECH",Doma FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963414&extension=ts
-#EXTINF:-1 tvg-id="DAJTO.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/DajTo.png" group-title="|CZ| ✪ CZECH",DajTo FHD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963408&extension=ts
-#EXTINF:-1 tvg-id="360TUNEBOX.cz" tvg-logo="https://logos.mypanel.one/NordiconeExclusive/tv-logos-main/tv-logos-main/slovakia/360%20TuneBox.png" group-title="|CZ| Czechia Music",360 TuneBox HD
-http://premiumpack.cc:80/play/live.php?mac=00:1A:79:4F:7B:4B&stream=1963389&extension=ts
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CZ1.xml.gz"
+#EXTINF:-1 tvg-id="PREMIER.SPORT.2.CZ.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Premier Sport 2 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/122473
+#EXTINF:-1 tvg-id="PREMIER.SPORT.2.CZ.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Premier Sport 2 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/122471
+#EXTINF:-1 tvg-id="Nova.Fun.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_2.png" group-title="A1 TV",Nova Fun FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/104451
+#EXTINF:-1 tvg-id="PRAHA.TV.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prahatv.png" group-title="Czech Republic",Praha TV FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/104450
+#EXTINF:-1 tvg-id="POLAR.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/polar.png" group-title="Czech Republic",POLAR TV FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/104449
+#EXTINF:-1 tvg-id="Óčko.Star.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ocko-gold.png" group-title="Czech Republic",Ocko Star HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/104448
+#EXTINF:-1 tvg-id="Óčko.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ocko.png" group-title="Czech Republic",Ocko HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/104447
+#EXTINF:-1 tvg-id="Óčko.Expres.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ocko-expres.png" group-title="Czech Republic",Ocko Expres HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/104446
+#EXTINF:-1 tvg-id="AMC.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/amc.png" group-title="Czech Republic",AMC HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4215
+#EXTINF:-1 tvg-id="AXN.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/axn.png" group-title="Czech Republic",AXN CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4214
+#EXTINF:-1 tvg-id="bo" tvg-logo="http://tugapt.com/picons/boomerangnl.png" group-title="Czech Republic",Boomerang CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4213
+#EXTINF:-1 tvg-id="Brava.HDTV.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/bravahdtv.png" group-title="Czech Republic",Brava HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4212
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png" group-title="Czech Republic",CT 1 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/16360
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png" group-title="Czech Republic",CT 1 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/16361
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png" group-title="Czech Republic",CT 1 JM FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/16358
+#EXTINF:-1 tvg-id="ČT1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct1.png" group-title="Czech Republic",CT 1 SM FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/16359
+#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png" group-title="Czech Republic",CT 2 (Nova 2) HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/16362
+#EXTINF:-1 tvg-id="ČT2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct2.png" group-title="Czech Republic",CT 2 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/16365
+#EXTINF:-1 tvg-id="ČT24.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct24.png" group-title="Czech Republic",CT 24 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/16363
+#EXTINF:-1 tvg-id="ČT.sport.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct4.png" group-title="Czech Republic",CT Sport FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/16364
+#EXTINF:-1 tvg-id="ČT.sport.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ct4.png" group-title="Czech Republic",CT4 Sport HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/1149
+#EXTINF:-1 tvg-id="Arena.Sport.1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/" group-title="Czech Republic",Arena Sport 1 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/110770
+#EXTINF:-1 tvg-id="Arena.Sport.2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/" group-title="Czech Republic",Arena Sport 2 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/110771
+#EXTINF:-1 tvg-id="Doma.TV.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/domatv.png" group-title="Czech Republic",DOMA HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6845
+#EXTINF:-1 tvg-id="Dajto.cz" group-title="Czech Republic",Dajto HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6847
+#EXTINF:-1 tvg-id="Discovery.Channel.(hr).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/Discovery.png" group-title="Czech Republic",Discovery Channel CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4211
+#EXTINF:-1 tvg-id="Disney.Channel.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/disneychannel.png" group-title="Czech Republic",Disney Channel CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4210
+#EXTINF:-1 tvg-id="ducktv.cz" tvg-logo="http://tugapt.com/picons/ducktvnl.png" group-title="Czech Republic",Duck TV CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4209
+#EXTINF:-1 tvg-id="E!.Entertainment.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/E.png" group-title="Czech Republic",E! Entertainment CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4208
+#EXTINF:-1 tvg-id="Eurosport.1.cz" tvg-logo="http://tugapt.com/picons/eurosport1hdpt.png" group-title="Czech Republic",Eurosport 1 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6844
+#EXTINF:-1 tvg-id="Eurosport.2.cz" tvg-logo="http://tugapt.com/picons/eurosport2hduk.png" group-title="Czech Republic",Eurosport 2 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6843
+#EXTINF:-1 tvg-id="?" group-title="Czech Republic",Filmbox Extra FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6842
+#EXTINF:-1 tvg-id="?" group-title="Czech Republic",Filmbox Extra HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4168
+#EXTINF:-1 tvg-id="?" group-title="Czech Republic",Filmbox Family CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4167
+#EXTINF:-1 tvg-id="Filmbox+.one.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/filmbox.png" group-title="Czech Republic",Filmbox Plus CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4166
+#EXTINF:-1 tvg-id="?" group-title="Czech Republic",Filmbox Premium CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4165
+#EXTINF:-1 tvg-id="?" group-title="Czech Republic",Fine Living CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/10124
+#EXTINF:-1 tvg-id="Fishing.&.Hunting.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/fishingandhunting.png" group-title="Czech Republic",Fishing And Huntig CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4206
+#EXTINF:-1 tvg-id="Golf.Channel.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="Czech Republic",Golf Channel CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4205
+#EXTINF:-1 tvg-id="HBO2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/HBO2.png" group-title="Czech Republic",HBO 2 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4204
+#EXTINF:-1 tvg-id="HBO3.(hr).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/hbo3.png" group-title="Czech Republic",HBO 3 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4203
+#EXTINF:-1 tvg-id="HBO.(hr).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/HBO.png" group-title="Czech Republic",HBO FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4164
+#EXTINF:-1 tvg-id="History.HD.UK.cz" tvg-logo="http://tugapt.com/picons/historyhdpl.png" group-title="Czech Republic",History HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6841
+#EXTINF:-1 tvg-id="JOJ.cz" group-title="Czech Republic",JOJ CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6827
+#EXTINF:-1 tvg-id="JOJ.Family.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/joj_family.png" group-title="Czech Republic",JOJ Family FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4163
+#EXTINF:-1 tvg-id="JOJ.Plus.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/joj_plus.png" group-title="Czech Republic",JOJ PLUS CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6840
+#EXTINF:-1 tvg-id="KINOTV.(hr).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/kinotvhr.png" group-title="Czech Republic",Kino SVET CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4201
+#EXTINF:-1 tvg-id="MTV.(hu).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/mtv.png" group-title="Czech Republic",MTV Europe CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4197
+#EXTINF:-1 tvg-id="Markíza.International.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/markiza_international.png" group-title="Czech Republic",Markiza International CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4200
+#EXTINF:-1 tvg-id="Minimax.(hu).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/hu_minimax.png" group-title="Czech Republic",Minimax CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4199
+#EXTINF:-1 tvg-id="?" group-title="Czech Republic",Mnam TV CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4198
+#EXTINF:-1 tvg-id="National.Geographic.(pl).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ng.png" group-title="Czech Republic",Nat Geo CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6839
+#EXTINF:-1 tvg-id="National.Geographic.(pl).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ng.png" group-title="Czech Republic",Nat Geo HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4162
+#EXTINF:-1 tvg-id="National.Geographic.Wild.(pl).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ngwild.png" group-title="Czech Republic",Nat Geo Wild FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6838
+#EXTINF:-1 tvg-id="National.Geographic.Wild.(pl).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ngwild.png" group-title="Czech Republic",Nat Geo Wild HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4161
+#EXTINF:-1 tvg-id="Nautical.Channel.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nautical.png" group-title="Czech Republic",Nautical FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6837
+#EXTINF:-1 tvg-id="Nautical.Channel.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nautical.png" group-title="Czech Republic",Nautical HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4160
+#EXTINF:-1 tvg-id="Nickelodeon.cz" tvg-logo="http://tugapt.com/picons/nickelodeonuk.png" group-title="Czech Republic",Nickelodeon CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4196
+#EXTINF:-1 tvg-id="CANAL.PLUS.ACTION.CZ.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Action FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130378
+#EXTINF:-1 tvg-id="CANAL.PLUS.ACTION.CZ.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Action HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130377
+#EXTINF:-1 tvg-id="Canal+.Sport.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport.png" group-title="Czech Republic",Canal+ Sport 1 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130376
+#EXTINF:-1 tvg-id="Canal+.Sport.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport.png" group-title="Czech Republic",Canal+ Sport 1 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130375
+#EXTINF:-1 tvg-id="Canal.plus.Sport.2.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Sport 2 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130374
+#EXTINF:-1 tvg-id="Canal.plus.Sport.3.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Sport 3 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130373
+#EXTINF:-1 tvg-id="Canal.plus.Sport.3.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Sport 3 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130372
+#EXTINF:-1 tvg-id="Canal.plus.Sport.4.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Sport 4 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130371
+#EXTINF:-1 tvg-id="Canal.plus.Sport.4.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Sport 4 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130370
+#EXTINF:-1 tvg-id="Canal.plus.Sport.5.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Sport 5 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130369
+#EXTINF:-1 tvg-id="Canal.plus.Sport.5.cz" tvg-logo="http://www.programy-tv.cz/stanice/no-icon.png" group-title="Czech Republic",Canal+ Sport 5 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130368
+#EXTINF:-1 tvg-id="Canal+.Sport.6.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport6.png" group-title="Czech Republic",Canal+ Sport 6 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130367
+#EXTINF:-1 tvg-id="Canal+.Sport.6.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport6.png" group-title="Czech Republic",Canal+ Sport 6 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130366
+#EXTINF:-1 tvg-id="Canal+.Sport.7.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport7.png" group-title="Czech Republic",Canal+ Sport 7 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130365
+#EXTINF:-1 tvg-id="Canal+.Sport.7.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/canalplussport7.png" group-title="Czech Republic",Canal+ Sport 7 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130364
+#EXTINF:-1 tvg-id="Nova.Action.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_action.png" group-title="Czech Republic",Nova Action HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6836
+#EXTINF:-1 tvg-id="Nova.Cinema.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_cinema.png" group-title="Czech Republic",Nova Cinema HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6835
+#EXTINF:-1 tvg-id="Nova.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova.png" group-title="Czech Republic",Nova FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6834
+#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/nova-sport-1-cz.png?raw=true" group-title="Czech Republic",Nova Sport 1 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6833
+#EXTINF:-1 tvg-id="Nova.Sport.1.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/nova-sport-1-cz.png?raw=true" group-title="Czech Republic",Nova Sport 1 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/1153
+#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/nova-sport-2-cz.png?raw=true" group-title="Czech Republic",Nova Sport 2 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/1152
+#EXTINF:-1 tvg-id="Nova.Sport.3.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/nova-sport-3-cz.png?raw=true" group-title="Czech Republic",Nova Sport 3 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130210
+#EXTINF:-1 tvg-id="Nova.Sport.4.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/nova-sport-4-cz.png?raw=true" group-title="Czech Republic",Nova Sport 4 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130211
+#EXTINF:-1 tvg-id="Nova.Sport.5.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/nova-sport-5-cz.png?raw=true" group-title="Czech Republic",Nova Sport 5 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130212
+#EXTINF:-1 tvg-id="Nova.Sport.6.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/nova-sport-6-cz.png?raw=true" group-title="Czech Republic",Nova Sport 6 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130213
+#EXTINF:-1 tvg-id="O2TV.Fotbal.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/o2tv_fotbal.png" group-title="Czech Republic",O2 Fotbal HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/1151
+#EXTINF:-1 tvg-id="Oneplay.Sport.1.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/oneplay-sport-1-cz.png?raw=true" group-title="Czech Republic",Oneplay Sport 1 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130206
+#EXTINF:-1 tvg-id="Oneplay.Sport.2.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/oneplay-sport-2-cz.png?raw=true" group-title="Czech Republic",Oneplay Sport 2 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130207
+#EXTINF:-1 tvg-id="Oneplay.Sport.MD3.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/oneplay-sport-3-cz.png?raw=true" group-title="Czech Republic",Oneplay Sport 3 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130208
+#EXTINF:-1 tvg-id="Oneplay.Sport.MD4.cz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/czech-republic/oneplay-sport-4-cz.png?raw=true" group-title="Czech Republic",Oneplay Sport 4 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/130209
+#EXTINF:-1 tvg-id="Prima.Cool.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_cool.png" group-title="Czech Republic",Prima COOL HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6832
+#EXTINF:-1 tvg-id="Prima.cz" group-title="Czech Republic",Prima HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6831
+#EXTINF:-1 tvg-id="Rebel.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/rebel.png" group-title="Czech Republic",Rebel CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4195
+#EXTINF:-1 tvg-id="RELAX.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/relax.png" group-title="Czech Republic",Relax CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4194
+#EXTINF:-1 tvg-id="Retro.Music.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/Retro.png" group-title="Czech Republic",Retro Music TV CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4193
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/spektrum.png" group-title="Czech Republic",Spektrum FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6830
+#EXTINF:-1 tvg-id="Spektrum.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/spektrum.png" group-title="Czech Republic",Spektrum HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4156
+#EXTINF:-1 tvg-id="Sport1.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/sport1.png" group-title="Czech Republic",Sport 1 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/1148
+#EXTINF:-1 tvg-id="Sport2.(hu).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/hu_sport2.png" group-title="Czech Republic",Sport 2 FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6829
+#EXTINF:-1 tvg-id="Sport2.(hu).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/hu_sport2.png" group-title="Czech Republic",Sport 2 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/1147
+#EXTINF:-1 tvg-id="?" group-title="Czech Republic",Sport 5 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4170
+#EXTINF:-1 tvg-id="?" group-title="Czech Republic",Stingray Brava FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6828
+#EXTINF:-1 tvg-id="Paprika.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/paprika.png" group-title="Czech Republic",TV Paprika CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4159
+#EXTINF:-1 tvg-id="Nova.Sport.2.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_sport_2.png" group-title="Czech Republic",Nova 2 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4191
+#EXTINF:-1 tvg-id="viasat" group-title="Czech Republic",Viasat FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/6826
+#EXTINF:-1 tvg-id="Viasat.History.(hr).cz" tvg-logo="http://tugapt.com/picons/viasathistoryse.png" group-title="Czech Republic",Viasat History HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4189
+#EXTINF:-1 tvg-id="WAU.cz" tvg-logo="http://www.programy-tv.cz/stanice/wau.png" group-title="Czech Republic",WAU FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4157
+#EXTINF:-1 tvg-id="iConcerts.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/iconcerts.png" group-title="Czech Republic",iConcerts CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/4202
+#EXTINF:-1 tvg-id="Prima.ZOOM.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_zoom.png" group-title="Czech Republic",Prima Zoom FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/83528
+#EXTINF:-1 tvg-id="Prima.MAX.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/prima_max.png" group-title="Czech Republic",Prima Max FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/83529
+#EXTINF:-1 tvg-id="PRIMA.PLUS.cz" tvg-logo="http://www.programy-tv.cz/stanice/PrimaPlus.png" group-title="Czech Republic",Prima Plus FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/83530
+#EXTINF:-1 tvg-id="Prima.KRIMI.SK.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/primakrimisk.png" group-title="Czech Republic",Prima Krimi CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/83531
+#EXTINF:-1 tvg-id="Epic.Drama.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/epicdrama.png" group-title="Czech Republic",Epic Drama FHD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/86619
+#EXTINF:-1 tvg-id="Viasat.Nature.cz" tvg-logo="http://tugapt.com/picons/viasatnature.png" group-title="Czech Republic",Viasat Nature CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95694
+#EXTINF:-1 tvg-id="Viasat.Explore.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/viasatexplore.png" group-title="Czech Republic",Viasat Explore CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95693
+#EXTINF:-1 tvg-id="netw" group-title="Czech Republic",UP NETWORK CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95692
+#EXTINF:-1 tvg-id="Noe.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/noe.png" group-title="Czech Republic",TV Noe HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95691
+#EXTINF:-1 tvg-id="7" group-title="Czech Republic",Skylink 7 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95690
+#EXTINF:-1 tvg-id="SENZI.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/senzi.png" group-title="Czech Republic",Senzi CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95689
+#EXTINF:-1 tvg-id="Rik.TV.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/rik.png" group-title="Czech Republic",RiK CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95688
+#EXTINF:-1 tvg-id="Prima.LOVE.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/primalove.png" group-title="Czech Republic",Prima Love CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95687
+#EXTINF:-1 tvg-id="Comedy.Central.(hu).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/cchu.png" group-title="Czech Republic",Prima Comedy Central CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95686
+#EXTINF:-1 tvg-id="Nova.International.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nova_international.png" group-title="Czech Republic",Nova International CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95685
+#EXTINF:-1 tvg-id="gold" group-title="Czech Republic",Nova Gold CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95684
+#EXTINF:-1 tvg-id="Nick.Jr..(pl).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/nickjr.png" group-title="Czech Republic",Nick Jr CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95683
+#EXTINF:-1 tvg-id="Markíza.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/markiza.png" group-title="Czech Republic",Markiza 1 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95682
+#EXTINF:-1 tvg-id="Markíza.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/markiza.png" group-title="Czech Republic",Markiza HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95681
+#EXTINF:-1 tvg-id="KINOTV.(hr).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/kinotvhr.png" group-title="Czech Republic",KinoSvet CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95680
+#EXTINF:-1 tvg-id="BARRANDOV.PLUS.cz" tvg-logo="http://www.programy-tv.cz/stanice/barplus.png" group-title="Czech Republic",Kino Barrandov HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95679
+#EXTINF:-1 tvg-id="JOJKO.cz" tvg-logo="http://www.programy-tv.cz/stanice/rik.png" group-title="Czech Republic",JOJKO CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95678
+#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png" group-title="Czech Republic",JOJ Cinema 1 HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95677
+#EXTINF:-1 tvg-id="JOJ.Cinema.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/joj_cinema.png" group-title="Czech Republic",JOJ Cinema HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95676
+#EXTINF:-1 tvg-id="Jim.Jam.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/jim-jam.png" group-title="Czech Republic",JimJam CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95675
+#EXTINF:-1 tvg-id="Jednotka.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/STV1.png" group-title="Czech Republic",JEDNOTKA CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95674
+#EXTINF:-1 tvg-id="FISHING.and.HUNTING.(UPC).cz" tvg-logo="http://www.programy-tv.cz/stanice/fnh.gif" group-title="Czech Republic",FISHING AND HUNTING CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95673
+#EXTINF:-1 tvg-id="Film.Europe.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/filmeurope.png" group-title="Czech Republic",FILM EUROPE HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95672
+#EXTINF:-1 tvg-id="FightBox.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/fightboxhd.png" group-title="Czech Republic",FIGHTBOX CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95671
+#EXTINF:-1 tvg-id="Dvojka.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/STV2.png" group-title="Czech Republic",DVOJKA CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95670
+#EXTINF:-1 tvg-id="ČT.art.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ctart.png" group-title="Czech Republic",CT art HD
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95669
+#EXTINF:-1 tvg-id="ČT" group-title="Czech Republic",CT 3 CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95668
+#EXTINF:-1 tvg-id="CS.Mystery.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/csmystery.png" group-title="Czech Republic",CS Mystery CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95667
+#EXTINF:-1 tvg-id="CS.Film.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/csfilm.png" group-title="Czech Republic",CS FILM CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95666
+#EXTINF:-1 tvg-id="Cinemax.(hr).cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/cinemax.png" group-title="Czech Republic",Cinemax CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95665
+#EXTINF:-1 tvg-id="Barrandov.Krimi.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/barrandov_krimi.png" group-title="Czech Republic",Barrandov Krimi HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95664
+#EXTINF:-1 tvg-id="Prima.LOVE.cz" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/primalove.png" group-title="Czech Republic",PRIMA LOVE HD CZ
+http://letmein.fun:8080/sameirinho1949/T7B3tCSRUz/95663
