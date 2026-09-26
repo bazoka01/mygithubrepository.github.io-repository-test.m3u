@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AT1.xml.gz"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AT1.xml"
 #EXTINF:-1 tvg-id="ORF.1.at" tvg-logo="https://picon-13398.kxcdn.com/orfeinshd.jpg" group-title="Live: Austria",ORF eins AT
 http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12302
 #EXTINF:-1 tvg-id="ORF.2.at" tvg-logo="https://picon-13398.kxcdn.com/orf2.jpg" group-title="Live: Austria",ORF 2 AT
