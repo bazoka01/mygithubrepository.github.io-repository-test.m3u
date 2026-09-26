@@ -1,0 +1,261 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz"
+#EXTINF:-1 tvg-id="t" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Tastemade
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314267&extension=ts
+#EXTINF:-1 tvg-id="RealLife.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Real Life
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314265&extension=ts
+#EXTINF:-1 tvg-id="FailArmy.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | FailArmy
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314247&extension=ts
+#EXTINF:-1 tvg-id="BondiVet.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | BondiVet
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314230&extension=ts
+#EXTINF:-1 tvg-id="OutdoorChannel.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | OutdoorChannel
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314223&extension=ts
+#EXTINF:-1 tvg-id="AlJazeera.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | AlJazeera
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314214&extension=ts
+#EXTINF:-1 tvg-id="HGTV.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | HGTV
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314213&extension=ts
+#EXTINF:-1 tvg-id="7Bravo.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7Bravo
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314208&extension=ts
+#EXTINF:-1 tvg-id="NatureTime.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | NatureTime
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314205&extension=ts
+#EXTINF:-1 tvg-id="Moviesphere.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | MovieSphere
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314204&extension=ts
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | (FLASH) Fox Sports News
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314186&extension=ts
+#EXTINF:-1 tvg-id="SkyRacing2.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Sky Racing 2
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314182&extension=ts
+#EXTINF:-1 tvg-id="SkyRacing1.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Sky Racing 1
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314181&extension=ts
+#EXTINF:-1 tvg-id="ChannelNewsAsia.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Channel News Asia (CNA)
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314178&extension=ts
+#EXTINF:-1 tvg-id="GOOD.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | GOOD.
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314176&extension=ts
+#EXTINF:-1 tvg-id="SBS World Watch" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS World Watch
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314175&extension=ts
+#EXTINF:-1 tvg-id="OutdoorChannel.au" tvg-logo="https://staging.tvapi.com.au/images/shelf/Outdoor.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Outdoor Channel
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314163&extension=ts
+#EXTINF:-1 tvg-id="FuelTV.au" tvg-logo="https://staging.tvapi.com.au/images/shelf/FuelTV.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | FuelTV
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314162&extension=ts
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/Racingcom_Channel_Logo.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Racing.com
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314160&extension=ts
+#EXTINF:-1 tvg-id="LoveNature.au" tvg-logo="https://api.tvapi.com.au/v1/data/appconfig/p8/images/LoveNature_Shelfcolour.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Love Nature
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314159&extension=ts
+#EXTINF:-1 tvg-id="ABCNewsSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC News Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314150&extension=ts
+#EXTINF:-1 tvg-id="ABCKidsSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Kids Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314148&extension=ts
+#EXTINF:-1 tvg-id="ABCNewsPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC News Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314146&extension=ts
+#EXTINF:-1 tvg-id="ABCPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314145&extension=ts
+#EXTINF:-1 tvg-id="ABCNewsMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC News Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314144&extension=ts
+#EXTINF:-1 tvg-id="ABCHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314143&extension=ts
+#EXTINF:-1 tvg-id="ABCBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314139&extension=ts
+#EXTINF:-1 tvg-id="ABCNewsAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC News Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314138&extension=ts
+#EXTINF:-1 tvg-id="ABCKidsAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Kids Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314137&extension=ts
+#EXTINF:-1 tvg-id="ABCAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314136&extension=ts
+#EXTINF:-1 tvg-id="ABCPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314135&extension=ts
+#EXTINF:-1 tvg-id="9GoPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314133&extension=ts
+#EXTINF:-1 tvg-id="9LifePerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314132&extension=ts
+#EXTINF:-1 tvg-id="9GemPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314131&extension=ts
+#EXTINF:-1 tvg-id="SBSWorldMoviesPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS World Movies Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314130&extension=ts
+#EXTINF:-1 tvg-id="SBSVicelandPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Viceland Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314129&extension=ts
+#EXTINF:-1 tvg-id="SBSFoodPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Food Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314128&extension=ts
+#EXTINF:-1 tvg-id="ABCMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314124&extension=ts
+#EXTINF:-1 tvg-id="7mateMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7mate Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314123&extension=ts
+#EXTINF:-1 tvg-id="7TWOMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7TWO Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314122&extension=ts
+#EXTINF:-1 tvg-id="9GemMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314120&extension=ts
+#EXTINF:-1 tvg-id="9GoMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314119&extension=ts
+#EXTINF:-1 tvg-id="9LifeMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314118&extension=ts
+#EXTINF:-1 tvg-id="SBSFoodMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Food Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314117&extension=ts
+#EXTINF:-1 tvg-id="SBSMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314116&extension=ts
+#EXTINF:-1 tvg-id="ABCBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314113&extension=ts
+#EXTINF:-1 tvg-id="ABCSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | ABC Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314112&extension=ts
+#EXTINF:-1 tvg-id="SkyThoroughbredCentral.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Sky Thoroughbred Central
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314111&extension=ts
+#EXTINF:-1 tvg-id="7TWOSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7Two Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314108&extension=ts
+#EXTINF:-1 tvg-id="9GemSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314105&extension=ts
+#EXTINF:-1 tvg-id="9GemBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314104&extension=ts
+#EXTINF:-1 tvg-id="9GoSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314103&extension=ts
+#EXTINF:-1 tvg-id="9GoBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314102&extension=ts
+#EXTINF:-1 tvg-id="9LifeSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314101&extension=ts
+#EXTINF:-1 tvg-id="9LifeBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314100&extension=ts
+#EXTINF:-1 tvg-id="10PeachBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Peach Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314097&extension=ts
+#EXTINF:-1 tvg-id="SBSBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314096&extension=ts
+#EXTINF:-1 tvg-id="AlJazeera.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Al Jazeera
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314088&extension=ts
+#EXTINF:-1 tvg-id="7TWOAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7TWO Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314085&extension=ts
+#EXTINF:-1 tvg-id="7flixAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7flix Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314084&extension=ts
+#EXTINF:-1 tvg-id="7mateAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7mate Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314083&extension=ts
+#EXTINF:-1 tvg-id="9GemAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314082&extension=ts
+#EXTINF:-1 tvg-id="9GoAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314081&extension=ts
+#EXTINF:-1 tvg-id="9LifeAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314080&extension=ts
+#EXTINF:-1 tvg-id="9RushAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Rush Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314079&extension=ts
+#EXTINF:-1 tvg-id="7TWOBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7TWO Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314078&extension=ts
+#EXTINF:-1 tvg-id="7flixBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7flix Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314077&extension=ts
+#EXTINF:-1 tvg-id="7mateBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7mate Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314076&extension=ts
+#EXTINF:-1 tvg-id="9GemBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314075&extension=ts
+#EXTINF:-1 tvg-id="9GoBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314074&extension=ts
+#EXTINF:-1 tvg-id="9LifeBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314073&extension=ts
+#EXTINF:-1 tvg-id="9RushBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Rush Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314072&extension=ts
+#EXTINF:-1 tvg-id="7TWOHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7TWO Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314057&extension=ts
+#EXTINF:-1 tvg-id="7mateHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7mate Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314055&extension=ts
+#EXTINF:-1 tvg-id="9GemHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314054&extension=ts
+#EXTINF:-1 tvg-id="9GoHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314053&extension=ts
+#EXTINF:-1 tvg-id="9LifeHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314052&extension=ts
+#EXTINF:-1 tvg-id="7TWOMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7TWO Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314050&extension=ts
+#EXTINF:-1 tvg-id="7flixMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7flix Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314049&extension=ts
+#EXTINF:-1 tvg-id="7mateMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7mate Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314048&extension=ts
+#EXTINF:-1 tvg-id="9GemMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314047&extension=ts
+#EXTINF:-1 tvg-id="9GoMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314046&extension=ts
+#EXTINF:-1 tvg-id="9LifeMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314045&extension=ts
+#EXTINF:-1 tvg-id="9RushMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Rush Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314044&extension=ts
+#EXTINF:-1 tvg-id="7TWOPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7TWO Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314043&extension=ts
+#EXTINF:-1 tvg-id="7flixPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7flix Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314042&extension=ts
+#EXTINF:-1 tvg-id="7matePerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7mate Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314041&extension=ts
+#EXTINF:-1 tvg-id="9GemPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314040&extension=ts
+#EXTINF:-1 tvg-id="9GoPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314039&extension=ts
+#EXTINF:-1 tvg-id="9LifePerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314038&extension=ts
+#EXTINF:-1 tvg-id="9RushPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Rush Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314037&extension=ts
+#EXTINF:-1 tvg-id="7TWOSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7TWO Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314036&extension=ts
+#EXTINF:-1 tvg-id="7flixSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7flix Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314035&extension=ts
+#EXTINF:-1 tvg-id="7mateSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 7mate Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314034&extension=ts
+#EXTINF:-1 tvg-id="9GemSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Gem Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314033&extension=ts
+#EXTINF:-1 tvg-id="9GoSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Go! Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314032&extension=ts
+#EXTINF:-1 tvg-id="9LifeSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Life Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314031&extension=ts
+#EXTINF:-1 tvg-id="9RushSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 9Rush Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314030&extension=ts
+#EXTINF:-1 tvg-id="10BoldAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Bold Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314016&extension=ts
+#EXTINF:-1 tvg-id="10PeachAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Peach Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314015&extension=ts
+#EXTINF:-1 tvg-id="SBSAdelaide.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Adelaide
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314014&extension=ts
+#EXTINF:-1 tvg-id="10BoldBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Bold Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314012&extension=ts
+#EXTINF:-1 tvg-id="10PeachBrisbane.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Peach Brisbane
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314011&extension=ts
+#EXTINF:-1 tvg-id="10BoldHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Bold Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314001&extension=ts
+#EXTINF:-1 tvg-id="10PeachHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Peach Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=314000&extension=ts
+#EXTINF:-1 tvg-id="SBSHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313999&extension=ts
+#EXTINF:-1 tvg-id="SBSFoodHobart.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS_Food Hobart
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313998&extension=ts
+#EXTINF:-1 tvg-id="10BoldMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Bold Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313996&extension=ts
+#EXTINF:-1 tvg-id="10PeachMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Peach Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313995&extension=ts
+#EXTINF:-1 tvg-id="SBSMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313994&extension=ts
+#EXTINF:-1 tvg-id="SBSFoodMelbourne.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS_Food Melbourne
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313993&extension=ts
+#EXTINF:-1 tvg-id="10BoldPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Bold Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313991&extension=ts
+#EXTINF:-1 tvg-id="10PeachPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Peach Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313990&extension=ts
+#EXTINF:-1 tvg-id="SBSPerth.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Perth
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313989&extension=ts
+#EXTINF:-1 tvg-id="10BoldSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10_Bold Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313987&extension=ts
+#EXTINF:-1 tvg-id="10PeachSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | 10 Peach Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313986&extension=ts
+#EXTINF:-1 tvg-id="SBSSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313982&extension=ts
+#EXTINF:-1 tvg-id="SBSVicelandSydney.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | SBS VICELAND Sydney
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313980&extension=ts
+#EXTINF:-1 tvg-id="SkyRacing1.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Sky Racing 1
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313977&extension=ts
+#EXTINF:-1 tvg-id="SkyRacing2.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Sky Racing 2
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313976&extension=ts
+#EXTINF:-1 tvg-id="FoxSportsNews.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | (KAYO) Fox Sports News
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313970&extension=ts
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Racing.com
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313969&extension=ts
+#EXTINF:-1 tvg-id="ESPN2.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | (KAYO) ESPN 2
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313968&extension=ts
+#EXTINF:-1 tvg-id="FoxSports506.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | (KAYO) Fox Sports 506
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313965&extension=ts
+#EXTINF:-1 tvg-id="FoxSports505.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | (KAYO) Fox Sports 505
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313964&extension=ts
+#EXTINF:-1 tvg-id="FoxSports503.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | (KAYO) Fox Sports 503
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313962&extension=ts
+#EXTINF:-1 tvg-id="Racingcom.au" tvg-logo="https://logoipro2.com/LOGO/AUSTRALIA.png" group-title="ⓣⓥ ║  AUSTRALIA",AT | Racing.com (K)
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313953&extension=ts
+#EXTINF:-1 tvg-id="AlJazeera.au" tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/AJE/AJE_425x243.png" group-title="ⓣⓥ ║  AUSTRALIA",NZ | Al Jazeera (D)
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313909&extension=ts
+#EXTINF:-1 tvg-id="CNN.au" tvg-logo="https://logoipro2.com/LOGO/NEWZILAND.png" group-title="ⓣⓥ ║  AUSTRALIA",NZ | CNN (D)
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313891&extension=ts
+#EXTINF:-1 tvg-id="AlJazeera.au" tvg-logo="https://logoipro2.com/LOGO/NEWZILAND.png" group-title="ⓣⓥ ║  AUSTRALIA",NZ | Al Jazeera (D)
+http://premium.ottpro2.org:8789/play/live.php?mac=00:1A:79:1B:91:52&stream=313884&extension=ts
