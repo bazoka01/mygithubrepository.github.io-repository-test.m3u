@@ -1,25 +1,73 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/hungary1.xml.gz"
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="MAC TS",English Club TV
-http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:6e:57:57&stream=900702&extension=ts&play_token=pXeowpMcSj
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="MAC",English Club TV
-http://lefanten.com:8080/c3b0e50999a9f7d2/003a2c/1372108?play_token=EhiehIcaph
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="MAC",English Club TV
-http://lefanten.com:8080/c3b0e50999a9f7d2/003a2c/1442820?play_token=DxPdydib5e
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://ultvtivon.site:80/2D1W1NC8WP255M8/qOfip1e7YC/1099747
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://ultvtivon.site:80/2D1W1NC8WP255M8/qOfip1e7YC/987111
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://ultvtivon.site:80/2D1W1NC8WP255M8/qOfip1e7YC/194754
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://ultvtivon.site:80/2D1W1NC8WP255M8/qOfip1e7YC/1027806
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://ultvtivon.site:80/2D1W1NC8WP255M8/qOfip1e7YC/1099500
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://novatrix.cc:80/6RFDU6HKGKZY1DR/lmLWngNrJr/1099747
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://novatrix.cc:80/6RFDU6HKGKZY1DR/lmLWngNrJr/987111
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://novatrix.cc:80/6RFDU6HKGKZY1DR/lmLWngNrJr/1099500
-#EXTINF:-1 tvg-id="English Club TV.hu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/English_Club_TV_logo.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Xtreme",English Club TV
-http://novatrix.cc:80/6RFDU6HKGKZY1DR/lmLWngNrJr/1027806
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_AT1.xml.gz"
+#EXTINF:-1 tvg-id="ORF.1.at" tvg-logo="https://picon-13398.kxcdn.com/orfeinshd.jpg" group-title="Live: Austria",ORF eins AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12302
+#EXTINF:-1 tvg-id="ORF.2.at" tvg-logo="https://picon-13398.kxcdn.com/orf2.jpg" group-title="Live: Austria",ORF 2 AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/1644
+#EXTINF:-1 tvg-id="ORF.3.at" tvg-logo="https://picon-13398.kxcdn.com/orfiii.jpg" group-title="Live: Austria",ORF III AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12303
+#EXTINF:-1 tvg-id="OE24.at" tvg-logo="https://picon-13398.kxcdn.com/oe24at.jpg" group-title="Live: Austria",Oe24 TV AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/28228
+#EXTINF:-1 tvg-id="ATV.at" tvg-logo="https://picon-13398.kxcdn.com/atvhd.jpg" group-title="Live: Austria",ATV HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12520
+#EXTINF:-1 tvg-id="ATV2.at" tvg-logo="https://picon-13398.kxcdn.com/atv2.jpg" group-title="Live: Austria",ATV2 HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12519
+#EXTINF:-1 tvg-id="Kabel.Eins.at" tvg-logo="https://picon-13398.kxcdn.com/kabel1.jpg" group-title="Live: Austria",Kabel Eins HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12518
+#EXTINF:-1 tvg-id="KABEL.1.DOKU.at" tvg-logo="https://picon-13398.kxcdn.com/kabeleinsdoku.jpg" group-title="Live: Austria",Kabel Eins Doku HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118085
+#EXTINF:-1 tvg-id="PRO.7.at" tvg-logo="https://picon-13398.kxcdn.com/prosieben.jpg" group-title="Live: Austria",ProSieben HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12512
+#EXTINF:-1 tvg-id="PRO.7.MAXX.at" tvg-logo="https://picon-13398.kxcdn.com/prosiebenmaxxhd.jpg" group-title="Live: Austria",ProSieben Maxx HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118086
+#EXTINF:-1 tvg-id="RTL.NITRO.at" tvg-logo="https://picon-13398.kxcdn.com/rtlnitro.jpg" group-title="Live: Austria",NITRO AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12510
+#EXTINF:-1 tvg-id="SERVUS.TV.at" tvg-logo="https://picon-13398.kxcdn.com/servustv.jpg" group-title="Live: Austria",Servus TV HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12509
+#EXTINF:-1 tvg-id="SIXX.at" tvg-logo="https://picon-13398.kxcdn.com/sixx.jpg" group-title="Live: Austria",Sixx AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12306
+#EXTINF:-1 tvg-id="TLC.at" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Austria",TLC HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/15758
+#EXTINF:-1 tvg-id="ORF.SPORT.at" tvg-logo="https://picon-13398.kxcdn.com/orfsportplus.jpg" group-title="Live: Austria",ORF Sport Plus AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/12516
+#EXTINF:-1 tvg-id="ORF.SPORT.at" tvg-logo="https://picon-13398.kxcdn.com/orfsportplushd.jpg" group-title="Live: Austria",ORF Sport Plus HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/16387
+#EXTINF:-1 tvg-id="DISNEY.at" tvg-logo="https://picon-13398.kxcdn.com/disneychannelhd.jpg" group-title="Live: Austria",Disney Channel HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/15756
+#EXTINF:-1 tvg-id="NICK.at" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Austria",Nickelodeon AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/14570
+#EXTINF:-1 tvg-id="NICK.JR..at" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: Austria",Nick Jr. AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118087
+#EXTINF:-1 tvg-id="COMEDY.CENTRAL.at" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Austria",Comedy Central AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/29863
+#EXTINF:-1 tvg-id="PULS.24.at" tvg-logo="https://picon-13398.kxcdn.com/puls24at.jpg" group-title="Live: Austria",Puls 24 HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/66355
+#EXTINF:-1 tvg-id="SKYSPOAUSTRIA.at" tvg-logo="https://picon-13398.kxcdn.com/skysportaustriahd.jpg" group-title="Live: Austria",Sky Sport Austria 1 FHD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/15578
+#EXTINF:-1 tvg-id="skysp" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Austria",Sky Sport Austria 2 HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/28374
+#EXTINF:-1 tvg-id="skysp" tvg-logo="https://picon-13398.kxcdn.com/skysport3hd.jpg" group-title="Live: Austria",Sky Sport Austria 3 HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/28375
+#EXTINF:-1 tvg-id="skysp" tvg-logo="https://picon-13398.kxcdn.com/skysport4hd.jpg" group-title="Live: Austria",Sky Sport Austria 4 HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/28376
+#EXTINF:-1 tvg-id="skysp" tvg-logo="https://picon-13398.kxcdn.com/skysport5.jpg" group-title="Live: Austria",Sky Sport Austria 5 HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/99543
+#EXTINF:-1 tvg-id="skysp" tvg-logo="https://picon-13398.kxcdn.com/skysport6.jpg" group-title="Live: Austria",Sky Sport Austria 6 HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/99544
+#EXTINF:-1 tvg-id="skysp" tvg-logo="https://picon-13398.kxcdn.com/skysport7.jpg" group-title="Live: Austria",Sky Sport Austria 7 HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/99545
+#EXTINF:-1 tvg-id="PULS.4.at" tvg-logo="https://picon-13398.kxcdn.com/puls4.jpg" group-title="Live: Austria",Puls 4 FHD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/66356
+#EXTINF:-1 tvg-id="RTL.CRIME.at" tvg-logo="https://picon-13398.kxcdn.com/rtlhd.jpg" group-title="Live: Austria",RTL HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118079
+#EXTINF:-1 tvg-id="RTL.UP.at" tvg-logo="https://picon-13398.kxcdn.com/rtlzweiat.jpg" group-title="Live: Austria",RTL Zwei HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118080
+#EXTINF:-1 tvg-id="RTL.UP.at" tvg-logo="https://picon-13398.kxcdn.com/rtlupde.jpg" group-title="Live: Austria",RTL Up HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118081
+#EXTINF:-1 tvg-id="VOX.at" tvg-logo="https://picon-13398.kxcdn.com/voxhd.jpg" group-title="Live: Austria",VOX HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118082
+#EXTINF:-1 tvg-id="SAT.1.GOLD.at" tvg-logo="https://picon-13398.kxcdn.com/sat1gold.jpg" group-title="Live: Austria",Sat. 1 Gold HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118083
+#EXTINF:-1 tvg-id="SAT.1.at" tvg-logo="https://picon-13398.kxcdn.com/sat1hd.jpg" group-title="Live: Austria",Sat. 1 Österreich HD AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118084
+#EXTINF:-1 tvg-id="TELE.5.at" tvg-logo="https://picon-13398.kxcdn.com/tele5de.jpg" group-title="Live: Austria",Tele 5 AT
+http://tv.iptvking.iptv.uno/4WWY9wnfDZ16/Nayqdk99/118090
