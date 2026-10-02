@@ -1,0 +1,625 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz"
+#EXTINF:-1 tvg-id="TVP.Info.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpinfo.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVP INFO HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796901&extension=ts
+#EXTINF:-1 tvg-id="TVP.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVP HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796900&extension=ts
+#EXTINF:-1 tvg-id="TVP.1.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp1.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVP 1 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796899&extension=ts
+#EXTINF:-1 tvg-id="TVP.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp2.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVP 2 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796898&extension=ts
+#EXTINF:-1 tvg-id="TVP.3.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp3.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVP 3 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796897&extension=ts
+#EXTINF:-1 tvg-id="TV.4.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tv4.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TV4 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796896&extension=ts
+#EXTINF:-1 tvg-id="TVN.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVN HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796895&extension=ts
+#EXTINF:-1 tvg-id="Polsat.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsat.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺POLSAT HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796894&extension=ts
+#EXTINF:-1 tvg-id="Polsat.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsat2.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺POLSAT 2 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796893&extension=ts
+#EXTINF:-1 tvg-id="Polsat.News.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatnews.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺POLSAT NEWS HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796892&extension=ts
+#EXTINF:-1 tvg-id="Polsat.News.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatnews2.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺POLSAT NEWS 2 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796891&extension=ts
+#EXTINF:-1 tvg-id="TVN.24.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn24.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVN 24 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796890&extension=ts
+#EXTINF:-1 tvg-id="TTV.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/ttv.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TTV HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796889&extension=ts
+#EXTINF:-1 tvg-id="Novelas+.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/novelaplus.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺NOVELAS+ HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796888&extension=ts
+#EXTINF:-1 tvg-id="TVN24.BiS.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn24bis.Playnow.png" group-title="PL ✨ POLSKA HEVC",TVN 24 BIS HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796887&extension=ts
+#EXTINF:-1 tvg-id="Super.Polsat.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/superpolsat.Playnow.png" group-title="PL ✨ POLSKA HEVC",SUPER POLSAT HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796886&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Play.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatplay.Playnow.png" group-title="PL ✨ POLSKA HEVC",POLSAT PLAY HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796885&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Café.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatcafe.Playnow.png" group-title="PL ✨ POLSKA HEVC",POLSAT CAFE HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796884&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Seriale.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatseriale.Playnow.png" group-title="PL ✨ POLSKA HEVC",POLSAT SERIALE HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796883&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Rodzina.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatrodzina.Playnow.png" group-title="PL ✨ POLSKA HEVC",POLSAT RODZINA HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796882&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Games.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatgames.Playnow.png" group-title="PL ✨ POLSKA HEVC",POLSAT GAMES HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796881&extension=ts
+#EXTINF:-1 tvg-id="Romance.TV.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/romancetv.Playnow.png" group-title="PL ✨ POLSKA HEVC",ROMANCE TV HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796880&extension=ts
+#EXTINF:-1 tvg-id="TVN.7.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn7.Playnow.png" group-title="PL ✨ POLSKA HEVC",TVN 7 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796879&extension=ts
+#EXTINF:-1 tvg-id="TVN.Style.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnstyle.Playnow.png" group-title="PL ✨ POLSKA HEVC",TVN STYLE HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796878&extension=ts
+#EXTINF:-1 tvg-id="TVN.Turbo.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnturba.Playnow.png" group-title="PL ✨ POLSKA HEVC",TVN TURBO HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796877&extension=ts
+#EXTINF:-1 tvg-id="TVN.Fabuła.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnfabula.Playnow.png" group-title="PL ✨ POLSKA HEVC",TVN FABULA HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796876&extension=ts
+#EXTINF:-1 tvg-id="TV.6.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tv6.Playnow.png" group-title="PL ✨ POLSKA HEVC",TV6 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796875&extension=ts
+#EXTINF:-1 tvg-id="TV.Puls.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpuls.Playnow.png" group-title="PL ✨ POLSKA HEVC",TV PULS HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796874&extension=ts
+#EXTINF:-1 tvg-id="PULS.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/puls2.Playnow.png" group-title="PL ✨ POLSKA HEVC",PULS 2 HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796873&extension=ts
+#EXTINF:-1 tvg-id="TVP.Polonia.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvppolonia.Playnow.png" group-title="PL ✨ POLSKA HEVC",TVP POLONIA HEVC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796872&extension=ts
+#EXTINF:-1 tvg-id="TVP.Info.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpinfo.Playnow.png" group-title="PL ✨ POLSKA",TVP INFO FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439675&extension=ts
+#EXTINF:-1 tvg-id="TVP.Info.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpinfo.Playnow.png" group-title="PL ✨ POLSKA",TVP INFO HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439674&extension=ts
+#EXTINF:-1 tvg-id="TVP.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp.Playnow.png" group-title="PL ✨ POLSKA",TVP FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439673&extension=ts
+#EXTINF:-1 tvg-id="TVP.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp.Playnow.png" group-title="PL ✨ POLSKA",TVP HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439672&extension=ts
+#EXTINF:-1 tvg-id="TVP.1.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp1.Playnow.png" group-title="PL ✨ POLSKA",TVP 1 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439671&extension=ts
+#EXTINF:-1 tvg-id="TVP.1.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp1.Playnow.png" group-title="PL ✨ POLSKA",TVP 1 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439670&extension=ts
+#EXTINF:-1 tvg-id="TVP.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp2.Playnow.png" group-title="PL ✨ POLSKA",TVP 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439669&extension=ts
+#EXTINF:-1 tvg-id="TVP.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp2.Playnow.png" group-title="PL ✨ POLSKA",TVP 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439668&extension=ts
+#EXTINF:-1 tvg-id="TVP.3.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp3.Playnow.png" group-title="PL ✨ POLSKA",TVP 3 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439667&extension=ts
+#EXTINF:-1 tvg-id="TVP.3.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp3.Playnow.png" group-title="PL ✨ POLSKA",TVP 3 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439666&extension=ts
+#EXTINF:-1 tvg-id="TV.4.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tv4.Playnow.png" group-title="PL ✨ POLSKA",TV4 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439665&extension=ts
+#EXTINF:-1 tvg-id="TV.4.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tv4.Playnow.png" group-title="PL ✨ POLSKA",TV4 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439664&extension=ts
+#EXTINF:-1 tvg-id="TV.Trwam.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/trwam.Playnow.png" group-title="PL ✨ POLSKA",TV TRWAM
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439663&extension=ts
+#EXTINF:-1 tvg-id="TVN.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn.Playnow.png" group-title="PL ✨ POLSKA",TVN FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439662&extension=ts
+#EXTINF:-1 tvg-id="TVN.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn.Playnow.png" group-title="PL ✨ POLSKA",TVN HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439661&extension=ts
+#EXTINF:-1 tvg-id="TVN.7.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn7.Playnow.png" group-title="PL ✨ POLSKA",TVN 7 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439660&extension=ts
+#EXTINF:-1 tvg-id="TVN.7.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn7.Playnow.png" group-title="PL ✨ POLSKA",TVN 7 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439659&extension=ts
+#EXTINF:-1 tvg-id="TV.6.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tv6.Playnow.png" group-title="PL ✨ POLSKA",TV6 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439658&extension=ts
+#EXTINF:-1 tvg-id="TV.6.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tv6.Playnow.png" group-title="PL ✨ POLSKA",TV6 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439657&extension=ts
+#EXTINF:-1 tvg-id="TVN.Fabuła.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnfabula.Playnow.png" group-title="PL ✨ POLSKA",TVN FABULA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439656&extension=ts
+#EXTINF:-1 tvg-id="TVN.Fabuła.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnfabula.Playnow.png" group-title="PL ✨ POLSKA",TVN FABULA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439655&extension=ts
+#EXTINF:-1 tvg-id="TVN.Style.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnstyle.Playnow.png" group-title="PL ✨ POLSKA",TVN STYLE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439654&extension=ts
+#EXTINF:-1 tvg-id="TVN.Style.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnstyle.Playnow.png" group-title="PL ✨ POLSKA",TVN STYLE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439653&extension=ts
+#EXTINF:-1 tvg-id="TVN.Turbo.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnturba.Playnow.png" group-title="PL ✨ POLSKA",TVN TURBO FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439652&extension=ts
+#EXTINF:-1 tvg-id="TVN.Turbo.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvnturba.Playnow.png" group-title="PL ✨ POLSKA",TVN TURBO HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439651&extension=ts
+#EXTINF:-1 tvg-id="TVN.24.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn24.Playnow.png" group-title="PL ✨ POLSKA",TVN 24 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439650&extension=ts
+#EXTINF:-1 tvg-id="TVN.24.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn24.Playnow.png" group-title="PL ✨ POLSKA",TVN 24 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439649&extension=ts
+#EXTINF:-1 tvg-id="TVN24.BiS.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn24bis.Playnow.png" group-title="PL ✨ POLSKA",TVN24 BIS FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439648&extension=ts
+#EXTINF:-1 tvg-id="TVN24.BiS.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvn24bis.Playnow.png" group-title="PL ✨ POLSKA",TVN24 BIS HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439647&extension=ts
+#EXTINF:-1 tvg-id="TVS.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvs.Playnow.png" group-title="PL ✨ POLSKA",TVS FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439646&extension=ts
+#EXTINF:-1 tvg-id="TVS.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvs.Playnow.png" group-title="PL ✨ POLSKA",TVS HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439645&extension=ts
+#EXTINF:-1 tvg-id="Antena.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/antena.Playnow.png" group-title="PL ✨ POLSKA",ANTENA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858695&extension=ts
+#EXTINF:-1 tvg-id="Novelas+.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/novelaplus.Playnow.png" group-title="PL ✨ POLSKA",NOVELAS+ FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439644&extension=ts
+#EXTINF:-1 tvg-id="Novelas+.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/novelaplus.Playnow.png" group-title="PL ✨ POLSKA",NOVELAS+ HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439643&extension=ts
+#EXTINF:-1 tvg-id="Polsat.News.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatnews.Playnow.png" group-title="PL ✨ POLSKA",POLSAT NEWS FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439642&extension=ts
+#EXTINF:-1 tvg-id="Polsat.News.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatnews.Playnow.png" group-title="PL ✨ POLSKA",POLSAT NEWS HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439641&extension=ts
+#EXTINF:-1 tvg-id="Polsat.News.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatnews2.Playnow.png" group-title="PL ✨ POLSKA",POLSAT NEWS 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439640&extension=ts
+#EXTINF:-1 tvg-id="Polsat.News.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatnews2.Playnow.png" group-title="PL ✨ POLSKA",POLSAT NEWS 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439639&extension=ts
+#EXTINF:-1 tvg-id="Polsat.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsat.Playnow.png" group-title="PL ✨ POLSKA",POLSAT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439638&extension=ts
+#EXTINF:-1 tvg-id="Polsat.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsat.Playnow.png" group-title="PL ✨ POLSKA",POLSAT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439637&extension=ts
+#EXTINF:-1 tvg-id="Polsat.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsat2.Playnow.png" group-title="PL ✨ POLSKA",POLSAT 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439636&extension=ts
+#EXTINF:-1 tvg-id="Polsat.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsat2.Playnow.png" group-title="PL ✨ POLSKA",POLSAT 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439635&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Play.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatplay.Playnow.png" group-title="PL ✨ POLSKA",POLSAT PLAY FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439634&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Play.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatplay.Playnow.png" group-title="PL ✨ POLSKA",POLSAT PLAY HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439633&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Café.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatcafe.Playnow.png" group-title="PL ✨ POLSKA",POLSAT CAFE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439632&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Café.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatcafe.Playnow.png" group-title="PL ✨ POLSKA",POLSAT CAFE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439631&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Seriale.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatseriale.Playnow.png" group-title="PL ✨ POLSKA",POLSAT SERIALE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439630&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Seriale.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatseriale.Playnow.png" group-title="PL ✨ POLSKA",POLSAT SERIALE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439629&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Games.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatgames.Playnow.png" group-title="PL ✨ POLSKA",POLSAT GAMES FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439628&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Games.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatgames.Playnow.png" group-title="PL ✨ POLSKA",POLSAT GAMES HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439627&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Rodzina.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatrodzina.Playnow.png" group-title="PL ✨ POLSKA",POLSAT RODZINA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439626&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Rodzina.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatrodzina.Playnow.png" group-title="PL ✨ POLSKA",POLSAT RODZINA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439625&extension=ts
+#EXTINF:-1 tvg-id="Super.Polsat.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/superpolsat.Playnow.png" group-title="PL ✨ POLSKA",SUPER POLSAT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439624&extension=ts
+#EXTINF:-1 tvg-id="Super.Polsat.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/superpolsat.Playnow.png" group-title="PL ✨ POLSKA",SUPER POLSAT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439623&extension=ts
+#EXTINF:-1 tvg-id="Romance.TV.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/romancetv.Playnow.png" group-title="PL ✨ POLSKA",ROMANCE TV FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439622&extension=ts
+#EXTINF:-1 tvg-id="Romance.TV.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/romancetv.Playnow.png" group-title="PL ✨ POLSKA",ROMANCE TV HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439621&extension=ts
+#EXTINF:-1 tvg-id="TV.Puls.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpuls.Playnow.png" group-title="PL ✨ POLSKA",TV PULS FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439620&extension=ts
+#EXTINF:-1 tvg-id="PULS.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/puls2.Playnow.png" group-title="PL ✨ POLSKA",PULS 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439618&extension=ts
+#EXTINF:-1 tvg-id="PULS.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/puls2.Playnow.png" group-title="PL ✨ POLSKA",PULS 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439617&extension=ts
+#EXTINF:-1 tvg-id="TVP.Polonia.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvppolonia.Playnow.png" group-title="PL ✨ POLSKA",TVP POLONIA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439616&extension=ts
+#EXTINF:-1 tvg-id="TVP.Polonia.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvppolonia.Playnow.png" group-title="PL ✨ POLSKA",TVP POLONIA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439615&extension=ts
+#EXTINF:-1 tvg-id="TVP.Rozrywka.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvprozrywka.Playnow.png" group-title="PL ✨ POLSKA",TVP ROZRYWKA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439614&extension=ts
+#EXTINF:-1 tvg-id="TVP.Kobieta.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpkobieta.Playnow.png" group-title="PL ✨ POLSKA",TVP KOBIETA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858768&extension=ts
+#EXTINF:-1 tvg-id="TVP.Kultura.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpkultura.Playnow.png" group-title="PL ✨ POLSKA",TVP KULTURA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439613&extension=ts
+#EXTINF:-1 tvg-id="TTV.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/ttv.Playnow.png" group-title="PL ✨ POLSKA",TTV FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439612&extension=ts
+#EXTINF:-1 tvg-id="TTV.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/ttv.Playnow.png" group-title="PL ✨ POLSKA",TTV HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439611&extension=ts
+#EXTINF:-1 tvg-id="TVT.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvt.Playnow.png" group-title="PL ✨ POLSKA",TVT
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858756&extension=ts
+#EXTINF:-1 tvg-id="WP.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/wp.Playnow.png" group-title="PL ✨ POLSKA",WP
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439610&extension=ts
+#EXTINF:-1 tvg-id="Tele.5.(niem.).pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tele5.Playnow.png" group-title="PL ✨ POLSKA",TELE 5
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439608&extension=ts
+#EXTINF:-1 tvg-id="TV.Republika.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/republika.Playnow.png" group-title="PL ✨ POLSKA",TV REPUBLIKA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439607&extension=ts
+#EXTINF:-1 tvg-id="TV.Republika.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/republika.Playnow.png" group-title="PL ✨ POLSKA",TV REPUBLIKA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858773&extension=ts
+#EXTINF:-1 tvg-id="Novela.tv.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/novelaplus.Playnow.png" group-title="PL ✨ POLSKA",NOVELA TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439606&extension=ts
+#EXTINF:-1 tvg-id="ZOOM.TV.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/ZoomTv-PL.png" group-title="PL ✨ POLSKA",ZOOM TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439605&extension=ts
+#EXTINF:-1 tvg-id="Fokus.TV.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/FokusTv-PL.png" group-title="PL ✨ POLSKA",FOKUS TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439604&extension=ts
+#EXTINF:-1 tvg-id="STOPKLATKA.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/StopklaktaTv-PL.png" group-title="PL ✨ POLSKA",STOPKLATKA TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439603&extension=ts
+#EXTINF:-1 tvg-id="HOME.4K.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/home.Playnow.png" group-title="PL ✨ DOKUMENTACJA",HOME
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439601&extension=ts
+#EXTINF:-1 tvg-id="National.Geographic.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/nationalgeographic.Playnow.png" group-title="PL ✨ DOKUMENTACJA",NATIONAL GEOGRAPHIC FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439598&extension=ts
+#EXTINF:-1 tvg-id="National.Geographic.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/nationalgeographic.Playnow.png" group-title="PL ✨ DOKUMENTACJA",NATIONAL GEOGRAPHIC HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439597&extension=ts
+#EXTINF:-1 tvg-id="Nat.Geo.People.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/natgeopeople.Playnow.png" group-title="PL ✨ DOKUMENTACJA",NAT GEO PEOPLE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439596&extension=ts
+#EXTINF:-1 tvg-id="Nat.Geo.People.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/natgeopeople.Playnow.png" group-title="PL ✨ DOKUMENTACJA",NAT GEO PEOPLE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439595&extension=ts
+#EXTINF:-1 tvg-id="Animal.Planet.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/animalplanet.Playnow.png" group-title="PL ✨ DOKUMENTACJA",ANIMAL PLANET FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439594&extension=ts
+#EXTINF:-1 tvg-id="Animal.Planet.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/animalplanet.Playnow.png" group-title="PL ✨ DOKUMENTACJA",ANIMAL PLANET HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439593&extension=ts
+#EXTINF:-1 tvg-id="TVP.Dokument.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpdokument.Playnow.png" group-title="PL ✨ DOKUMENTACJA",TVP DOKUMENT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858770&extension=ts
+#EXTINF:-1 tvg-id="TVP.Dokument.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpdokument.Playnow.png" group-title="PL ✨ DOKUMENTACJA",TVP DOKUMENT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858769&extension=ts
+#EXTINF:-1 tvg-id="Discovery.HD.(niem.).pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/discovery.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DISCOVERY FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439592&extension=ts
+#EXTINF:-1 tvg-id="Discovery.HD.(niem.).pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/discovery.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DISCOVERY HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439591&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Science.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/scidiscoveryscience.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DISCOVERY SCIENCE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439590&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Science.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/scidiscoveryscience.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DISCOVERY SCIENCE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439589&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Life.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/discoverylife.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DISCOVERY LIFE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439588&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Life.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/discoverylife.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DISCOVERY LIFE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439587&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Historia.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/discoveryhistoria.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DISCOVERY HISTORIA SD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439586&extension=ts
+#EXTINF:-1 tvg-id="Discovery.Historia.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/discoveryhistoria.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DISCOVERY HISTORIA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439585&extension=ts
+#EXTINF:-1 tvg-id="Da.Vinci.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/davinci.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DA VINCI LEARNING FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439584&extension=ts
+#EXTINF:-1 tvg-id="Da.Vinci.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/davinci.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DA VINCI LEARNING HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439583&extension=ts
+#EXTINF:-1 tvg-id="E!.Entertainment.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/e.Playnow.png" group-title="PL ✨ DOKUMENTACJA",E! ENTERTAINMENT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439582&extension=ts
+#EXTINF:-1 tvg-id="E!.Entertainment.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/e.Playnow.png" group-title="PL ✨ DOKUMENTACJA",E! ENTERTAINMENT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439581&extension=ts
+#EXTINF:-1 tvg-id="HISTORY.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/history.Playnow.png" group-title="PL ✨ DOKUMENTACJA",HISTORY FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439580&extension=ts
+#EXTINF:-1 tvg-id="HISTORY.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/history.Playnow.png" group-title="PL ✨ DOKUMENTACJA",HISTORY HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439579&extension=ts
+#EXTINF:-1 tvg-id="HISTORY2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/history2.Playnow.png" group-title="PL ✨ DOKUMENTACJA",HISTORY 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439578&extension=ts
+#EXTINF:-1 tvg-id="HISTORY2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/history2.Playnow.png" group-title="PL ✨ DOKUMENTACJA",HISTORY 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439577&extension=ts
+#EXTINF:-1 tvg-id="BBC.Earth.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/bbcearth.Playnow.png" group-title="PL ✨ DOKUMENTACJA",BBC EARTH FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439576&extension=ts
+#EXTINF:-1 tvg-id="BBC.Earth.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/bbcearth.Playnow.png" group-title="PL ✨ DOKUMENTACJA",BBC EARTH HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439575&extension=ts
+#EXTINF:-1 tvg-id="BBC.Brit.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/bbcbrit.Playnow.png" group-title="PL ✨ DOKUMENTACJA",BBC BRIT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439574&extension=ts
+#EXTINF:-1 tvg-id="BBC.Brit.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/bbcbrit.Playnow.png" group-title="PL ✨ DOKUMENTACJA",BBC BRIT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439573&extension=ts
+#EXTINF:-1 tvg-id="BBC.First.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/bbcfirst.Playnow.png" group-title="PL ✨ DOKUMENTACJA",BBC FIRST FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439572&extension=ts
+#EXTINF:-1 tvg-id="BBC.First.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/bbcfirst.Playnow.png" group-title="PL ✨ DOKUMENTACJA",BBC FIRST HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439571&extension=ts
+#EXTINF:-1 tvg-id="BBC.Lifestyle.pl" tvg-logo="https://tvlogo.nl/files/ch/POLONYA/bbc-lifestyle.png" group-title="PL ✨ DOKUMENTACJA",BBC LIFESTYLE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439570&extension=ts
+#EXTINF:-1 tvg-id="BBC.Lifestyle.pl" tvg-logo="https://tvlogo.nl/files/ch/POLONYA/bbc-lifestyle.png" group-title="PL ✨ DOKUMENTACJA",BBC LIFESTYLE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439569&extension=ts
+#EXTINF:-1 tvg-id="dlaCiebie.tv.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/dlaciebie.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DLACIEBIE TV FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858762&extension=ts
+#EXTINF:-1 tvg-id="dlaCiebie.tv.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/dlaciebie.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DLACIEBIE TV HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858763&extension=ts
+#EXTINF:-1 tvg-id="Polsat.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatnewspolityka.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT NEWS POLITYKA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858812&extension=ts
+#EXTINF:-1 tvg-id="Polsat.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatnewspolityka.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT NEWS POLITYKA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858811&extension=ts
+#EXTINF:-1 tvg-id="Planete+.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/planete.Playnow.png" group-title="PL ✨ DOKUMENTACJA",PLANETE+ FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439568&extension=ts
+#EXTINF:-1 tvg-id="Planete+.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/planete.Playnow.png" group-title="PL ✨ DOKUMENTACJA",PLANETE+ HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439567&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Doku.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatdoku.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT DOKU FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439566&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Doku.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatdoku.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT DOKU HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439565&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Viasat.Explore.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatviasatexplore.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT VIASAT EXPLORE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439564&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Viasat.Explore.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatviasatexplore.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT VIASAT EXPLORE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439563&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Viasat.History.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatviasathistory.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT VIASAT HISTORY FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439562&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Viasat.History.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatviasathistory.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT VIASAT HISTORY HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439561&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Viasat.Nature.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatviasatnature.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT VIASAT NATURE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439560&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Viasat.Nature.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatviasatnature.Playnow.png" group-title="PL ✨ DOKUMENTACJA",POLSAT VIASAT NATURE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439559&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.KUCHNIA.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalpluskuchnia.Playnow.png" group-title="PL ✨ DOKUMENTACJA",CANAL+ KUCHNIA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439556&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.KUCHNIA.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalpluskuchnia.Playnow.png" group-title="PL ✨ DOKUMENTACJA",CANAL+ KUCHNIA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439555&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.DOKUMENT.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplusdokument.Playnow.png" group-title="PL ✨ DOKUMENTACJA",CANAL+ DOKUMENT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439554&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.DOKUMENT.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplusdokument.Playnow.png" group-title="PL ✨ DOKUMENTACJA",CANAL+ DOKUMENT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439553&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.DOMO.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplusdomo.Playnow.png" group-title="PL ✨ DOKUMENTACJA",CANAL+ DOMO FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439552&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.DOMO.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplusdomo.Playnow.png" group-title="PL ✨ DOKUMENTACJA",CANAL+ DOMO HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439551&extension=ts
+#EXTINF:-1 tvg-id="Travel.Channel.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/travelchannel.Playnow.png" group-title="PL ✨ DOKUMENTACJA",TRAVEL CHANNEL FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439550&extension=ts
+#EXTINF:-1 tvg-id="Travel.Channel.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/travelchannel.Playnow.png" group-title="PL ✨ DOKUMENTACJA",TRAVEL CHANNEL HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439549&extension=ts
+#EXTINF:-1 tvg-id="TLC.HD.pl" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/TLC.png" group-title="PL ✨ DOKUMENTACJA",TLC FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439548&extension=ts
+#EXTINF:-1 tvg-id="TLC.HD.pl" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/TLC.png" group-title="PL ✨ DOKUMENTACJA",TLC HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439547&extension=ts
+#EXTINF:-1 tvg-id="DTX.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/dtx.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DTX FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439546&extension=ts
+#EXTINF:-1 tvg-id="DTX.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/dtx.Playnow.png" group-title="PL ✨ DOKUMENTACJA",DTX HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439545&extension=ts
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/hgtv.Playnow.png" group-title="PL ✨ DOKUMENTACJA",HGTV FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439544&extension=ts
+#EXTINF:-1 tvg-id="HGTV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/hgtv.Playnow.png" group-title="PL ✨ DOKUMENTACJA",HGTV HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439543&extension=ts
+#EXTINF:-1 tvg-id="Water.Planet.HD.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/planet-water-pl.png" group-title="PL ✨ DOKUMENTACJA",WATER PLANET SD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439542&extension=ts
+#EXTINF:-1 tvg-id="Water.Planet.HD.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/planet-water-pl.png" group-title="PL ✨ DOKUMENTACJA",WATER PLANET
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439541&extension=ts
+#EXTINF:-1 tvg-id="StudioMED.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/studiomed.Playnow.png" group-title="PL ✨ DOKUMENTACJA",STUDIOMED TV FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439540&extension=ts
+#EXTINF:-1 tvg-id="StudioMED.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/studiomed.Playnow.png" group-title="PL ✨ DOKUMENTACJA",STUDIOMED TV HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439539&extension=ts
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/adventure-hd-pl.png" group-title="PL ✨ DOKUMENTACJA",ADVENTURE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439538&extension=ts
+#EXTINF:-1 tvg-id="Adventure.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/adventure-hd-pl.png" group-title="PL ✨ DOKUMENTACJA",ADVENTURE HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439537&extension=ts
+#EXTINF:-1 tvg-id="Food.Network.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/foodnetwor.Playnow.png" group-title="PL ✨ DOKUMENTACJA",FOOD NETWORK FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439536&extension=ts
+#EXTINF:-1 tvg-id="Food.Network.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/foodnetwor.Playnow.png" group-title="PL ✨ DOKUMENTACJA",FOOD NETWORK HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439535&extension=ts
+#EXTINF:-1 tvg-id="Eleven.Sports.1.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/elevensport1.Playnow.png" group-title="PL ✨  SPORTY",ELEVEN SPORT 1 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907664&extension=ts
+#EXTINF:-1 tvg-id="Eleven.Sports.1.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/elevensport1.Playnow.png" group-title="PL ✨  SPORTY",ELEVEN SPORT 1 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907663&extension=ts
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/elevensport2.Playnow.png" group-title="PL ✨  SPORTY",ELEVEN SPORT 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907662&extension=ts
+#EXTINF:-1 tvg-id="Eleven.Sports.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/elevensport2.Playnow.png" group-title="PL ✨  SPORTY",ELEVEN SPORT 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907661&extension=ts
+#EXTINF:-1 tvg-id="Eleven.Sports.3.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/elevensport3.Playnow.png" group-title="PL ✨  SPORTY",ELEVEN SPORT 3 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907660&extension=ts
+#EXTINF:-1 tvg-id="Eleven.Sports.3.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/elevensport3.Playnow.png" group-title="PL ✨  SPORTY",ELEVEN SPORT 3 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907659&extension=ts
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/elevensport4.Playnow.png" group-title="PL ✨  SPORTY",ELEVEN SPORT 4 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907658&extension=ts
+#EXTINF:-1 tvg-id="Eleven.Sports.4.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/elevensport4.Playnow.png" group-title="PL ✨  SPORTY",ELEVEN SPORT 4 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907657&extension=ts
+#EXTINF:-1 tvg-id="Polsat.1.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsport1.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT 1 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907656&extension=ts
+#EXTINF:-1 tvg-id="Polsat.1.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsport1.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT 1 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907655&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsport2.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907654&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsport2.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907653&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.3.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsport3.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT 3 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907652&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.3.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsport3.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT 3 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907651&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Fight.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsportfight.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT FIGHT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907650&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Fight.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsportfight.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT FIGHT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907649&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsportpremium1super.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT PREMIUM 1 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907648&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsportpremium1super.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT PREMIUM 1 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907647&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsportpremium2super.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT PREMIUM 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907646&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatsportpremium2super.Playnow.png" group-title="PL ✨  SPORTY",POLSAT SPORT PREMIUM 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907645&extension=ts
+#EXTINF:-1 tvg-id="Polsat.1.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/polsat-sport-extra-pl.png" group-title="PL ✨  SPORTY",POLSAT SPORT EXTRA 1 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907644&extension=ts
+#EXTINF:-1 tvg-id="Polsat.1.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/polsat-sport-extra-pl.png" group-title="PL ✨  SPORTY",POLSAT SPORT EXTRA 1 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907643&extension=ts
+#EXTINF:-1 tvg-id="Polsat.2.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/polsat-sport-extra-pl.png" group-title="PL ✨  SPORTY",POLSAT SPORT EXTRA 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907642&extension=ts
+#EXTINF:-1 tvg-id="Polsat.2.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/polsat-sport-extra-pl.png" group-title="PL ✨  SPORTY",POLSAT SPORT EXTRA 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907641&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907636&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907635&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport2.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907634&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport2.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907633&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport3.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT 3 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907632&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.3.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport3.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT 3 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907631&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.4.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport4.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT 4 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907630&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.4.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport4.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT 4 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907629&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport5.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT 5 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907628&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.5.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplussport5.Playnow.png" group-title="PL ✨  SPORTY",CANAL+ SPORT 5 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907627&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.1.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Canal%2B%2BExtra%2B1.png" group-title="PL ✨  SPORTY",CANAL+ EXTRA 1
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907626&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.2.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Canal%2B%2BExtra%2B2.png" group-title="PL ✨  SPORTY",CANAL+ EXTRA 2
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907625&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.3.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Canal%2B%2BExtra%2B3.png" group-title="PL ✨  SPORTY",CANAL+ EXTRA 3
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907624&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.4.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Canal%2B%2BExtra%2B4.png" group-title="PL ✨  SPORTY",CANAL+ EXTRA 4
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907623&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.5.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Canal%2B%2BExtra%2B5.png" group-title="PL ✨  SPORTY",CANAL+ EXTRA 5
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907622&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.6.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Canal%2B%2BExtra%2B6.png" group-title="PL ✨  SPORTY",CANAL+ EXTRA 6
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907621&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.7.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Canal%2B%2BExtra%2B7.png" group-title="PL ✨  SPORTY",CANAL+ EXTRA 7
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907620&extension=ts
+#EXTINF:-1 tvg-id="TVP.Sport.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpsport.Playnow.png" group-title="PL ✨  SPORTY",TVP SPORT FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907614&extension=ts
+#EXTINF:-1 tvg-id="TVP.Sport.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpsport.Playnow.png" group-title="PL ✨  SPORTY",TVP SPORT HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907613&extension=ts
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/eurosport1.Playnow.png" group-title="PL ✨  SPORTY",EUROSPORT 1 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907612&extension=ts
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/eurosport1.Playnow.png" group-title="PL ✨  SPORTY",EUROSPORT 1 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907611&extension=ts
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/eurosport2.Playnow.png" group-title="PL ✨  SPORTY",EUROSPORT 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907610&extension=ts
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/eurosport2.Playnow.png" group-title="PL ✨  SPORTY",EUROSPORT 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907609&extension=ts
+#EXTINF:-1 tvg-id="Sportklub.pl" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/SPORT_KLUB_HD.png" group-title="PL ✨  SPORTY",SPORTKLUB FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907604&extension=ts
+#EXTINF:-1 tvg-id="Sportklub.pl" tvg-logo="https://www.logolarimiz.com/logo/Sirbistan/SPORT_KLUB_HD.png" group-title="PL ✨  SPORTY",SPORTKLUB HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907603&extension=ts
+#EXTINF:-1 tvg-id="FightBox.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/fightbox.Playnow.png" group-title="PL ✨  SPORTY",FIGHTBOX FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907602&extension=ts
+#EXTINF:-1 tvg-id="FightBox.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/fightbox.Playnow.png" group-title="PL ✨  SPORTY",FIGHTBOX HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907601&extension=ts
+#EXTINF:-1 tvg-id="Fightklub.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/FIGHTKLUB.png" group-title="PL ✨  SPORTY",FIGHTKLUB FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907600&extension=ts
+#EXTINF:-1 tvg-id="Fightklub.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/FIGHTKLUB.png" group-title="PL ✨  SPORTY",FIGHTKLUB HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907599&extension=ts
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/motowizja.Playnow.jpeg" group-title="PL ✨  SPORTY",MOTOWIZJA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907598&extension=ts
+#EXTINF:-1 tvg-id="Motowizja.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/motowizja.Playnow.jpeg" group-title="PL ✨  SPORTY",MOTOWIZJA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=907597&extension=ts
+#EXTINF:-1 tvg-id="CBS.Europa.pl" tvg-logo="https://tvlogo.nl/files/ch/POLONYA/CBS_Europa.png" group-title="PL ✨ CINEMA",CBS EUROPA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439523&extension=ts
+#EXTINF:-1 tvg-id="CBS.Europa.pl" tvg-logo="https://tvlogo.nl/files/ch/POLONYA/CBS_Europa.png" group-title="PL ✨ CINEMA",CBS EUROPA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439522&extension=ts
+#EXTINF:-1 tvg-id="CBS.Reality.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/cbsrealtity.Playnow.png" group-title="PL ✨ CINEMA",CBS REALITY FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439521&extension=ts
+#EXTINF:-1 tvg-id="CBS.Reality.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/cbsrealtity.Playnow.png" group-title="PL ✨ CINEMA",CBS REALITY HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439520&extension=ts
+#EXTINF:-1 tvg-id="TVP.Historia.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvphistroia.Playnow.png" group-title="PL ✨ CINEMA",TVP HISTORIA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439519&extension=ts
+#EXTINF:-1 tvg-id="TVP.Historia.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvphistroia.Playnow.png" group-title="PL ✨ CINEMA",TVP HISTORIA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439518&extension=ts
+#EXTINF:-1 tvg-id="TVP.Seriale.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpseriale.Playnow.png" group-title="PL ✨ CINEMA",TVP SERIALE
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439517&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Film.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatfilm.Playnow.png" group-title="PL ✨ CINEMA",POLSAT FILM FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439516&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Film.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatfilm.Playnow.png" group-title="PL ✨ CINEMA",POLSAT FILM HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=901113&extension=ts
+#EXTINF:-1 tvg-id="Polsat.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatfilm.Playnow.png" group-title="PL ✨ CINEMA",POLSAT FILM 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=901111&extension=ts
+#EXTINF:-1 tvg-id="Polsat.2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatfilm.Playnow.png" group-title="PL ✨ CINEMA",POLSAT FILM 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=901112&extension=ts
+#EXTINF:-1 tvg-id="Active.Family.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/activefamily.Playnow.png" group-title="PL ✨ CINEMA",ACTIVE FAMILY FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439515&extension=ts
+#EXTINF:-1 tvg-id="Active.Family.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/activefamily.Playnow.png" group-title="PL ✨ CINEMA",ACTIVE FAMILY HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858690&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Seriale.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplusseriale.Playnow.png" group-title="PL ✨ CINEMA",CANAL+ SERIALE
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439514&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Film.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplusfilm.Playnow.png" group-title="PL ✨ CINEMA",CANAL+ FILM
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439513&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Film.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplusfilm.Playnow.png" group-title="PL ✨ CINEMA",CANAL+ FILM HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439511&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.1.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/canalplus1.Playnow.png" group-title="PL ✨ CINEMA",CANAL+ 1
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439510&extension=ts
+#EXTINF:-1 tvg-id="Warner.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/warnertv.Playnow.png" group-title="PL ✨ CINEMA",WARNER TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858712&extension=ts
+#EXTINF:-1 tvg-id="AXN.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/axn.Playnow.png" group-title="PL ✨ CINEMA",AXN
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439507&extension=ts
+#EXTINF:-1 tvg-id="AXN.Spin.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/axnspin.Playnow.png" group-title="PL ✨ CINEMA",AXN SPIN
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439506&extension=ts
+#EXTINF:-1 tvg-id="AXN.Black.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/axnblack.Playnow.png" group-title="PL ✨ CINEMA",AXN BLACK
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439509&extension=ts
+#EXTINF:-1 tvg-id="AXN.White.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/axnwhite.Playnow.png" group-title="PL ✨ CINEMA",AXN WHITE
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439508&extension=ts
+#EXTINF:-1 tvg-id="FOX.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Fx-PL.png" group-title="PL ✨ CINEMA",FOX HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439505&extension=ts
+#EXTINF:-1 tvg-id="FOX.Comedy.HD.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Fx-Comedy-PL.png" group-title="PL ✨ CINEMA",FOX COMEDY
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439504&extension=ts
+#EXTINF:-1 tvg-id="AMC.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/amc.Playnow.png" group-title="PL ✨ CINEMA",AMC FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439503&extension=ts
+#EXTINF:-1 tvg-id="AMC.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/amc.Playnow.png" group-title="PL ✨ CINEMA",AMC HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858693&extension=ts
+#EXTINF:-1 tvg-id="Ale.kino+.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/ale-kino-plus-pl%20%281%29.png" group-title="PL ✨ CINEMA",ALE KINO+ HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439502&extension=ts
+#EXTINF:-1 tvg-id="Comedy.Central.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/comedycentral.Playnow.png" group-title="PL ✨ CINEMA",COMEDY CENTRAL
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439501&extension=ts
+#EXTINF:-1 tvg-id="13.Ulica.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/13ulica.Playnow.png" group-title="PL ✨ CINEMA",13 ULICA FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858689&extension=ts
+#EXTINF:-1 tvg-id="13.Ulica.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/13ulica.Playnow.png" group-title="PL ✨ CINEMA",13 ULICA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439500&extension=ts
+#EXTINF:-1 tvg-id="Sundance.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/sundancetv.Playnow.png" group-title="PL ✨ CINEMA",SUNDANCE FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439497&extension=ts
+#EXTINF:-1 tvg-id="Kino.Polska.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/kino-polska-pl%20%281%29.png" group-title="PL ✨ CINEMA",KINO POLSKA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439496&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Comedy.Central.Extra.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatcomedycentralextra.Playnow.png" group-title="PL ✨ CINEMA",POLSAT COMEDY CENTRAL EXTRA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439495&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.PREMIUM.HD.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/canal-plus-premium-pl%20%281%29.png" group-title="PL ✨ CINEMA",CANAL+ PREMIUM
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439494&extension=ts
+#EXTINF:-1 tvg-id="HBO.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/hbo.Playnow.png" group-title="PL ✨ CINEMA",HBO
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439493&extension=ts
+#EXTINF:-1 tvg-id="HBO2.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/hbo2.Playnow.png" group-title="PL ✨ CINEMA",HBO 2
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439492&extension=ts
+#EXTINF:-1 tvg-id="HBO3.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/hbo3.Playnow.png" group-title="PL ✨ CINEMA",HBO 3
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439491&extension=ts
+#EXTINF:-1 tvg-id="FilmBox.Family.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/filmboxfamily.Playnow.png" group-title="PL ✨ CINEMA",FILMBOX FAMILY
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439490&extension=ts
+#EXTINF:-1 tvg-id="FilmBox.Action.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/filmboxaction.Playnow.png" group-title="PL ✨ CINEMA",FILMBOX ACTION
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439489&extension=ts
+#EXTINF:-1 tvg-id="FilmBox.Extra.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/filmboxextra.Playnow.png" group-title="PL ✨ CINEMA",FILMBOX EXTRA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439488&extension=ts
+#EXTINF:-1 tvg-id="FilmBox.Premium.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/filmboxpremium.Playnow.png" group-title="PL ✨ CINEMA",FILMBOX PREMIUM
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439487&extension=ts
+#EXTINF:-1 tvg-id="Paramount.Network.pl" tvg-logo="https://tvlogo.nl/files/ch/DAN%C4%B0MARKA/paramountNetwork.png" group-title="PL ✨ CINEMA",PARAMOUNT NETWORK FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439486&extension=ts
+#EXTINF:-1 tvg-id="Cinemax.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/cinemax.Playnow.png" group-title="PL ✨ CINEMA",CINEMAX FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858707&extension=ts
+#EXTINF:-1 tvg-id="Cinemax.HD.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/Cinemax-pl.png" group-title="PL ✨ CINEMA",CINEMAX HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439484&extension=ts
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/cinemax2.Playnow.png" group-title="PL ✨ CINEMA",CINEMAX 2 FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858706&extension=ts
+#EXTINF:-1 tvg-id="Cinemax2.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/cinemax2.Playnow.png" group-title="PL ✨ CINEMA",CINEMAX 2 HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439485&extension=ts
+#EXTINF:-1 tvg-id="METRO.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/metro.png" group-title="PL ✨ CINEMA",METRO
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439483&extension=ts
+#EXTINF:-1 tvg-id="Nowa.TV.pl" tvg-logo="https://www.logolarimiz.com/europa/poland/NOWA%2BTV%20%281%29.png" group-title="PL ✨ CINEMA",NOWA TV HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439482&extension=ts
+#EXTINF:-1 tvg-id="Epic.Drama.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/epicdrama.Playnow.png" group-title="PL ✨ CINEMA",EPIC DRAMA HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439481&extension=ts
+#EXTINF:-1 tvg-id="FilmBox.Arthouse.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/filmboxarthouse.Playnow.png" group-title="PL ✨ CINEMA",FILMBOX ARTHOUSE
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439480&extension=ts
+#EXTINF:-1 tvg-id="Baby.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/babytv.Playnow.png" group-title="PL ✨ DLA DZIECI",BABY TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439445&extension=ts
+#EXTINF:-1 tvg-id="Boomerang.HD.pl" tvg-logo="https://tvlogo.nl/files/ch/ALBANEXYU/BOOMERANG.png" group-title="PL ✨ DLA DZIECI",BOOMERANG HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439444&extension=ts
+#EXTINF:-1 tvg-id="Disney.XD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/disneyxd.Playnow.png" group-title="PL ✨ DLA DZIECI",DISNEY XD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439443&extension=ts
+#EXTINF:-1 tvg-id="Disney.Channel.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/disneychannel.Playnow.png" group-title="PL ✨ DLA DZIECI",DISNEY CHANNEL FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858761&extension=ts
+#EXTINF:-1 tvg-id="Disney.Channel.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/disneychannel.Playnow.png" group-title="PL ✨ DLA DZIECI",DISNEY CHANNEL HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439442&extension=ts
+#EXTINF:-1 tvg-id="Disney.Junior.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/disneyjr.Playnow.png" group-title="PL ✨ DLA DZIECI",DISNEY JUNIOR
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439441&extension=ts
+#EXTINF:-1 tvg-id="Cartoon.Network.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/cartoonnetwork.Playnow.png" group-title="PL ✨ DLA DZIECI",CARTOON NETWORK FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439440&extension=ts
+#EXTINF:-1 tvg-id="Cartoon.Network.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/cartoonnetwork.Playnow.png" group-title="PL ✨ DLA DZIECI",CARTOON NETWORK HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858703&extension=ts
+#EXTINF:-1 tvg-id="TeenNick.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/teennick.Playnow.png" group-title="PL ✨ DLA DZIECI",TEEN NICK FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858778&extension=ts
+#EXTINF:-1 tvg-id="TeenNick.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/teennick.Playnow.png" group-title="PL ✨ DLA DZIECI",TEEN NICK HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858777&extension=ts
+#EXTINF:-1 tvg-id="Nick.Jr..pl" tvg-logo="https://tvlogo.nl/files/ch/BULGAR/NICKJR.png" group-title="PL ✨ DLA DZIECI",NICK JR
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439438&extension=ts
+#EXTINF:-1 tvg-id="Nicktoons.pl" tvg-logo="https://tvlogo.nl/files/ch/SCANDINAVIAN/NICKTOONS.png" group-title="PL ✨ DLA DZIECI",NICKTOONS HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439437&extension=ts
+#EXTINF:-1 tvg-id="Nickelodeon.pl" tvg-logo="https://tvlogo.nl/files/ch/%C4%B0TALYA/NICKELODEON.png" group-title="PL ✨ DLA DZIECI",NICKELODEON
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439436&extension=ts
+#EXTINF:-1 tvg-id="MiniMini+.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/minimini.Playnow.png" group-title="PL ✨ DLA DZIECI",MINIMINI+ FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439435&extension=ts
+#EXTINF:-1 tvg-id="ducktv.pl" tvg-logo="http://tvlogo.nl/files/ch/TR/ducktv.png" group-title="PL ✨ DLA DZIECI",DUCK TV FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858803&extension=ts
+#EXTINF:-1 tvg-id="ducktv.pl" tvg-logo="http://tvlogo.nl/files/ch/TR/ducktv.png" group-title="PL ✨ DLA DZIECI",DUCK TV HD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=858804&extension=ts
+#EXTINF:-1 tvg-id="teleTOON+.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/teletoon.Playnow.png" group-title="PL ✨ DLA DZIECI",TELETOON+ FHD
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439433&extension=ts
+#EXTINF:-1 tvg-id="TVP.ABC.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpabc.Playnow.png" group-title="PL ✨ DLA DZIECI",TVP ABC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439432&extension=ts
+#EXTINF:-1 tvg-id="4FUN.KIDS.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/4funkids.Playnow.png" group-title="PL ✨ DLA DZIECI",4FUN KIDS
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439431&extension=ts
+#EXTINF:-1 tvg-id="MTV.Polska.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/mtv.Playnow.png" group-title="PL ✨ MUZYKA",MTV POLSKA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439409&extension=ts
+#EXTINF:-1 tvg-id="Polo.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polotv.Playnow.png" group-title="PL ✨ MUZYKA",POLO TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439406&extension=ts
+#EXTINF:-1 tvg-id="STARS.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/starstv.Playnow.png" group-title="PL ✨ MUZYKA",STARS TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439405&extension=ts
+#EXTINF:-1 tvg-id="4FUN.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/4funtv.Playnow.png" group-title="PL ✨ MUZYKA",4FUN TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439404&extension=ts
+#EXTINF:-1 tvg-id="4FUN.TV.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/4Fun-Gold-Tv-PL.png" group-title="PL ✨ MUZYKA",4FUN GOLD HITS
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439403&extension=ts
+#EXTINF:-1 tvg-id="4FUN.DANCE.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/4fundancetv.Playnow.png" group-title="PL ✨ MUZYKA",4FUN DANCE
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439402&extension=ts
+#EXTINF:-1 tvg-id="Eska.Rock.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/eskarock.Playnow.png" group-title="PL ✨ MUZYKA",ESKA ROCK TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439401&extension=ts
+#EXTINF:-1 tvg-id="Eska.TV.Extra.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/eskatvextra.Playnow.png" group-title="PL ✨ MUZYKA",ESKA TV EXTRA
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439400&extension=ts
+#EXTINF:-1 tvg-id="Eska.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/eskatv.Playnow.png" group-title="PL ✨ MUZYKA",ESKA TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439399&extension=ts
+#EXTINF:-1 tvg-id="VOX.Music.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/voxmusic.Playnow.png" group-title="PL ✨ MUZYKA",VOX MUSIC TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439398&extension=ts
+#EXTINF:-1 tvg-id="Nuta.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/nutatv.Playnow.png" group-title="PL ✨ MUZYKA",NUTA TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439413&extension=ts
+#EXTINF:-1 tvg-id="Polsat.Music.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/polsatmusic.Playnow.png" group-title="PL ✨ MUZYKA",POLSAT MUSIC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439412&extension=ts
+#EXTINF:-1 tvg-id="Disco.Polo.Music.pl" tvg-logo="https://www.logolarimiz.com/Toplu/Poland/Disco-Polo-Music-PL.png" group-title="PL ✨ MUZYKA",DISCO POLO MUSIC
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439411&extension=ts
+#EXTINF:-1 tvg-id="Power.TV.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/powertv.Playnow.png" group-title="PL ✨ MUZYKA",POWER TV
+http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=439397&extension=ts
