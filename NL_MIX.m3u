@@ -1,521 +1,433 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="EU | NL | FHD",##### NL - GENERAL #####
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="##### NL - GENERAL #####",##### NL - GENERAL #####
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/70205.ts
-#EXTINF:-1 tvg-id="npo1.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1.png" group-title="EU | NL | FHD",NL - NPO 1 FHD ◉
+#EXTINF:-1 tvg-id="npo1.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1.png" group-title="##### NL - GENERAL #####",NL - NPO 1 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1160.ts
-#EXTINF:-1 tvg-id="npo1.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1.png" group-title="EU | NL | FHD",NL - NPO 1 HD
+#EXTINF:-1 tvg-id="npo1.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1.png" group-title="##### NL - GENERAL #####",NL - NPO 1 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988203.ts
-#EXTINF:-1 tvg-id="npo2.nl" tvg-logo="https://go4.pw/NEDERLAND/npo2.png" group-title="EU | NL | FHD",NL - NPO 2 FHD ◉
+#EXTINF:-1 tvg-id="npo2.nl" tvg-logo="https://go4.pw/NEDERLAND/npo2.png" group-title="##### NL - GENERAL #####",NL - NPO 2 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1159.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/npo2.png" group-title="EU | NL | FHD",NL - NPO 2 HEVC
+#EXTINF:-1 tvg-id="npo2.nl" tvg-logo="https://go4.pw/NEDERLAND/npo2.png" group-title="##### NL - GENERAL #####",NL - NPO 2 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034914.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/npo2.png" group-title="EU | NL | FHD",NL - NPO 2 HD
+#EXTINF:-1 tvg-id="npo2.nl" tvg-logo="https://go4.pw/NEDERLAND/npo2.png" group-title="##### NL - GENERAL #####",NL - NPO 2 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988204.ts
-#EXTINF:-1 tvg-id="npo3.nl" tvg-logo="https://go4.pw/NEDERLAND/npo3.png" group-title="EU | NL | FHD",NL - NPO 3 FHD ◉
+#EXTINF:-1 tvg-id="npo3.nl" tvg-logo="https://go4.pw/NEDERLAND/npo3.png" group-title="##### NL - GENERAL #####",NL - NPO 3 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1158.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/npo3.png" group-title="EU | NL | FHD",NL - NPO 3 HEVC
+#EXTINF:-1 tvg-id="npo3.nl" tvg-logo="https://go4.pw/NEDERLAND/npo3.png" group-title="##### NL - GENERAL #####",NL - NPO 3 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034915.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/npo3.png" group-title="EU | NL | FHD",NL - NPO 3 HD
+#EXTINF:-1 tvg-id="npo3.nl" tvg-logo="https://go4.pw/NEDERLAND/npo3.png" group-title="##### NL - GENERAL #####",NL - NPO 3 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988205.ts
-#EXTINF:-1 tvg-id="npo1extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1extra.png" group-title="EU | NL | FHD",NL - NPO 1 EXTRA FHD
+#EXTINF:-1 tvg-id="npo1extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1extra.png" group-title="##### NL - GENERAL #####",NL - NPO 1 EXTRA FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325011.ts
-#EXTINF:-1 tvg-id="npo1extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1extra.png" group-title="EU | NL | FHD",NL - NPO 1 EXTRA HEVC
+#EXTINF:-1 tvg-id="npo1extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1extra.png" group-title="##### NL - GENERAL #####",NL - NPO 1 EXTRA HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034927.ts
-#EXTINF:-1 tvg-id="npo1extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1extra.png" group-title="EU | NL | FHD",NL - NPO 1 EXTRA HD
+#EXTINF:-1 tvg-id="npo1extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo1extra.png" group-title="##### NL - GENERAL #####",NL - NPO 1 EXTRA HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988255.ts
-#EXTINF:-1 tvg-id="npo2extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo2extra.png" group-title="EU | NL | FHD",NL - NPO 2 EXTRA FHD
+#EXTINF:-1 tvg-id="npo2extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo2extra.png" group-title="##### NL - GENERAL #####",NL - NPO 2 EXTRA FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325013.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/npo2extra.png" group-title="EU | NL | FHD",NL - NPO 2 EXTRA HEVC
+#EXTINF:-1 tvg-id="npo2extra.nl" tvg-logo="https://go4.pw/NEDERLAND/npo2extra.png" group-title="##### NL - GENERAL #####",NL - NPO 2 EXTRA HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034928.ts
-#EXTINF:-1 tvg-id="npopolitiek.nl" tvg-logo="https://go4.pw/NEDERLAND/npopolitiek.png" group-title="EU | NL | FHD",NL - NPO POLITIEK FHD
+#EXTINF:-1 tvg-id="npopolitiek.nl" tvg-logo="https://go4.pw/NEDERLAND/npopolitiek.png" group-title="##### NL - GENERAL #####",NL - NPO POLITIEK FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1148.ts
-#EXTINF:-1 tvg-id="npopolitiek.nl" tvg-logo="https://go4.pw/NEDERLAND/npopolitiek.png" group-title="EU | NL | FHD",NL - NPO POLITIEK HD
+#EXTINF:-1 tvg-id="npopolitiek.nl" tvg-logo="https://go4.pw/NEDERLAND/npopolitiek.png" group-title="##### NL - GENERAL #####",NL - NPO POLITIEK HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035135.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL FHD
+#EXTINF:-1 tvg-id="rtl.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325053.ts
-#EXTINF:-1 tvg-id="rtl4.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 4 FHD ◉
+#EXTINF:-1 tvg-id="rtl4.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 4 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1157.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 4 HEVC
+#EXTINF:-1 tvg-id="rtl4.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 4 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034916.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 4 HD
+#EXTINF:-1 tvg-id="rtl4.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 4 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988206.ts
-#EXTINF:-1 tvg-id="rtl5.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 5 FHD ◉
+#EXTINF:-1 tvg-id="rtl5.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 5 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1156.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 5 HEVC
+#EXTINF:-1 tvg-id="rtl5.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 5 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034917.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 5 HD
+#EXTINF:-1 tvg-id="rtl5.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 5 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988207.ts
-#EXTINF:-1 tvg-id="rtl7.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 7 FHD ◉
+#EXTINF:-1 tvg-id="rtl7.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 7 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1154.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 7 HEVC
+#EXTINF:-1 tvg-id="rtl7.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 7 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034919.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 7 HD
+#EXTINF:-1 tvg-id="rtl7.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 7 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988209.ts
-#EXTINF:-1 tvg-id="rtl8.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 8 FHD ◉
+#EXTINF:-1 tvg-id="rtl8.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 8 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1153.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 8 HEVC
+#EXTINF:-1 tvg-id="rtl8.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 8 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034921.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL 8 HD
+#EXTINF:-1 tvg-id="rtl8.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - GENERAL #####",NL - RTL 8 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988210.ts
-#EXTINF:-1 tvg-id="sbs6.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs6.png" group-title="EU | NL | FHD",NL - SBS 6 FHD ◉
+#EXTINF:-1 tvg-id="sbs6.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs6.png" group-title="##### NL - GENERAL #####",NL - SBS 6 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1155.ts
-#EXTINF:-1 tvg-id="sbs6.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs6.png" group-title="EU | NL | FHD",NL - SBS 6 HEVC
+#EXTINF:-1 tvg-id="sbs6.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs6.png" group-title="##### NL - GENERAL #####",NL - SBS 6 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988208.ts
-#EXTINF:-1 tvg-id="sbs6.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs6.png" group-title="EU | NL | FHD",NL - SBS 6 HD
+#EXTINF:-1 tvg-id="sbs6.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs6.png" group-title="##### NL - GENERAL #####",NL - SBS 6 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034918.ts
-#EXTINF:-1 tvg-id="sbs9.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs9.png" group-title="EU | NL | FHD",NL - SBS 9 FHD ◉
+#EXTINF:-1 tvg-id="sbs9.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs9.png" group-title="##### NL - GENERAL #####",NL - SBS 9 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1152.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/sbs9.png" group-title="EU | NL | FHD",NL - SBS 9 HEVC
+#EXTINF:-1 tvg-id="sbs9.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs9.png" group-title="##### NL - GENERAL #####",NL - SBS 9 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988212.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/sbs9.png" group-title="EU | NL | FHD",NL - SBS 9 HD
+#EXTINF:-1 tvg-id="sbs9.nl" tvg-logo="https://go4.pw/NEDERLAND/sbs9.png" group-title="##### NL - GENERAL #####",NL - SBS 9 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034924.ts
-#EXTINF:-1 tvg-id="hgtv.pl" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="EU | NL | FHD",NL - HGTV FHD
+#EXTINF:-1 tvg-id="hgtv.pl" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="##### NL - GENERAL #####",NL - HGTV FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/983882.ts
-#EXTINF:-1 tvg-id="hgtv.pl" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="EU | NL | FHD",NL - HGTV HD
+#EXTINF:-1 tvg-id="hgtv.pl" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="##### NL - GENERAL #####",NL - HGTV HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/983883.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/rtvdrenthe.png" group-title="EU | NL | FHD",NL - RTV DRENTHE FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/rtvdrenthe.png" group-title="##### NL - GENERAL #####",NL - RTV DRENTHE FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035138.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/rtvdrenthe.png" group-title="EU | NL | FHD",NL - RTV DRENTHE HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/rtvdrenthe.png" group-title="##### NL - GENERAL #####",NL - RTV DRENTHE HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988262.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | NL | FHD",NL - BBC TWO FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="##### NL - GENERAL #####",NL - BBC TWO FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1075546.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | NL | FHD",NL - BBC TWO HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="##### NL - GENERAL #####",NL - BBC TWO HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988220.ts
-#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | NL | FHD",NL - BBC WORLD NEWS HD
+#EXTINF:-1 tvg-id="bbcworldnews.uk" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="##### NL - GENERAL #####",NL - BBC WORLD NEWS HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988291.ts
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-logo="https://go4.pw/NEDERLAND/100nl.png" group-title="EU | NL | FHD",NL - 100% NL FHD
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-logo="https://go4.pw/NEDERLAND/100nl.png" group-title="##### NL - GENERAL #####",NL - 100% NL FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035231.ts
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-logo="https://go4.pw/NEDERLAND/100nl.png" group-title="EU | NL | FHD",NL - 100% NL HEVC
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-logo="https://go4.pw/NEDERLAND/100nl.png" group-title="##### NL - GENERAL #####",NL - 100% NL HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1064.ts
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-logo="https://go4.pw/NEDERLAND/100nl.png" group-title="EU | NL | FHD",NL - 100% NL HD
+#EXTINF:-1 tvg-id="100nltv.nl" tvg-logo="https://go4.pw/NEDERLAND/100nl.png" group-title="##### NL - GENERAL #####",NL - 100% NL HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988272.ts
-#EXTINF:-1 tvg-id="tvnoord.nl" tvg-logo="https://go4.pw/NEDERLAND/noord.png" group-title="EU | NL | FHD",NL - TV NOORD FHD
+#EXTINF:-1 tvg-id="tvnoord.nl" tvg-logo="https://go4.pw/NEDERLAND/noord.png" group-title="##### NL - GENERAL #####",NL - TV NOORD FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035140.ts
-#EXTINF:-1 tvg-id="tvnoord.nl" tvg-logo="https://go4.pw/NEDERLAND/noord.png" group-title="EU | NL | FHD",NL - TV NOORD HEVC
+#EXTINF:-1 tvg-id="tvnoord.nl" tvg-logo="https://go4.pw/NEDERLAND/noord.png" group-title="##### NL - GENERAL #####",NL - TV NOORD HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988260.ts
-#EXTINF:-1 tvg-id="tvnoord.nl" tvg-logo="https://go4.pw/NEDERLAND/noord.png" group-title="EU | NL | FHD",NL - TV NOORD SD
+#EXTINF:-1 tvg-id="tvnoord.nl" tvg-logo="https://go4.pw/NEDERLAND/noord.png" group-title="##### NL - GENERAL #####",NL - TV NOORD SD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988297.ts
-#EXTINF:-1 tvg-id="tvnoord.nl" tvg-logo="https://go4.pw/NEDERLAND/noord.png" group-title="EU | NL | FHD",NL - TV NOORD HD
+#EXTINF:-1 tvg-id="tvnoord.nl" tvg-logo="https://go4.pw/NEDERLAND/noord.png" group-title="##### NL - GENERAL #####",NL - TV NOORD HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1076.ts
-#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/tvoost.png" group-title="EU | NL | FHD",NL - TV OOST FHD
+#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/tvoost.png" group-title="##### NL - GENERAL #####",NL - TV OOST FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1073.ts
-#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/tvoost.png" group-title="EU | NL | FHD",NL - TV OOST HEVC
+#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/tvoost.png" group-title="##### NL - GENERAL #####",NL - TV OOST HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988261.ts
-#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/tvoost.png" group-title="EU | NL | FHD",NL - TV OOST HD
+#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/tvoost.png" group-title="##### NL - GENERAL #####",NL - TV OOST HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035141.ts
-#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/rtvwest.png" group-title="EU | NL | FHD",NL - TV WEST FHD
+#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/rtvwest.png" group-title="##### NL - GENERAL #####",NL - TV WEST FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1072.ts
-#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/rtvwest.png" group-title="EU | NL | FHD",NL - TV WEST HD
+#EXTINF:-1 tvg-id="tvoost.nl" tvg-logo="https://go4.pw/EUROPE/rtvwest.png" group-title="##### NL - GENERAL #####",NL - TV WEST HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988279.ts
-#EXTINF:-1 tvg-id="tlc.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/TLC.png" group-title="EU | NL | FHD",NL - TLC FHD
+#EXTINF:-1 tvg-id="tlc.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/TLC.png" group-title="##### NL - GENERAL #####",NL - TLC FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1126.ts
-#EXTINF:-1 tvg-id="tlc.pl" tvg-logo="https://go4.pw/EUROPE/FRANCE/TLC.png" group-title="EU | NL | FHD",NL - TLC HD
+#EXTINF:-1 tvg-id="tlc.pl" tvg-logo="https://go4.pw/EUROPE/FRANCE/TLC.png" group-title="##### NL - GENERAL #####",NL - TLC HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988216.ts
-#EXTINF:-1 tvg-id="24kitchen.nl" tvg-logo="https://go4.pw/EUROPE/ALBANIA/24-Kitchen.png" group-title="EU | NL | FHD",NL - 24 KITCHEN FHD
+#EXTINF:-1 tvg-id="24kitchen.nl" tvg-logo="https://go4.pw/EUROPE/ALBANIA/24-Kitchen.png" group-title="##### NL - GENERAL #####",NL - 24 KITCHEN FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1124.ts
-#EXTINF:-1 tvg-id="24kitchen.nl" tvg-logo="https://go4.pw/EUROPE/ALBANIA/24-Kitchen.png" group-title="EU | NL | FHD",NL - 24 KITCHEN HD
+#EXTINF:-1 tvg-id="24kitchen.nl" tvg-logo="https://go4.pw/EUROPE/ALBANIA/24-Kitchen.png" group-title="##### NL - GENERAL #####",NL - 24 KITCHEN HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988240.ts
-#EXTINF:-1 tvg-id="fashiontv.nl" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FTV.png" group-title="EU | NL | FHD",NL - FASHION TV FHD
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FTV.png" group-title="##### NL - GENERAL #####",NL - FASHION TV FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325016.ts
-#EXTINF:-1 tvg-id="fashiontv.nl" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FTV.png" group-title="EU | NL | FHD",NL - FASHION TV HD
+#EXTINF:-1 tvg-id="fashiontv.nl" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/FTV.png" group-title="##### NL - GENERAL #####",NL - FASHION TV HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988290.ts
-#EXTINF:-1 tvg-id="een.nl" tvg-logo="https://go4.pw/NEDERLAND/een.png" group-title="EU | NL | FHD",NL - VRT 1 FHD
+#EXTINF:-1 tvg-id="een.nl" tvg-logo="https://go4.pw/NEDERLAND/een.png" group-title="##### NL - GENERAL #####",NL - VRT 1 FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325047.ts
-#EXTINF:-1 tvg-id="een.nl" tvg-logo="https://go4.pw/NEDERLAND/een.png" group-title="EU | NL | FHD",NL - VRT 1 HD
+#EXTINF:-1 tvg-id="een.nl" tvg-logo="https://go4.pw/NEDERLAND/een.png" group-title="##### NL - GENERAL #####",NL - VRT 1 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034929.ts
-#EXTINF:-1 tvg-id="canvas.nl" tvg-logo="https://go4.pw/EUROPE/canvas.png" group-title="EU | NL | FHD",NL - CANVAS FHD
+#EXTINF:-1 tvg-id="canvas.nl" tvg-logo="https://go4.pw/EUROPE/canvas.png" group-title="##### NL - GENERAL #####",NL - CANVAS FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988292.ts
-#EXTINF:-1 tvg-id="canvas.nl" tvg-logo="https://go4.pw/EUROPE/canvas.png" group-title="EU | NL | FHD",NL - CANVAS HD
+#EXTINF:-1 tvg-id="canvas.nl" tvg-logo="https://go4.pw/EUROPE/canvas.png" group-title="##### NL - GENERAL #####",NL - CANVAS HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325048.ts
-#EXTINF:-1 tvg-id="een.nl" tvg-logo="https://go4.pw/EUROPE/vrt1.png" group-title="EU | NL | FHD",NL - VRT 1 FHD
+#EXTINF:-1 tvg-id="vrt.nl" tvg-logo="https://go4.pw/EUROPE/vrt1.png" group-title="##### NL - GENERAL #####",NL - VRT 1 FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988293.ts
-#EXTINF:-1 tvg-id="rtv7.nl" tvg-logo="https://go4.pw/EUROPE/rtv7.png" group-title="EU | NL | FHD",NL - RTV 7 FHD
+#EXTINF:-1 tvg-id="rtv7.nl" tvg-logo="https://go4.pw/EUROPE/rtv7.png" group-title="##### NL - GENERAL #####",NL - RTV 7 FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/521124.ts
-#EXTINF:-1 tvg-id="rtv7.nl" tvg-logo="https://go4.pw/EUROPE/rtv7.png" group-title="EU | NL | FHD",NL - RTV 7 HD
+#EXTINF:-1 tvg-id="rtv7.nl" tvg-logo="https://go4.pw/EUROPE/rtv7.png" group-title="##### NL - GENERAL #####",NL - RTV 7 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/131735.ts
-#EXTINF:-1 tvg-id="rtvutrecht.nl" tvg-logo="https://go4.pw/EUROPE/rtvutrecht.png" group-title="EU | NL | FHD",NL - RTV UTRECHT FHD
+#EXTINF:-1 tvg-id="rtvutrecht.nl" tvg-logo="https://go4.pw/EUROPE/rtvutrecht.png" group-title="##### NL - GENERAL #####",NL - RTV UTRECHT FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988284.ts
-#EXTINF:-1 tvg-id="rtvutrecht.nl" tvg-logo="https://go4.pw/EUROPE/rtvutrecht.png" group-title="EU | NL | FHD",NL - RTV UTRECHT HEVC
+#EXTINF:-1 tvg-id="rtvutrecht.nl" tvg-logo="https://go4.pw/EUROPE/rtvutrecht.png" group-title="##### NL - GENERAL #####",NL - RTV UTRECHT HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035137.ts
-#EXTINF:-1 tvg-id="rtvutrecht.nl" tvg-logo="https://go4.pw/EUROPE/rtvutrecht.png" group-title="EU | NL | FHD",NL - RTV UTRECHT HD
+#EXTINF:-1 tvg-id="rtvutrecht.nl" tvg-logo="https://go4.pw/EUROPE/rtvutrecht.png" group-title="##### NL - GENERAL #####",NL - RTV UTRECHT HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1078.ts
-#EXTINF:-1 tvg-id="l1tv.nl" tvg-logo="https://go4.pw/NEDERLAND/l1.png" group-title="EU | NL | FHD",NL - L1 TV HEVC
+#EXTINF:-1 tvg-id="l1tv.nl" tvg-logo="https://go4.pw/NEDERLAND/l1.png" group-title="##### NL - GENERAL #####",NL - L1 TV HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035142.ts
-#EXTINF:-1 tvg-id="L1TV.nl" tvg-logo="https://go4.pw/NEDERLAND/l1.png" group-title="EU | NL | FHD",NL - L1 LIMBURG HD
+#EXTINF:-1 tvg-id="L1TV.nl" tvg-logo="https://go4.pw/NEDERLAND/l1.png" group-title="##### NL - GENERAL #####",NL - L1 LIMBURG HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1077.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/nh.png" group-title="EU | NL | FHD",NL - NH NIEUWS FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/nh.png" group-title="##### NL - GENERAL #####",NL - NH NIEUWS FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325039.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/nh.png" group-title="EU | NL | FHD",NL - NH NIEUWS HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/nh.png" group-title="##### NL - GENERAL #####",NL - NH NIEUWS HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988280.ts
-#EXTINF:-1 tvg-id="net5.nl" tvg-logo="https://go4.pw/NLFHD/20.png" group-title="EU | NL | FHD",NL - NET 5 FHD ◉
+#EXTINF:-1 tvg-id="net5.nl" tvg-logo="https://go4.pw/NLFHD/20.png" group-title="##### NL - GENERAL #####",NL - NET 5 FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1151.ts
-#EXTINF:-1 tvg-id="net5.nl" tvg-logo="https://go4.pw/NLFHD/20.png" group-title="EU | NL | FHD",NL - NET 5 HEVC
+#EXTINF:-1 tvg-id="net5.nl" tvg-logo="https://go4.pw/NLFHD/20.png" group-title="##### NL - GENERAL #####",NL - NET 5 HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988213.ts
-#EXTINF:-1 tvg-id="net5.nl" tvg-logo="https://go4.pw/NLFHD/20.png" group-title="EU | NL | FHD",NL - NET 5 HD
+#EXTINF:-1 tvg-id="net5.nl" tvg-logo="https://go4.pw/NLFHD/20.png" group-title="##### NL - GENERAL #####",NL - NET 5 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034926.ts
-#EXTINF:-1 tvg-id="tvgelderland.nl" tvg-logo="https://go4.pw/EUROPE/gld.png" group-title="EU | NL | FHD",NL - TV GELDERLAND FHD
+#EXTINF:-1 tvg-id="tvgelderland.nl" tvg-logo="https://go4.pw/EUROPE/gld.png" group-title="##### NL - GENERAL #####",NL - TV GELDERLAND FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988259.ts
-#EXTINF:-1 tvg-id="tvgelderland.nl" tvg-logo="https://go4.pw/EUROPE/gld.png" group-title="EU | NL | FHD",NL - TV GELDERLAND HEVC
+#EXTINF:-1 tvg-id="tvgelderland.nl" tvg-logo="https://go4.pw/EUROPE/gld.png" group-title="##### NL - GENERAL #####",NL - TV GELDERLAND HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1074.ts
-#EXTINF:-1 tvg-id="tvgelderland.nl" tvg-logo="https://go4.pw/EUROPE/gld.png" group-title="EU | NL | FHD",NL - TV GELDERLAND HD
+#EXTINF:-1 tvg-id="tvgelderland.nl" tvg-logo="https://go4.pw/EUROPE/gld.png" group-title="##### NL - GENERAL #####",NL - TV GELDERLAND HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035139.ts
-#EXTINF:-1 tvg-id="at5.nl" tvg-logo="https://go4.pw/NEDERLAND/at5.png" group-title="EU | NL | FHD",NL - AT5 FHD
+#EXTINF:-1 tvg-id="at5.nl" tvg-logo="https://go4.pw/NEDERLAND/at5.png" group-title="##### NL - GENERAL #####",NL - AT5 FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325054.ts
-#EXTINF:-1 tvg-id="at5.nl" tvg-logo="https://go4.pw/NEDERLAND/at5.png" group-title="EU | NL | FHD",NL - AT 5 HD
+#EXTINF:-1 tvg-id="at5.nl" tvg-logo="https://go4.pw/NEDERLAND/at5.png" group-title="##### NL - GENERAL #####",NL - AT 5 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035136.ts
-#EXTINF:-1 tvg-id="at5.nl" tvg-logo="https://go4.pw/NEDERLAND/at5.png" group-title="EU | NL | FHD",NL - AT5 HD
+#EXTINF:-1 tvg-id="at5.nl" tvg-logo="https://go4.pw/NEDERLAND/at5.png" group-title="##### NL - GENERAL #####",NL - AT5 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988278.ts
-#EXTINF:-1 tvg-id="tvdrenthe.nl" tvg-logo="https://go4.pw/EUROPE/rtvdrenthe.png" group-title="EU | NL | FHD",NL - TV DRENTHE HEVC
+#EXTINF:-1 tvg-id="tvdrenthe.nl" tvg-logo="https://go4.pw/EUROPE/rtvdrenthe.png" group-title="##### NL - GENERAL #####",NL - TV DRENTHE HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1071.ts
-#EXTINF:-1 tvg-id="tv5monde.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png" group-title="EU | NL | FHD",NL - TV5 MONDE HD
+#EXTINF:-1 tvg-id="tv5monde.pt" tvg-logo="https://go4.pw/EUROPE/FRANCE/Tv5_monde_HD.png" group-title="##### NL - GENERAL #####",NL - TV5 MONDE HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988223.ts
-#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://go4.pw/germany/eurns.png" group-title="EU | NL | FHD",NL - EURONEWS HD
+#EXTINF:-1 tvg-id="euronews.uk" tvg-logo="https://go4.pw/germany/eurns.png" group-title="##### NL - GENERAL #####",NL - EURONEWS HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988294.ts
-#EXTINF:-1 tvg-id="bvn.nl" tvg-logo="https://go4.pw/CARIBBIEAN/_BVN.png" group-title="EU | NL | FHD",NL - BVN NL HD
+#EXTINF:-1 tvg-id="bvn.nl" tvg-logo="https://go4.pw/CARIBBIEAN/_BVN.png" group-title="##### NL - GENERAL #####",NL - BVN NL HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988298.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/tvdirect.png" group-title="EU | NL | FHD",NL - TV DIRECT 13 HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/tvdirect.png" group-title="##### NL - GENERAL #####",NL - TV DIRECT 13 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035149.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/CARIBBIEAN/_TELECURACAO.png" group-title="EU | NL | FHD",NL - TELE CURACAO HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/CARIBBIEAN/_TELECURACAO.png" group-title="##### NL - GENERAL #####",NL - TELE CURACAO HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035148.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="EU | NL | FHD",##### NL - ENTERTAINMENT #####
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="##### NL - ENTERTAINMENT #####",##### NL - ENTERTAINMENT #####
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1341309.ts
-#EXTINF:-1 tvg-id="rtlz.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL Z FHD ◉
+#EXTINF:-1 tvg-id="rtlz.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - ENTERTAINMENT #####",NL - RTL Z FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1150.ts
-#EXTINF:-1 tvg-id="rtlz.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL Z HEVC
+#EXTINF:-1 tvg-id="rtlz.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - ENTERTAINMENT #####",NL - RTL Z HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034920.ts
-#EXTINF:-1 tvg-id="rtlz.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL Z HD
+#EXTINF:-1 tvg-id="rtlz.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - ENTERTAINMENT #####",NL - RTL Z HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988215.ts
-#EXTINF:-1 tvg-id="rtllounge.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL LOUNGE FHD
+#EXTINF:-1 tvg-id="rtllounge.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - ENTERTAINMENT #####",NL - RTL LOUNGE FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1149.ts
-#EXTINF:-1 tvg-id="rtllounge.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL LOUNGE HD
+#EXTINF:-1 tvg-id="rtllounge.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - ENTERTAINMENT #####",NL - RTL LOUNGE HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988218.ts
-#EXTINF:-1 tvg-id="rtlcrime.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL CRIME FHD
+#EXTINF:-1 tvg-id="rtlcrime.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - ENTERTAINMENT #####",NL - RTL CRIME FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1129.ts
-#EXTINF:-1 tvg-id="rtlcrime.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL CRIME HD
+#EXTINF:-1 tvg-id="rtlcrime.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="##### NL - ENTERTAINMENT #####",NL - RTL CRIME HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988217.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | NL | FHD",NL -  BBC FIRST FHD ◉
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="##### NL - ENTERTAINMENT #####",NL -  BBC FIRST FHD ◉
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325545.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | NL | FHD",NL - BBC FIRST HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="##### NL - ENTERTAINMENT #####",NL - BBC FIRST HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988221.ts
-#EXTINF:-1 tvg-id="bbcentertainment.nl" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | NL | FHD",NL - BBC ENTERTAINMENT FHD
+#EXTINF:-1 tvg-id="bbcentertainment.nl" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="##### NL - ENTERTAINMENT #####",NL - BBC ENTERTAINMENT FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325036.ts
-#EXTINF:-1 tvg-id="bbcentertainment.nl" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="EU | NL | FHD",NL - BBC ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="bbcentertainment.nl" tvg-logo="https://go4.pw/EUROPE/UK/BBC-1.png" group-title="##### NL - ENTERTAINMENT #####",NL - BBC ENTERTAINMENT HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988222.ts
-#EXTINF:-1 tvg-id="comedycentralextra.nl" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="EU | NL | FHD",NL - COMEDY CENTRAL EXTRA FHD
+#EXTINF:-1 tvg-id="comedycentralextra.nl" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="##### NL - ENTERTAINMENT #####",NL - COMEDY CENTRAL EXTRA FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1131.ts
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="EU | NL | FHD",NL - COMEDY CENTRAL FHD
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="##### NL - ENTERTAINMENT #####",NL - COMEDY CENTRAL FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988243.ts
-#EXTINF:-1 tvg-id="comedycentral.nl" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="EU | NL | FHD",NL - COMEDY CENTRAL HEVC
+#EXTINF:-1 tvg-id="comedycentral.nl" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="##### NL - ENTERTAINMENT #####",NL - COMEDY CENTRAL HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1133.ts
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="EU | NL | FHD",NL - COMEDY CENTRAL HD
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://go4.pw/LATINO/Comedy-Central.png" group-title="##### NL - ENTERTAINMENT #####",NL - COMEDY CENTRAL HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035007.ts
-#EXTINF:-1 tvg-id="myzen.nl" tvg-logo="https://go4.pw/NEDERLAND/myzen.png" group-title="EU | NL | FHD",NL - MYZEN FHD
+#EXTINF:-1 tvg-id="myzen.nl" tvg-logo="https://go4.pw/NEDERLAND/myzen.png" group-title="##### NL - ENTERTAINMENT #####",NL - MYZEN FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988286.ts
-#EXTINF:-1 tvg-id="ons.nl" tvg-logo="https://go4.pw/NEDERLAND/ons.png" group-title="EU | NL | FHD",NL - ONS FHD
+#EXTINF:-1 tvg-id="ons.nl" tvg-logo="https://go4.pw/NEDERLAND/ons.png" group-title="##### NL - ENTERTAINMENT #####",NL - ONS FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035133.ts
-#EXTINF:-1 tvg-id="ons.nl" tvg-logo="https://go4.pw/NEDERLAND/ons.png" group-title="EU | NL | FHD",NL - ONS HEVC
+#EXTINF:-1 tvg-id="ons.nl" tvg-logo="https://go4.pw/NEDERLAND/ons.png" group-title="##### NL - ENTERTAINMENT #####",NL - ONS HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1122.ts
-#EXTINF:-1 tvg-id="ons.nl" tvg-logo="https://go4.pw/NEDERLAND/ons.png" group-title="EU | NL | FHD",NL - ONS HD
+#EXTINF:-1 tvg-id="ons.nl" tvg-logo="https://go4.pw/NEDERLAND/ons.png" group-title="##### NL - ENTERTAINMENT #####",NL - ONS HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988253.ts
-#EXTINF:-1 tvg-id="outtv.nl" tvg-logo="https://go4.pw/NEDERLAND/outtv.png" group-title="EU | NL | FHD",NL - OUT TV FHD
+#EXTINF:-1 tvg-id="outtv.nl" tvg-logo="https://go4.pw/NEDERLAND/outtv.png" group-title="##### NL - ENTERTAINMENT #####",NL - OUT TV FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988258.ts
-#EXTINF:-1 tvg-id="outtv.nl" tvg-logo="https://go4.pw/NEDERLAND/outtv.png" group-title="EU | NL | FHD",NL - OUT TV HD
+#EXTINF:-1 tvg-id="outtv.nl" tvg-logo="https://go4.pw/NEDERLAND/outtv.png" group-title="##### NL - ENTERTAINMENT #####",NL - OUT TV HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325017.ts
-#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://go4.pw/USA/para.png" group-title="EU | NL | FHD",NL - PARAMOUNT FHD
+#EXTINF:-1 tvg-id="paramount.br" tvg-logo="https://go4.pw/USA/para.png" group-title="##### NL - ENTERTAINMENT #####",NL - PARAMOUNT FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988202.ts
-#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-logo="https://go4.pw/USA/para.png" group-title="EU | NL | FHD",NL - PARAMOUNT NETWORK HD
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-logo="https://go4.pw/USA/para.png" group-title="##### NL - ENTERTAINMENT #####",NL - PARAMOUNT NETWORK HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988238.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/GERMANY/ZDFHD.png" group-title="EU | NL | FHD",NL - ZDF HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/GERMANY/ZDFHD.png" group-title="##### NL - ENTERTAINMENT #####",NL - ZDF HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325050.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/1.png" group-title="EU | NL | FHD",NL - WDR HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/1.png" group-title="##### NL - ENTERTAINMENT #####",NL - WDR HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325051.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/E_ENTERTAINMENT.png" group-title="EU | NL | FHD",NL - E! ENTERTAINMENT FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/E_ENTERTAINMENT.png" group-title="##### NL - ENTERTAINMENT #####",NL - E! ENTERTAINMENT FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988224.ts
-#EXTINF:-1 tvg-id="eentertainment.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/E_ENTERTAINMENT.png" group-title="EU | NL | FHD",NL - E! ENTERTAINMENT HD
+#EXTINF:-1 tvg-id="eentertainment.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/E_ENTERTAINMENT.png" group-title="##### NL - ENTERTAINMENT #####",NL - E! ENTERTAINMENT HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1128.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/family7.png" group-title="EU | NL | FHD",NL - FAMILY 7 FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/family7.png" group-title="##### NL - ENTERTAINMENT #####",NL - FAMILY 7 FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988287.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/family7.png" group-title="EU | NL | FHD",NL - FAMILY 7 HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/family7.png" group-title="##### NL - ENTERTAINMENT #####",NL - FAMILY 7 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035006.ts
-#EXTINF:-1 tvg-id="192tv.nl" tvg-logo="https://go4.pw/NLFHD/192tv.png" group-title="EU | NL | FHD",NL - 192 TV FHD
+#EXTINF:-1 tvg-id="192tv.nl" tvg-logo="https://go4.pw/NLFHD/192tv.png" group-title="##### NL - ENTERTAINMENT #####",NL - 192 TV FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035113.ts
-#EXTINF:-1 tvg-id="192tv.nl" tvg-logo="https://go4.pw/NLFHD/192tv.png" group-title="EU | NL | FHD",NL - 192 TV HEVC
+#EXTINF:-1 tvg-id="192tv.nl" tvg-logo="https://go4.pw/NLFHD/192tv.png" group-title="##### NL - ENTERTAINMENT #####",NL - 192 TV HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1121.ts
-#EXTINF:-1 tvg-id="192tv.nl" tvg-logo="https://go4.pw/NLFHD/192tv.png" group-title="EU | NL | FHD",NL - 192 TV HD
+#EXTINF:-1 tvg-id="192tv.nl" tvg-logo="https://go4.pw/NLFHD/192tv.png" group-title="##### NL - ENTERTAINMENT #####",NL - 192 TV HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988270.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/PORTUGAL/starchannel.png" group-title="EU | NL | FHD",NL - STAR CHANNEL HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/PORTUGAL/starchannel.png" group-title="##### NL - ENTERTAINMENT #####",NL - STAR CHANNEL HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035096.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="EU | NL | FHD",##### NL - DOCUMENTARY #####
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="##### NL - DOCUMENTARY #####",##### NL - DOCUMENTARY #####
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1341308.ts
-#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-logo="https://go4.pw/RUSSIA/discoveryhd.png" group-title="EU | NL | FHD",NL - DISCOVERY FHD
+#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-logo="https://go4.pw/RUSSIA/discoveryhd.png" group-title="##### NL - DOCUMENTARY #####",NL - DISCOVERY FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988230.ts
-#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-logo="https://go4.pw/RUSSIA/discoveryhd.png" group-title="EU | NL | FHD",NL - DISCOVERY HEVC
+#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-logo="https://go4.pw/RUSSIA/discoveryhd.png" group-title="##### NL - DOCUMENTARY #####",NL - DISCOVERY HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1111.ts
-#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-logo="https://go4.pw/RUSSIA/discoveryhd.png" group-title="EU | NL | FHD",NL - DISCOVERY HD
+#EXTINF:-1 tvg-id="discoverychannel.nl" tvg-logo="https://go4.pw/RUSSIA/discoveryhd.png" group-title="##### NL - DOCUMENTARY #####",NL - DISCOVERY HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035122.ts
-#EXTINF:-1 tvg-id="discoveryscience.nl" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="EU | NL | FHD",NL - DISCOVERY SCIENCE FHD
+#EXTINF:-1 tvg-id="discoveryscience.nl" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="##### NL - DOCUMENTARY #####",NL - DISCOVERY SCIENCE FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988231.ts
-#EXTINF:-1 tvg-id="discoveryscience.nl" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="EU | NL | FHD",NL - DISCOVERY SCIENCE HEVC
+#EXTINF:-1 tvg-id="discoveryscience.nl" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="##### NL - DOCUMENTARY #####",NL - DISCOVERY SCIENCE HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1109.ts
-#EXTINF:-1 tvg-id="discoveryscience.nl" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="EU | NL | FHD",NL - DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-id="discoveryscience.nl" tvg-logo="https://go4.pw/EUROPE/discoveryscience.png" group-title="##### NL - DOCUMENTARY #####",NL - DISCOVERY SCIENCE HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035123.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="EU | NL | FHD",NL - DISCOVERY ID FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="##### NL - DOCUMENTARY #####",NL - DISCOVERY ID FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1054739.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="EU | NL | FHD",NL - DISCOVERY ID HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/id.png" group-title="##### NL - DOCUMENTARY #####",NL - DISCOVERY ID HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988232.ts
-#EXTINF:-1 tvg-id="natgeowild.nl" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="EU | NL | FHD",NL - NATIONAL GEOGRAPHIC WILD FHD
+#EXTINF:-1 tvg-id="natgeowild.nl" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="##### NL - DOCUMENTARY #####",NL - NATIONAL GEOGRAPHIC WILD FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1114.ts
-#EXTINF:-1 tvg-id="natgeowild.nl" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="EU | NL | FHD",NL - NATIONAL GEOGRAPHIC WILD HEVC
+#EXTINF:-1 tvg-id="natgeowild.nl" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="##### NL - DOCUMENTARY #####",NL - NATIONAL GEOGRAPHIC WILD HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035127.ts
-#EXTINF:-1 tvg-id="natgeowild.nl" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="EU | NL | FHD",NL - NATIONAL GEOGRAPHIC WILD HD
+#EXTINF:-1 tvg-id="natgeowild.nl" tvg-logo="https://go4.pw/EUROPE/wild.png" group-title="##### NL - DOCUMENTARY #####",NL - NATIONAL GEOGRAPHIC WILD HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988235.ts
-#EXTINF:-1 tvg-id="natgeo.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | NL | FHD",NL - NATIONAL GEOGRAPHIC FHD
+#EXTINF:-1 tvg-id="natgeo.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="##### NL - DOCUMENTARY #####",NL - NATIONAL GEOGRAPHIC FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1115.ts
-#EXTINF:-1 tvg-id="natgeo.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | NL | FHD",NL - NATIONAL GEOGRAPHIC HEVC
+#EXTINF:-1 tvg-id="natgeo.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="##### NL - DOCUMENTARY #####",NL - NATIONAL GEOGRAPHIC HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035126.ts
-#EXTINF:-1 tvg-id="natgeo.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | NL | FHD",NL - NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 tvg-id="natgeo.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="##### NL - DOCUMENTARY #####",NL - NATIONAL GEOGRAPHIC HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988234.ts
-#EXTINF:-1 tvg-id="animalplanet.nl" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="EU | NL | FHD",NL - ANIMAL PLANET FHD
+#EXTINF:-1 tvg-id="animalplanet.nl" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="##### NL - DOCUMENTARY #####",NL - ANIMAL PLANET FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988237.ts
-#EXTINF:-1 tvg-id="animalplanet.nl" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="EU | NL | FHD",NL - ANIMAL PLANET HEVC
+#EXTINF:-1 tvg-id="animalplanet.nl" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="##### NL - DOCUMENTARY #####",NL - ANIMAL PLANET HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1112.ts
-#EXTINF:-1 tvg-id="animalplanet.nl" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="EU | NL | FHD",NL - ANIMAL PLANET HD
+#EXTINF:-1 tvg-id="animalplanet.nl" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="##### NL - DOCUMENTARY #####",NL - ANIMAL PLANET HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035129.ts
-#EXTINF:-1 tvg-id="crimeinvestigation.nl" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | NL | FHD",NL - CRIME INVESTIGATION FHD
+#EXTINF:-1 tvg-id="crimeinvestigation.nl" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="##### NL - DOCUMENTARY #####",NL - CRIME INVESTIGATION FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1107.ts
-#EXTINF:-1 tvg-id="crimeinvestigation.nl" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | NL | FHD",NL - CRIME & INVESTIGATION HEVC
+#EXTINF:-1 tvg-id="crimeinvestigation.nl" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="##### NL - DOCUMENTARY #####",NL - CRIME & INVESTIGATION HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035125.ts
-#EXTINF:-1 tvg-id="crimeinvestigation.nl" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="EU | NL | FHD",NL - CRIME & INVESTIGATION HD
+#EXTINF:-1 tvg-id="crimeinvestigation.nl" tvg-logo="https://go4.pw/AMERICA/USA/CRIME%26INVESTIGATION.png" group-title="##### NL - DOCUMENTARY #####",NL - CRIME & INVESTIGATION HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988233.ts
-#EXTINF:-1 tvg-id="history.nl" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="EU | NL | FHD",NL - HISTORY FHD
+#EXTINF:-1 tvg-id="history.nl" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="##### NL - DOCUMENTARY #####",NL - HISTORY FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988239.ts
-#EXTINF:-1 tvg-id="history.nl" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="EU | NL | FHD",NL - HISTORY HEVC
+#EXTINF:-1 tvg-id="history.nl" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="##### NL - DOCUMENTARY #####",NL - HISTORY HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1125.ts
-#EXTINF:-1 tvg-id="history.nl" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="EU | NL | FHD",NL - HISTORY HD
+#EXTINF:-1 tvg-id="history.nl" tvg-logo="https://go4.pw/ALBANIA/15.png" group-title="##### NL - DOCUMENTARY #####",NL - HISTORY HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035130.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/LOVE-NATURE.png" group-title="EU | NL | FHD",NL - LOVE NATURE FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/LOVE-NATURE.png" group-title="##### NL - DOCUMENTARY #####",NL - LOVE NATURE FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988236.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/LOVE-NATURE.png" group-title="EU | NL | FHD",NL - LOVE NATURE HEVC
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/LOVE-NATURE.png" group-title="##### NL - DOCUMENTARY #####",NL - LOVE NATURE HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325045.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/LOVE-NATURE.png" group-title="EU | NL | FHD",NL - LOVE NATURE HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/germany/LOVE-NATURE.png" group-title="##### NL - DOCUMENTARY #####",NL - LOVE NATURE HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035128.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/usa/22.png" group-title="EU | NL | FHD",NL - WILD EARTH FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/usa/22.png" group-title="##### NL - DOCUMENTARY #####",NL - WILD EARTH FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/521122.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/Uganda/CURIOSITY-STREAM.png" group-title="EU | NL | FHD",NL - CURIOSITY CHANNEL FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/Uganda/CURIOSITY-STREAM.png" group-title="##### NL - DOCUMENTARY #####",NL - CURIOSITY CHANNEL FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/521125.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/Uganda/CURIOSITY-STREAM.png" group-title="EU | NL | FHD",NL - CURIOSITY CHANNEL HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/Uganda/CURIOSITY-STREAM.png" group-title="##### NL - DOCUMENTARY #####",NL - CURIOSITY CHANNEL HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325044.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="EU | NL | FHD",NL - ID HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="##### NL - DOCUMENTARY #####",NL - ID HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035124.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="EU | NL | FHD",##### NL - SPORTS #####
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="##### NL - SPORTS #####",##### NL - SPORTS #####
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1341305.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="EU | NL | FHD",NL - ESPN FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="##### NL - SPORTS #####",NL - ESPN FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035185.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="EU | NL | FHD",NL - ESPN 1 HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="##### NL - SPORTS #####",NL - ESPN 1 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034931.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="EU | NL | FHD",NL - ESPN 2 HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="##### NL - SPORTS #####",NL - ESPN 2 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034932.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="EU | NL | FHD",NL - ESPN 3 HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="##### NL - SPORTS #####",NL - ESPN 3 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034933.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="EU | NL | FHD",NL - ESPN 4 HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="##### NL - SPORTS #####",NL - ESPN 4 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034934.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="EU | NL | FHD",NL - ZIGGO SPORT HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="##### NL - SPORTS #####",NL - ZIGGO SPORT HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034935.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="EU | NL | FHD",NL - ZIGGO SPORT SELECT HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="##### NL - SPORTS #####",NL - ZIGGO SPORT SELECT HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034936.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="EU | NL | FHD",NL - ZIGGO SPORT VOETBAL HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="##### NL - SPORTS #####",NL - ZIGGO SPORT VOETBAL HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034937.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="EU | NL | FHD",NL - ZIGGO SPORT GOLF HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="##### NL - SPORTS #####",NL - ZIGGO SPORT GOLF HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034938.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="EU | NL | FHD",NL - ZIGGO SPORT RACING HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="##### NL - SPORTS #####",NL - ZIGGO SPORT RACING HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034939.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="EU | NL | FHD",NL - ZIGGO SPORT DOCU HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/ziggosport.png" group-title="##### NL - SPORTS #####",NL - ZIGGO SPORT DOCU HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034940.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EU | NL | FHD",NL - EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="##### NL - SPORTS #####",NL - EUROSPORT 1 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034941.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EU | NL | FHD",NL - EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="##### NL - SPORTS #####",NL - EUROSPORT 2 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034942.ts
-#EXTINF:-1 tvg-id="hbo.bg" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | NL | FHD",NL - HBO 2 HD
+#EXTINF:-1 tvg-id="hbo.bg" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="##### NL - SPORTS #####",NL - HBO 2 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035055.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="EU | NL | FHD",##### NL - MOVIES #####
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="##### NL - MOVIES #####",##### NL - MOVIES #####
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1341307.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/film1action.png" group-title="EU | NL | FHD",NL - FILM 1 ACTION FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/film1action.png" group-title="##### NL - MOVIES #####",NL - FILM 1 ACTION FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988228.ts
-#EXTINF:-1 tvg-id="film1action.nl" tvg-logo="https://go4.pw/NEDERLAND/film1action.png" group-title="EU | NL | FHD",NL - FILM 1 ACTION HD
+#EXTINF:-1 tvg-id="film1action.nl" tvg-logo="https://go4.pw/NEDERLAND/film1action.png" group-title="##### NL - MOVIES #####",NL - FILM 1 ACTION HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1106.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/filmdrama.png" group-title="EU | NL | FHD",NL - FILM 1 DRAMA FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/filmdrama.png" group-title="##### NL - MOVIES #####",NL - FILM 1 DRAMA FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988227.ts
-#EXTINF:-1 tvg-id="film1drama.nl" tvg-logo="https://go4.pw/NEDERLAND/filmdrama.png" group-title="EU | NL | FHD",NL - FILM 1 DRAMA HD
+#EXTINF:-1 tvg-id="film1drama.nl" tvg-logo="https://go4.pw/NEDERLAND/filmdrama.png" group-title="##### NL - MOVIES #####",NL - FILM 1 DRAMA HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1104.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/film1family.png" group-title="EU | NL | FHD",NL - FILM 1 FAMILY FHD
+#EXTINF:-1 tvg-id="film1family.nl" tvg-logo="https://go4.pw/NEDERLAND/film1family.png" group-title="##### NL - MOVIES #####",NL - FILM 1 FAMILY FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988226.ts
-#EXTINF:-1 tvg-id="film1family.nl" tvg-logo="https://go4.pw/NEDERLAND/film1family.png" group-title="EU | NL | FHD",NL - FILM 1 FAMILY HD
+#EXTINF:-1 tvg-id="film1family.nl" tvg-logo="https://go4.pw/NEDERLAND/film1family.png" group-title="##### NL - MOVIES #####",NL - FILM 1 FAMILY HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1103.ts
-#EXTINF:-1 tvg-id="film1premiere.nl" tvg-logo="https://go4.pw/NEDERLAND/film1premier.png" group-title="EU | NL | FHD",NL - FILM 1 PREMIERE FHD
+#EXTINF:-1 tvg-id="film1premiere.nl" tvg-logo="https://go4.pw/NEDERLAND/film1premier.png" group-title="##### NL - MOVIES #####",NL - FILM 1 PREMIERE FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035050.ts
-#EXTINF:-1 tvg-id="film1premiere.nl" tvg-logo="https://go4.pw/NEDERLAND/film1premier.png" group-title="EU | NL | FHD",NL - FILM 1 PREMIERE HEVC
+#EXTINF:-1 tvg-id="film1premiere.nl" tvg-logo="https://go4.pw/NEDERLAND/film1premier.png" group-title="##### NL - MOVIES #####",NL - FILM 1 PREMIERE HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1105.ts
-#EXTINF:-1 tvg-id="film1premiere.nl" tvg-logo="https://go4.pw/NEDERLAND/film1premier.png" group-title="EU | NL | FHD",NL - FILM 1 PREMIERE HD
+#EXTINF:-1 tvg-id="film1premiere.nl" tvg-logo="https://go4.pw/NEDERLAND/film1premier.png" group-title="##### NL - MOVIES #####",NL - FILM 1 PREMIERE HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988225.ts
-#EXTINF:-1 tvg-id="fox.nl" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | NL | FHD",NL - FOX FHD
+#EXTINF:-1 tvg-id="fox.nl" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="##### NL - MOVIES #####",NL - FOX FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1127.ts
-#EXTINF:-1 tvg-id="foxwnyw.us" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="EU | NL | FHD",NL - FOX HD
+#EXTINF:-1 tvg-id="foxwnyw.us" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/foxx.png" group-title="##### NL - MOVIES #####",NL - FOX HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988214.ts
-#EXTINF:-1 tvg-id="shortstv.nl" tvg-logo="https://go4.pw/NEDERLAND/shortstv.png" group-title="EU | NL | FHD",NL - SHORTS TV FHD
+#EXTINF:-1 tvg-id="shortstv.nl" tvg-logo="https://go4.pw/NEDERLAND/shortstv.png" group-title="##### NL - MOVIES #####",NL - SHORTS TV FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325040.ts
-#EXTINF:-1 tvg-id="shortstv.nl" tvg-logo="https://go4.pw/NEDERLAND/shortstv.png" group-title="EU | NL | FHD",NL - SHORTS TV HD
+#EXTINF:-1 tvg-id="shortstv.nl" tvg-logo="https://go4.pw/NEDERLAND/shortstv.png" group-title="##### NL - MOVIES #####",NL - SHORTS TV HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988257.ts
-#EXTINF:-1 tvg-id="filmbox.ro" tvg-logo="https://go4.pw/NEDERLAND/filmbox.png" group-title="EU | NL | FHD",NL - FILMBOX NL HD
+#EXTINF:-1 tvg-id="filmbox.ro" tvg-logo="https://go4.pw/NEDERLAND/filmbox.png" group-title="##### NL - MOVIES #####",NL - FILMBOX NL HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988229.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="EU | NL | FHD",NL - GOLD TV 24/7 | GLORY  HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/GOLDTV/goldtv.png" group-title="##### NL - MOVIES #####",NL - GOLD TV 24/7 | GLORY  HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1015286.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="EU | NL | FHD",##### NL - KIDS #####
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1341304.ts
-#EXTINF:-1 tvg-id="rtltelekids.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL TELEKIDS FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1130.ts
-#EXTINF:-1 tvg-id="rtltelekids.nl" tvg-logo="https://go4.pw/germany/rtl.png" group-title="EU | NL | FHD",NL - RTL TELEKIDS HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988251.ts
-#EXTINF:-1 tvg-id="disneychannel.nl" tvg-logo="https://go4.pw/usa/17.png" group-title="EU | NL | FHD",NL - DISNEY CHANNEL FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035005.ts
-#EXTINF:-1 tvg-id="disneychannel.nl" tvg-logo="https://go4.pw/usa/17.png" group-title="EU | NL | FHD",NL - DISNEY CHANNEL HEVC
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1137.ts
-#EXTINF:-1 tvg-id="disneychannel.nl" tvg-logo="https://go4.pw/usa/17.png" group-title="EU | NL | FHD",NL - DISNEY CHANNEL HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988242.ts
-#EXTINF:-1 tvg-id="100nltv.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYXD.png" group-title="EU | NL | FHD",NL - VERONICA /DISNEY XD FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138.ts
-#EXTINF:-1 tvg-id="veronicadisneyxd.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYXD.png" group-title="EU | NL | FHD",NL - VERONICA DISNEY XD HEVC
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1139.ts
-#EXTINF:-1 tvg-id="veronicadisneyxd.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISNEYXD.png" group-title="EU | NL | FHD",NL - VERONICA /DISNEY XD HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1034925.ts
-#EXTINF:-1 tvg-id="nickelodeon.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | NL | FHD",NL - NICKELODEON FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1142.ts
-#EXTINF:-1 tvg-id="nickelodeon.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/NICKELODEON_1.png" group-title="EU | NL | FHD",NL - NICKELODEON HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988250.ts
-#EXTINF:-1 tvg-id="nicktoons.nl" tvg-logo="https://go4.pw/germany/Nicktoons.png" group-title="EU | NL | FHD",NL - NICK TOONS FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035207.ts
-#EXTINF:-1 tvg-id="nicktoons.nl" tvg-logo="https://go4.pw/germany/Nicktoons.png" group-title="EU | NL | FHD",NL - NICK TOONS HEVC
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1143.ts
-#EXTINF:-1 tvg-id="nicktoons.nl" tvg-logo="https://go4.pw/germany/Nicktoons.png" group-title="EU | NL | FHD",NL - NICK TOONS HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988249.ts
-#EXTINF:-1 tvg-id="nickjr.nl" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" group-title="EU | NL | FHD",NL - NICK JUNIOR FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1144.ts
-#EXTINF:-1 tvg-id="nickjr.nl" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" group-title="EU | NL | FHD",NL - NICK JUNIOR HEVC
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988247.ts
-#EXTINF:-1 tvg-id="nickjr.nl" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" group-title="EU | NL | FHD",NL - NICK JUNIOR HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035011.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="EU | NL | FHD",NL - CARTOON NETWORK FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035009.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONNETWORKFHD.png" group-title="EU | NL | FHD",NL - CARTOON NETWORK HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988245.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="EU | NL | FHD",NL - CARTOONITO FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/521126.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/CARTOONITO_FHD.png" group-title="EU | NL | FHD",NL - CARTOONITO FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1075547.ts
-#EXTINF:-1 tvg-id="boomerang.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/BOOMERANGFHD.png" group-title="EU | NL | FHD",NL - BOOMERANG FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988244.ts
-#EXTINF:-1 tvg-id="boomerang.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/BOOMERANGFHD.png" group-title="EU | NL | FHD",NL - BOOMERANG HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1134.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/ALBANIA/BABY%20TV.png" group-title="EU | NL | FHD",NL - BABY TV FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035203.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/ALBANIA/BABY%20TV.png" group-title="EU | NL | FHD",NL - BABY TV HEVC
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035010.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/ALBANIA/BABY%20TV.png" group-title="EU | NL | FHD",NL - BABY TV HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988246.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/usa/15.png" group-title="EU | NL | FHD",NL - DUCK TV FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325031.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/usa/15.png" group-title="EU | NL | FHD",NL - DUCK TV HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988277.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/telekids.png" group-title="EU | NL | FHD",NL - TELE KIDS 5 FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035020.ts
-#EXTINF:-1 tvg-id="ketnetop12.be" tvg-logo="https://go4.pw/EUROPE/ketnet.png" group-title="EU | NL | FHD",NL - KETNET FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988295.ts
-#EXTINF:-1 tvg-id="ketnetop12.be" tvg-logo="https://go4.pw/EUROPE/ketnet.png" group-title="EU | NL | FHD",NL - KETNET HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988296.ts
-#EXTINF:-1 tvg-id="film1family.nl" tvg-logo="https://go4.pw/NEDERLAND/family7.png" group-title="EU | NL | FHD",NL - FAMILY 7 KIDS HE
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325018.ts
-#EXTINF:-1 tvg-id="pebbletv.nl" tvg-logo="https://go4.pw/NEDERLAND/PEBBLEV.png" group-title="EU | NL | FHD",NL - PEBBLE TV HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988252.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="EU | NL | FHD",##### NL - OMROEP #####
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1348424.ts
-#EXTINF:-1 tvg-id="omroepflevoland.nl" tvg-logo="https://go4.pw/NLFHD/9.png" group-title="EU | NL | FHD",NL - OMROEP FLEVOLAND FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988283.ts
-#EXTINF:-1 tvg-id="omroepflevoland.nl" tvg-logo="https://go4.pw/NLFHD/9.png" group-title="EU | NL | FHD",NL - OMROEP FLEVOLAND HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1070.ts
-#EXTINF:-1 tvg-id="omroepzeeland.nl" tvg-logo="https://go4.pw/NEDERLAND/zeeland.png" group-title="EU | NL | FHD",NL - OMROEP ZEELAND FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035145.ts
-#EXTINF:-1 tvg-id="omroepzeeland.nl" tvg-logo="https://go4.pw/NEDERLAND/zeeland.png" group-title="EU | NL | FHD",NL - OMROEP ZEELAND HEVC
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1068.ts
-#EXTINF:-1 tvg-id="omroepzeeland.nl" tvg-logo="https://go4.pw/NEDERLAND/zeeland.png" group-title="EU | NL | FHD",NL - OMROEP ZEELAND HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988282.ts
-#EXTINF:-1 tvg-id="omroepbrabant.nl" tvg-logo="https://go4.pw/NLFHD/11.png" group-title="EU | NL | FHD",NL - OMROEP BRABANT FHD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035144.ts
-#EXTINF:-1 tvg-id="omroepbrabant.nl" tvg-logo="https://go4.pw/NLFHD/11.png" group-title="EU | NL | FHD",NL - OMROEP BRABANT HEVC
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1069.ts
-#EXTINF:-1 tvg-id="omroepbrabant.nl" tvg-logo="https://go4.pw/NLFHD/11.png" group-title="EU | NL | FHD",NL - OMROEP BRABANT HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988264.ts
-#EXTINF:-1 tvg-id="omroepflevoland.nl" tvg-logo="https://go4.pw/NEDERLAND/FRYSLAND.png" group-title="EU | NL | FHD",NL - OMROEP FRYSLAND HEVC
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988265.ts
-#EXTINF:-1 tvg-id="omroepflevoland.nl" tvg-logo="https://go4.pw/NEDERLAND/FRYSLAND.png" group-title="EU | NL | FHD",NL - OMROEP FRYSLAND HD
-http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1067.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="EU | NL | FHD",##### NL - MUSIC #####
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HULANDA.png" group-title="##### NL - MUSIC #####",##### NL - MUSIC #####
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1341306.ts
-#EXTINF:-1 tvg-id="tvoranje.nl" tvg-logo="https://go4.pw/NLFHD/10.png" group-title="EU | NL | FHD",NL - TV ORANJE FHD
+#EXTINF:-1 tvg-id="tvoranje.nl" tvg-logo="https://go4.pw/NLFHD/10.png" group-title="##### NL - MUSIC #####",NL - TV ORANJE FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1116.ts
-#EXTINF:-1 tvg-id="tvoranje.nl" tvg-logo="https://go4.pw/NLFHD/10.png" group-title="EU | NL | FHD",NL - TV ORANJE HD
+#EXTINF:-1 tvg-id="tvoranje.nl" tvg-logo="https://go4.pw/NLFHD/10.png" group-title="##### NL - MUSIC #####",NL - TV ORANJE HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988268.ts
-#EXTINF:-1 tvg-id="xite.nl" tvg-logo="https://go4.pw/NEDERLAND/xite.png" group-title="EU | NL | FHD",NL - XITE FHD
+#EXTINF:-1 tvg-id="xite.nl" tvg-logo="https://go4.pw/NEDERLAND/xite.png" group-title="##### NL - MUSIC #####",NL - XITE FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325012.ts
-#EXTINF:-1 tvg-id="xite.nl" tvg-logo="https://go4.pw/NEDERLAND/xite.png" group-title="EU | NL | FHD",NL - XITE HD
+#EXTINF:-1 tvg-id="xite.nl" tvg-logo="https://go4.pw/NEDERLAND/xite.png" group-title="##### NL - MUSIC #####",NL - XITE HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988266.ts
-#EXTINF:-1 tvg-id="mtv.us" tvg-logo="https://go4.pw/EUROPE/FRANCE/MTV.png" group-title="EU | NL | FHD",NL - MTV FHD
+#EXTINF:-1 tvg-id="mtv.us" tvg-logo="https://go4.pw/EUROPE/FRANCE/MTV.png" group-title="##### NL - MUSIC #####",NL - MTV FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988271.ts
-#EXTINF:-1 tvg-id="mtv.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/MTV.png" group-title="EU | NL | FHD",NL - MTV HD
+#EXTINF:-1 tvg-id="mtv.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/MTV.png" group-title="##### NL - MUSIC #####",NL - MTV HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1120.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/MTV90.png" group-title="EU | NL | FHD",NL - MTV 90s HEVC
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/MTV90.png" group-title="##### NL - MUSIC #####",NL - MTV 90s HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325032.ts
-#EXTINF:-1 tvg-id="mtvhits.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/MTVHITS.png" group-title="EU | NL | FHD",NL - MTV HITS HD
+#EXTINF:-1 tvg-id="mtvhits.nl" tvg-logo="https://go4.pw/EUROPE/FRANCE/MTVHITS.png" group-title="##### NL - MUSIC #####",NL - MTV HITS HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325034.ts
-#EXTINF:-1 tvg-id="dancetrippin.nl" tvg-logo="https://go4.pw/NEDERLAND/dance.png" group-title="EU | NL | FHD",NL - DANCE TELEVISION FHD
+#EXTINF:-1 tvg-id="dancetrippin.nl" tvg-logo="https://go4.pw/NEDERLAND/dance.png" group-title="##### NL - MUSIC #####",NL - DANCE TELEVISION FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988267.ts
-#EXTINF:-1 tvg-id="dancetrippin.nl" tvg-logo="https://go4.pw/NEDERLAND/dance.png" group-title="EU | NL | FHD",NL - DANCETELEVISION HD
+#EXTINF:-1 tvg-id="dancetrippin.nl" tvg-logo="https://go4.pw/NEDERLAND/dance.png" group-title="##### NL - MUSIC #####",NL - DANCETELEVISION HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325035.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/dance.png" group-title="EU | NL | FHD",NL - DANCE TRIPPIN HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/dance.png" group-title="##### NL - MUSIC #####",NL - DANCE TRIPPIN HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/169715.ts
-#EXTINF:-1 tvg-id="njam.nl" tvg-logo="https://go4.pw/EUROPE/njam.png" group-title="EU | NL | FHD",NL - NJAM! FHD
+#EXTINF:-1 tvg-id="njam.nl" tvg-logo="https://go4.pw/EUROPE/njam.png" group-title="##### NL - MUSIC #####",NL - NJAM! FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/521123.ts
-#EXTINF:-1 tvg-id="njam.nl" tvg-logo="https://go4.pw/EUROPE/njam.png" group-title="EU | NL | FHD",NL - NJAM! HD
+#EXTINF:-1 tvg-id="njam.nl" tvg-logo="https://go4.pw/EUROPE/njam.png" group-title="##### NL - MUSIC #####",NL - NJAM! HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325041.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="EU | NL | FHD",NL - STINGRAY DJAZZ FHD
+#EXTINF:-1 tvg-id="stingraydjazz.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="##### NL - MUSIC #####",NL - STINGRAY DJAZZ FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/521128.ts
-#EXTINF:-1 tvg-id="stingraydjazz.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="EU | NL | FHD",NL - STINGRAY DJAZZ HEVC
+#EXTINF:-1 tvg-id="stingraydjazz.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="##### NL - MUSIC #####",NL - STINGRAY DJAZZ HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325038.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="EU | NL | FHD",NL - STINGRAY DJAZZ HD
+#EXTINF:-1 tvg-id="stingraydjazz.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="##### NL - MUSIC #####",NL - STINGRAY DJAZZ HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035224.ts
-#EXTINF:-1 tvg-id="stingraylitetv.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="EU | NL | FHD",NL - STINGRAY LITE TV FHD
+#EXTINF:-1 tvg-id="stingraylitetv.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="##### NL - MUSIC #####",NL - STINGRAY LITE TV FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035121.ts
-#EXTINF:-1 tvg-id="stingraylitetv.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="EU | NL | FHD",NL - STINGRAY LITE TV HEVC
+#EXTINF:-1 tvg-id="stingraylitetv.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="##### NL - MUSIC #####",NL - STINGRAY LITE TV HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325037.ts
-#EXTINF:-1 tvg-id="stingraylitetv.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="EU | NL | FHD",NL - STINGRAY LITETV HD
+#EXTINF:-1 tvg-id="stingraylitetv.nl" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="##### NL - MUSIC #####",NL - STINGRAY LITETV HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/521127.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="EU | NL | FHD",NL - STINGRAY CLASSICA TV HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NLFHD/1.png" group-title="##### NL - MUSIC #####",NL - STINGRAY CLASSICA TV HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988276.ts
-#EXTINF:-1 tvg-id="tv538.nl" tvg-logo="https://go4.pw/NLFHD/2.png" group-title="EU | NL | FHD",NL - TV 538 FHD
+#EXTINF:-1 tvg-id="tv538.nl" tvg-logo="https://go4.pw/NLFHD/2.png" group-title="##### NL - MUSIC #####",NL - TV 538 FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/325033.ts
-#EXTINF:-1 tvg-id="tv538.nl" tvg-logo="https://go4.pw/NLFHD/2.png" group-title="EU | NL | FHD",NL - TV 538 HD
+#EXTINF:-1 tvg-id="tv538.nl" tvg-logo="https://go4.pw/NLFHD/2.png" group-title="##### NL - MUSIC #####",NL - TV 538 HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988269.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NLFHD/2.png" group-title="EU | NL | FHD",NL - RADIO 538 NL HD
+#EXTINF:-1 tvg-id="tv538.nl" tvg-logo="https://go4.pw/NLFHD/2.png" group-title="##### NL - MUSIC #####",NL - RADIO 538 NL HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1062.ts
-#EXTINF:-1 tvg-id="slam.nl" tvg-logo="https://go4.pw/NEDERLAND/slam!.png" group-title="EU | NL | FHD",NL - SLAM FM FHD
+#EXTINF:-1 tvg-id="slam.nl" tvg-logo="https://go4.pw/NEDERLAND/slam!.png" group-title="##### NL - MUSIC #####",NL - SLAM FM FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/169814.ts
-#EXTINF:-1 tvg-id="slam.nl" tvg-logo="https://go4.pw/NEDERLAND/slam!.png" group-title="EU | NL | FHD",NL - SLAM FM HD
+#EXTINF:-1 tvg-id="slam.nl" tvg-logo="https://go4.pw/NEDERLAND/slam!.png" group-title="##### NL - MUSIC #####",NL - SLAM FM HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1059.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/slam!.png" group-title="EU | NL | FHD",NL - SLAM FHD
+#EXTINF:-1 tvg-id="slam.nl" tvg-logo="https://go4.pw/NEDERLAND/slam!.png" group-title="##### NL - MUSIC #####",NL - SLAM FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035120.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NEDERLAND/slam!.png" group-title="EU | NL | FHD",NL - SLAM HD
+#EXTINF:-1 tvg-id="slam.nl" tvg-logo="https://go4.pw/NEDERLAND/slam!.png" group-title="##### NL - MUSIC #####",NL - SLAM HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/988289.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/MEZZO.png" group-title="EU | NL | FHD",NL - MEZZO FHD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/MEZZO.png" group-title="##### NL - MUSIC #####",NL - MEZZO FHD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035225.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/MEZZO.png" group-title="EU | NL | FHD",NL - MEZZO HEVC
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/MEZZO.png" group-title="##### NL - MUSIC #####",NL - MEZZO HEVC
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1054738.ts
-#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/MEZZO.png" group-title="EU | NL | FHD",NL - MEZZO HD
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/FRANCE/MEZZO.png" group-title="##### NL - MUSIC #####",NL - MEZZO HD
 http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1035119.ts
