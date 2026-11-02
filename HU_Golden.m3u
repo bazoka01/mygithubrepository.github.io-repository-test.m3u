@@ -1,0 +1,203 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/MAGFLAGS/HANGARIA.png" group-title="EU | HUNGARIA",##### HU - HUNGARIAN #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/70203.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/FLAGS/flag_hungary.png" group-title="EU | HUNGARIA",##### HU - GENERAL #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45247.ts
+#EXTINF:-1 tvg-id="atv.hu" tvg-logo="https://go4.pw/HUNGARIAN/_atv.png" group-title="EU | HUNGARIA",HU - ATV FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906762.ts
+#EXTINF:-1 tvg-id="fem3.hu" tvg-logo="https://go4.pw/HUNGARIAN/FEM3.png" group-title="EU | HUNGARIA",HU - FEM 3 FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45226.ts
+#EXTINF:-1 tvg-id="rtlklub.hu" tvg-logo="https://go4.pw/HUNGARIAN/RTLKLUBHD.png" group-title="EU | HUNGARIA",HU - RTL KLUB FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906790.ts
+#EXTINF:-1 tvg-id="rtlplus.hu" tvg-logo="https://go4.pw/HUNGARIAN/RTLPLUS.png" group-title="EU | HUNGARIA",HU - RTL PLUS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45241.ts
+#EXTINF:-1 tvg-id="rtl2.hu" tvg-logo="https://go4.pw/HUNGARIAN/RTL2HD.png" group-title="EU | HUNGARIA",HU - RTL 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45243.ts
+#EXTINF:-1 tvg-id="tv2.hu" tvg-logo="https://go4.pw/HUNGARIAN/TV2HD.png" group-title="EU | HUNGARIA",HU - TV2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45234.ts
+#EXTINF:-1 tvg-id="tv4.hu" tvg-logo="https://go4.pw/HUNGARIAN/_TV4.png" group-title="EU | HUNGARIA",HU - TV4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906794.ts
+#EXTINF:-1 tvg-id="m1.hu" tvg-logo="https://go4.pw/HUNGARIAN/_M1.png" group-title="EU | HUNGARIA",HU - M1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45207.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/HUNGARIAN/M2 HD.png" group-title="EU | HUNGARIA",HU - M2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45206.ts
+#EXTINF:-1 tvg-id="m3.hu" tvg-logo="https://go4.pw/HUNGARIAN/M3ANNO.png" group-title="EU | HUNGARIA",HU - M3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906803.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/HUNGARIAN/_M4.png" group-title="EU | HUNGARIA",HU - M4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45245.ts
+#EXTINF:-1 tvg-id="m5.hu" tvg-logo="https://go4.pw/HUNGARIAN/M5HD.png" group-title="EU | HUNGARIA",HU - M5 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906804.ts
+#EXTINF:-1 tvg-id="lic" tvg-logo="https://go4.pw/HUNGARIAN/LICHI TV.png" group-title="EU | HUNGARIA",HU - LICHI TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906763.ts
+#EXTINF:-1 tvg-id="dunaworld.hu" tvg-logo="https://go4.pw/HUNGARIAN/DUNATV.png" group-title="EU | HUNGARIA",HU - DUNA WORLD HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906776.ts
+#EXTINF:-1 tvg-id="dunatv.hu" tvg-logo="https://go4.pw/HUNGARIAN/DUNATV.png" group-title="EU | HUNGARIA",HU - Duna TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/224121.ts
+#EXTINF:-1 tvg-id="hirtv.hu" tvg-logo="https://go4.pw/HUNGARIAN/_HIRTV.png" group-title="EU | HUNGARIA",HU - HIR TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906777.ts
+#EXTINF:-1 tvg-id="supertv2.hu" tvg-logo="https://go4.pw/HUNGARIAN/SUPERTV2.png" group-title="EU | HUNGARIA",HU - SUPER 2TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/76176.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/FLAGS/flag_hungary.png" group-title="EU | HUNGARIA",##### HU - ENTERTAINMENT #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45231.ts
+#EXTINF:-1 tvg-id="digilife.ro" tvg-logo="https://go4.pw/HUNGARIAN/_digilife.png" group-title="EU | HUNGARIA",HU - DIGI LIFE FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906812.ts
+#EXTINF:-1 tvg-id="travelchannel.hu" tvg-logo="https://go4.pw/HUNGARIAN/TRAVELCHANNELHD.png" group-title="EU | HUNGARIA",HU - TRAVEL CHANNEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45222.ts
+#EXTINF:-1 tvg-id="tv1000.bg" tvg-logo="https://go4.pw/HUNGARIAN/TV1000.png" group-title="EU | HUNGARIA",HU - TV 1000 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45235.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AUSTRIA/austria.png" group-title="EU | HUNGARIA",HU - VIASAT 2
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/362503.ts
+#EXTINF:-1 tvg-id="viasat3.hu" tvg-logo="https://go4.pw/HUNGARIAN/VIASAT3.png" group-title="EU | HUNGARIA",HU - VIASAT 3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45233.ts
+#EXTINF:-1 tvg-id="viasat6.hu" tvg-logo="https://go4.pw/HUNGARIAN/VIASAT6.png" group-title="EU | HUNGARIA",HU - VIASAT 6 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45232.ts
+#EXTINF:-1 tvg-id="story4.hu" tvg-logo="https://go4.pw/HUNGARIAN/_STORY4.png" group-title="EU | HUNGARIA",HU - STORY 4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45239.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/FLAGS/flag_hungary.png" group-title="EU | HUNGARIA",##### HU - MOVIES #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45221.ts
+#EXTINF:-1 tvg-id="cinemax.hu" tvg-logo="https://go4.pw/AMERICA/BRASIL/CINEMAX-HD-1.png" group-title="EU | HUNGARIA",HU - CINEMAX HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45214.ts
+#EXTINF:-1 tvg-id="cinemax2.hu" tvg-logo="https://go4.pw/EUROPE/POLONIA/CINEMAX2.png" group-title="EU | HUNGARIA",HU - CINEMAX 2 FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45213.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/HUNGARIAN/MOZI+.png" group-title="EU | HUNGARIA",HU - MOZI HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906785.ts
+#EXTINF:-1 tvg-id="moziplus.hu" tvg-logo="https://go4.pw/HUNGARIAN/MOZI+.png" group-title="EU | HUNGARIA",HU - MOZI+ HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906783.ts
+#EXTINF:-1 tvg-id="moziverzum.hu" tvg-logo="https://go4.pw/HUNGARIAN/MOZIVERZUM.png" group-title="EU | HUNGARIA",HU - MOZIVERZUM HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906784.ts
+#EXTINF:-1 tvg-id="rtlgold.hu" tvg-logo="https://go4.pw/HUNGARIAN/RTL GOLD HD.png" group-title="EU | HUNGARIA",HU - RTL GOLD HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906789.ts
+#EXTINF:-1 tvg-id="epicdrama.hu" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/EPICDRAMA.png" group-title="EU | HUNGARIA",HU - EPIC DRAMA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906796.ts
+#EXTINF:-1 tvg-id="filmboxextra.hu" tvg-logo="https://go4.pw/HUNGARIAN/_FILMBOXEXTRA .png" group-title="EU | HUNGARIA",HU - FILMBOX EXTRA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906799.ts
+#EXTINF:-1 tvg-id="amc.hu" tvg-logo="https://go4.pw/EUROPE/SPAIN/AMCHD.png" group-title="EU | HUNGARIA",HU - AMC HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45219.ts
+#EXTINF:-1 tvg-id="axn.hu" tvg-logo="https://go4.pw/AMERICA/BRASIL/AXNHD.png" group-title="EU | HUNGARIA",HU - AXN HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45217.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/HUNGARIAN/_DIGIFILM.png" group-title="EU | HUNGARIA",HU - DIGI FILM HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45212.ts
+#EXTINF:-1 tvg-id="hbo.hu" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | HUNGARIA",HU - HBO HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/224118.ts
+#EXTINF:-1 tvg-id="hbo2.hu" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | HUNGARIA",HU - HBO 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45209.ts
+#EXTINF:-1 tvg-id="hbo3.hu" tvg-logo="https://go4.pw/AMERICA/USA/HBO.png" group-title="EU | HUNGARIA",HU - HBO 3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45208.ts
+#EXTINF:-1 tvg-id="prime.hu" tvg-logo="https://go4.pw/HUNGARIAN/PRIME.png" group-title="EU | HUNGARIA",HU - PRIME HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906788.ts
+#EXTINF:-1 tvg-id="film4.hu" tvg-logo="https://go4.pw/EUROPE/UK/FILM4-1.png" group-title="EU | HUNGARIA",HU - FILM 4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906797.ts
+#EXTINF:-1 tvg-id="filmmania.hu" tvg-logo="https://go4.pw/HUNGARIAN/FILM MANIA.png" group-title="EU | HUNGARIA",HU - FILM MANIA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906798.ts
+#EXTINF:-1 tvg-id="filmcafe.hu" tvg-logo="https://go4.pw/EUROPE/ROMANIA/FILMCAFE.png" group-title="EU | HUNGARIA",HU - FILM CAFE FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906800.ts
+#EXTINF:-1 tvg-id="filmplus.hu" tvg-logo="https://go4.pw/HUNGARIAN/Film PLUS.png" group-title="EU | HUNGARIA",HU - Film PLUS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906801.ts
+#EXTINF:-1 tvg-id="cool.hu" tvg-logo="https://go4.pw/HUNGARIAN/_COOL.png" group-title="EU | HUNGARIA",HU - COOL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45203.ts
+#EXTINF:-1 tvg-id="axnblack.ro" tvg-logo="https://go4.pw/germany/axnb.png" group-title="EU | HUNGARIA",HU - AXN BLACK HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45218.ts
+#EXTINF:-1 tvg-id="axn.hu" tvg-logo="https://go4.pw/AMERICA/BRASIL/AXNHD.png" group-title="EU | HUNGARIA",HU - AXN RO
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45216.ts
+#EXTINF:-1 tvg-id="filmboxpremium.hu" tvg-logo="https://go4.pw/HUNGARIAN/FILMBOX PREMIUM.png" group-title="EU | HUNGARIA",HU - FILMBOX PREMIUM HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45210.ts
+#EXTINF:-1 tvg-id="sorozatplus.hu" tvg-logo="https://go4.pw/HUNGARIAN/SORAZAT_PLUS.png" group-title="EU | HUNGARIA",HU - SORAZAT PLUS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45201.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/FLAGS/flag_hungary.png" group-title="EU | HUNGARIA",##### HU - KIDS #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45200.ts
+#EXTINF:-1 tvg-id="tvpaprika.hu" tvg-logo="https://go4.pw/EUROPE/CZECH/TV-Paprika-1.png" group-title="EU | HUNGARIA",HU - TV PAPRIKA FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906793.ts
+#EXTINF:-1 tvg-id="nickjr.bg" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" group-title="EU | HUNGARIA",HU - NICK JR FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906805.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/HUNGARIAN/TV2HD.png" group-title="EU | HUNGARIA",HU - TV2 KIDS FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906780.ts
+#EXTINF:-1 tvg-id="nickelodeon.hu" tvg-logo="https://go4.pw/HUNGARIAN/NICKELODEON.png" group-title="EU | HUNGARIA",HU - NICKELODEON HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45193.ts
+#EXTINF:-1 tvg-id="minimax.hu" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/MINIMAX-1.png" group-title="EU | HUNGARIA",HU - MINIMAX HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45194.ts
+#EXTINF:-1 tvg-id="boomerang.hu" tvg-logo="https://go4.pw/HUNGARIAN/BOOMERANG.png" group-title="EU | HUNGARIA",HU - BOOMERANG HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45199.ts
+#EXTINF:-1 tvg-id="disneychannel.hu" tvg-logo="https://go4.pw/HUNGARIAN/DISNEYCHANNEL.png" group-title="EU | HUNGARIA",HU - DISNEY CHANNEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45197.ts
+#EXTINF:-1 tvg-id="disneyjunior.bg" tvg-logo="https://go4.pw/HUNGARIAN/DISNEYJUNIOR.png" group-title="EU | HUNGARIA",HU - DISNEY JUNIOR HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45196.ts
+#EXTINF:-1 tvg-id="ducktv.hu" tvg-logo="https://go4.pw/HUNGARIAN/DUCKTV.png" group-title="EU | HUNGARIA",HU - DUCK TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45195.ts
+#EXTINF:-1 tvg-id="izauratv.hu" tvg-logo="https://go4.pw/HUNGARIAN/IZAURA TV.png" group-title="EU | HUNGARIA",HU - IZAURA TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906778.ts
+#EXTINF:-1 tvg-id="jimjam.hu" tvg-logo="https://go4.pw/EXYU/jim_jam.png" group-title="EU | HUNGARIA",HU - JIMJAM HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906806.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/FLAGS/flag_hungary.png" group-title="EU | HUNGARIA",##### HU - SPORTS #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45192.ts
+#EXTINF:-1 tvg-id="eurosport1.hu" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EU | HUNGARIA",HU - EUROSPORT 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/224119.ts
+#EXTINF:-1 tvg-id="eurosport2.hu" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EU | HUNGARIA",HU - EUROSPORT 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/224120.ts
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-logo="https://go4.pw/HUNGARIAN/DIGISPORT1HD.png" group-title="EU | HUNGARIA",HU - DIGI SPORT 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45191.ts
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-logo="https://go4.pw/HUNGARIAN/DIGISPORT2.png" group-title="EU | HUNGARIA",HU - DIGI SPORT 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906807.ts
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-logo="https://go4.pw/HUNGARIAN/DIGISPORT3.png" group-title="EU | HUNGARIA",HU - DIGI SPORT 3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906808.ts
+#EXTINF:-1 tvg-id="sport1.hu" tvg-logo="https://go4.pw/HUNGARIAN/_sport1.png" group-title="EU | HUNGARIA",HU - SPORT 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45189.ts
+#EXTINF:-1 tvg-id="sport2.hu" tvg-logo="https://go4.pw/EUROPE/CZECH/SPORT2.png" group-title="EU | HUNGARIA",HU - SPORT 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45188.ts
+#EXTINF:-1 tvg-id="digisport3.hu" tvg-logo="https://go4.pw/HUNGARIAN/_NOVASPORT.png" group-title="EU | HUNGARIA",HU - NOVA SPORT FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/174904.ts
+#EXTINF:-1 tvg-id="spilertv.hu" tvg-logo="https://go4.pw/HUNGARIAN/_SPILER1.png" group-title="EU | HUNGARIA",HU - SPILER 1 TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/224122.ts
+#EXTINF:-1 tvg-id="spiler2.hu" tvg-logo="https://go4.pw/HUNGARIAN/_SPILER2.png" group-title="EU | HUNGARIA",HU - SPILER 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906792.ts
+#EXTINF:-1 tvg-id="jockytv.hu" tvg-logo="https://go4.pw/HUNGARIAN/JOCKY TV.png" group-title="EU | HUNGARIA",HU - JOCKY TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906779.ts
+#EXTINF:-1 tvg-id="extremesports.hu" tvg-logo="https://images.pluto.tv/channels/626be090c5340d00073773f9/colorLogoPNG.png" group-title="EU | HUNGARIA",HU - EXTREME SPORT HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906809.ts
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-logo="https://go4.pw/HUNGARIAN/DIGISPORT2.png" group-title="EU | HUNGARIA",HU - DIGI SPORT 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45190.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/FLAGS/flag_hungary.png" group-title="EU | HUNGARIA",##### HU - DOCUMETARY #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45185.ts
+#EXTINF:-1 tvg-id="historychannel.hu" tvg-logo="https://go4.pw/RUSSIA/historyHD.png" group-title="EU | HUNGARIA",HU - HISTORY FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906814.ts
+#EXTINF:-1 tvg-id="historychannel.hu" tvg-logo="https://go4.pw/HUNGARIAN/HISTORYHD.png" group-title="EU | HUNGARIA",HU - HISTORY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45175.ts
+#EXTINF:-1 tvg-id="natgeo.hu" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="EU | HUNGARIA",HU - NAT GEO HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906815.ts
+#EXTINF:-1 tvg-id="natgeowild.hu" tvg-logo="https://go4.pw/RUSSIA/NAT GEO WILD HD.png" group-title="EU | HUNGARIA",HU - NAT GEO WILD HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906816.ts
+#EXTINF:-1 tvg-id="animalplanet.hu" tvg-logo="https://go4.pw/AUSTRALIA/Animal_Planet.png" group-title="EU | HUNGARIA",HU - ANIMAL PLANET HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906810.ts
+#EXTINF:-1 tvg-id="discoveryscience.hu" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISCOVERYFHD.png" group-title="EU | HUNGARIA",HU - DISCOVERY SCIENCE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906813.ts
+#EXTINF:-1 tvg-id="discoverychannel.hu" tvg-logo="https://go4.pw/EUROPE/FRANCE/DISCOVERYFHD.png" group-title="EU | HUNGARIA",HU - DISCOVERY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45181.ts
+#EXTINF:-1 tvg-id="bbcearth.hu" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="EU | HUNGARIA",HU - BBC EARTH HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906811.ts
+#EXTINF:-1 tvg-id="ozonetv.hu" tvg-logo="https://go4.pw/HUNGARIAN/OZONE.png" group-title="EU | HUNGARIA",HU - OZONE NETWORK HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906786.ts
+#EXTINF:-1 tvg-id="spektrumhome.hu" tvg-logo="https://go4.pw/HUNGARIAN/_spektrumhome.png" group-title="EU | HUNGARIA",HU - SPEKTRUM HOME FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45240.ts
+#EXTINF:-1 tvg-id="spektrum.hu" tvg-logo="https://go4.pw/HUNGARIAN/_spektrum.png" group-title="EU | HUNGARIA",HU - SPEKTRUM HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906791.ts
+#EXTINF:-1 tvg-id="lifetv.hu" tvg-logo="https://go4.pw/ASIA/KURDISTAN/LifeTvlogo.png" group-title="EU | HUNGARIA",HU - LIFE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906781.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/ALBANIA/8.png" group-title="EU | HUNGARIA",HU - DTX FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906765.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/HUNGARIAN/LIFE NETWORK.png" group-title="EU | HUNGARIA",HU - LIFE NETWORK HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906782.ts
+#EXTINF:-1 tvg-id="cbsreality.hu" tvg-logo="https://go4.pw/HUNGARIAN/_CBSREALITY.png" group-title="EU | HUNGARIA",HU - CBS REALITY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45230.ts
+#EXTINF:-1 tvg-id="davincilearning.hu" tvg-logo="https://go4.pw/HUNGARIAN/_DAVINCILEARNING .png" group-title="EU | HUNGARIA",HU - DA VINCI LEARNING HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45228.ts
+#EXTINF:-1 tvg-id="fishinghunting.hu" tvg-logo="https://go4.pw/EUROPE/GREECE/FishingHuntinG.png" group-title="EU | HUNGARIA",HU - FISHING AND HUNTING FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45224.ts
+#EXTINF:-1 tvg-id="viasathistory.hu" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/VIASATHISTORY-1.png" group-title="EU | HUNGARIA",HU - VIASAT HISTORY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/906817.ts
+#EXTINF:-1 tvg-id="digiworld.ro" tvg-logo="https://go4.pw/HUNGARIAN/DIGI World.png" group-title="EU | HUNGARIA",HU - DIGI WORLD HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45211.ts
+#EXTINF:-1 tvg-id="digianimalworld.ro" tvg-logo="https://go4.pw/HUNGARIAN/DIGI ANIMAL WORLD.png" group-title="EU | HUNGARIA",HU - DIGI ANIMAL WORLD FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45176.ts
+#EXTINF:-1 tvg-id="tlc.hu" tvg-logo="https://go4.pw/HUNGARIAN/TLC.png" group-title="EU | HUNGARIA",HU - TLC HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45236.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/FLAGS/flag_hungary.png" group-title="EU | HUNGARIA",##### HU - MUSIC #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/45187.ts
