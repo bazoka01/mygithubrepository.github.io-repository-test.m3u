@@ -1,0 +1,423 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/south.png" group-title="AF | SOUTH AFRICA",##### SOUTH AFRICA - GENERAL #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108832.ts
+#EXTINF:-1 tvg-id="etoonz.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/e_Toonz+.png" group-title="AF | SOUTH AFRICA",SAF - ETOONZ FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324762.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/NAIJA.png" group-title="AF | SOUTH AFRICA",SAF - BIG BROTHER NAIJA FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1142938.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/TURK.png" group-title="AF | SOUTH AFRICA",SAF - AFRO TURK TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108838.ts
+#EXTINF:-1 tvg-id="aljazeera.za" tvg-logo="https://go4.pw/AFRICA/ALJAZIRA.png" group-title="AF | SOUTH AFRICA",SAF - AL JAZEERA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108843.ts
+#EXTINF:-1 tvg-id="bloomberg.za" tvg-logo="https://go4.pw/AFRICA/BLOOMBREG.png" group-title="AF | SOUTH AFRICA",SAF - BLOOMBERG HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108866.ts
+#EXTINF:-1 tvg-id="bbcbrit.za" tvg-logo="https://go4.pw/AMERICA/USA/BBC.png" group-title="AF | SOUTH AFRICA",SAF - BBC BRIT HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324755.ts
+#EXTINF:-1 tvg-id="bbclifestyle.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="AF | SOUTH AFRICA",SAF - BBC LIFESTYLE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324756.ts
+#EXTINF:-1 tvg-id="bbcearth.za" tvg-logo="https://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="AF | SOUTH AFRICA",SAF - BBC EARTH HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324747.ts
+#EXTINF:-1 tvg-id="cgtnnews.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/CGTN-AFRICA.png" group-title="AF | SOUTH AFRICA",SAF - CGTN AFRICA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108841.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/CGTN_Documentary.png" group-title="AF | SOUTH AFRICA",SAF - CGTN DOCUMENTARY
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/835421.ts
+#EXTINF:-1 tvg-id="cnninternational.za" tvg-logo="https://go4.pw/LATINO/MEXICO/CNN_International.png" group-title="AF | SOUTH AFRICA",SAF - CNN INTERNATIONAL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108844.ts
+#EXTINF:-1 tvg-id="cctv4.za" tvg-logo="https://go4.pw/AFRICA/NEGIRIA/_CCTV 4.png" group-title="AF | SOUTH AFRICA",SAF - CCTV 4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324760.ts
+#EXTINF:-1 tvg-id="comedycentral.za" tvg-logo="https://go4.pw/EUROPE/SPAIN/comedycentralhd.png" group-title="AF | SOUTH AFRICA",SAF - COMEDY CENTRAL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108859.ts
+#EXTINF:-1 tvg-id="cbsjustice.za" tvg-logo="https://go4.pw/AFRICA/CBSJUSTICE.png" group-title="AF | SOUTH AFRICA",SAF - CBS JUSTICE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108864.ts
+#EXTINF:-1 tvg-id="travelchannel.za" tvg-logo="https://go4.pw/EUROPE/PORTUGAL/TRAVELCHANNELHD.png" group-title="AF | SOUTH AFRICA",SAF - TRAVEL CHANNEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138254.ts
+#EXTINF:-1 tvg-id="thehomechannel.za" tvg-logo="https://go4.pw/AFRICA/THEHOME.png" group-title="AF | SOUTH AFRICA",SAF - THE HOME CHANNEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138270.ts
+#EXTINF:-1 tvg-id="eentertainment.za" tvg-logo="https://go4.pw/USA/E! ENTERTAINMENT.png" group-title="AF | SOUTH AFRICA",SAF - E! ENTERTAINMENT TELEVISION HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108861.ts
+#EXTINF:-1 tvg-id="kyknet.za" tvg-logo="https://go4.pw/AFRICA/KYK.png" group-title="AF | SOUTH AFRICA",SAF - KYKNET HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/326168.ts
+#EXTINF:-1 tvg-id="kyknetkie.za" tvg-logo="https://go4.pw/AFRICA/k&kie.png" group-title="AF | SOUTH AFRICA",SAF - KYKNET & KIE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/514606.ts
+#EXTINF:-1 tvg-id="mzansimagic.za" tvg-logo="https://go4.pw/Africa/MZANSI.png" group-title="AF | SOUTH AFRICA",SAF - MZANSI MAGIC HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/326567.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/Africa/MZANSI.png" group-title="AF | SOUTH AFRICA",SAF -  MZANSI WETHU HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/326568.ts
+#EXTINF:-1 tvg-id="mzansibioskop.za" tvg-logo="https://go4.pw/Africa/MZANSI.png" group-title="AF | SOUTH AFRICA",SAF - MZANSI BIOSKOP HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/326569.ts
+#EXTINF:-1 tvg-id="natgeo.za" tvg-logo="https://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" group-title="AF | SOUTH AFRICA",SAF - NATIONAL GEOGRAPHIC HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108851.ts
+#EXTINF:-1 tvg-id="natgeowild.za" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NATGEOWILD-1.png" group-title="AF | SOUTH AFRICA",SAF - NATIONAL GEOGRAPHIC WILD HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108852.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/usa/22.png" group-title="AF | SOUTH AFRICA",SAF - WILD EARTH HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138255.ts
+#EXTINF:-1 tvg-id="sabc1.za" tvg-logo="https://go4.pw/AFRICA/Uganda/SABC-1.png" group-title="AF | SOUTH AFRICA",SAF - SABC 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/178485.ts
+#EXTINF:-1 tvg-id="sabc2.za" tvg-logo="https://go4.pw/AFRICA/Uganda/SABC-2.png" group-title="AF | SOUTH AFRICA",SAF - SABC 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/178486.ts
+#EXTINF:-1 tvg-id="sabc3.za" tvg-logo="https://go4.pw/AFRICA/Uganda/SABC-3.png" group-title="AF | SOUTH AFRICA",SAF - SABC 3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/178487.ts
+#EXTINF:-1 tvg-id="sabcnews.za" tvg-logo="https://go4.pw/AFRICA/SABCNEWS.png" group-title="AF | SOUTH AFRICA",SAF - SABC NEWS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/109905.ts
+#EXTINF:-1 tvg-id="playroom.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/PLAY-ROOM.png" group-title="AF | SOUTH AFRICA",SAF - PLAYROOM HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/957771.ts
+#EXTINF:-1 tvg-id="parliamentaryservice.za" tvg-logo="https://go4.pw/AFRICA/PEOPLE.png" group-title="AF | SOUTH AFRICA",SAF - PARLIAMENTARY SERVICE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138303.ts
+#EXTINF:-1 tvg-id="russiatoday.za" tvg-logo="https://go4.pw/AFRICA/RTTV.png" group-title="AF | SOUTH AFRICA",SAF - RUSSIA TODAY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324752.ts
+#EXTINF:-1 tvg-id="switchdonchannel109.za" tvg-logo="https://go4.pw/Africa/switch.png" group-title="AF | SOUTH AFRICA",SAF - SWITCH'D ON CHANNEL 109 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/957772.ts
+#EXTINF:-1 tvg-id="rok.za" tvg-logo="https://go4.pw/AFRICA/ROK TV.png" group-title="AF | SOUTH AFRICA",SAF - ROK SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138293.ts
+#EXTINF:-1 tvg-id="mindset.za" tvg-logo="https://go4.pw/AFRICA/MINDSET.png" group-title="AF | SOUTH AFRICA",SAF - MINDSET HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138294.ts
+#EXTINF:-1 tvg-id="newzroom.za" tvg-logo="https://go4.pw/AFRICA/NEWZROOM AFRIKA.png" group-title="AF | SOUTH AFRICA",SAF - NEWZROOM AFRIKA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138304.ts
+#EXTINF:-1 tvg-id="hgtv.za" tvg-logo="https://go4.pw/germany/HGTV.png" group-title="AF | SOUTH AFRICA",SAF - HGTV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138307.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/NEGIRIA/ARISE_NEWS.png" group-title="AF | SOUTH AFRICA",SAF - ARISE NEWS SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138298.ts
+#EXTINF:-1 tvg-id="discoveryid.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/id.png" group-title="AF | SOUTH AFRICA",SAF - INVESTIGATION DISCOVERY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/957770.ts
+#EXTINF:-1 tvg-id="foodnetwork.za" tvg-logo="https://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="AF | SOUTH AFRICA",SAF - FOOD NETWORK HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108849.ts
+#EXTINF:-1 tvg-id="universalchannel.za" tvg-logo="https://go4.pw/EUROPE/UK/UNIVERSAL.png" group-title="AF | SOUTH AFRICA",SAF - UNIVERSAL TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108858.ts
+#EXTINF:-1 tvg-id="supersportwwe.za" tvg-logo="https://go4.pw/AMERICA/USA/WWE.png" group-title="AF | SOUTH AFRICA",SAF - WWE CHANNEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108847.ts
+#EXTINF:-1 tvg-id="tbn.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/TBN.png" group-title="AF | SOUTH AFRICA",SAF - TBN HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108937.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/REALTIME.png" group-title="AF | SOUTH AFRICA",SAF - REAL TIME HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108857.ts
+#EXTINF:-1 tvg-id="businessdaytv.za" tvg-logo="https://go4.pw/AFRICA/BUSINESS.png" group-title="AF | SOUTH AFRICA",SAF - BUSINESS DAY TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138268.ts
+#EXTINF:-1 tvg-id="discoveryfamily.za" tvg-logo="https://go4.pw/AFRICA/CANAL+/Discovery-Channel.png" group-title="AF | SOUTH AFRICA",SAF - DISCOVERY FAMILY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138282.ts
+#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-logo="https://go4.pw/LATINO/MEXICO/Deutsche_Welle.png" group-title="AF | SOUTH AFRICA",SAF - DW TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324757.ts
+#EXTINF:-1 tvg-id="via.za" tvg-logo="https://go4.pw/AFRICA/VIA.png" group-title="AF | SOUTH AFRICA",SAF -  VIA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1135014.ts
+#EXTINF:-1 tvg-id="russiatoday.za" tvg-logo="https://go4.pw/AFRICA/RTTV.png" group-title="AF | SOUTH AFRICA",SAF -  RUSSIA TODAY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/498913.ts
+#EXTINF:-1 tvg-id="discoverychannel.za" tvg-logo="https://go4.pw/ASIA/MALAYSIA/discovery_asia.png" group-title="AF | SOUTH AFRICA",SAF - DISCOVERY CHANNEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324745.ts
+#EXTINF:-1 tvg-id="tlcentertainment.za" tvg-logo="https://go4.pw/EUROPE/FRANCE/TLC.png" group-title="AF | SOUTH AFRICA",SAF - TLC ENTERTAINMENT HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108855.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/ZBC 2.png" group-title="AF | SOUTH AFRICA",SAF -  ZBC 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1055561.ts
+#EXTINF:-1 tvg-id="ignition.za" tvg-logo="https://go4.pw/AFRICA/IGNITION.png" group-title="AF | SOUTH AFRICA",SAF - IGNITION HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138264.ts
+#EXTINF:-1 tvg-id="cbsreality.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/cbs-reality.png" group-title="AF | SOUTH AFRICA",SAF - CBS REALITY SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108854.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/africatv.png" group-title="AF | SOUTH AFRICA",SAF - AFRICA TV1 SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108833.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/AFRICA2.png" group-title="AF | SOUTH AFRICA",SAF - AFRICA TV2 SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108834.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/A24.png" group-title="AF | SOUTH AFRICA",SAF - AFRICA24 SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/128824.ts
+#EXTINF:-1 tvg-id="spicetv.za" tvg-logo="https://go4.pw/AFRICA/SPICE.png" group-title="AF | SOUTH AFRICA",SAF - SPICE TV SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138257.ts
+#EXTINF:-1 tvg-id="lesothotv.za" tvg-logo="https://go4.pw/AFRICA/LESOTHO.png" group-title="AF | SOUTH AFRICA",SAF - LESOTHO TV SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138263.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/EUROPE/SWEDEN/ENCA.png" group-title="AF | SOUTH AFRICA",SAF - ENCA  SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/308525.ts
+#EXTINF:-1 tvg-id="capetowntv.za" tvg-logo="https://go4.pw/AFRICA/CAP.png" group-title="AF | SOUTH AFRICA",SAF - CAPE TOWN TV SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324758.ts
+#EXTINF:-1 tvg-id="kyknetnou.za" tvg-logo="https://go4.pw/AFRICA/NOU.png" group-title="AF | SOUTH AFRICA",SAF - KYKNET NOU! HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/514608.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/Rai_Italia.png" group-title="AF | SOUTH AFRICA",SAF - RAI ITALIA SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/835429.ts
+#EXTINF:-1 tvg-id="nhk.za" tvg-logo="https://go4.pw/AFRICA/NHK.png" group-title="AF | SOUTH AFRICA",SAF - NHK SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/957774.ts
+#EXTINF:-1 tvg-id="history.za" tvg-logo="https://go4.pw/NIGERIA/HISTORY.png" group-title="AF | SOUTH AFRICA",SAF - HISTORY SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324749.ts
+#EXTINF:-1 tvg-id="1kzn.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/kzn.png" group-title="AF | SOUTH AFRICA",SAF - 1 KZN SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324754.ts
+#EXTINF:-1 tvg-id="gautv.za" tvg-logo="https://go4.pw/AFRICA/GAUTV.png" group-title="AF | SOUTH AFRICA",SAF - GAUTV  SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138262.ts
+#EXTINF:-1 tvg-id="curiositystream.za" tvg-logo="https://go4.pw/AFRICA/Uganda/CURIOSITY-STREAM.png" group-title="AF | SOUTH AFRICA",SAF - CURIOSITY CHANNEL
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324748.ts
+#EXTINF:-1 tvg-id="daystar.za" tvg-logo="https://go4.pw/AFRICA/DAYSTAR.png" group-title="AF | SOUTH AFRICA",SAF - DAYSTAR
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108940.ts
+#EXTINF:-1 tvg-id="mpumakapa.za" tvg-logo="https://go4.pw/Africa/mpuma.png" group-title="AF | SOUTH AFRICA",SAF - MPUMA KAPA TV
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324768.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/INXPRIME.png" group-title="AF | SOUTH AFRICA",SAF - INX PRIME
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324769.ts
+#EXTINF:-1 tvg-id="fashionone.za" tvg-logo="https://go4.pw/EUROPE/NEDERLAND/Fashion_TV.png" group-title="AF | SOUTH AFRICA",SAF - FASHION ONE
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108850.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/south.png" group-title="AF | SOUTH AFRICA",##### SOUTH AFRICA - MOVIES #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108867.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SHOWMAX.png" group-title="AF | SOUTH AFRICA",SAF -  SHOWMAX MOVIES FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/937870.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/AFRICAMAGIC SHOWCASE.png" group-title="AF | SOUTH AFRICA",SAF - AFRICA MAGIC SHOWCASE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138266.ts
+#EXTINF:-1 tvg-id="africamagicepic.za" tvg-logo="https://go4.pw/AFRICA/AFRICAMAGIC.png" group-title="AF | SOUTH AFRICA",SAF - AFRICA MAGIC EPIC HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138299.ts
+#EXTINF:-1 tvg-id="africamagicfamily.za" tvg-logo="https://go4.pw/AFRICA/AFRICAMAGICFAMILY.png" group-title="AF | SOUTH AFRICA",SAF - AFRICA MAGIC FAMILY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138269.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/YORUBA.png" group-title="AF | SOUTH AFRICA",SAF - AFRICA MAGIC YORUBA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163506.ts
+#EXTINF:-1 tvg-id="mnet.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/MNetLogo.png" group-title="AF | SOUTH AFRICA",SAF - M-NET HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108880.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/MNetLogo.png" group-title="AF | SOUTH AFRICA",SAF - M-NET 1MAGIC HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108869.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/MNetLogo.png" group-title="AF | SOUTH AFRICA",SAF - M-NET MOVIES HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1466988.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/MNetLogo.png" group-title="AF | SOUTH AFRICA",SAF - M-NET MOVIES 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1128746.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/MNetLogo.png" group-title="AF | SOUTH AFRICA",SAF - M-NET MOVIES 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108878.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/MNetLogo.png" group-title="AF | SOUTH AFRICA",SAF - M-NET MOVIES 3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108876.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/MNetLogo.png" group-title="AF | SOUTH AFRICA",SAF - M-NET MOVIES 4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108870.ts
+#EXTINF:-1 tvg-id="bet.za" tvg-logo="https://go4.pw/CANADA/Bet.png" group-title="AF | SOUTH AFRICA",SAF - BET HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138309.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/Canal+_Premium.png" group-title="AF | SOUTH AFRICA",SAF - CANAL+ PREMIERE CENTRE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/849417.ts
+#EXTINF:-1 tvg-id="movieroom.za" tvg-logo="https://go4.pw/AFRICA/MOVIEROOM.png" group-title="AF | SOUTH AFRICA",SAF - MOVIEROOM HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138278.ts
+#EXTINF:-1 tvg-id="emovies.za" tvg-logo="https://go4.pw/AFRICA/EMOVIES.png" group-title="AF | SOUTH AFRICA",SAF - EMOVIES HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138279.ts
+#EXTINF:-1 tvg-id="emoviesextra.za" tvg-logo="https://go4.pw/AFRICA/EMOVIES EXTRA.png" group-title="AF | SOUTH AFRICA",SAF - EMOVIES EXTRA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138280.ts
+#EXTINF:-1 tvg-id="etvextra.za" tvg-logo="https://go4.pw/AFRICA/E.TV EXTRA.png" group-title="AF | SOUTH AFRICA",SAF - E.TV EXTRA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138281.ts
+#EXTINF:-1 tvg-id="zeezonke.za" tvg-logo="https://go4.pw/ICELAND/ZEEZONKE .png" group-title="AF | SOUTH AFRICA",SAF - ZEE ZONKE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/957773.ts
+#EXTINF:-1 tvg-id="zeeworld.za" tvg-logo="https://go4.pw/AFRICA/zee_world.png" group-title="AF | SOUTH AFRICA",SAF - ZEE WORLD HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/328706.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/NINA.png" group-title="AF | SOUTH AFRICA",SAF -  NINA TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1055562.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SINEMA.png" group-title="AF | SOUTH AFRICA",SAF -  SINEMA ZETU HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1055560.ts
+#EXTINF:-1 tvg-id="starlife.za" tvg-logo="https://go4.pw/AFRICA/STAR LIFE.png" group-title="AF | SOUTH AFRICA",SAF - STAR LIFE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138301.ts
+#EXTINF:-1 tvg-id="tbn.za" tvg-logo="https://go4.pw/NIGERIA/TBN_AFRICA.png" group-title="AF | SOUTH AFRICA",SAF - TBN AFRICA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138292.ts
+#EXTINF:-1 tvg-id="tnt.za" tvg-logo="https://go4.pw/USA/SD/42.png" group-title="AF | SOUTH AFRICA",SAF - TNT AFRICA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108881.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/ENTERTAINMENT.png" group-title="AF | SOUTH AFRICA",SAF -  SONY ENTERTAINMENT SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1055563.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/ASIA/INDIA/SONYMAX.png" group-title="AF | SOUTH AFRICA",SAF -  SONY MAX SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1055565.ts
+#EXTINF:-1 tvg-id="tlnovelas.za" tvg-logo="https://go4.pw/AFRICA/TLNOVELAS.png" group-title="AF | SOUTH AFRICA",SAF - TLNOVELAS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138290.ts
+#EXTINF:-1 tvg-id="telemundonglish.za" tvg-logo="https://go4.pw/NIGERIA/TELEMUNDO.png" group-title="AF | SOUTH AFRICA",SAF - TELEMUNDO SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138291.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/Africa/FLIEKNET.png" group-title="AF | SOUTH AFRICA",SAF - FLIEKNET
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324743.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/south.png" group-title="AF | SOUTH AFRICA",##### SOUTH AFRICA - KIDS #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108882.ts
+#EXTINF:-1 tvg-id="boomerang.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/Boomerang.png" group-title="AF | SOUTH AFRICA",SAF - BOOMERANG FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108885.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.za" tvg-logo="https://go4.pw/BEIN/BEINCARTONNETWORK-1.png" group-title="AF | SOUTH AFRICA",SAF - CARTOON NETWORK FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108884.ts
+#EXTINF:-1 tvg-id="cartoonito.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/cartoonito.png" group-title="AF | SOUTH AFRICA",SAF - CARTOONITO HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/957769.ts
+#EXTINF:-1 tvg-id="cbeebies.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/CBeebies.png" group-title="AF | SOUTH AFRICA",SAF - CBEEBIES FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324759.ts
+#EXTINF:-1 tvg-id="disneychannel.za" tvg-logo="https://go4.pw/EUROPE/SPAIN/DISNEYHD.png" group-title="AF | SOUTH AFRICA",SAF - DISNEY CHANNEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108886.ts
+#EXTINF:-1 tvg-id="disneyjunior.za" tvg-logo="https://go4.pw/EUROPE/SPAIN/DISNEYJR.png" group-title="AF | SOUTH AFRICA",SAF - DISNEY JUNIOR FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108891.ts
+#EXTINF:-1 tvg-id="jimjam.za" tvg-logo="https://go4.pw/EXYU/jim_jam.png" group-title="AF | SOUTH AFRICA",SAF - JIMJAM FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108892.ts
+#EXTINF:-1 tvg-id="nickelodeon.za" tvg-logo="https://go4.pw/FINLAND/Nickelodeon.png" group-title="AF | SOUTH AFRICA",SAF - NICKELODEON FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108888.ts
+#EXTINF:-1 tvg-id="nickjr.za" tvg-logo="https://go4.pw/EUROPE/EXYU/EXYO/NICKJRHR-1.png" group-title="AF | SOUTH AFRICA",SAF - NICK JR FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108889.ts
+#EXTINF:-1 tvg-id="nicktoons.za" tvg-logo="https://go4.pw/germany/Nicktoons.png" group-title="AF | SOUTH AFRICA",SAF - NICKTOONS SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108890.ts
+#EXTINF:-1 tvg-id="pbskids.za" tvg-logo="https://go4.pw/NIGERIA/PBS_KIDS.png" group-title="AF | SOUTH AFRICA",SAF - PBS KIDS FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108893.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SHOWMAX.png" group-title="AF | SOUTH AFRICA",SAF -  SHOWMAX KIDS FHD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/937871.ts
+#EXTINF:-1 tvg-id="studiouniversal.za" tvg-logo="https://go4.pw/Mexico/studio.png" group-title="AF | SOUTH AFRICA",SAF - STUDIO UNIVERSAL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138300.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://images.pluto.tv/channels/6239cfd6530d0100086a9930/colorLogoPNG.png" group-title="AF | SOUTH AFRICA",SAF - MOONBUG KIDS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324765.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/FIX.png" group-title="AF | SOUTH AFRICA",SAF -  FIX & FOXI SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1055564.ts
+#EXTINF:-1 tvg-id="dreamworks.za" tvg-logo="https://go4.pw/AFRICA/DREAMWORKS.png" group-title="AF | SOUTH AFRICA",SAF - DREAMWORKS SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324751.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/south.png" group-title="AF | SOUTH AFRICA",##### SOUTH AFRICA - SPORT #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108897.ts
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT ACTION HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/429030.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF -  SUPERSPORT AFRICA 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1092560.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT AFRICA 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1092561.ts
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT BLITZ HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108912.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT CRICKET HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108908.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT FOOTBALL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108902.ts
+#EXTINF:-1 tvg-id="1kzn.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT FOOTBALL PLUS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108905.ts
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT GRANDSTAND HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/326562.ts
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT GOLF HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108909.ts
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT LA LIGA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108904.ts
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT MOTOSPORT HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108910.ts
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT MAXIMO 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108913.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT MAXIMO 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/922632.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT PREMIER LEAGUE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108903.ts
+#EXTINF:-1 tvg-id="supersportplay.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT PLAY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108914.ts
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT RUGBY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108907.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT TENNIS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108906.ts
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT VARIETY 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108898.ts
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT VARIETY 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108899.ts
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT VARIETY 3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108900.ts
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT VARIETY 4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108901.ts
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://go4.pw/AFRICA/SUPERSPORT1.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORT VARIETY HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324772.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/SS_OLYMPICS.png" group-title="AF | SOUTH AFRICA",SAF - SUPERSPORTS OLYMPICS 5 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/956246.ts
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-logo="https://go4.pw/AFRICA/SS VARIETY 1.png" group-title="AF | SOUTH AFRICA",SAF - SS VARIETY 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138284.ts
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-logo="https://go4.pw/AFRICA/SS VARIETY 2.png" group-title="AF | SOUTH AFRICA",SAF - SS VARIETY 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138310.ts
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-logo="https://go4.pw/AFRICA/SS VARIETY3.png" group-title="AF | SOUTH AFRICA",SAF - SS VARIETY 3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138271.ts
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-logo="https://go4.pw/AFRICA/SS VARIETY4.png" group-title="AF | SOUTH AFRICA",SAF - SS VARIETY 4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138272.ts
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-logo="https://go4.pw/AFRICA/SS PSL.png" group-title="AF | SOUTH AFRICA",SAF - SS PSL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138274.ts
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-logo="https://go4.pw/AFRICA/SS TENNIS.png" group-title="AF | SOUTH AFRICA",SAF - SS TENNIS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138285.ts
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-logo="https://go4.pw/NIGERIA/SS_GRANDSTAND.png" group-title="AF | SOUTH AFRICA",SAF - SS GRANDSTAND HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138311.ts
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-logo="https://go4.pw/AFRICA/SS CRICKET.png" group-title="AF | SOUTH AFRICA",SAF - SS CRICKET HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138287.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-logo="https://go4.pw/AFRICA/SS FOOTBALL.png" group-title="AF | SOUTH AFRICA",SAF - SS FOOTBALL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138302.ts
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-logo="https://go4.pw/AFRICA/SS LA LIGA.png" group-title="AF | SOUTH AFRICA",SAF - SS LA LIGA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138275.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-logo="https://go4.pw/AFRICA/SS PREMIER LEAGUE.png" group-title="AF | SOUTH AFRICA",SAF - SS PREMIER LEAGUE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138276.ts
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-logo="https://go4.pw/AFRICA/SS MOTORSPORT.png" group-title="AF | SOUTH AFRICA",SAF - SS MOTORSPORT HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138288.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SSEVENTS.png" group-title="AF | SOUTH AFRICA",SAF - SS EVENTS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138256.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SS SCHOOLS.png" group-title="AF | SOUTH AFRICA",SAF - SS SCHOOLS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138273.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/sabcsport.png" group-title="AF | SOUTH AFRICA",SAF -  SABC SPORTS HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1015532.ts
+#EXTINF:-1 tvg-id="espn.za" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png" group-title="AF | SOUTH AFRICA",SAF - ESPN HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1128147.ts
+#EXTINF:-1 tvg-id="espn2.za" tvg-logo="https://go4.pw/NIGERIA/ESPN2.png" group-title="AF | SOUTH AFRICA",SAF - ESPN2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138308.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/RACING.png" group-title="AF | SOUTH AFRICA",SAF - RACING 240 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324771.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/south.png" group-title="AF | SOUTH AFRICA",##### SOUTH AFRICA - MUSIC #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108915.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/AFRO.png" group-title="AF | SOUTH AFRICA",SAF - AFRO MUSIC TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121599.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/BBLACK.png" group-title="AF | SOUTH AFRICA",SAF - BBLACK AFRICA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121593.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/BBLACK.png" group-title="AF | SOUTH AFRICA",SAF - BBLACK CARRABEAN HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121594.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/BBLACK.png" group-title="AF | SOUTH AFRICA",SAF - BBLACK CLASSIK HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121595.ts
+#EXTINF:-1 tvg-id="mzansimagicmusic.za" tvg-logo="https://go4.pw/Africa/MZANSI.png" group-title="AF | SOUTH AFRICA",SAF - MZANSI MAGIC MUSIC HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/326566.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/TRACE.png" group-title="AF | SOUTH AFRICA",SAF - TRACE KITOKO HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108916.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/logo_toca2.png" group-title="AF | SOUTH AFRICA",SAF - TRACE TOCA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108917.ts
+#EXTINF:-1 tvg-id="traceafrica.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/trace%20africa-1.png" group-title="AF | SOUTH AFRICA",SAF - TRACE AFRICA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121554.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/gospel-.png" group-title="AF | SOUTH AFRICA",SAF - TRACE GOSPEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121555.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/Trace_Mziki.png" group-title="AF | SOUTH AFRICA",SAF - TRACE MIZKI HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121556.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/NIGERIA/TRACE_MZIKI.png" group-title="AF | SOUTH AFRICA",SAF - TRACE MZIKI HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1055566.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/Trace_Naija.png" group-title="AF | SOUTH AFRICA",SAF - TRACE NAIJA HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121557.ts
+#EXTINF:-1 tvg-id="traceurban.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/Trace_Urban.png" group-title="AF | SOUTH AFRICA",SAF - TRACE URBAN HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121558.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/trace-tropical.png" group-title="AF | SOUTH AFRICA",SAF - TRACE TROPICAL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121590.ts
+#EXTINF:-1 tvg-id="qwesttv.za" tvg-logo="https://go4.pw/AUSTRALIA/QWEST_TV.png" group-title="AF | SOUTH AFRICA",SAF - QWEST TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138296.ts
+#EXTINF:-1 tvg-id="channelo.za" tvg-logo="https://go4.pw/RUSSIA/CHANNELONE.png" group-title="AF | SOUTH AFRICA",SAF - CHANNEL O HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138283.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/DBM.png" group-title="AF | SOUTH AFRICA",SAF - DIGITAL BLACK MUSIC HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121592.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/TVM3.png" group-title="AF | SOUTH AFRICA",SAF - TVM3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121597.ts
+#EXTINF:-1 tvg-id="dumisa.za" tvg-logo="https://go4.pw/AFRICA/DUMISA.png" group-title="AF | SOUTH AFRICA",SAF - DUMISA SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138265.ts
+#EXTINF:-1 tvg-id="1kzn.za" tvg-logo="https://go4.pw/AFRICA/SOWETO.png" group-title="AF | SOUTH AFRICA",SAF - SOWETO TV SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138258.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/AFRO.png" group-title="AF | SOUTH AFRICA",SAF - AFRO MUSIC POP SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108924.ts
+#EXTINF:-1 tvg-id="tshwanetv.za" tvg-logo="https://go4.pw/AFRICA/TSHWANE.png" group-title="AF | SOUTH AFRICA",SAF - TSHWANE TV SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138253.ts
+#EXTINF:-1 tvg-id="onegospel.za" tvg-logo="https://go4.pw/AFRICA/ONEGOSPEL.png" group-title="AF | SOUTH AFRICA",SAF - ONE GOSPEL SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138261.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/LV.png" group-title="AF | SOUTH AFRICA",SAF - LV TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/121602.ts
+#EXTINF:-1 tvg-id="mechannel.za" tvg-logo="https://go4.pw/Africa/Me.png" group-title="AF | SOUTH AFRICA",SAF - ME
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324767.ts
+#EXTINF:-1 tvg-id="soundcity.za" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/SOUNDCITY_AFRICA.png" group-title="AF | SOUTH AFRICA",SAF - SOUNDCITY SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108925.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/south.png" group-title="AF | SOUTH AFRICA",##### SOUTH AFRICA - RELIGIOUS #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108929.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/NEGIRIA/faith.png" group-title="AF | SOUTH AFRICA",SAF - FAITH  HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108934.ts
+#EXTINF:-1 tvg-id="faith.za" tvg-logo="https://go4.pw/AFRICA/NEGIRIA/faith.png" group-title="AF | SOUTH AFRICA",SAF - FAITH TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108935.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/islm-tv.png" group-title="AF | SOUTH AFRICA",SAF - ISLAM CHANNEL HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/108938.ts
+#EXTINF:-1 tvg-id="mojalove.za" tvg-logo="https://go4.pw/AFRICA/MOJALOVE.png" group-title="AF | SOUTH AFRICA",SAF - MOJALOVE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1138306.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/SOUTH-AFRICA/hilal.png" group-title="AF | SOUTH AFRICA",SAF - HILAAL TV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/324753.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/south.png" group-title="AF | SOUTH AFRICA",##### SOUTH AFRICA - AZAM #####
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163143.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/ONE.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | ONE HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/942367.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/TWO.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | TWO HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/942368.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/TANZANIA/azam-sport.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | SPORTS 1 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/942369.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/TANZANIA/azam-sport2.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | SPORTS 2 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/835393.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/TANZANIA/azam-sport.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | SPORTS 3 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/835394.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/AZAM.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | SPORT 4 HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163158.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/Africa/UTV.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | UTV HD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163162.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/ARMENIA/HORIZON TV.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | HORIZON TV SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163144.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/ASIA/4-4.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | CHANNEL 44 SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163145.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/TURKIYE/NTV.png" group-title="AF | SOUTH AFRICA",SAF - AZAM  |NTV UGANDA SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163149.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/TURKIYE/NTV.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | NTV KENYA SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163150.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | FOODIES SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163152.ts
+#EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AFRICA/ARISE.png" group-title="AF | SOUTH AFRICA",SAF - AZAM | ARISE AND SHINE SD
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1163153.ts
+#EXTINF:-1 tvg-id="zeezonke.za" tvg-logo="https://go4.pw/ICELAND/ZEEZONKE .png" group-title="AF | SOUTH AFRICA",SAF - ZEE ZONKE
+http://tv-16ksnd013579.com:80/live/JTRNLRNP9LBR43C/1xC9Aqn6LL/1291303.ts
