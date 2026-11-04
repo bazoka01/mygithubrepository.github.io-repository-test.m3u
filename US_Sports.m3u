@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://tv-16ksnd013579.com:80/xmltv.php?username=C2F4094734F7495&password=MvFZY0lLmM"
+#EXTM3U 
 #EXTINF:-1 tvg-id="(nincs id)" tvg-logo="https://go4.pw/AMERICA/USA/USA.png" group-title="AM | USA | SPORTS",##### US - SPORTS #####
 http://tv-16ksnd013579.com:80/live/C2F4094734F7495/MvFZY0lLmM/70259.ts
 #EXTINF:-1 tvg-id="espnnews.us" tvg-logo="https://go4.pw/USA/espnnn.png" group-title="AM | USA | SPORTS",US - ESPN NEWS HD ◉
