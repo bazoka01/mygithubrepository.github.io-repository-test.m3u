@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz"
+#EXTM3U 
 #EXTINF:-1 tvg-id="TVP.Info.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvpinfo.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVP INFO HEVC
 http://ztv01.info:8080/play/live.php?mac=00:1A:79:13:59:6D&stream=796901&extension=ts
 #EXTINF:-1 tvg-id="TVP.HD.pl" tvg-logo="https://www.logolarimiz.com/logo/PolandPlayNowLogo/tvp.Playnow.png" group-title="PL ✨ POLSKA HEVC",↺TVP HEVC
