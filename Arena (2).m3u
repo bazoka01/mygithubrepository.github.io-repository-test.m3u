@@ -83,3 +83,5 @@ http://ip365.cx:80/live/MAGWQAR2Y5W/ML657LUH/1426547.ts
 http://ip365.cx:80/live/MAGWQAR2Y5W/ML657LUH/1426548.ts
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/arena-3-premium-icon-rs.png?raw=true" tvg-name="ARENA M3 PREMIUM FHD MKD" group-title="🏆 ARENA 🏆 " tvg-id="ArenaPremium3.mk",ARENA M3 PREMIUM FHD MKD ✅
 http://ip365.cx:80/live/MAGWQAR2Y5W/ML657LUH/1426549.ts
+#EXTINF:-1 tvg-id="ArenaTenis.rs" tvg-name="ARENA TENIS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Arena_Tenis_%282025%29.png/revision/latest?cb=20260203123422" group-title="🏆 ARENA 🏆 ",ARENA TENIS RS
+http://ip365.cx:80/live/MAGWQAR2Y5W/ML657LUH/1205715.ts
