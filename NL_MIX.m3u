@@ -1,233 +1,269 @@
-#EXTM3U url-tvg="https://iptv-epg.org/files/epg-nl.xml"
-#EXTINF:-1 tvg-id="NPO1.nl" tvg-logo="https://logo.m3uassets.com/npo1.png" group-title="Netherlands",NL: NPO 1 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169282&extension=ts&play_token=lNyqp2Ekvu
-#EXTINF:-1 tvg-id="NPO1.nl" tvg-logo="https://logo.m3uassets.com/npo1.png" group-title="Netherlands",NL: NPO 1 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169281&extension=ts&play_token=DgVOj7gAAJ
-#EXTINF:-1 tvg-id="NPO2.nl" tvg-logo="https://logo.m3uassets.com/npo2.png" group-title="Netherlands",NL: NPO 2 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169280&extension=ts&play_token=TSHw8fJqiD
-#EXTINF:-1 tvg-id="NPO2.nl" tvg-logo="https://logo.m3uassets.com/npo2.png" group-title="Netherlands",NL: NPO 2 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169279&extension=ts&play_token=KR5z1bVdv5
-#EXTINF:-1 tvg-id="NPO3.nl" tvg-logo="https://logo.m3uassets.com/npo3.png" group-title="Netherlands",NL: NPO 3 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169278&extension=ts&play_token=2LSJcHcBsN
-#EXTINF:-1 tvg-id="NPO3.nl" tvg-logo="https://logo.m3uassets.com/npo3.png" group-title="Netherlands",NL: NPO 3 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169277&extension=ts&play_token=Bbz2i47lBa
-#EXTINF:-1 tvg-id="NPO1Extra.nl" tvg-logo="https://logo.m3uassets.com/npo1extra.png" group-title="Netherlands",NL: NPO 1 Extra HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169276&extension=ts&play_token=xPLRsNYvKm
-#EXTINF:-1 tvg-id="NPO1Extra.nl" tvg-logo="https://logo.m3uassets.com/npo1extra.png" group-title="Netherlands",NL: NPO 1 Extra
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169275&extension=ts&play_token=4Ci9o4ZPvB
-#EXTINF:-1 tvg-id="NPO2Extra.nl" tvg-logo="https://logo.m3uassets.com/npo2extra.png" group-title="Netherlands",NL: NPO 2 Extra FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169274&extension=ts&play_token=AiF7gLivu5
-#EXTINF:-1 tvg-id="NPO2Extra.nl" tvg-logo="https://logo.m3uassets.com/npo2extra.png" group-title="Netherlands",NL: NPO 2 Extra HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169273&extension=ts&play_token=7y6yzFtNXw
-#EXTINF:-1 tvg-id="Net5.nl" tvg-logo="https://logo.m3uassets.com/net5.png" group-title="Netherlands",NL: Net 5 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169269&extension=ts&play_token=J7gHxsObHG
-#EXTINF:-1 tvg-id="Net5.nl" tvg-logo="https://logo.m3uassets.com/net5.png" group-title="Netherlands",NL: Net 5 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169268&extension=ts&play_token=AjuGwEBU1l
-#EXTINF:-1 tvg-id="SBS6.nl" tvg-logo="https://logo.m3uassets.com/sbs6.png" group-title="Netherlands",NL: SBS 6 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169267&extension=ts&play_token=qX7IhOl69V
-#EXTINF:-1 tvg-id="SBS6.nl" tvg-logo="https://logo.m3uassets.com/sbs6.png" group-title="Netherlands",NL: SBS 6 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169266&extension=ts&play_token=QoQvcRhCgw
-#EXTINF:-1 tvg-id="SBS9.nl" tvg-logo="https://logo.m3uassets.com/sbs9.png" group-title="Netherlands",NL: SBS 9 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169265&extension=ts&play_token=qVQ5SOymLH
-#EXTINF:-1 tvg-id="SBS9.nl" tvg-logo="https://logo.m3uassets.com/sbs9.png" group-title="Netherlands",NL: SBS 9 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169264&extension=ts&play_token=JeW7TPPn3S
-#EXTINF:-1 tvg-id="RTL4.nl" tvg-logo="https://logo.m3uassets.com/rtl4.png" group-title="Netherlands",NL: RTL 4 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169263&extension=ts&play_token=So8yAvAG25
-#EXTINF:-1 tvg-id="RTL4.nl" tvg-logo="https://logo.m3uassets.com/rtl4.png" group-title="Netherlands",NL: RTL 4 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169262&extension=ts&play_token=PTnUdKVhJH
-#EXTINF:-1 tvg-id="RTL5.nl" tvg-logo="https://logo.m3uassets.com/rtl5.png" group-title="Netherlands",NL: RTL 5 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169261&extension=ts&play_token=X2W3ebudGn
-#EXTINF:-1 tvg-id="RTL5.nl" tvg-logo="https://logo.m3uassets.com/rtl5.png" group-title="Netherlands",NL: RTL 5 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169260&extension=ts&play_token=sxNjQf59eO
-#EXTINF:-1 tvg-id="RTL7.nl" tvg-logo="https://logo.m3uassets.com/rtl7.png" group-title="Netherlands",NL: RTL 7 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169259&extension=ts&play_token=XTNSYZ80XA
-#EXTINF:-1 tvg-id="RTL7.nl" tvg-logo="https://logo.m3uassets.com/rtl7.png" group-title="Netherlands",NL: RTL 7 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169258&extension=ts&play_token=oso8E6QcQ6
-#EXTINF:-1 tvg-id="RTL8.nl" tvg-logo="https://logo.m3uassets.com/rtl8.png" group-title="Netherlands",NL: RTL 8 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169257&extension=ts&play_token=bbFy4xUlM7
-#EXTINF:-1 tvg-id="RTL8.nl" tvg-logo="https://logo.m3uassets.com/rtl8.png" group-title="Netherlands",NL: RTL 8 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169256&extension=ts&play_token=3wFIqI9qzw
-#EXTINF:-1 tvg-id="AT5.nl" tvg-logo="https://logo.m3uassets.com/at5.png" group-title="Netherlands",NL: AT5 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169255&extension=ts&play_token=ZV0Zs53Dpb
-#EXTINF:-1 tvg-id="AT5.nl" tvg-logo="https://logo.m3uassets.com/at5.png" group-title="Netherlands",NL: AT5 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169254&extension=ts&play_token=0Hy2SR2BQJ
-#EXTINF:-1 tvg-id="OmroepGelderland.nl" tvg-logo="https://logo.m3uassets.com/omroepgelderland.png" group-title="Netherlands",NL: Omroep Gelderland
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169253&extension=ts&play_token=o8LTyYLwUE
-#EXTINF:-1 tvg-id="OmroepZeeland.nl" tvg-logo="https://logo.m3uassets.com/omroepzeeland.png" group-title="Netherlands",NL: Omroep Zeeland
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169251&extension=ts&play_token=CugU4WK6PS
-#EXTINF:-1 tvg-id="OmroepFlevoland.nl" tvg-logo="https://logo.m3uassets.com/omroepflevoland.png" group-title="Netherlands",NL: Omroep Flevoland
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169249&extension=ts&play_token=4GXaqITLuv
-#EXTINF:-1 tvg-id="OmroepBrabant.nl" tvg-logo="https://logo.m3uassets.com/omroepbrabant.png" group-title="Netherlands",NL: Omroep Brabant
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169247&extension=ts&play_token=YyXNW8xTbl
-#EXTINF:-1 tvg-id="Family7.nl" tvg-logo="https://logo.m3uassets.com/family7.png" group-title="Netherlands",NL: Family7
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169238&extension=ts&play_token=afquI4vPd3
-#EXTINF:-1 tvg-id="ONS.nl" tvg-logo="https://logo.m3uassets.com/ons.png" group-title="Netherlands",NL: ONS
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169237&extension=ts&play_token=xzKQrSu1AE
-#EXTINF:-1 tvg-id="DenHaagTV.nl" tvg-logo="https://logo.m3uassets.com/menhagtv.png" group-title="Netherlands",NL: Den Haag TV
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169235&extension=ts&play_token=nrCOgGD6up
-#EXTINF:-1 tvg-id="OUTTV.nl" tvg-logo="https://logo.m3uassets.com/outtv.png" group-title="Netherlands",NL: Out TV
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169234&extension=ts&play_token=2UVEs7FQHQ
-#EXTINF:-1 tvg-id="PebbleTV.nl" tvg-logo="https://logo.m3uassets.com/pebbletv.png" group-title="Netherlands",NL: Pebble TV HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169230&extension=ts&play_token=bhV2WYSouF
-#EXTINF:-1 tvg-id="L1TV.nl" tvg-logo="https://logo.m3uassets.com/l1tv.png" group-title="Netherlands",NL: L1 TV HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169229&extension=ts&play_token=yNj5sXXagN
-#EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Netherlands",NL: ESPN 2 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169226&extension=ts&play_token=2NAq5SXdMO
-#EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Netherlands",NL: ESPN 2 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169225&extension=ts&play_token=4hbtmYAVpI
-#EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Netherlands",NL: ESPN 3 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169224&extension=ts&play_token=z0bd6RNul1
-#EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Netherlands",NL: ESPN 3 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169223&extension=ts&play_token=2G3A2xlDX6
-#EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Netherlands",NL: ESPN 4 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169222&extension=ts&play_token=f1BNFvralI
-#EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Netherlands",NL: ESPN 4 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169221&extension=ts&play_token=d4Q1imSPaO
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://logo.m3uassets.com/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169220&extension=ts&play_token=VFqPVfkYW2
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://logo.m3uassets.com/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169219&extension=ts&play_token=pfBsA71Drs
-#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-logo="https://logo.m3uassets.com/ziggosport2.png" group-title="Netherlands",NL: Ziggo Sport 2 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169218&extension=ts&play_token=7P2Gnjw7Aj
-#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-logo="https://logo.m3uassets.com/ziggosport2.png" group-title="Netherlands",NL: Ziggo Sport 2 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169217&extension=ts&play_token=UdXa6sDWFg
-#EXTINF:-1 tvg-id="ZiggoSport3.nl" tvg-logo="https://logo.m3uassets.com/ziggosport3.png" group-title="Netherlands",NL: Ziggo Sport 3 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169216&extension=ts&play_token=9ZxVkn4ZcX
-#EXTINF:-1 tvg-id="ZiggoSport3.nl" tvg-logo="https://logo.m3uassets.com/ziggosport3.png" group-title="Netherlands",NL: Ziggo Sport 3 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169215&extension=ts&play_token=ZLmFdIEmEv
-#EXTINF:-1 tvg-id="ZiggoSport4.nl" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-title="Netherlands",NL: Ziggo Sport 4 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169214&extension=ts&play_token=1RwMCSwv8l
-#EXTINF:-1 tvg-id="ZiggoSport4.nl" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-title="Netherlands",NL: Ziggo Sport 4 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169213&extension=ts&play_token=hq88qRNunP
-#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-logo="https://logo.m3uassets.com/ziggosport5.png" group-title="Netherlands",NL: Ziggo Sport 5 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169212&extension=ts&play_token=25Yj8rBD91
-#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-logo="https://logo.m3uassets.com/ziggosport5.png" group-title="Netherlands",NL: Ziggo Sport 5 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169211&extension=ts&play_token=1O5HCqZDGs
-#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-logo="https://logo.m3uassets.com/ziggosport6.png" group-title="Netherlands",NL: Ziggo Sport 6 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169210&extension=ts&play_token=l2cdq6Y9hc
-#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-logo="https://logo.m3uassets.com/ziggosport6.png" group-title="Netherlands",NL: Ziggo Sport 6 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169209&extension=ts&play_token=y88lSUd8fS
-#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Netherlands",NL: Eurosport 1 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169208&extension=ts&play_token=7vvOVVtq1g
-#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Netherlands",NL: Eurosport 1 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169207&extension=ts&play_token=LQl791BXP8
-#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Netherlands",NL: Eurosport 2 FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169206&extension=ts&play_token=77qmYDrZaE
-#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Netherlands",NL: Eurosport 2 HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169205&extension=ts&play_token=lxNYnP6WRG
-#EXTINF:-1 tvg-id="Film1Action.nl" tvg-logo="https://logo.m3uassets.com/film1action.png" group-title="Netherlands",NL: Film1 Action FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169203&extension=ts&play_token=Moy4fq9Tmf
-#EXTINF:-1 tvg-id="Film1Action.nl" tvg-logo="https://logo.m3uassets.com/film1action.png" group-title="Netherlands",NL: Film1 Action HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169202&extension=ts&play_token=pBK2rpqqEE
-#EXTINF:-1 tvg-id="Film1Drama.nl" tvg-logo="https://logo.m3uassets.com/film1drama.png" group-title="Netherlands",NL: Film1 Drama FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169201&extension=ts&play_token=zHxXgttoVz
-#EXTINF:-1 tvg-id="Film1Drama.nl" tvg-logo="https://logo.m3uassets.com/film1drama.png" group-title="Netherlands",NL: Film1 Drama HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169200&extension=ts&play_token=ffEWE3OixB
-#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-logo="https://logo.m3uassets.com/film1premiere.png" group-title="Netherlands",NL: Film1 Premiere FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169199&extension=ts&play_token=gvMxPAMkwO
-#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-logo="https://logo.m3uassets.com/film1premiere.png" group-title="Netherlands",NL: Film1 Premiere HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169198&extension=ts&play_token=1yJVl0sOhP
-#EXTINF:-1 tvg-id="Film1Family.nl" tvg-logo="https://logo.m3uassets.com/film1family.png" group-title="Netherlands",NL: Film1 Family FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169197&extension=ts&play_token=jRPxyHEkm1
-#EXTINF:-1 tvg-id="Film1Family.nl" tvg-logo="https://logo.m3uassets.com/film1family.png" group-title="Netherlands",NL: Film1 Family HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169196&extension=ts&play_token=rHOG64kQ3C
-#EXTINF:-1 tvg-id="FOX.nl" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="Netherlands",NL: Fox FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169191&extension=ts&play_token=cnHmuw16mF
-#EXTINF:-1 tvg-id="FOX.nl" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="Netherlands",NL: Fox HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169190&extension=ts&play_token=bNKVpkUJeT
-#EXTINF:-1 tvg-id="RTLCrime.nl" tvg-logo="https://logo.m3uassets.com/rtlcrime.png" group-title="Netherlands",NL: RTL Crime HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169186&extension=ts&play_token=3g4A73RF83
-#EXTINF:-1 tvg-id="RTLCrime.nl" tvg-logo="https://logo.m3uassets.com/rtlcrime.png" group-title="Netherlands",NL: RTL Crime
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169185&extension=ts&play_token=EkfJ9FSzgD
-#EXTINF:-1 tvg-id="RTLLounge.nl" tvg-logo="https://logo.m3uassets.com/rtllounge.png" group-title="Netherlands",NL: RTL Lounge HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169184&extension=ts&play_token=IsOpHmbmls
-#EXTINF:-1 tvg-id="RTLLounge.nl" tvg-logo="https://logo.m3uassets.com/rtllounge.png" group-title="Netherlands",NL: RTL Lounge FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169183&extension=ts&play_token=mJd5n2Oz8h
-#EXTINF:-1 tvg-id="RTLZ.nl" tvg-logo="https://logo.m3uassets.com/rtlz.png" group-title="Netherlands",NL: RTL Z FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169182&extension=ts&play_token=HLyV2K2MKP
-#EXTINF:-1 tvg-id="RTLZ.nl" tvg-logo="https://logo.m3uassets.com/rtlz.png" group-title="Netherlands",NL: RTL Z HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169181&extension=ts&play_token=YdtryGJIVf
-#EXTINF:-1 tvg-id="ComedyCentral.nl" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="Netherlands",NL: Comedy Central FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169180&extension=ts&play_token=o9gleY5bo8
-#EXTINF:-1 tvg-id="ComedyCentral.nl" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="Netherlands",NL: Comedy Central HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169179&extension=ts&play_token=eUNaFnGhUD
-#EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Netherlands",NL: Animal Planet FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169178&extension=ts&play_token=cnStOOLEQ6
-#EXTINF:-1 tvg-id="AnimalPlanet.nl" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Netherlands",NL: Animal Planet HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169177&extension=ts&play_token=yOfcFiidCK
-#EXTINF:-1 tvg-id="Discovery.nl" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Netherlands",NL: Discovery FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169172&extension=ts&play_token=OcJN5b7aJB
-#EXTINF:-1 tvg-id="Discovery.nl" tvg-logo="https://logo.m3uassets.com/discovery.png" group-title="Netherlands",NL: Discovery HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169171&extension=ts&play_token=FHj00LXSN0
-#EXTINF:-1 tvg-id="DiscoveryScience.nl" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Netherlands",NL: Discovery Science HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169170&extension=ts&play_token=dYsr8LmBgd
-#EXTINF:-1 tvg-id="DiscoveryScience.nl" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Netherlands",NL: Discovery Science FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169169&extension=ts&play_token=XW2iEITLs4
-#EXTINF:-1 tvg-id="Discovery.nl" tvg-logo="https://logo.m3uassets.com/discoveryid.png" group-title="Netherlands",NL: Discovery ID FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169166&extension=ts&play_token=n42Yya5KaW
-#EXTINF:-1 tvg-id="Discovery.nl" tvg-logo="https://logo.m3uassets.com/discoveryid.png" group-title="Netherlands",NL: Discovery ID HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169165&extension=ts&play_token=KJJDS4Vt0D
-#EXTINF:-1 tvg-id="LoveNature.nl" tvg-logo="https://logo.m3uassets.com/lovenature.png" group-title="Netherlands",NL: Love Nature FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169161&extension=ts&play_token=9molI6R6ZK
-#EXTINF:-1 tvg-id="LoveNature.nl" tvg-logo="https://logo.m3uassets.com/lovenature.png" group-title="Netherlands",NL: Love Nature HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169160&extension=ts&play_token=qgCGSCFQtk
-#EXTINF:-1 tvg-id="TLC.nl" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Netherlands",NL: TLC FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169159&extension=ts&play_token=2l61rUKeaa
-#EXTINF:-1 tvg-id="TLC.nl" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Netherlands",NL: TLC HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169158&extension=ts&play_token=71bhFg7m08
-#EXTINF:-1 tvg-id="24Kitchen.nl" tvg-logo="https://logo.m3uassets.com/24kitchen.png" group-title="Netherlands",NL: 24 Kitchen FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169157&extension=ts&play_token=qbBwhXPfyM
-#EXTINF:-1 tvg-id="24Kitchen.nl" tvg-logo="https://logo.m3uassets.com/24kitchen.png" group-title="Netherlands",NL: 24 Kitchen HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169156&extension=ts&play_token=wBUnJR2Fnf
-#EXTINF:-1 tvg-id="E_Entertainment.nl" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="Netherlands",NL: E! Entertainment HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169155&extension=ts&play_token=v5yEY69Vnl
-#EXTINF:-1 tvg-id="E_Entertainment.nl" tvg-logo="https://logo.m3uassets.com/eentertainment.png" group-title="Netherlands",NL: E! Entertainment
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169154&extension=ts&play_token=iNIsp9as8V
-#EXTINF:-1 tvg-id="BBCFirst.nl" tvg-logo="https://logo.m3uassets.com/bbcfirst.png" group-title="Netherlands",NL: BBC First FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169153&extension=ts&play_token=Rfp8A66ufp
-#EXTINF:-1 tvg-id="BBCFirst.nl" tvg-logo="https://logo.m3uassets.com/bbcfirst.png" group-title="Netherlands",NL: BBC First HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169152&extension=ts&play_token=9WKkcwSGzg
-#EXTINF:-1 tvg-id="BBCFirst.nl" tvg-logo="https://logo.m3uassets.com/bbcfirst.png" group-title="Netherlands",NL: BBC First
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169151&extension=ts&play_token=pdz1ypHhZg
-#EXTINF:-1 tvg-id="BBCFirst.nl" tvg-logo="https://logo.m3uassets.com/bbcfirst.png" group-title="Netherlands",NL: BBC First
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169150&extension=ts&play_token=YY6PAFDYky
-#EXTINF:-1 tvg-id="HorseAndCountryTV.nl" tvg-logo="https://logo.m3uassets.com/horsecountry.png" group-title="Netherlands",NL: Horse & Country HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169149&extension=ts&play_token=qszlhsnKRl
-#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="Netherlands",NL: Disney Channel FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169147&extension=ts&play_token=79CSID8j9Y
-#EXTINF:-1 tvg-id="DisneyChannel.nl" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="Netherlands",NL: Disney Channel HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169146&extension=ts&play_token=prnvcymS3n
-#EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-logo="https://logo.m3uassets.com/veronicadisneyxd.png" group-title="Netherlands",NL: Veronica / Disney XD FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169145&extension=ts&play_token=NpUJvoKM09
-#EXTINF:-1 tvg-id="VeronicaDisneyXD.nl" tvg-logo="https://logo.m3uassets.com/veronicadisneyxd.png" group-title="Netherlands",NL: Veronica / Disney XD HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169144&extension=ts&play_token=Jp9VxhGq38
-#EXTINF:-1 tvg-id="RTLTelekids.nl" tvg-logo="https://logo.m3uassets.com/rtltelekids.png" group-title="Netherlands",NL: RTL Telekids HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169143&extension=ts&play_token=B3x6riY37e
-#EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Netherlands",NL: Nickelodeon FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169142&extension=ts&play_token=k8D19ERSNj
-#EXTINF:-1 tvg-id="Nickelodeon.nl" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Netherlands",NL: Nickelodeon HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169141&extension=ts&play_token=bLM9h4aDFC
-#EXTINF:-1 tvg-id="Nicktoons.nl" tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="Netherlands",NL: Nicktoons
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169140&extension=ts&play_token=j5McMWAiB9
-#EXTINF:-1 tvg-id="NickJr.nl" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Netherlands",NL: Nick Jr
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169139&extension=ts&play_token=AcK96NBFeW
-#EXTINF:-1 tvg-id="Boomerang.nl" tvg-logo="https://logo.m3uassets.com/boomerang.png" group-title="Netherlands",NL: Boomerang FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169136&extension=ts&play_token=XxYnPlXoi1
-#EXTINF:-1 tvg-id="BabyTV.nl" tvg-logo="https://logo.m3uassets.com/babytv.png" group-title="Netherlands",NL: Baby TV
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169134&extension=ts&play_token=uWmfZoIN1R
-#EXTINF:-1 tvg-id="NickMusic.nl" tvg-logo="https://logo.m3uassets.com/nickmusic.png" group-title="Netherlands",NL: Nick Music
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169133&extension=ts&play_token=OkMLBwzGeP
-#EXTINF:-1 tvg-id="MTV.nl" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Netherlands",NL: MTV FHD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169132&extension=ts&play_token=rO3qjKQT9A
-#EXTINF:-1 tvg-id="MTV.nl" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Netherlands",NL: MTV HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169131&extension=ts&play_token=Y465RKOQcD
-#EXTINF:-1 tvg-id="MTV90s.nl" tvg-logo="https://logo.m3uassets.com/mtv90s.png" group-title="Netherlands",NL: MTV 90s
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169130&extension=ts&play_token=avuhGqwZQg
-#EXTINF:-1 tvg-id="SLAM.nl" tvg-logo="https://logo.m3uassets.com/slamtv.png" group-title="Netherlands",NL: Slam! TV
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169129&extension=ts&play_token=pq83Kiuhwd
-#EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://logo.m3uassets.com/xite.png" group-title="Netherlands",NL: Xite HD
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169128&extension=ts&play_token=qJPgv9dep2
-#EXTINF:-1 tvg-id="192TV.nl" tvg-logo="https://logo.m3uassets.com/192tv.png" group-title="Netherlands",NL: 192 TV
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169127&extension=ts&play_token=thApTkwSVg
-#EXTINF:-1 tvg-id="TV538.nl" tvg-logo="https://iptv-epg.org/images/7Qa3lj6W_eKF4600U5WUTUWLQgJ9kWx9Lzuv29snNGwUcRTHSwblHexucn6CbPjAR5DIgOcROvFroQIJR8UEGfIsh_zHlpwDT6YaIe2IkRVVrFg" group-title="Netherlands",NL: 538 TV
-http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169231&extension=ts&play_token=4DpzQEUtrh
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-hu.xml"
+#EXTINF:-1 tvg-id="ViasatExplore.hu" tvg-logo="https://logo.m3uassets.com/viasatexplore.png" group-title="Hungary",HU: VIASAT EXPLORE FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107224&extension=ts&play_token=LfnsyrhWrk
+#EXTINF:-1 tvg-id="TravelChannel.hu" tvg-logo="https://logo.m3uassets.com/travelxp.png" group-title="Hungary",HU: TRAVELXP
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107223&extension=ts&play_token=Q2XryD6S24
+#EXTINF:-1 tvg-id="TeenNick.hu" tvg-logo="https://logo.m3uassets.com/teennick.png" group-title="Hungary",HU: TEENNICK
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107222&extension=ts&play_token=QRfXzBm3Rt
+#EXTINF:-1 tvg-id="TV4.hu" tvg-logo="https://logo.m3uassets.com/tv4.png" group-title="Hungary",HU: TV4
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107220&extension=ts&play_token=0PJHndahuH
+#EXTINF:-1 tvg-id="TV2Sef.hu" tvg-logo="https://logo.m3uassets.com/mtv2s.png" group-title="Hungary",HU: TV2 SÉF
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107219&extension=ts&play_token=ENP2UScl9T
+#EXTINF:-1 tvg-id="TV2Comedy.hu" tvg-logo="https://logo.m3uassets.com/tv2comedy.png" group-title="Hungary",HU: TV2 COMEDY
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107217&extension=ts&play_token=NveLTzN38i
+#EXTINF:-1 tvg-id="SuperTV2.hu" tvg-logo="https://logo.m3uassets.com/tv2super.png" group-title="Hungary",HU: TV2 SUPER FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107216&extension=ts&play_token=uB94nFosuH
+#EXTINF:-1 tvg-id="Nicktoons.hu" tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="Hungary",HU: NICKTOONS
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107215&extension=ts&play_token=MOvffv6X2S
+#EXTINF:-1 tvg-id="NickJr.hu" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Hungary",HU: NICK JR. [EN-HU]
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107214&extension=ts&play_token=meTXATjX32
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-logo="https://logo.m3uassets.com/m4sport.png" group-title="Hungary",HU: M4 SPORT HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107213&extension=ts&play_token=MOFFlDNNYa
+#EXTINF:-1 tvg-id="m1.hu" tvg-logo="https://logo.m3uassets.com/m1.png" group-title="Hungary",HU: M1 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107212&extension=ts&play_token=yFXVnycavZ
+#EXTINF:-1 tvg-id="ATVSpirit.hu" tvg-logo="https://logo.m3uassets.com/atvspirit.png" group-title="Hungary",HU: ATV Spirit FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107211&extension=ts&play_token=9jgIFUVeJh
+#EXTINF:-1 tvg-id="JockyTV.hu" tvg-logo="https://logo.m3uassets.com/jockytv.png" group-title="Hungary",HU: JOCKY TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107210&extension=ts&play_token=dJTMPGksUC
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-logo="https://logo.m3uassets.com/izauratv.png" group-title="Hungary",HU: IZAURA TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107209&extension=ts&play_token=SczbT9MLO2
+#EXTINF:-1 tvg-id="Filmbox.hu" tvg-logo="https://logo.m3uassets.com/filmbox.png" group-title="Hungary",HU: FILMBOX
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107208&extension=ts&play_token=FBu6vza8bx
+#EXTINF:-1 tvg-id="FilmboxExtra.hu" tvg-logo="https://logo.m3uassets.com/filmboxextra.png" group-title="Hungary",HU: FILMBOX EXTRA FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107206&extension=ts&play_token=2gREQDlA6V
+#EXTINF:-1 tvg-id="DUNATelevizio.hu" tvg-logo="https://iptv-epg.org/images/vCjx3CuHMXxTuEp9fp9px2s1809u061Zv50mDdRIqfi_9e5fq3sCNGSLUUJFAnG9oiybwQIYM0XfGIBrR7jx7nA79c5a_Q7CaA6R31bzJISqVIqYbyLh" group-title="Hungary",HU: DUNA WORLD / M4 SPORT+ FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107204&extension=ts&play_token=Eow35qxlFS
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://logo.m3uassets.com/dunaworld.png" group-title="Hungary",HU: DUNA WORLD FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107203&extension=ts&play_token=VzVaS7A4yA
+#EXTINF:-1 tvg-id="BBCEarth.hu" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="Hungary",HU: BBC EARTH FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107202&extension=ts&play_token=uYkkaqdrji
+#EXTINF:-1 tvg-id="Arena4.hu" tvg-logo="https://logo.m3uassets.com/arena4.png" group-title="Hungary",HU: ARENA4 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107201&extension=ts&play_token=9fe8bdkdU7
+#EXTINF:-1 tvg-id="VH1.hu" tvg-logo="https://logo.m3uassets.com/vh1.png" group-title="Hungary",HU: VH1
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107200&extension=ts&play_token=ZzLezyK4VQ
+#EXTINF:-1 tvg-id="MTV.hu" tvg-logo="https://logo.m3uassets.com/mtvmusic.png" group-title="Hungary",HU: MTV MUSIC
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107199&extension=ts&play_token=iAfivjCqNt
+#EXTINF:-1 tvg-id="MTV.hu" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Hungary",HU: MTV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107198&extension=ts&play_token=hSFCOxdczL
+#EXTINF:-1 tvg-id="EpicDrama.hu" tvg-logo="https://logo.m3uassets.com/epicdrama.png" group-title="Hungary",HU: EPIC DRAMA FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107197&extension=ts&play_token=8RP77UCYFx
+#EXTINF:-1 tvg-id="FilmNow.hu" tvg-logo="https://logo.m3uassets.com/filmnow.png" group-title="Hungary",HU: FILM NOW
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107195&extension=ts&play_token=g5rose21Tc
+#EXTINF:-1 tvg-id="Mozi+.hu" tvg-logo="https://logo.m3uassets.com/mozi.png" group-title="Hungary",HU: MOZI+ FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107193&extension=ts&play_token=uZjgioODrG
+#EXTINF:-1 tvg-id="MusicChannel.hu" tvg-logo="https://logo.m3uassets.com/1music.png" group-title="Hungary",HU | 1 Music HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107192&extension=ts&play_token=aMi88tdSJN
+#EXTINF:-1 tvg-id="MusicChannel.hu" tvg-logo="https://logo.m3uassets.com/1music.png" group-title="Hungary",HU | 1Mus
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107191&extension=ts&play_token=fUWYiKchSe
+#EXTINF:-1 tvg-id="AMC.hu" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="Hungary",HU | AMC
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107190&extension=ts&play_token=jOKG1BBSQu
+#EXTINF:-1 tvg-id="AnimalPlanet.hu" tvg-logo="https://logo.m3uassets.com/animalplanet.png" group-title="Hungary",HU | Animal Planet
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107189&extension=ts&play_token=SsLZum4LnH
+#EXTINF:-1 tvg-id="Arena4.hu" tvg-logo="https://logo.m3uassets.com/arena4.png" group-title="Hungary",HU | Arena 4
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107188&extension=ts&play_token=ody5ndd2iq
+#EXTINF:-1 tvg-id="ATVSpirit.hu" tvg-logo="https://logo.m3uassets.com/atvspirit.png" group-title="Hungary",HU | ATV Spirit
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107187&extension=ts&play_token=bqxM2XzlhP
+#EXTINF:-1 tvg-id="ATV.hu" tvg-logo="https://logo.m3uassets.com/atv.png" group-title="Hungary",HU | ATV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107186&extension=ts&play_token=SmYaEocH27
+#EXTINF:-1 tvg-id="AXN.hu" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Hungary",HU | AXN
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107183&extension=ts&play_token=EzEmagKw7y
+#EXTINF:-1 tvg-id="BBCEarth.hu" tvg-logo="https://logo.m3uassets.com/bbcearth.png" group-title="Hungary",HU | BBC Earth
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107181&extension=ts&play_token=XhSVLTpkdL
+#EXTINF:-1 tvg-id="Boomerang.hu" tvg-logo="https://logo.m3uassets.com/boomerang.png" group-title="Hungary",HU | Boomerang
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107179&extension=ts&play_token=W4y70vbODf
+#EXTINF:-1 tvg-id="CartoonNetwork.hu" tvg-logo="https://logo.m3uassets.com/cartoonnetwork.png" group-title="Hungary",HU | Cartoon Network
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107178&extension=ts&play_token=47pmqOq1iD
+#EXTINF:-1 tvg-id="Cinemax.hu" tvg-logo="https://logo.m3uassets.com/cinemax1.png" group-title="Hungary",HU | Cinemax 1
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107174&extension=ts&play_token=S2g887CDRi
+#EXTINF:-1 tvg-id="Cinemax2.hu" tvg-logo="https://logo.m3uassets.com/cinemax2.png" group-title="Hungary",HU | Cinemax 2
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107173&extension=ts&play_token=D3wxRKORVF
+#EXTINF:-1 tvg-id="CNNEnglish.hu" tvg-logo="https://logo.m3uassets.com/cnn.png" group-title="Hungary",HU | CNN
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107171&extension=ts&play_token=0yjnJlWp6s
+#EXTINF:-1 tvg-id="ComedyCentral.hu" tvg-logo="https://logo.m3uassets.com/comedycentral.png" group-title="Hungary",HU | Comedy Central
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107170&extension=ts&play_token=vG7971dnJG
+#EXTINF:-1 tvg-id="Cool.hu" tvg-logo="https://logo.m3uassets.com/cooltv.png" group-title="Hungary",HU | Cool TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107169&extension=ts&play_token=O38gduLrR6
+#EXTINF:-1 tvg-id="DaVinciTV.hu" tvg-logo="https://logo.m3uassets.com/davincilearning.png" group-title="Hungary",HU | Da Vinci Learning
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107168&extension=ts&play_token=pboVcEPtFm
+#EXTINF:-1 tvg-id="DIGIAnimalWorld.hu" tvg-logo="https://logo.m3uassets.com/digianimalworld.png" group-title="Hungary",HU | DIGI Animal World
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107167&extension=ts&play_token=xEkGTcjjj3
+#EXTINF:-1 tvg-id="DIGIAnimalWorld.hu" tvg-logo="https://logo.m3uassets.com/digianimalworld.png" group-title="Hungary",HU | DIGI Animal World FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107166&extension=ts&play_token=pp4ApeW3g4
+#EXTINF:-1 tvg-id="digi" tvg-logo="https://logo.m3uassets.com/digifilm.png" group-title="Hungary",HU | DIGI Film
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107165&extension=ts&play_token=b9EokWfE89
+#EXTINF:-1 tvg-id="DIGILife.hu" tvg-logo="https://logo.m3uassets.com/digilife.png" group-title="Hungary",HU | DIGI Life
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107164&extension=ts&play_token=VINc0dj64D
+#EXTINF:-1 tvg-id="DIGISport1.hu" tvg-logo="https://logo.m3uassets.com/digisport1.png" group-title="Hungary",HU | DIGI Sport 1
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107163&extension=ts&play_token=aAzrZXHroe
+#EXTINF:-1 tvg-id="DIGISport1.hu" tvg-logo="https://logo.m3uassets.com/digisport1.png" group-title="Hungary",HU | DIGI Sport 1 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107162&extension=ts&play_token=XIuAdZzM0d
+#EXTINF:-1 tvg-id="DIGISport2.hu" tvg-logo="https://logo.m3uassets.com/digisport2.png" group-title="Hungary",HU | DIGI Sport 2
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107161&extension=ts&play_token=VZxoIrcpaM
+#EXTINF:-1 tvg-id="DIGISport2.hu" tvg-logo="https://logo.m3uassets.com/digisport2.png" group-title="Hungary",HU | DIGI Sport 2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107160&extension=ts&play_token=Tnjwm6L1JO
+#EXTINF:-1 tvg-id="DIGIWorld.hu" tvg-logo="https://logo.m3uassets.com/digiworld.png" group-title="Hungary",HU | DIGI World HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107159&extension=ts&play_token=FpQ5TZGqQL
+#EXTINF:-1 tvg-id="DiscoveryChannel.hu" tvg-logo="https://logo.m3uassets.com/discoverychannel.png" group-title="Hungary",HU | Discovery Channel
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107156&extension=ts&play_token=7zSXGP0fqQ
+#EXTINF:-1 tvg-id="DiscoveryScience.hu" tvg-logo="https://logo.m3uassets.com/discoveryscience.png" group-title="Hungary",HU | Discovery Science
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107155&extension=ts&play_token=I4REHZsUwy
+#EXTINF:-1 tvg-id="DisneyChannel.hu" tvg-logo="https://logo.m3uassets.com/disneychannel.png" group-title="Hungary",HU | Disney Channel
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107154&extension=ts&play_token=fCLjz0aiag
+#EXTINF:-1 tvg-id="DuckTV.hu" tvg-logo="https://logo.m3uassets.com/ducktv.png" group-title="Hungary",HU | Duck TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107152&extension=ts&play_token=DLrc2nAhs2
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://logo.m3uassets.com/dunaworld.png" group-title="Hungary",HU | Duna World
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107151&extension=ts&play_token=UHMyOtxTYj
+#EXTINF:-1 tvg-id="ErdelyTV.hu" tvg-logo="https://logo.m3uassets.com/erdelytv.png" group-title="Hungary",HU | Erdely TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107148&extension=ts&play_token=CeaZh4q5OS
+#EXTINF:-1 tvg-id="Eurosport1.hu" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Hungary",HU | Eurosport 1
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107147&extension=ts&play_token=VbOwnGZqWt
+#EXTINF:-1 tvg-id="Eurosport2.hu" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Hungary",HU | Eurosport 2
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107146&extension=ts&play_token=LrsS3kws7q
+#EXTINF:-1 tvg-id="ExtremeSports.hu" tvg-logo="https://logo.m3uassets.com/extremesports.png" group-title="Hungary",HU | Extreme Sports
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107145&extension=ts&play_token=DoMl1Hkzh4
+#EXTINF:-1 tvg-id="FashionTV.hu" tvg-logo="https://logo.m3uassets.com/fashiontv.png" group-title="Hungary",HU | Fashion TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107144&extension=ts&play_token=Qp9zTburZx
+#EXTINF:-1 tvg-id="FEM3.hu" tvg-logo="https://logo.m3uassets.com/fem3.png" group-title="Hungary",HU | FEM3
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107143&extension=ts&play_token=Y6nXZCWVxe
+#EXTINF:-1 tvg-id="Film+.hu" tvg-logo="https://logo.m3uassets.com/film1.png" group-title="Hungary",HU | Film 1
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107142&extension=ts&play_token=lcmb3piwXC
+#EXTINF:-1 tvg-id="Filmcafe.hu" tvg-logo="https://logo.m3uassets.com/filmcafe.png" group-title="Hungary",HU | Film Cafe
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107141&extension=ts&play_token=E5NncynwW6
+#EXTINF:-1 tvg-id="FilmMania.hu" tvg-logo="https://logo.m3uassets.com/filmmania.png" group-title="Hungary",HU | Film Mánia
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107140&extension=ts&play_token=rMHH7w3Eam
+#EXTINF:-1 tvg-id="Film+.hu" tvg-logo="https://logo.m3uassets.com/afilm.png" group-title="Hungary",HU | Film+ HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107139&extension=ts&play_token=RRjz05YvGh
+#EXTINF:-1 tvg-id="FilmboxFamily.hu" tvg-logo="https://logo.m3uassets.com/filmboxfamily.png" group-title="Hungary",HU | FilmBox Family
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107138&extension=ts&play_token=tg1gwx2eGL
+#EXTINF:-1 tvg-id="FilmboxPlus.hu" tvg-logo="https://logo.m3uassets.com/filmboxplus.png" group-title="Hungary",HU | FilmBox Plus
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107137&extension=ts&play_token=g2Ra0uo71M
+#EXTINF:-1 tvg-id="FilmboxPremium.hu" tvg-logo="https://logo.m3uassets.com/filmboxpremium.png" group-title="Hungary",HU | FilmBox Premium
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107136&extension=ts&play_token=z5O7w015eB
+#EXTINF:-1 tvg-id="Filmbox.hu" tvg-logo="https://logo.m3uassets.com/filmbox.png" group-title="Hungary",HU | FilmBox
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107135&extension=ts&play_token=iAvuV6EfeD
+#EXTINF:-1 tvg-id="FIX.hu" tvg-logo="https://logo.m3uassets.com/fixtv.png" group-title="Hungary",HU | Fix TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107134&extension=ts&play_token=UZ1GbHmBiW
+#EXTINF:-1 tvg-id="FIX.hu" tvg-logo="https://logo.m3uassets.com/fixtv.png" group-title="Hungary",HU | Fix TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107133&extension=ts&play_token=iHEsRzVxru
+#EXTINF:-1 tvg-id="FoodNetwork.hu" tvg-logo="https://logo.m3uassets.com/foodnetwork.png" group-title="Hungary",HU | Food Network
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107132&extension=ts&play_token=t6PX5kM2tL
+#EXTINF:-1 tvg-id="Galaxy4.hu" tvg-logo="https://logo.m3uassets.com/galaxy.png" group-title="Hungary",HU | Galaxy
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107131&extension=ts&play_token=REQQAlT7z0
+#EXTINF:-1 tvg-id="HBO2.hu" tvg-logo="https://logo.m3uassets.com/hbo2.png" group-title="Hungary",HU | HBO 2
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107129&extension=ts&play_token=84lf41xJxg
+#EXTINF:-1 tvg-id="HBO3.hu" tvg-logo="https://logo.m3uassets.com/hbo3.png" group-title="Hungary",HU | HBO 3
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107128&extension=ts&play_token=9AqQDFLWZe
+#EXTINF:-1 tvg-id="HBO.hu" tvg-logo="https://logo.m3uassets.com/hbo.png" group-title="Hungary",HU | HBO
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107127&extension=ts&play_token=6IRwTH0eCA
+#EXTINF:-1 tvg-id="HetiTV.hu" tvg-logo="https://logo.m3uassets.com/hetitv.png" group-title="Hungary",HU | Heti TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107126&extension=ts&play_token=l7hG1BRwSJ
+#EXTINF:-1 tvg-id="HirTV.hu" tvg-logo="https://logo.m3uassets.com/hirtv.png" group-title="Hungary",HU | Hir TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107125&extension=ts&play_token=AqjRWqhKNp
+#EXTINF:-1 tvg-id="HirTV.hu" tvg-logo="https://logo.m3uassets.com/hirtv.png" group-title="Hungary",HU | Hir TV HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107124&extension=ts&play_token=iVFKIFEdze
+#EXTINF:-1 tvg-id="HISTORY.hu" tvg-logo="https://logo.m3uassets.com/history.png" group-title="Hungary",HU | History HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107123&extension=ts&play_token=Fc0x7I2KGx
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-logo="https://logo.m3uassets.com/investigationdiscovery.png" group-title="Hungary",HU | Investigation Discovery
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107122&extension=ts&play_token=JvUL4UP0I4
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-logo="https://logo.m3uassets.com/izauratv.png" group-title="Hungary",HU | Izaura TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107121&extension=ts&play_token=dkSWXmPPl2
+#EXTINF:-1 tvg-id="JimJam.hu" tvg-logo="https://logo.m3uassets.com/jimjam.png" group-title="Hungary",HU | JimJam
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107120&extension=ts&play_token=KwPFH8XiLG
+#EXTINF:-1 tvg-id="JockyTV.hu" tvg-logo="https://logo.m3uassets.com/jockytv.png" group-title="Hungary",HU | Jocky TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107119&extension=ts&play_token=huQw6NFTst
+#EXTINF:-1 tvg-id="m1.hu" tvg-logo="https://logo.m3uassets.com/m1.png" group-title="Hungary",HU | M1 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107114&extension=ts&play_token=dNKSMC5KcH
+#EXTINF:-1 tvg-id="m2PetofiTV.hu" tvg-logo="https://logo.m3uassets.com/m2.png" group-title="Hungary",HU | M2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107113&extension=ts&play_token=QUNGbNLlDj
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-logo="https://logo.m3uassets.com/m4sport.png" group-title="Hungary",HU | M4 Sport
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107111&extension=ts&play_token=ipXPQY4D9N
+#EXTINF:-1 tvg-id="M5.hu" tvg-logo="https://logo.m3uassets.com/m5.png" group-title="Hungary",HU | M5
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107110&extension=ts&play_token=F6D86t3DQt
+#EXTINF:-1 tvg-id="Minimax.hu" tvg-logo="https://logo.m3uassets.com/minimax.png" group-title="Hungary",HU | Minimax
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107108&extension=ts&play_token=i9lU7QUr9J
+#EXTINF:-1 tvg-id="Moziverzum.hu" tvg-logo="https://logo.m3uassets.com/moziverzum.png" group-title="Hungary",HU | Moziverzum
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107107&extension=ts&play_token=ghP6w2c1bE
+#EXTINF:-1 tvg-id="Mozi+.hu" tvg-logo="https://logo.m3uassets.com/mozi.png" group-title="Hungary",HU | Mozi HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107106&extension=ts&play_token=rdisHNqZo1
+#EXTINF:-1 tvg-id="MTV.hu" tvg-logo="https://logo.m3uassets.com/mtveuk.png" group-title="Hungary",HU | MTV EU
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107102&extension=ts&play_token=8ZcxU3Awie
+#EXTINF:-1 tvg-id="nincs" tvg-logo="https://logo.m3uassets.com/mtvhits.png" group-title="Hungary",HU | MTV Hits
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107101&extension=ts&play_token=uoT02uOfYP
+#EXTINF:-1 tvg-id="MuzsikaTV.hu" tvg-logo="https://logo.m3uassets.com/muzsikatv.png" group-title="Hungary",HU | Muzsika TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107099&extension=ts&play_token=ZfJWd0X4sH
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu" tvg-logo="https://logo.m3uassets.com/natgeowild.png" group-title="Hungary",HU | Nat Geo Wild
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107098&extension=ts&play_token=yVapV1oq4M
+#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="Hungary",HU | National Geographic
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107096&extension=ts&play_token=tNa1XgKVxa
+#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-logo="https://logo.m3uassets.com/nationalgeographic.png" group-title="Hungary",HU | National Geographic HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107095&extension=ts&play_token=OgtBVgl33x
+#EXTINF:-1 tvg-id="NickJr.hu" tvg-logo="https://logo.m3uassets.com/nickjr.png" group-title="Hungary",HU | Nick Jr
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107094&extension=ts&play_token=s2nA3Mu9FG
+#EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-logo="https://logo.m3uassets.com/nickelodeon.png" group-title="Hungary",HU | Nickelodeon
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107093&extension=ts&play_token=guJhklZrAW
+#EXTINF:-1 tvg-id="Nicktoons.hu" tvg-logo="https://logo.m3uassets.com/nicktoons.png" group-title="Hungary",HU | Nicktoons
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107092&extension=ts&play_token=8BIgYTd5G2
+#EXTINF:-1 tvg-id="OzoneTv.hu" tvg-logo="https://logo.m3uassets.com/ozonetv.png" group-title="Hungary",HU | Ozone TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107091&extension=ts&play_token=dVaTrWXlxo
+#EXTINF:-1 tvg-id="Prime.hu" tvg-logo="https://logo.m3uassets.com/prime.png" group-title="Hungary",HU | Prime
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107087&extension=ts&play_token=G7AoBPJxma
+#EXTINF:-1 tvg-id="RTLGold.hu" tvg-logo="https://logo.m3uassets.com/rtlgold.png" group-title="Hungary",HU | RTL Gold
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107085&extension=ts&play_token=5OvpbXBbEV
+#EXTINF:-1 tvg-id="RTLII.hu" tvg-logo="https://logo.m3uassets.com/rtlii.png" group-title="Hungary",HU | RTL II
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107084&extension=ts&play_token=nWg9Stt0bc
+#EXTINF:-1 tvg-id="RTLII.hu" tvg-logo="https://logo.m3uassets.com/rtlii.png" group-title="Hungary",HU | RTL II HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107083&extension=ts&play_token=u679BHE4mL
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-logo="https://logo.m3uassets.com/rtlklub.png" group-title="Hungary",HU | RTL Klub
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107082&extension=ts&play_token=rzcsE1Zxcx
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-logo="https://logo.m3uassets.com/rtlklub.png" group-title="Hungary",HU | RTL Klub HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107081&extension=ts&play_token=QGBn8gFWbP
+#EXTINF:-1 tvg-id="RTL+.hu" tvg-logo="https://logo.m3uassets.com/rtlplus.png" group-title="Hungary",HU | RTL Plus
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107080&extension=ts&play_token=jUxevSzn0C
+#EXTINF:-1 tvg-id="RTLII.hu" tvg-logo="https://logo.m3uassets.com/rtl.png" group-title="Hungary",HU | RTL
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107079&extension=ts&play_token=PNcIqm5Hff
+#EXTINF:-1 tvg-id="SlagerTV.hu" tvg-logo="https://logo.m3uassets.com/slagertv.png" group-title="Hungary",HU | Slager TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107078&extension=ts&play_token=BOaH64OQM3
+#EXTINF:-1 tvg-id="Sorozat+.hu" tvg-logo="https://logo.m3uassets.com/sorozatplus.png" group-title="Hungary",HU | Sorozat Plus
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107075&extension=ts&play_token=42U9VO3X3C
+#EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-logo="https://logo.m3uassets.com/spektrumhome.png" group-title="Hungary",HU | Spektrum Home
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107073&extension=ts&play_token=tI9ZPydVYN
+#EXTINF:-1 tvg-id="Spektrum.hu" tvg-logo="https://logo.m3uassets.com/spektrum.png" group-title="Hungary",HU | Spektrum HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107072&extension=ts&play_token=gkcE5ghzPa
+#EXTINF:-1 tvg-id="Spiler2TV.hu" tvg-logo="https://logo.m3uassets.com/spiler2.png" group-title="Hungary",HU | Spiler 2
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107070&extension=ts&play_token=X9S63CZOb5
+#EXTINF:-1 tvg-id="Spiler1TV.hu" tvg-logo="https://logo.m3uassets.com/spilertv.png" group-title="Hungary",HU | Spiler TV
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107069&extension=ts&play_token=BPn4uiVviS
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://logo.m3uassets.com/sport1.png" group-title="Hungary",HU | Sport 1
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107068&extension=ts&play_token=O0sDgFzv6c
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://logo.m3uassets.com/sport1.png" group-title="Hungary",HU | Sport 1 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107067&extension=ts&play_token=YBSTzP4v8q
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://logo.m3uassets.com/sport1.png" group-title="Hungary",HU | Sport 1 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107066&extension=ts&play_token=Iq2g0SdZmz
+#EXTINF:-1 tvg-id="Sport2.hu" tvg-logo="https://logo.m3uassets.com/sport2.png" group-title="Hungary",HU | Sport 2 FHD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107065&extension=ts&play_token=9ZEQ8GaVGE
+#EXTINF:-1 tvg-id="Sport2.hu" tvg-logo="https://logo.m3uassets.com/sport2.png" group-title="Hungary",HU | Sport 2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107064&extension=ts&play_token=YEXoySwj3i
+#EXTINF:-1 tvg-id="STORY4.hu" tvg-logo="https://logo.m3uassets.com/story4.png" group-title="Hungary",HU | Story 4
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107063&extension=ts&play_token=5U1d0wRLNk
+#EXTINF:-1 tvg-id="TLC.hu" tvg-logo="https://logo.m3uassets.com/tlc.png" group-title="Hungary",HU | TLC
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107060&extension=ts&play_token=XkPE8wh8B9
+#EXTINF:-1 tvg-id="TravelChannel.hu" tvg-logo="https://logo.m3uassets.com/travelchannel.png" group-title="Hungary",HU | Travel Channel
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107059&extension=ts&play_token=v6NCiJ2Y9y
+#EXTINF:-1 tvg-id="TV4.hu" tvg-logo="https://logo.m3uassets.com/tv4.png" group-title="Hungary",HU | TV 4
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107058&extension=ts&play_token=ee4bwb8A9j
+#EXTINF:-1 tvg-id="TV2Comedy.hu" tvg-logo="https://logo.m3uassets.com/tv2comedy.png" group-title="Hungary",HU | TV2 Comedy
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107056&extension=ts&play_token=3bivbVSndU
+#EXTINF:-1 tvg-id="TV2Kids.hu" tvg-logo="https://logo.m3uassets.com/tv2kids.png" group-title="Hungary",HU | TV2 Kids
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107055&extension=ts&play_token=3YWNHorutU
+#EXTINF:-1 tvg-id="TV2.hu" tvg-logo="https://logo.m3uassets.com/tv2.png" group-title="Hungary",HU | TV2
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107053&extension=ts&play_token=aCE7hZPSkR
+#EXTINF:-1 tvg-id="TV2.hu" tvg-logo="https://logo.m3uassets.com/tv2.png" group-title="Hungary",HU | TV2 HD
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107052&extension=ts&play_token=Pqls3VC6Xp
+#EXTINF:-1 tvg-id="VIASAT3.hu" tvg-logo="https://logo.m3uassets.com/viasat3.png" group-title="Hungary",HU | Viasat 3
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107049&extension=ts&play_token=lmjYBDDVG2
+#EXTINF:-1 tvg-id="VIASAT6.hu" tvg-logo="https://logo.m3uassets.com/viasat6.png" group-title="Hungary",HU | Viasat 6
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107048&extension=ts&play_token=P7YLr01MsE
+#EXTINF:-1 tvg-id="ViasatExplore.hu" tvg-logo="https://logo.m3uassets.com/viasatexplore.png" group-title="Hungary",HU | Viasat Explore
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107047&extension=ts&play_token=BwwcHxDumz
+#EXTINF:-1 tvg-id="ViasatHistory.hu" tvg-logo="https://logo.m3uassets.com/viasathistory.png" group-title="Hungary",HU | Viasat History
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:C0:85:66&stream=107046&extension=ts&play_token=HSglw1zafi
