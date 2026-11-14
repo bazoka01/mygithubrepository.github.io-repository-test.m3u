@@ -71,67 +71,67 @@ http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=16
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169230&extension=ts&play_token=bhV2WYSouF
 #EXTINF:-1 tvg-id="L1TV.nl" tvg-logo="https://logo.m3uassets.com/l1tv.png" group-title="Netherlands",NL: L1 TV HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169229&extension=ts&play_token=yNj5sXXagN
-#EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Netherlands",NL: ESPN 2 FHD
+#EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Netherlands Sport",NL: ESPN 2 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169226&extension=ts&play_token=2NAq5SXdMO
-#EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Netherlands",NL: ESPN 2 HD
+#EXTINF:-1 tvg-id="ESPN2.nl" tvg-logo="https://logo.m3uassets.com/espn2.png" group-title="Netherlands Sport",NL: ESPN 2 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169225&extension=ts&play_token=4hbtmYAVpI
-#EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Netherlands",NL: ESPN 3 FHD
+#EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Netherlands Sport",NL: ESPN 3 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169224&extension=ts&play_token=z0bd6RNul1
-#EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Netherlands",NL: ESPN 3 HD
+#EXTINF:-1 tvg-id="ESPN3.nl" tvg-logo="https://logo.m3uassets.com/espn3.png" group-title="Netherlands Sport",NL: ESPN 3 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169223&extension=ts&play_token=2G3A2xlDX6
-#EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Netherlands",NL: ESPN 4 FHD
+#EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Netherlands Sport",NL: ESPN 4 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169222&extension=ts&play_token=f1BNFvralI
-#EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Netherlands",NL: ESPN 4 HD
+#EXTINF:-1 tvg-id="ESPN4.nl" tvg-logo="https://logo.m3uassets.com/espn4.png" group-title="Netherlands Sport",NL: ESPN 4 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169221&extension=ts&play_token=d4Q1imSPaO
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://logo.m3uassets.com/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport FHD
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://logo.m3uassets.com/ziggosport.png" group-title="Netherlands Sport",NL: Ziggo Sport FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169220&extension=ts&play_token=VFqPVfkYW2
-#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://logo.m3uassets.com/ziggosport.png" group-title="Netherlands",NL: Ziggo Sport HD
+#EXTINF:-1 tvg-id="ZiggoSport.nl" tvg-logo="https://logo.m3uassets.com/ziggosport.png" group-title="Netherlands Sport",NL: Ziggo Sport HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169219&extension=ts&play_token=pfBsA71Drs
-#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-logo="https://logo.m3uassets.com/ziggosport2.png" group-title="Netherlands",NL: Ziggo Sport 2 FHD
+#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-logo="https://logo.m3uassets.com/ziggosport2.png" group-title="Netherlands Sport",NL: Ziggo Sport 2 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169218&extension=ts&play_token=7P2Gnjw7Aj
-#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-logo="https://logo.m3uassets.com/ziggosport2.png" group-title="Netherlands",NL: Ziggo Sport 2 HD
+#EXTINF:-1 tvg-id="ZiggoSport2.nl" tvg-logo="https://logo.m3uassets.com/ziggosport2.png" group-title="Netherlands Sport",NL: Ziggo Sport 2 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169217&extension=ts&play_token=UdXa6sDWFg
-#EXTINF:-1 tvg-id="ZiggoSport3.nl" tvg-logo="https://logo.m3uassets.com/ziggosport3.png" group-title="Netherlands",NL: Ziggo Sport 3 FHD
+#EXTINF:-1 tvg-id="ZiggoSport3.nl" tvg-logo="https://logo.m3uassets.com/ziggosport3.png" group-title="Netherlands Sport",NL: Ziggo Sport 3 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169216&extension=ts&play_token=9ZxVkn4ZcX
-#EXTINF:-1 tvg-id="ZiggoSport3.nl" tvg-logo="https://logo.m3uassets.com/ziggosport3.png" group-title="Netherlands",NL: Ziggo Sport 3 HD
+#EXTINF:-1 tvg-id="ZiggoSport3.nl" tvg-logo="https://logo.m3uassets.com/ziggosport3.png" group-title="Netherlands Sport",NL: Ziggo Sport 3 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169215&extension=ts&play_token=ZLmFdIEmEv
-#EXTINF:-1 tvg-id="ZiggoSport4.nl" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-title="Netherlands",NL: Ziggo Sport 4 FHD
+#EXTINF:-1 tvg-id="ZiggoSport4.nl" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-title="Netherlands Sport",NL: Ziggo Sport 4 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169214&extension=ts&play_token=1RwMCSwv8l
-#EXTINF:-1 tvg-id="ZiggoSport4.nl" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-title="Netherlands",NL: Ziggo Sport 4 HD
+#EXTINF:-1 tvg-id="ZiggoSport4.nl" tvg-logo="https://logo.m3uassets.com/ziggosport4.png" group-title="Netherlands Sport",NL: Ziggo Sport 4 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169213&extension=ts&play_token=hq88qRNunP
-#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-logo="https://logo.m3uassets.com/ziggosport5.png" group-title="Netherlands",NL: Ziggo Sport 5 FHD
+#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-logo="https://logo.m3uassets.com/ziggosport5.png" group-title="Netherlands Sport",NL: Ziggo Sport 5 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169212&extension=ts&play_token=25Yj8rBD91
-#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-logo="https://logo.m3uassets.com/ziggosport5.png" group-title="Netherlands",NL: Ziggo Sport 5 HD
+#EXTINF:-1 tvg-id="ZiggoSport5.nl" tvg-logo="https://logo.m3uassets.com/ziggosport5.png" group-title="Netherlands Sport",NL: Ziggo Sport 5 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169211&extension=ts&play_token=1O5HCqZDGs
-#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-logo="https://logo.m3uassets.com/ziggosport6.png" group-title="Netherlands",NL: Ziggo Sport 6 FHD
+#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-logo="https://logo.m3uassets.com/ziggosport6.png" group-title="Netherlands Sport",NL: Ziggo Sport 6 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169210&extension=ts&play_token=l2cdq6Y9hc
-#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-logo="https://logo.m3uassets.com/ziggosport6.png" group-title="Netherlands",NL: Ziggo Sport 6 HD
+#EXTINF:-1 tvg-id="ZiggoSport6.nl" tvg-logo="https://logo.m3uassets.com/ziggosport6.png" group-title="Netherlands Sport",NL: Ziggo Sport 6 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169209&extension=ts&play_token=y88lSUd8fS
-#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Netherlands",NL: Eurosport 1 FHD
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Netherlands Sport",NL: Eurosport 1 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169208&extension=ts&play_token=7vvOVVtq1g
-#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Netherlands",NL: Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.nl" tvg-logo="https://logo.m3uassets.com/eurosport1.png" group-title="Netherlands Sport",NL: Eurosport 1 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169207&extension=ts&play_token=LQl791BXP8
-#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Netherlands",NL: Eurosport 2 FHD
+#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Netherlands Sport",NL: Eurosport 2 FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169206&extension=ts&play_token=77qmYDrZaE
-#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Netherlands",NL: Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.nl" tvg-logo="https://logo.m3uassets.com/eurosport2.png" group-title="Netherlands Sport",NL: Eurosport 2 HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169205&extension=ts&play_token=lxNYnP6WRG
-#EXTINF:-1 tvg-id="Film1Action.nl" tvg-logo="https://logo.m3uassets.com/film1action.png" group-title="Netherlands",NL: Film1 Action FHD
+#EXTINF:-1 tvg-id="Film1Action.nl" tvg-logo="https://logo.m3uassets.com/film1action.png" group-title="Netherlands Films",NL: Film1 Action FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169203&extension=ts&play_token=Moy4fq9Tmf
-#EXTINF:-1 tvg-id="Film1Action.nl" tvg-logo="https://logo.m3uassets.com/film1action.png" group-title="Netherlands",NL: Film1 Action HD
+#EXTINF:-1 tvg-id="Film1Action.nl" tvg-logo="https://logo.m3uassets.com/film1action.png" group-title="Netherlands Films",NL: Film1 Action HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169202&extension=ts&play_token=pBK2rpqqEE
-#EXTINF:-1 tvg-id="Film1Drama.nl" tvg-logo="https://logo.m3uassets.com/film1drama.png" group-title="Netherlands",NL: Film1 Drama FHD
+#EXTINF:-1 tvg-id="Film1Drama.nl" tvg-logo="https://logo.m3uassets.com/film1drama.png" group-title="Netherlands Films",NL: Film1 Drama FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169201&extension=ts&play_token=zHxXgttoVz
-#EXTINF:-1 tvg-id="Film1Drama.nl" tvg-logo="https://logo.m3uassets.com/film1drama.png" group-title="Netherlands",NL: Film1 Drama HD
+#EXTINF:-1 tvg-id="Film1Drama.nl" tvg-logo="https://logo.m3uassets.com/film1drama.png" group-title="Netherlands Films",NL: Film1 Drama HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169200&extension=ts&play_token=ffEWE3OixB
-#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-logo="https://logo.m3uassets.com/film1premiere.png" group-title="Netherlands",NL: Film1 Premiere FHD
+#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-logo="https://logo.m3uassets.com/film1premiere.png" group-title="Netherlands Films",NL: Film1 Premiere FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169199&extension=ts&play_token=gvMxPAMkwO
-#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-logo="https://logo.m3uassets.com/film1premiere.png" group-title="Netherlands",NL: Film1 Premiere HD
+#EXTINF:-1 tvg-id="Film1Premiere.nl" tvg-logo="https://logo.m3uassets.com/film1premiere.png" group-title="Netherlands Films",NL: Film1 Premiere HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169198&extension=ts&play_token=1yJVl0sOhP
-#EXTINF:-1 tvg-id="Film1Family.nl" tvg-logo="https://logo.m3uassets.com/film1family.png" group-title="Netherlands",NL: Film1 Family FHD
+#EXTINF:-1 tvg-id="Film1Family.nl" tvg-logo="https://logo.m3uassets.com/film1family.png" group-title="Netherlands Films",NL: Film1 Family FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169197&extension=ts&play_token=jRPxyHEkm1
-#EXTINF:-1 tvg-id="Film1Family.nl" tvg-logo="https://logo.m3uassets.com/film1family.png" group-title="Netherlands",NL: Film1 Family HD
+#EXTINF:-1 tvg-id="Film1Family.nl" tvg-logo="https://logo.m3uassets.com/film1family.png" group-title="Netherlands Films",NL: Film1 Family HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169196&extension=ts&play_token=rHOG64kQ3C
-#EXTINF:-1 tvg-id="FOX.nl" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="Netherlands",NL: Fox FHD
+#EXTINF:-1 tvg-id="FOX.nl" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="Netherlands ",NL: Fox FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169191&extension=ts&play_token=cnHmuw16mF
 #EXTINF:-1 tvg-id="FOX.nl" tvg-logo="https://logo.m3uassets.com/fox.png" group-title="Netherlands",NL: Fox HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169190&extension=ts&play_token=bNKVpkUJeT
@@ -217,17 +217,17 @@ http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=16
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169134&extension=ts&play_token=uWmfZoIN1R
 #EXTINF:-1 tvg-id="NickMusic.nl" tvg-logo="https://logo.m3uassets.com/nickmusic.png" group-title="Netherlands",NL: Nick Music
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169133&extension=ts&play_token=OkMLBwzGeP
-#EXTINF:-1 tvg-id="MTV.nl" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Netherlands",NL: MTV FHD
+#EXTINF:-1 tvg-id="MTV.nl" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Netherlands Music",NL: MTV FHD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169132&extension=ts&play_token=rO3qjKQT9A
-#EXTINF:-1 tvg-id="MTV.nl" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Netherlands",NL: MTV HD
+#EXTINF:-1 tvg-id="MTV.nl" tvg-logo="https://logo.m3uassets.com/mtv.png" group-title="Netherlands Music",NL: MTV HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169131&extension=ts&play_token=Y465RKOQcD
-#EXTINF:-1 tvg-id="MTV90s.nl" tvg-logo="https://logo.m3uassets.com/mtv90s.png" group-title="Netherlands",NL: MTV 90s
+#EXTINF:-1 tvg-id="MTV90s.nl" tvg-logo="https://logo.m3uassets.com/mtv90s.png" group-title="Netherlands Music",NL: MTV 90s
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169130&extension=ts&play_token=avuhGqwZQg
-#EXTINF:-1 tvg-id="SLAM.nl" tvg-logo="https://logo.m3uassets.com/slamtv.png" group-title="Netherlands",NL: Slam! TV
+#EXTINF:-1 tvg-id="SLAM.nl" tvg-logo="https://logo.m3uassets.com/slamtv.png" group-title="Netherlands Music",NL: Slam! TV
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169129&extension=ts&play_token=pq83Kiuhwd
-#EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://logo.m3uassets.com/xite.png" group-title="Netherlands",NL: Xite HD
+#EXTINF:-1 tvg-id="XITE.nl" tvg-logo="https://logo.m3uassets.com/xite.png" group-title="Netherlands Music",NL: Xite HD
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169128&extension=ts&play_token=qJPgv9dep2
-#EXTINF:-1 tvg-id="192TV.nl" tvg-logo="https://logo.m3uassets.com/192tv.png" group-title="Netherlands",NL: 192 TV
+#EXTINF:-1 tvg-id="192TV.nl" tvg-logo="https://logo.m3uassets.com/192tv.png" group-title="Netherlands Music",NL: 192 TV
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169127&extension=ts&play_token=thApTkwSVg
-#EXTINF:-1 tvg-id="TV538.nl" tvg-logo="https://iptv-epg.org/images/7Qa3lj6W_eKF4600U5WUTUWLQgJ9kWx9Lzuv29snNGwUcRTHSwblHexucn6CbPjAR5DIgOcROvFroQIJR8UEGfIsh_zHlpwDT6YaIe2IkRVVrFg" group-title="Netherlands",NL: 538 TV
+#EXTINF:-1 tvg-id="TV538.nl" tvg-logo="https://iptv-epg.org/images/7Qa3lj6W_eKF4600U5WUTUWLQgJ9kWx9Lzuv29snNGwUcRTHSwblHexucn6CbPjAR5DIgOcROvFroQIJR8UEGfIsh_zHlpwDT6YaIe2IkRVVrFg" group-title="Netherlands Music",NL: 538 TV
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:78:4A:38&stream=169231&extension=ts&play_token=4DpzQEUtrh
