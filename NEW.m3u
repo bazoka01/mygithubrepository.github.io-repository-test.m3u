@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hungary/spiler-1-hu.png?raw=true",Spíler 1
-https://node3-hu-bud-invitech.sweet.tv/stream/gsvnnt7uf3ecug9hw939xkdifzcrkc3yyau3shqzfrddjfa9pru29vufhmsb3ruky8gjy4f3cng7tz8vk4qpcv8qapaha785nkqhiwbfrwp6a8dxe6hf2m92dj9a9b49ykvwwemhy7eeqh7ctke4n44rsvuhuxm2qugnxdhhyaxsinxbwx5dbnqqnyzm6===.m3u8
+#EXTINF:-1,Spíler 1
+http://z1mag.xyz:8080/play/live.php?mac=00:1A:79:BF:A1:A3&stream=826450&extension=ts&play_token=GaOoYjXxaO
