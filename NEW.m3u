@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnlmY9N7cY1--VsoeL4nRLR_20fM_LULdcyDsyi6WEow&s",Fox Live Now
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-plus-us.png?raw=true" group-title="XCV",XCV
 http://dnsvod.com:8080/movie/Jpg2210233/Rk8zS5x9kQ/462534.mp4
