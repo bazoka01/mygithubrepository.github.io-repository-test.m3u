@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-plus-us.png?raw=true" group-title="XCV",XCV
-http://dnsvod.com:8080/movie/Jpg2210233/Rk8zS5x9kQ/462534.mp4
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-plus-us.png?raw=true" group-title="Movies",VOD
+http://fullhdtv.link:8080/play/movie.php?mac=10:27:BE:24:80:86&stream=1190319.mkv&play_token=YVRQCwjkqU&type=movie
