@@ -1,0 +1,59 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_SK1.xml.gz"
+#EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza.png" group-title="SK • SLOVAKIA",MARKÍZA
+#EXTINF:-1 tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza.png" group-title="SK • SLOVAKIA",MARKÍZA
+#EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza.png" group-title="SK • SLOVAKIA",MARKÍZA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101161&extension=ts
+#EXTINF:-1 tvg-id="JOJ.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/joj.png" group-title="SK • SLOVAKIA",JOJ
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101160&extension=ts
+#EXTINF:-1 tvg-id="Jednotka.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/jednotka.png" group-title="SK • SLOVAKIA",JEDNOTKA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101159&extension=ts
+#EXTINF:-1 tvg-id="Doma.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/doma.png" group-title="SK • SLOVAKIA",DOMA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101158&extension=ts
+#EXTINF:-1 tvg-id="JOJ.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/joj-plus.png" group-title="SK • SLOVAKIA",JOJ PLUS
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101157&extension=ts
+#EXTINF:-1 tvg-id="DAJTO.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/dajto.png" group-title="SK • SLOVAKIA",DAJTO
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101156&extension=ts
+#EXTINF:-1 tvg-id="Wau.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/wau.png" group-title="SK • SLOVAKIA",WAU
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101155&extension=ts
+#EXTINF:-1 tvg-id="Markíza.KRIMI.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza-krimi.png" group-title="SK • SLOVAKIA",MARKÍZA KRIMI
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101154&extension=ts
+#EXTINF:-1 tvg-id="Dvojka.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/dvojka.png" group-title="SK • SLOVAKIA",DVOJKA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101153&extension=ts
+#EXTINF:-1 tvg-id="JOJ.Cinema.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/joj-cinema-plus-1.png" group-title="SK • SLOVAKIA",JOJ CINEMA+1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101152&extension=ts
+#EXTINF:-1 tvg-id="JOJ.Svet.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/joj-svet.png" group-title="SK • SLOVAKIA",JOJ SVET
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101151&extension=ts
+#EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza-plus-1.png" group-title="SK • SLOVAKIA",MARKÍZA +1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101150&extension=ts
+#EXTINF:-1 tvg-id="JOJ.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/joj-plus-1.png" group-title="SK • SLOVAKIA",JOJ+1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101149&extension=ts
+#EXTINF:-1 tvg-id="TA3.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/ta3.png" group-title="SK • SLOVAKIA",TA3
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101148&extension=ts
+#EXTINF:-1 tvg-id="JOJ.24.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/joj-24.png" group-title="SK • SLOVAKIA",JOJ 24
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101147&extension=ts
+#EXTINF:-1 tvg-id=":24.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/rtvs-24.png" group-title="SK • SLOVAKIA",RTVS 24
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101146&extension=ts
+#EXTINF:-1 tvg-id=":24.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/24.png" group-title="SK • SLOVAKIA",24
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101145&extension=ts
+#EXTINF:-1 tvg-id="Sport1.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/sport-1.png" group-title="SK • SLOVAKIA",SPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101143&extension=ts
+#EXTINF:-1 tvg-id="Sport2.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/sport-2.png" group-title="SK • SLOVAKIA",SPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101142&extension=ts
+#EXTINF:-1 tvg-id="Arena.Sport.1.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/arena-sport-1.png" group-title="SK • SLOVAKIA",ARENA SPORT 1
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101141&extension=ts
+#EXTINF:-1 tvg-id="Arena.Sport.2.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/arena-sport-2.png" group-title="SK • SLOVAKIA",ARENA SPORT 2
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101140&extension=ts
+#EXTINF:-1 tvg-id="JOJ.ŠPORT.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/joj-sport.png" group-title="SK • SLOVAKIA",JOJ SPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101139&extension=ts
+#EXTINF:-1 tvg-id=":ŠPORT.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/rtvs-sport.png" group-title="SK • SLOVAKIA",RTVS SPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101138&extension=ts
+#EXTINF:-1 tvg-id="CANAL+.Sport.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/canal-plus-sport.png" group-title="SK • SLOVAKIA",CANAL+ SPORT
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101137&extension=ts
+#EXTINF:-1 tvg-id="Senzi.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/senzi.png" group-title="SK • SLOVAKIA",SENZI
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101135&extension=ts
+#EXTINF:-1 tvg-id="LaLa.TV.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/lala-tv.png" group-title="SK • SLOVAKIA",LALA TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101134&extension=ts
+#EXTINF:-1 tvg-id="TV.RiK.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/rik-tv.png" group-title="SK • SLOVAKIA",RIK TV
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101133&extension=ts
+#EXTINF:-1 tvg-id="Folklorika.TV.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/folklorika.png" group-title="SK • SLOVAKIA",FOLKLORIKA
+http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101132&extension=ts
