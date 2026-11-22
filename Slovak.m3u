@@ -2,6 +2,8 @@
 #EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza.png" group-title="SK • SLOVAKIA",MARKÍZA
 #EXTINF:-1 tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza.png" group-title="SK • SLOVAKIA",MARKÍZA
 #EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza.png" group-title="SK • SLOVAKIA",MARKÍZA
+#EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza.png" group-title="SK • SLOVAKIA",MARKÍZA
+#EXTINF:-1 tvg-id="Markíza.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/markiza.png" group-title="SK • SLOVAKIA",MARKÍZA
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101161&extension=ts
 #EXTINF:-1 tvg-id="JOJ.HD.sk" tvg-logo="https://www.logolarimiz.com/Toplu/Slovakia/joj.png" group-title="SK • SLOVAKIA",JOJ
 http://spacextv.live:8080/play/live.php?mac=00:1A:79:BB:F6:3A&stream=1101160&extension=ts
