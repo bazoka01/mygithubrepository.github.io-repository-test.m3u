@@ -1,0 +1,187 @@
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-hu.xml"
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Alföld TV (1080p)
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.hu" tvg-logo="https://iptv-epg.org/images/KySO6aGAoGvwsjQWGbNFxVIHqZDFY3mfXPxJ1qiOsfYTYdkW5zPAH57C-U4pYR40Szq6dNok1hCk_ww8XDZ8eflMu6HcNXbjxyBKrUob9L-wPwZlriM" group-title="",Animal Planet
+http://88.212.7.14/live/animal_hun/index.m3u8
+#EXTINF:-1 tvg-id="ApostolTV.hu" tvg-logo="https://iptv-epg.org/images/SukTmO2YGhVz4zaXJyU3ydfk6NzKQ8opFgqn-eQy3gXKvRdlGMFZPjEIKn_w8E-c4M8wIXZVv6zziC58pnqGjnPUugckhprqEfnPGzIT-tMdQ88" group-title="",Apostol TV (576p)
+https://live.apostoltv.hu/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Arena4.hu" tvg-logo="https://iptv-epg.org/images/NmSYg4QwhXzKOZu9ewMiotS19KB6bc46zVVa5sth9gdcg0NZJC9oLCNyuBm41JqQ_ji0P2VXF4foRj5_RjspehUE3Jtef8-U9-a4NP3Ju34" group-title="",Arena4
+http://88.212.7.14/live/arena4/index.m3u8
+#EXTINF:-1 tvg-id="ATV.hu" tvg-logo="https://iptv-epg.org/images/JczznVvU5wKr7spHdJBBUCZgvBEZX9Q5ZWiPOk9dF6lq-SsuBZqCbMjNivXFAfivi6O0LSmXM1j6OIT0-0JoPbI6Gu7IJPue1JXWrIM" group-title="",ATV
+http://88.212.7.14/live/test_atv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="ATVSpirit.hu" tvg-logo="https://iptv-epg.org/images/jJE7_u1xH5MWlmy3J4NlzS2DFp98lNJVJucCUV8Po24e9mI7j5ajHILiLaJCWxVyBNgH_2Ie_qV9-1oYNpJljYnnwaqFs1q6tOgxq1MxGnvmE7s" group-title="",ATV Spirit
+http://88.212.7.14/live/test_atv_spirit/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",AXN Crime
+http://88.212.7.14/live/test_atv_spirit/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Balaton TV (432p)
+https://stream.iptvservice.eu/hls/balatontv.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Budapest Televízió (576p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinemax2.hu" tvg-logo="https://iptv-epg.org/images/oLevVCKVkaedItG--24qkp3Mx5EcNCXbhdsIpCkNLybmKzAK4x7TzjGta-E2JVMduEl_YcWdrBJkhXAZRzuilMl2UlXqQKJ4wpXjhjVCpm7LTg" group-title="",Cinemax 2
+http://193.33.39.108:9009/play/a024
+#EXTINF:-1 tvg-id="Cinemax.hu" tvg-logo="https://iptv-epg.org/images/lnpDT2YnGbkEeiea5_uCOsR0qdLC7C71JzG8xEoM7aKjoBdZWKByx6NHADUEdJG7QKByDSQqHI5yFlEoP49A7U5AKt4ydyRYGDY586mXdUiJ" group-title="",Cinemax
+http://193.33.39.108:9023/play/a01b
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",City TV
+https://citytv.hu/playlist.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.hu" tvg-logo="https://iptv-epg.org/images/xNXhpvhs5T0Tvo26ESrjaDBvrv7RoKUH_SrFQLmVmcLqLlrzcSFHdIoi1hnGTdQWnQyeEvJS9izp2pClo1YuEaBVaerAASLvtHanoIuw8NIfZ6VP1s0ZJ7fH" group-title="",Discovery Channel
+http://88.212.7.14/live/discovery_hungary/index.m3u8
+#EXTINF:-1 tvg-id="DUNATelevizio.hu" tvg-logo="https://iptv-epg.org/images/vCjx3CuHMXxTuEp9fp9px2s1809u061Zv50mDdRIqfi_9e5fq3sCNGSLUUJFAnG9oiybwQIYM0XfGIBrR7jx7nA79c5a_Q7CaA6R31bzJISqVIqYbyLh" group-title="",Duna
+http://88.212.7.14/live/duna_hun/index.m3u8
+#EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://iptv-epg.org/images/vJdixAFWyfphsmuHoGhUnr4hFxPBAbxLrnVaBZzX6lP1Qe-faYSAOgcXZ-C_LnAGv-behQKAk0la22aDoSYoPe_H9urnOoIKqEMjiCGib8dxrn0" group-title="",Duna World
+http://88.212.7.14/live/duna_world_hun/index.m3u8
+#EXTINF:-1 tvg-id="FEM3.hu" tvg-logo="https://iptv-epg.org/images/KLStE8MN0EZBw-5CSFTGZk2rqDQtVz5WMAEGEK8Yg5Iv3QdFr3AVMVFF9G57sD-FtzATfXQmhYd9T1KhZhWaFEe973wHqHT9hujN9Zr0" group-title="",FEM3
+http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Film4.hu" tvg-logo="https://iptv-epg.org/images/g1SvJV3aQ7kk3IlnJTn9sqenGOPSnxmc0NnfPYQs0CJOnbFZWzeTi4XQY-U5CCzvn_GE-ufpZN6bkl33QQldlE46rUkduW4XyM00VopE5Q" group-title="",Film4
+http://88.212.7.14/live/film4_hun/index.m3u8
+#EXTINF:-1 tvg-id="Filmcafe.hu" tvg-logo="https://iptv-epg.org/images/6V8RWGtFjT3apDtCPX6YAeVN7Y3RxixWLjXl4udA2PCt0qa4aOHGyPBLga5uYLjGQhsuP5c-LclOw-M2CZddyTQfl3LzeE3a9AtMxP1LrNoPAw" group-title="",Film Cafe
+http://88.212.7.14/live/film_cafe/index.m3u8
+#EXTINF:-1 tvg-id="Film+.hu" tvg-logo="https://iptv-epg.org/images/QfXH9oBzGaSznf0uWHtPgUKBOspL28pCaZzV5uIGO6EqwHyavhROPKM2WCi9aTz9Cp4q5wuFhCFZ-LENifGDguvTKkcGgqkADCxrhrbH83Rs" group-title="",Film+
+http://88.212.7.14/live/film_plus_hun_atk/index.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork.hu" tvg-logo="https://iptv-epg.org/images/SZkgys2SfKyYYFZqJjwHpsphPbCnlinRxUTOxnfrfKtFGTZkQ11Crv7zzjyhhxOjYVIiTfGcOEfeILG1L2VImAv_UPF9N_6EdkMEThTAs0OoQl7sKA" group-title="",Food Network
+http://88.212.7.14/live/fn_hungary/index.m3u8
+#EXTINF:-1 tvg-id="Galaxy4.hu" tvg-logo="https://iptv-epg.org/images/PUaQkKltHlBgwBdqXglecNXju544n4SRmPlEMiGV2aMERL6nLxPmJaaTadtl9Y5ZGACov2fKj15D_Vj01PinqvHZOhq9h2QCwQhvVk0oUNDR" group-title="",Galaxy4
+https://budapest-cache-1.antik.sk/live/test_galaxy_4_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="GyongyosiTV.hu" tvg-logo="https://iptv-epg.org/images/vibPKjZQ6nOMkUna6hzZB_EC_qQ88Q2g_FAQRsb7bU4lEHWOnaTsOIzlFqRU7E4wkTA4NO83YotnR8i1Kjqk4DhSq1pEcF-TEucS62PZW3mBd1C6zw" group-title="",Gyöngyösi TV (420p)
+https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE043.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",HGTV
+http://88.212.7.14/live/hgtv_hun/index.m3u8
+#EXTINF:-1 tvg-id="HISTORY.hu" tvg-logo="https://iptv-epg.org/images/cXnfF3TexYPeO1ZeCUNlZsDDw9MWdlGpyBZv8__8aVIuhDz4Alrf5j8i8kPgbEn6y-XarQ13ebzJh3xMMXyKHArE8CXFo-ppphERYXWqpqPF" group-title="",History
+http://88.212.7.14/live/history_hun/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.hu" tvg-logo="https://iptv-epg.org/images/0C4gK3MzvIqoxRr8x5T-fWqL8LDElnRWyRafNRggHOfcjTFe_ziwA2F-Q3qKKUKa5fFqt16I1cMf11_LCzya0xVQCMoUhEyRfuXsHdOriiOCrHekqG7NA1eTeVI2pjkI" group-title="",Investigation Discovery
+http://88.212.7.14/live/id_hun/index.m3u8
+#EXTINF:-1 tvg-id="IzauraTV.hu" tvg-logo="https://iptv-epg.org/images/SUnFbvnPREfZLtwe9lofH_25k60VwmbNDKWCovzvq3XVkDlVpQgWi1yDEPK1jHtA2p83nFRlofSJtSLRO51Ma-HPX3qFkEaxDqYDTjGJwOA4Rg" group-title="",Izaura TV (1080p)
+http://88.212.7.14/live/izaura/index.m3u8
+#EXTINF:-1 tvg-id="JimJam.hu" tvg-logo="https://iptv-epg.org/images/7ZSZ5Biu1Mo_8Lif90xcKqeC7_RuoOA0YwWXlZyz0zpJ5jy3MMOOumFRgWOLuUYGaCH-hBLV1slwhYjNPZR5ImttEdwxV57l7ed_wFP6iE4" group-title="",JimJam
+http://88.212.7.14/live/jim_jam_hun/index.m3u8
+#EXTINF:-1 tvg-id="JockyTV.hu" tvg-logo="https://iptv-epg.org/images/ZkOzSuMr3I4siBiaUOzI9zCnHnJJOydvaqmA663my6JBIR0uaXVA_qwjnJkVCDEcpuSdHeJwXbB8Fm0JyfO_jVVSzbXQ6jyOrxJZHmB7tfuu" group-title="",Jocky TV
+http://88.212.7.14/live/jocky/index.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Kecskemeti TV (416p) [Not 24/7]
+https://eurobioinvest.hu:444/live/ktv.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Kölyökklub
+http://88.212.7.14/live/kolyokklub_atk/index.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Komáromi Televízió (400p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Komlós TV (1080p)
+https://stream.streaming4u.hu/KomlosTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="LifeTv.hu" tvg-logo="https://iptv-epg.org/images/O6RhuLENzZuHkNMvNizsBnetiiDn-GzLCDcB0_tVenoJf8DihE_o9p8xO_6cQRkIPFNmZ2RP8eN_itkb8GS6gy8RUhQu-f6lPtWhFg1qMd4" group-title="",Life TV
+http://88.212.7.14/live/lifetv/index.m3u8
+#EXTINF:-1 tvg-id="m1.hu" tvg-logo="https://iptv-epg.org/images/2oWl939N3F4dBUiqyGP6W9EzJrG1Z3yRmwBUGkdua9dmcKlHFZ8jEs7fM06BqLRro3jtgfWWmqJXrOWNaAk-KJlGnhxg9LlA0Pb17Q" group-title="",M1 HD
+http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="m2PetofiTV.hu" tvg-logo="https://iptv-epg.org/images/V6DsPjqTn3YPIKvJb5aB0u5flXhLomZTFcJmXFz_irnTuBuV-OHzGhaHtMpOItyoIEI02yp1nZ6MlnGWK16O2LxdQ6h8YyIGkq22JW2vQYF-ZXd1" group-title="",M2 (1080p)
+http://88.212.7.14/live/m2_hun/index.m3u8
+#EXTINF:-1 tvg-id="M4Sport.hu" tvg-logo="https://iptv-epg.org/images/Y5UnGoFX1Wp9i1NRPSkPkWrCRcHKEdNi4v44kCUyxQ05fg0Hejaz6ur0nrni-eowFEwG9M3wtqOv2LSRhdLC8e5gmc19nrBFMStSf8iKScb2" group-title="",M4 Sport (1080p)
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 tvg-id="M5.hu" tvg-logo="https://iptv-epg.org/images/GIg_cYajPqnkjzks7bkva37d19jiTOgi8pO5kAAIe0fLalGyEliLjEG5QBZGhK_fVPLPt7iyAg6fN2SfrW2zUojuILXeCIehBjBjVw" group-title="",M5 (1080p)
+http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Magyar Mozi TV
+http://88.212.7.14/live/mozi/index.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Makói Városi (576p)
+http://makomedia.mikrohalo.hu/hls/makotv.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Match4 (1080p)
+http://141.94.193.53/Match4_HD/index.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",MAX4 (1080p)
+http://141.94.193.53/MAX4_HD/index.m3u8
+#EXTINF:-1 tvg-id="Minimax.hu" tvg-logo="https://iptv-epg.org/images/8SI-G5FaUlGuOBIXCv2S_ugo9ov6s6klJyKkfEjwswvjY-OXEJiVUhVX-Ae1j_VsyRamKJp8rxRzBxOx3WCIUyWobWdkjrCE5Fy_631sXK2B" group-title="",Minimax
+http://88.212.7.14/live/minimax_hun/index.m3u8
+#EXTINF:-1 tvg-id="Mozi+.hu" tvg-logo="https://iptv-epg.org/images/bfQq45n20aWqQsRqAYLTdtqG0I2Tg_LKOLOiwoNT6TfhrAM00mcs4CvPgVMUN6WQg1khV-1mHwznZBXvHSjqKmVCkGr2205xxeaG2mvs-QpU" group-title="",Mozi+
+http://88.212.7.14/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Moziklub
+http://88.212.7.14/live/moziklub_atk/index.m3u8
+#EXTINF:-1 tvg-id="Moziverzum.hu" tvg-logo="https://iptv-epg.org/images/7j5IJCapTsapWQ-95JAA4lQ0uQwP24joVFY5fi7tHNbvCNLbpaJqv1cOYwYqEdRM76GZeBUKFZQZmK_It-fBkpsY44wF0l5wZEqO2UPyNDCnR4Et" group-title="",Moziverzum
+http://88.212.7.14/live/moziverzum/index.m3u8
+#EXTINF:-1 tvg-id="MuzsikaTV.hu" tvg-logo="https://iptv-epg.org/images/-JjOHFHTvxgK__DQ_wMyxGc1_DjZMItQkkjn1ReAwwUfTCrYrWcPxUe0YEjxJ-5YplGXQmVpB0Brlq_PeFXhCNLcR0hnLDZfHyfn8MRwvu8Zn38" group-title="",Muzsika TV
+http://88.212.7.14/live/test_muzsika_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.hu" tvg-logo="https://iptv-epg.org/images/VJri4Vvxypb8XvwYEZuIT18rIHY1o2LyM72ep567iWNjimNNi2guorz0spyEr2o6L4n-aINmNyXyW7N5GW2133gLIFQ09_1hK_FkNdJRvKQRSyA8Jdogx0YTP6g" group-title="",National Geographic
+http://88.212.7.14/live/ngc_hun/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.hu" tvg-logo="https://iptv-epg.org/images/cF-A2Psnziph3_xSVNilqNONGDWYPAJtJnYFTqmRWpKwkDiIzYvvcW9-CfM6_KdU0nDPkC0FJl1XK6QYhHJYb5i-8uWDk5v4D4h8R2oUL3V1LSwyED8gjVmq_HV-qwW6" group-title="",National Geographic Wild
+http://88.212.7.14/live/nick_junior_hun/index.m3u8
+#EXTINF:-1 tvg-id="NickJr.hu" tvg-logo="https://iptv-epg.org/images/VrqPd3ZHZ1C8sd0OGPVhlnKFcDdcbWrMy-mPwHpl-B9tifxxf8-NSwIUMmjkWALpQQUJD4xPcjbJ9hS0bElVVhoqYv4MMMexwtWdDFtTuT4" group-title="",Nick Jr.
+http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-logo="https://iptv-epg.org/images/tf8uq_tOV6_XFZSk43q4M3vXJBnitFulK3fMe3nwBSrXdJqc7GuykVWhEJnGj4xe6bpYJo27GZ-GdLOr61i9VAgDcShqV9FiAY6qBuoNdOfdiWaEmA" group-title="",Nickelodeon
+http://193.33.39.108:9011/play/a017
+#EXTINF:-1 tvg-id="Nickelodeon.hu" tvg-logo="https://iptv-epg.org/images/tf8uq_tOV6_XFZSk43q4M3vXJBnitFulK3fMe3nwBSrXdJqc7GuykVWhEJnGj4xe6bpYJo27GZ-GdLOr61i9VAgDcShqV9FiAY6qBuoNdOfdiWaEmA" group-title="",Nickelodeon
+http://193.33.39.108:9011/play/a017
+#EXTINF:-1 tvg-id="Nicktoons.hu" tvg-logo="https://iptv-epg.org/images/MjvernNRSg0vEXErDTQ-0JgvNnyEheUQJDuDpsTK9HJqLGrIVv52wGN4HW-JJn0S0GTeVOVLItpY3RtPIQG7s-auUqJpOXxVIn8DzHufQxEaI54" group-title="",Nicktoons
+http://88.212.7.14/live/nicktoons_hungary/index.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Országgyűlés (Plenáris) (720p) [Not 24/7]
+https://plenaris.parlament.hu:446/edgelive/smil:mkogyplen.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Oxygen Music (1080p)
+https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Ózdi Városi TV (720p) [Not 24/7]
+http://stream.nmih.hu:7980/live.m3u8
+#EXTINF:-1 tvg-id="OzoneTv.hu" tvg-logo="https://iptv-epg.org/images/XG3QZ-2akwMtfzi-buFCt9gJxmMb5_4vCrQmkS6JKfiKLYuIDK40mM_avJRfND5ER2sBq5rJXS3qDjlZFpzwOgx64Bcha7GCOTBNlYb_l_6t" group-title="",Ozone TV
+http://88.212.7.14/live/ozone/index.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Pannon RTV (648p)
+https://stream.nmih.hu:4102/live.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",PilisTV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/PilisTV/index.m3u8
+#EXTINF:-1 tvg-id="Prime.hu" tvg-logo="https://iptv-epg.org/images/r6W6TPdXwWMUmtApFbAQdZiYsf2-F4SSZR8nYmUehU-Gxo1tz_lE-t599eYYuvqkPlulv7g1ftKjKBT5_nXsHkrXLRaxTYzPCUDN-lKVhA" group-title="",Prime
+http://88.212.7.14/live/prime/index.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",RégióPlusz TV (1080p) [Geo-blocked]
+https://stream.streaming4u.hu/RegioPluszTV/index.m3u8
+#EXTINF:-1 tvg-id="RTLII.hu" tvg-logo="https://iptv-epg.org/images/g1gBMQnLrRAy-VeY1Bla2L1FWURRyhpoBA402NoRnJWR5A9EV4BbsoVAEVQ_Xua46gyYIbl39fDWjGeuOo6DJezqWZRiSA7I6ElgAWsMug" group-title="",RTL
+http://88.212.7.14/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLGold.hu" tvg-logo="https://iptv-epg.org/images/kO2UfsaZCNspkvObXplSLiMV-b_-phYbLhYip6dNzTUIwBObGGbt_ileP1rHXXEdLBbvKdeOEW3tF37VTQllkDpzxFx4t2mIBYXmhSBa3ocF" group-title="",RTL Gold
+https://budapest-cache-1.antik.sk/live/test_film_plus_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL+.hu" tvg-logo="https://iptv-epg.org/images/QI2ZcAQE_mFuQLxBpKHaS0FdRvfNyyiH97kBKqiiwvdHaaQMFX_el-4HVU2W5mCog39WubVyIjXKuCvbe-3WxtorMWRac-z0WinQ7Kb2vsk" group-title="",RTL Harom
+http://88.212.7.14/live/test_rtl_plus_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="RTLII.hu" tvg-logo="https://iptv-epg.org/images/g1gBMQnLrRAy-VeY1Bla2L1FWURRyhpoBA402NoRnJWR5A9EV4BbsoVAEVQ_Xua46gyYIbl39fDWjGeuOo6DJezqWZRiSA7I6ElgAWsMug" group-title="",RTL Ketto
+http://88.212.7.14/live/test_rtl2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",RTL Otthon
+http://88.212.7.14/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1 tvg-id="SlagerTV.hu" tvg-logo="https://iptv-epg.org/images/tckjp_p9gvmXsId9AwINqGyaqak0ZJb41YyENw_kQB3pZjtMjOjiO7j8SF7X_iKPT0DR28YfWys7a7CB_VyagIt3mSYjxXPHTSAD5ieQTeURqA" group-title="",Slager TV
+http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Sorozat+.hu" tvg-logo="https://iptv-epg.org/images/mGLb9to69kPsfgELKYyQLpqlIp6fvjpWSkQgd3fuWiDYWKURTx9N6_3rqx4OMtcOGBSO9pmcROrke9qjb3-8_iEh78NvCnZ8WmVGTbPh8pCVAaDN" group-title="",Sorozat+
+http://88.212.7.14/live/test_sorozat_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Sorozatklub
+http://88.212.7.14/live/sorozatklub_atk/index.m3u8
+#EXTINF:-1 tvg-id="Spektrum.hu" tvg-logo="https://iptv-epg.org/images/W8Husd5NEtcmI2g6YTZL0W6YqSCM-CAo43syjqxF-xEE_uQCVG4X39jqXe5c2q7vHBXL4QpSdzCTqJmbXvQph7H00io-GTCKXTFP7QMaTaE47A" group-title="",Spektrum
+http://88.212.7.14/live/spektrum_hun/index.m3u8
+#EXTINF:-1 tvg-id="SpektrumHome.hu" tvg-logo="https://iptv-epg.org/images/7nEmlQsL2DP3yhVZv61IVocp_VeacnmP_6mLZdcXl9MVoGDqn99RPCyYe2c-7de-QadGCDxj-Tsdy70D90gUL8zOs0KdBmErr2A2qI76u0LH2FE3AEc" group-title="",Spektrum Home
+http://88.212.7.14/live/spektrum_home_hun/index.m3u8
+#EXTINF:-1 tvg-id="Spiler1TV.hu" tvg-logo="https://iptv-epg.org/images/UlkEyjGoOUIIlLm4k-fv9jKvvHkvXQMU32fWQ3c0dhE3CfDUzskenmFsA3usZF85ZmY7zkRcfRmnkfEI2I57fSglBAvkS9jf9ZX3sxImGdGmpjE" group-title="",Spiler 1
+http://88.212.7.14/live/spiler1/index.m3u8
+#EXTINF:-1 tvg-id="Spiler2TV.hu" tvg-logo="https://iptv-epg.org/images/bQ9CKBhnN5tQN59FIYxUgQCBNdPxM4MgmKscxj41-GloxiyhRqgjAdi_cWSgXWCQ-cuykzLEMjcNzkxQ6tUnKDJpYZ3PQbpTeu9Nu_p1NsM8uCc" group-title="",Spiler 2
+http://88.212.7.14/live/spiler2/index.m3u8
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://iptv-epg.org/images/qDFVoIPRRK7Ph5o4lwFzF9bQJEzSPDcCsWng51z1ib_JzIt8hJ0OyKjYYDysnXvmPDBrN_W4CSbJBLPniz49_yoae94cOoNhfSD0bMvc3yQ" group-title="",Sport 1
+http://88.212.7.14/live/sport1_hun/index.m3u8
+#EXTINF:-1 tvg-id="Sport2.hu" tvg-logo="https://iptv-epg.org/images/F-iPOS9oxiXeLsrybxJM7JUxGlcwIsWk9yyyESG7__J7CusGN53mKE-N7LPuHtJChFHJGx5nX1JBmjZlBiPT9ClrG75wg9thXnZ8i376LBE" group-title="",Sport 2
+http://88.212.7.14/live/sport2_hun/index.m3u8
+#EXTINF:-1 tvg-id="STORY4.hu" tvg-logo="https://iptv-epg.org/images/FKOGt4DoAToTwEZMBB7lFjdUFu2t1FsCwjpMmZEvtz3NwpGgZbOKACyt-shaJzJSSOaIaptuFc5XiAu-Y67A1rCZrS7I_TJTSGIIb28JQyQ" group-title="",Story4
+http://88.212.7.14/live/test_story_4_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperTV2.hu" tvg-logo="https://iptv-epg.org/images/eKesnpDq9NyqakNH1dsSAlZZ20NQVsTW7U8VZakfm5PqDii8_ZLhxVLyZUZ0bo7VZzEnZnm5tgSWCsMZUq_-hF3P3dUdwKYOUqASBgODEBc8OQ" group-title="",Super TV2
+http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Szolnok TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="nincs" tvg-logo="" group-title="",Tatai TV (1080p)
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="FishingAndHunting.hu" tvg-logo="https://iptv-epg.org/images/ILOg9lmOfrfwHT0jIfl40jIfAJCxWAPOtk6Se_9mZJgK9UIJnwMNJhnrT5QSI9SrDz6ckyqXgrHrPyBJEH1K63fFFSWhO_35UEk9MtuF5d69wflDK3V5mghAYw" group-title="",The Fishing & Hunting Channel HD
+http://88.212.7.14/live/fishing_hun/index.m3u8
+#EXTINF:-1 tvg-id="TLC.hu" tvg-logo="https://iptv-epg.org/images/ZKto2-YMtoT6kQkEcaGqfUquq2etP_n3lZsUd2fF_Wu9hB2Um0Pw0ZTvDw-OTgrFISaerwqc8nJJDor08kDp5JR_DCkQkfMyrOx_MD0" group-title="",TLC
+http://88.212.7.14/live/tlc_hungary/index.m3u8
+#EXTINF:-1 tvg-id="TravelChannel.hu" tvg-logo="https://iptv-epg.org/images/Q1fbfxrYYxFCsSe5Z3rUgY_jj__i_0hh81WayINr72jpN6WxvxyX5GrQwpojZSt4uuKbuvkWXQPLdQX4xaJcaE1T8UktjzLZICpi-_iTUDvj2creQvF_" group-title="",Travel Channel
+http://88.212.7.14/live/travel_hun/index.m3u8
+#EXTINF:-1 tvg-id="TV2.hu" tvg-logo="https://iptv-epg.org/images/FtCzINjab2XdMuiTA8G7kG6Kma0k8BWuxn_4Pt4d5xs4SYA1LftjI6cBzBxq2jF84VwjnT18QuZVmbmkY13lNBGmsE3pjLYtuukRfgc" group-title="",TV2
+http://88.212.7.14/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TV2Comedy.hu" tvg-logo="https://iptv-epg.org/images/M4AT2Gs5BdDcwewnVuXTEqueeT_oRNdV3NvIpDrB2S8UlevdP2PQBIsScqgPVrFuP_Qd0lXhy9x_Yox6yMiGyilubcYjcpp1AC0F3cKPMUt0SBM" group-title="",TV2 Comedy
+http://88.212.7.14/live/tv2_comedy/index.m3u8
+#EXTINF:-1 tvg-id="TV2Kids.hu" tvg-logo="https://iptv-epg.org/images/1yagjGlKuaUUR9hF8rr2b5u94wTo6oH8pR_TrDGHHFA1DU5k3lbVN3HVDjpjF2jnQw3oXGDIu6uyQE8IYM6jXeye85ZKw1PeCqkWIpkVxkc3" group-title="",TV2 Kids
+http://88.212.7.14/live/tv2_kids/index.m3u8
+#EXTINF:-1 tvg-id="TV2Sef.hu" tvg-logo="https://iptv-epg.org/images/WVLQcp8jJi82aOaXxbOgvY9k-n06jtyLP0YhFeGTMefBPHvro4y_mXC-Qg7IHQS1pILJ-foyElMYDEk4IrQmzIT4X7TluzzokCk9ZOx7GXs" group-title="",TV2 Sef
+http://88.212.7.14/live/test_lichi_tv_atk_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV4.hu" tvg-logo="https://iptv-epg.org/images/9dYpmVMFXP-ZGQfjiq5ZpjlXVu4hFkfLzFhsM1R8pkjt3t716xVwaO8JPCWpOrDWUhbMSgFdkW1HFNRrSfUJ7conSlQdN_vTieZlTTo" group-title="",TV4
+http://88.212.7.14/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPaprika.hu" tvg-logo="https://iptv-epg.org/images/bEehuEdu3ocYZrv5HC0H0f9tcj_zEbPn30Y6DunE5nSjiwzPMFzQn1nw2h4ms66o6Bl3_o9ZXnN0ZQgQqPMTw8Pd0SeKYYggCgSj2btWBwflkDc" group-title="",TV Paprika
+http://88.212.7.14/live/parpika_hun/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT2.hu" tvg-logo="https://iptv-epg.org/images/zRQBEaQl2lN2ZKsLmoniJnJBFLPocPssPA5zMGFFLfo3mSapD1fngSF4kpwzZY5ql0DrgQLxJevwDyzGd4Sct7PLciYLvb-NFdGie5H_s5G5" group-title="",Viasat2
+http://88.212.7.14/live/viasat2/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT3.hu" tvg-logo="https://iptv-epg.org/images/BFCl6-RvM0fP971mNCmH-2_qUUhq6NsJP8rxsAxpPBzm5b1ESLQ6je4RgZ644YNwZocKe1tc2XEj4lqHRJjPJFRf7RWJZDqldBsD3kpklP76" group-title="",Viasat 3
+http://88.212.7.14/live/viasat3/index.m3u8
+#EXTINF:-1 tvg-id="VIASAT6.hu" tvg-logo="https://iptv-epg.org/images/3mae4rf8wnEF1wnWQzWLShJfYA3TnqFqvjnOLhoueRWbuI3mDA2rOKMcR8CspewWr7sJB_9Xx96VE5r8HzeQY5nxdkYxuHKFFjFZxuhDzIQx" group-title="",Viasat 6
+http://88.212.7.14/live/viasat6/index.m3u8
+#EXTINF:-1 tvg-id="ViasatHistory.hu" tvg-logo="https://iptv-epg.org/images/OE5n0gMUc-3dTIXykjgKqGn1jW53w9fACJT2jQf7ySu5ZZ3KPlq-q2D5d2x8cZDqsaLQAb4IlRpF-Rm5K3i87JKayOhRgv-fQwnlbyMDEGwDmVc_mxf6" group-title="",Viasat History
+http://193.33.39.108:9007/play/a00p
+#EXTINF:-1 tvg-id="ViasatNature.hu" tvg-logo="https://iptv-epg.org/images/3HkNsho1Sghtd5vbLUyEg6-PsRGdTjABDbbrZ86-DqevytAUXgi0HlTMiI3ErAVlKJeaG9bq9ETjuEJ6YLGhMmQKAvSBsqMniA1oRsap2SJQpdx5Qms" group-title="",Viasat Nature
+http://193.33.39.108:9000/play/a05r
+#EXTINF:-1 tvg-id="Zenebutik.hu" tvg-logo="https://iptv-epg.org/images/TjkpXM6ZeZYYcoLq6XjAG74ndWd2klKkgofQs9jf2Su_RPHcmfgTIDp_8s9at6XECUQUIPjfWo8LacqxneqNjWx6eDNPu51I06gvh9kpCnREDhE" group-title="",Zenebutik
+http://88.212.7.14/live/zenebutik/index.m3u8
