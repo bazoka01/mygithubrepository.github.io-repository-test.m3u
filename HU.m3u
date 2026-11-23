@@ -3,5 +3,7 @@
 http://88.212.7.14/live/spiler1/index.m3u8
 #EXTINF:-1 group-title="Sport",Spíler 2
 http://88.212.7.14/live/spiler2/index.m3u8
+#EXTINF:-1 group-title="Sport",Aréna 4
+http://88.212.7.14/live/arena4/index.m3u8
 #EXTINF:-1 group-title="Music",That's 90's 00's
 https://rakuten-tv-stremio.fly.dev/hls/uk/that-s-90s00s/master.m3u8
