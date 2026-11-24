@@ -29,6 +29,12 @@ http://88.212.7.14/live/discovery_hungary/index.m3u8
 http://88.212.7.14/live/duna_hun/index.m3u8
 #EXTINF:-1 tvg-id="DunaWorld.hu" tvg-logo="https://iptv-epg.org/images/vJdixAFWyfphsmuHoGhUnr4hFxPBAbxLrnVaBZzX6lP1Qe-faYSAOgcXZ-C_LnAGv-behQKAk0la22aDoSYoPe_H9urnOoIKqEMjiCGib8dxrn0",Duna World
 http://88.212.7.14/live/duna_world_hun/index.m3u8
+#EXTINF:-1 tvg-id="Euronews.hu" tvg-logo="https://iptv-epg.org/images/3-WUCWi0f-G8pH7UyuwLOlryaOyeT1m2WVujQ5qFgatz6EbT9vcZkZn416HUnpPpvLkmN8AuRDWZji7uQEnuysZIeaa02JK8mP9gR03Fx_BzsQ",Euronews
+https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.hu" tvg-logo="https://iptv-epg.org/images/UT3LVuAEhFyVw3vZJe1oBxcAIalbrSiE6FGfxVEFGVm3BBJBOODtdA0x0q_hw1rKmZPOiMbeckOkmXl0Qx-wZCgbuir59iFSaxFu41ebnrUS-sE-",Eurosport 2
+http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.hu" tvg-logo="https://iptv-epg.org/images/AC0cuf0NrQ7-33lEYJg9oP3RAMzBqxJY8tm7I8WkML5RQt74hCyDJCkgElmSQEnyOSICPfMfMW8tCrSwbjpXLmzVzJrGLcCJFdDUb_bsFt3FQNjk",Eurosport 1
+http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="FEM3.hu" tvg-logo="https://iptv-epg.org/images/KLStE8MN0EZBw-5CSFTGZk2rqDQtVz5WMAEGEK8Yg5Iv3QdFr3AVMVFF9G57sD-FtzATfXQmhYd9T1KhZhWaFEe973wHqHT9hujN9Zr0",FEM3
 http://88.212.7.14/live/test_fem3_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="Film4.hu" tvg-logo="https://iptv-epg.org/images/g1SvJV3aQ7kk3IlnJTn9sqenGOPSnxmc0NnfPYQs0CJOnbFZWzeTi4XQY-U5CCzvn_GE-ufpZN6bkl33QQldlE46rUkduW4XyM00VopE5Q",Film4
@@ -185,9 +191,3 @@ http://193.33.39.108:9007/play/a00p
 http://193.33.39.108:9000/play/a05r
 #EXTINF:-1 tvg-id="Zenebutik.hu" tvg-logo="https://iptv-epg.org/images/TjkpXM6ZeZYYcoLq6XjAG74ndWd2klKkgofQs9jf2Su_RPHcmfgTIDp_8s9at6XECUQUIPjfWo8LacqxneqNjWx6eDNPu51I06gvh9kpCnREDhE",Zenebutik
 http://88.212.7.14/live/zenebutik/index.m3u8
-#EXTINF:-1 tvg-id="Euronews.hu" tvg-logo="https://iptv-epg.org/images/3-WUCWi0f-G8pH7UyuwLOlryaOyeT1m2WVujQ5qFgatz6EbT9vcZkZn416HUnpPpvLkmN8AuRDWZji7uQEnuysZIeaa02JK8mP9gR03Fx_BzsQ",Euronews
-https://budapest-cache-1.antik.sk/live/test_euronews_hu_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.hu" tvg-logo="https://iptv-epg.org/images/AC0cuf0NrQ7-33lEYJg9oP3RAMzBqxJY8tm7I8WkML5RQt74hCyDJCkgElmSQEnyOSICPfMfMW8tCrSwbjpXLmzVzJrGLcCJFdDUb_bsFt3FQNjk",Eurosport 1
-http://88.212.7.14/live/esp1_hun/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.hu" tvg-logo="https://iptv-epg.org/images/UT3LVuAEhFyVw3vZJe1oBxcAIalbrSiE6FGfxVEFGVm3BBJBOODtdA0x0q_hw1rKmZPOiMbeckOkmXl0Qx-wZCgbuir59iFSaxFu41ebnrUS-sE-",Eurosport 2
-http://88.212.7.14/live/esp2_hun/index.m3u8
