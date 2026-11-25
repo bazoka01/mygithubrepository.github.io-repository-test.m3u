@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-hu.xml"
-#EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://iptv-epg.org/images/qDFVoIPRRK7Ph5o4lwFzF9bQJEzSPDcCsWng51z1ib_JzIt8hJ0OyKjYYDysnXvmPDBrN_W4CSbJBLPniz49_yoae94cOoNhfSD0bMvc3yQ",Sabah - Barcelona
+#EXTINF:-1 tvg-id="Sport1.hu" tvg-logo="https://iptv-epg.org/images/qDFVoIPRRK7Ph5o4lwFzF9bQJEzSPDcCsWng51z1ib_JzIt8hJ0OyKjYYDysnXvmPDBrN_W4CSbJBLPniz49_yoae94cOoNhfSD0bMvc3yQ",PSG- AS Roma
 http://88.212.7.14/live/sport1_hun/index.m3u8
-#EXTINF:-1 tvg-id="Sport2.hu" tvg-logo="https://iptv-epg.org/images/F-iPOS9oxiXeLsrybxJM7JUxGlcwIsWk9yyyESG7__J7CusGN53mKE-N7LPuHtJChFHJGx5nX1JBmjZlBiPT9ClrG75wg9thXnZ8i376LBE",Slavia - Villarreal
+#EXTINF:-1 tvg-id="Sport2.hu" tvg-logo="https://iptv-epg.org/images/F-iPOS9oxiXeLsrybxJM7JUxGlcwIsWk9yyyESG7__J7CusGN53mKE-N7LPuHtJChFHJGx5nX1JBmjZlBiPT9ClrG75wg9thXnZ8i376LBE",Sporting  CP- Manchester United
 http://88.212.7.14/live/sport2_hun/index.m3u8
